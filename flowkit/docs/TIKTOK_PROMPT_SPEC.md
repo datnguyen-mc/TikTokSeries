@@ -1,9 +1,13 @@
-# TikTok episode prompt spec (Google Flow, Gemini Omni Flash, 10 s clips, 9:16)
+# TikTok episode prompt spec (Google Flow, Gemini Omni 1.2 Flash, 15 s clips, 9:16)
 
-Repo: /Users/iseul-a/Documents/TikTokSeries. The user is a Vietnamese TikTok creator; each episode = 6 clip files
-`clip-1.md … clip-6.md`, each the full prompt sent to Flow for one 10-second clip. The runner renders EVERY clip
-independently in Ingredients mode (character reference images, no start frame), so the prompt text is the only
-continuity between clips. Do not change that.
+Repo: /Users/iseul-a/Documents/TikTokSeries. The user is a Vietnamese TikTok creator; each episode = 4 clip files
+`clip-1.md … clip-4.md`, each the full prompt sent to Flow for one 15-second clip (60 s per episode). The runner renders
+EVERY clip independently in Ingredients mode (character reference images, no start frame), so the prompt text is the
+only continuity between clips. Do not change that.
+
+Standard since 12/11/2026 (user: "tất cả series 15 giây thành 4 prompt thui"): 4 clips × 15 s. The runners read the
+clip length from the `[FORMAT]` line ("Vertical 9:16, 15-second clip, …"), so episodes already rendered or part-rendered
+as 6 clips × 10 s keep "10-second clip" and still render at 10 s. Never mix 10 s and 15 s clips in one episode.
 
 ## What was measured (why we rewrite)
 - Dialogue is far too dense: many clips cram 45–70 Vietnamese syllables into 10 s (6–8.7 syllables/s inside a
@@ -16,7 +20,7 @@ continuity between clips. Do not change that.
 
 ## Hard rules for every rewritten clip
 1. Keep the series' look and rules: copy the series' current `[FORMAT]` block verbatim from the episode you are
-   fixing (or the series' newest good episode), only removing clock digits/markdown. Make sure it contains the
+   fixing (or the series' newest good episode), only removing clock digits/markdown and writing "15-second clip". Make sure it contains the
    clean-frame sentence: "Clean frame: no channel or station logo, no corner bug, no lower-third, no timestamp,
    no REC or LIVE badge, no news ticker." (add it if missing).
 2. `[CHARACTERS — match the attached reference images @A @B]`: list ONLY the characters who are visible in this
@@ -34,13 +38,17 @@ continuity between clips. Do not change that.
    `[PROPS IN THIS CLIP — exact list, nothing else]` — short; each prop has one description string reused word for
    word across clips.
 5. `[SHOT LIST]` — keep the series' convention (Mít & Đú / Phèo / Mẹ & Bé / 365: ONE CONTINUOUS SHOT;
-   Tây Du Ký: may cut only where the shot list says). 2–3 timed segments `00:00–00:04.0 | …`.
+   Tây Du Ký: may cut only where the shot list says). 3–5 timed segments `00:00–00:03.0 | …`, the last one ending at
+   `00:15.0`.
    Dialogue rules (the core fix):
-   - at most 2 speaking turns per clip (3 only if each ≤ 8 syllables);
+   - 15-second clips: 2–3 speaking turns (4 only if the clip stays ≤ 54 syllables);
    - each turn sits in its own segment, one speaker per segment, written in the series' format
      `@Nở says (<that character's exact Voice string>; <emotion>): <Vietnamese line>` — the line is NOT in quotes
      (series convention: spoken only, never shown as text);
-   - syllables of the turn ÷ segment duration ≤ 4.2 (hard limit 4.4); total spoken syllables per clip ≤ 36;
+   - syllables of the turn ÷ segment duration ≤ 4.2 (hard limit 4.4); total spoken syllables per 15-second clip
+     38–54 (hard limit 56); the first line starts by 00:02.0, no silent gap longer than 2.5 s between turns, and the
+     last line ends at 00:12.0 or later, so at most a short silent action beat (≤ 3 s) closes the clip — long silences
+     make Omni repeat a line to fill the time;
    - the speaker's face is visible while speaking; everyone else keeps their mouth closed;
    - accent (user rule 07/11/2026): Mít & Đú keeps natural Southern Mekong speech; Phèo, Mẹ & Bé, Tây Du Ký and
      365 Ngày speak "giọng Bắc thanh thoát" — FORMAT says "a soft, clear, elegant standard Northern Vietnamese
@@ -60,7 +68,7 @@ continuity between clips. Do not change that.
    [BLOCKING] (optional) [SHOT LIST…] [SOUND] [END FRAME] [AVOID]. `[AVOID]` MUST be the last section (the runner's
    retry sanitizer replaces everything from [AVOID] to the end). Keep AVOID in the series' style; drop items that
    name absent tagged characters.
-9. Length: aim 4,000–9,000 characters per clip (SET LOCK episodes may reach ~10,500); cut repetition, keep the anchors.
+9. Length: aim 5,000–10,500 characters per 15-second clip (SET LOCK episodes may reach ~12,000); cut repetition, keep the anchors.
 10. If you change dialogue, update the same lines wherever the episode README.md/caption.md quote them, so docs and
     prompts agree. Do not touch other episodes, runners, the database, git, or files outside your episode folder(s).
 
@@ -69,12 +77,13 @@ continuity between clips. Do not change that.
 - People do not say their own name ("Ngày nào cũng Heo Lười giữ lửa" → "Ngày nào cũng em giữ lửa"); a series catchphrase that uses a nickname ("Để Đại Ca!") at most once per episode.
 - Speak like people, not like a recipe card: Phèo says one or two quantities per turn in a casual sentence ("Một thìa dầu hào, chút đường, ướp mười lăm phút là thấm"); the full list stays in the README and caption. Never chop one turn into a string of bare fragments.
 - Vary the emotion/speed slot: the same character never gets the same tag ("steady medium pace") in two clips in a row; fast for gags and panic, slow for the warm or sad beat.
-- 10-second clips: keep 18–34 syllables. Renders on 10/11 showed lines spoken exactly once at this density, while 15-second film clips with only about 30 syllables made Omni repeat the line to fill the time.
+- 15-second clips: keep 38–54 syllables in 2–3 turns. Renders on 10/11 showed 10-second clips with 18–34 syllables spoken exactly once, while 15-second film clips with only about 30 syllables made Omni repeat the line to fill the time; the cai-ket 15-second clips with about 50 syllables in 3 turns rendered cleanly.
+- Converting an old 6 × 10 s script: re-cut the same story into 4 beats (about 1½ old clips per new clip), keep the plot and punchlines, and add natural reaction lines rather than stretching silent action.
 
 ## Self-check (run before you finish)
 `python3 flowkit/scripts/check_tiktok_episode.py <episode dir>`
-It must print OK for all 6 clips (no ERROR lines). Then reread each clip once as the model would: one coherent
-10-second shot, every line timed, nothing contradictory between clips.
+It must print OK for all 4 clips (no ERROR lines). Then reread each clip once as the model would: one coherent
+15-second shot, every line timed, nothing contradictory between clips.
 
 Report back (concise): per clip the old → new dialogue (syllables and seconds), what else you changed and why, any
 story problems you found and how you fixed them, and anything you were unsure about.

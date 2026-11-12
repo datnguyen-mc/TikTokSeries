@@ -13,6 +13,7 @@ A rainy night inside the large Stone Age clan cave: wind blows rain in through t
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Snail = Snail, 8, Stream's little brother in the Stone Age clan; small and wiry, round cheeky face, big curious dark eyes, head shaved except a small tuft of hair on top; a small knee-length bark-cloth tunic covering both shoulders, a string of snail shells around one wrist, barefoot.
 - @Moon = Grandma Moon, 65, Stone Age clan leader and keeper of the fire; small and straight-backed, deeply lined brown face, calm piercing eyes, white hair in a high knot held by a bone pin, a red-ochre dot on her forehead; a long dark hide cloak over a knee-length bark-cloth tunic, empty-handed with no bamboo tube, barefoot.
+Spoken names in the Vietnamese dialogue: @Snail is called Ốc; @Moon is called Bà (Grandma) or Bà Trăng.
 - Wardrobe: in this shot @Moon wears the outfit written above, not the outfit in the reference image; face and hair stay identical.
 Nobody else appears in the shot.
 
@@ -44,16 +45,16 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon wraps one arm around @Snail with her mouth closed, her eyes fixed on the rain beyond the cave mouth. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying hard, the words tumbling out): "I fell asleep! Rain blew in, the fire's dead! The tube is cold, Grandma!"
-- Turn 2, 5.1–10.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and heavy, steadying herself): "Our fire-maker left us last season. We keep fire. We cannot make it."
-- Turn 3, 11.4–13.9s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, sobbing, a small hiccuping voice): "If the tiger comes tonight, what then?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying hard, the words tumbling out): "Cháu ngủ quên! Mưa hắt vào, lửa chết rồi! Ống tre nguội rồi, bà ơi!"
+- Turn 2, 5.1–10.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and heavy, steadying herself): "Người làm lửa của ta đã đi từ mùa trước. Ta giữ được lửa. Ta không làm ra được."
+- Turn 3, 11.4–13.9s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, sobbing, a small hiccuping voice): "Đêm nay hổ đến thì sao ạ?"
 - Pacing: @Snail speaks quickly, then @Moon answers slowly and calmly, then @Snail answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: heavy rain hissing at the cave mouth, gusts of wind, water dripping and splashing on stone, wet ash sizzling faintly, a child's sobbing breaths. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.

@@ -5,6 +5,9 @@
 
 > Quy trình, thiết lập, lỗi thường gặp: xem [../FLOW_GUIDE.md](../FLOW_GUIDE.md)
 
+> **⏱️ QUY TẮC ĐỘ DÀI (từ 12/11/2026, Tập 24 trở đi — ưu tiên cao nhất, thay mọi chỗ ghi "6 clip × 10s" bên dưới):** mỗi tập **60 giây = 4 clip × 15 giây** trên **Gemini Omni 1.2 Flash** (file `clip-1.md … clip-4.md`). Dòng `[FORMAT]` ghi `Vertical 9:16, 15-second clip, …` — runner đọc độ dài từ dòng này. Thoại mỗi clip 15 giây: 2–3 lượt, **38–54 âm tiết**, ≤ 4,2 âm tiết/giây, câu đầu bắt đầu trước giây 2, câu cuối kết thúc từ giây 12 trở đi (im lặng dài thì Omni tự lặp lại câu thoại). Chuẩn đầy đủ: `flowkit/docs/TIKTOK_PROMPT_SPEC.md`; kiểm tra: `python3 flowkit/scripts/check_tiktok_episode.py <thư mục tập>`. Tập đã render (toàn bộ hoặc một phần) giữ nguyên 6 × 10 giây; không trộn clip 10 giây và 15 giây trong một tập.
+> Nhịp 4 clip: **Clip 1 (00:00–00:15)** hook 0–2 giây + drama #1 và #2 tung hứng; **Clip 2 (00:15–00:30)** phép 72 biến bám trend và lỗi nửa mùa; **Clip 3 (00:30–00:45)** La Sát xuất hiện, drama leo thang, cả bọn đổ thừa; **Clip 4 (00:45–01:00)** Út Khờ chỉ ra sự thật, lật kèo quạt Ba Tiêu và câu hiền của Thầy; 1–2 giây cuối là khung thumbnail. Cắt cảnh chỉ khi segment ghi "Cut to", tối đa 2 lần mỗi clip.
+
 **Định dạng chuẩn bắt buộc:** **Mỗi tập là CLIP HÀI 60 GIÂY (`6 clip × 10s = 60s`) TỔNG KẾT HOT TREND VÀ DRAMA CỦA NGÀY** · tạo bằng **Gemini Omni** trong Google Flow · 9:16 · hoạt hình 2D · thoại tiếng Việt **tự nhiên như người thật** · không chữ trên video · **bắt buộc tổng hợp các tin hot, xu hướng mạng xã hội và drama ồn ào nhất trong ngày** thành một câu chuyện hài hước liền mạch 60 giây tại nhà trọ hẻm Sài Gòn của 4 thầy trò Đường Tăng (`@Thay`, `@DaiCa`, `@HeoLuoi`, `@UtKho`) và chị chủ `La Sát`.
 
 **Đặt tên file:** video `TDK_T01_C1_v1` (tập 01, clip 1, phiên bản 1) · ảnh tham chiếu `TDK_REF_<TÊN>` (xem mục 4)
@@ -302,7 +305,7 @@ Ground-floor living room of a narrow, cozy rented tube house in a Saigon alley, 
 
 ```text
 [FORMAT]
-Vertical 9:16, 10-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a soft, clear, elegant standard Northern Vietnamese (Hà Nội) accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
+Vertical 9:16, 15-second clip, 2D animated comedy cartoon with a hand-drawn cel animation look in the exact art style of the attached character references, original character designs, clean bold outlines, flat colors with simple cel shading, painted 2D backgrounds, vibrant color palette, 24fps, snappy comedic timing with expressive squash-and-stretch cartoon acting. Spoken dialogue in Vietnamese with a soft, clear, elegant standard Northern Vietnamese (Hà Nội) accent and accurate lip-sync; non-speaking characters keep their mouths closed. Spoken lines are written after a colon following the speaker; they are only spoken aloud, never shown as text. Cut only where the shot list says, and never flash or cut to an attached character reference turnaround sheet or plain grey studio backdrop at the start or end of the clip. No subtitles, no captions, no on-screen text, no logos, no watermark.
 ```
 
 **Nhạc nền**: câu cố định, luôn có trong [SOUND]
@@ -315,7 +318,7 @@ Music: playful comedic score of plucked đàn tranh, punchy gong hits and wood-b
 
 ```text
 Continue the scene seamlessly from the final frame of the previous clip, which is the first frame of this clip. Same characters, same outfits, same location, same lighting and color grade, same 2D hand-drawn cartoon style with clean bold outlines and flat cel-shaded colors. Flawless continuity, no time skip, no jump cut at the start.
-Vertical 9:16, 10-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a soft, clear, elegant Northern (Hà Nội) accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
+Vertical 9:16, 15-second clip, same animation style. Spoken lines are written after a colon following the speaker; they are only spoken aloud in Vietnamese with a soft, clear, elegant Northern (Hà Nội) accent and accurate lip-sync, never shown as text. Cut only where the shot list says, and never flash or cut to a standalone character reference sheet at the start or end of the clip. No subtitles, no captions, no on-screen text.
 ```
 
 **Câu chặn 3D & thẻ tham chiếu**: luôn là mục cuối của [AVOID] ở mọi clip
@@ -438,5 +441,5 @@ Mỗi tập (từ Tập 16: 30–60s = 3–6 clip × 10s; Tập 8–15: 30–60s
 | 21 | [tap-21/](tap-21/README.md) | Trend 'chữa lành giữa trưa nắng', phông bạt cà phê 5 sao & cú quạt Ba Tiêu đòi tiền rác | 60s · 6 clip |
 | 22 | [tap-22/](tap-22/README.md) | Văn mẫu xin nghỉ, phong bì mừng cưới & đổi chỗ như lập trình | 60s · 6 clip |
 | 23 | [tap-23/](tap-23/README.md) | Đứt chuỗi ba trăm ngày, thuê người gánh & tranh công lúc nửa đêm | 60s · 6 clip |
-| 24 | [tap-24/](tap-24/README.md) | Đón đông giữa Hỏa Diệm Sơn: Lập đông Hà Nội rét, bảng tin toàn mùa đông & túi thạch trong suốt | 60s · 6 clip |
-| 25 | [tap-25/](tap-25/README.md) | Bắc thang lên hỏi ông trời: tiền người yêu cũ mượn, game líu lưỡi "nón lá" & quyền tắt máy sau giờ làm | 60s · 6 clip |
+| 24 | [tap-24/](tap-24/README.md) | Đón đông giữa Hỏa Diệm Sơn: Lập đông Hà Nội rét, bảng tin toàn mùa đông & túi thạch trong suốt | 60s · 4 clip × 15s |
+| 25 | [tap-25/](tap-25/README.md) | Bắc thang lên hỏi ông trời: tiền người yêu cũ mượn, game líu lưỡi "nón lá" & quyền tắt máy sau giờ làm | 60s · 4 clip × 15s |

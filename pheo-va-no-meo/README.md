@@ -1,17 +1,17 @@
 # 365 Ngày Phèo Làm Nội Trợ (`pheo-va-no-meo`)
 
-**Định hướng Series (từ Tập 24, 11/11/2026):** Chuỗi phim hoạt hình 3D hài dài **60 giây/tập (`6 clips × 10s`)** khung hình dọc `9:16`. Mỗi ngày, đầu bếp mèo đen **Phèo (`@Pheo`)** và **Bà chủ Hường (`@No`)** ngồi bàn trà **bàn drama của ngày theo cách hài hước**, mỗi clip một tin mới ở một lĩnh vực khác nhau (mua sắm, tài chính, công nghệ, thể thao, đời sống, cảnh giác lừa đảo…). Hường mở tập bằng "Em ơi, có biến!", Phèo lái tin nào cũng về chuyện lương, cuối tập Hường lật kèo bằng một món quà hiểu theo nghĩa đen.
+**Định hướng Series (từ Tập 24, 11/11/2026):** Chuỗi phim hoạt hình 3D hài dài **60 giây/tập (`4 clips × 15s` từ Tập 24; tập cũ `6 clips × 10s`)** khung hình dọc `9:16`. Mỗi ngày, đầu bếp mèo đen **Phèo (`@Pheo`)** và **Bà chủ Hường (`@No`)** ngồi bàn trà **bàn drama của ngày theo cách hài hước**, mỗi clip một tin mới ở một lĩnh vực khác nhau (mua sắm, tài chính, công nghệ, thể thao, đời sống, cảnh giác lừa đảo…). Hường mở tập bằng "Em ơi, có biến!", Phèo lái tin nào cũng về chuyện lương, cuối tập Hường lật kèo bằng một món quà hiểu theo nghĩa đen.
 
 - **Google Flow Project ID:** `d98ffa3b-7797-47c5-87be-55bb0e2a73f8`
 - **Bible & quy tắc format "Có biến!":** [FLOW_PROMPTS.md](FLOW_PROMPTS.md) · tập mẫu: [tap-24/](tap-24/README.md)
 
-## Cấu trúc "Có biến!" 6 Clip × 10 giây (60s) mỗi tập, từ Tập 24
+## Cấu trúc "Có biến!" 4 Clip × 15 giây (60s) mỗi tập, từ Tập 24 (12/11/2026)
 
 | Clip | Thời gian | Nội dung |
 | :---: | :---: | :--- |
-| **Clip 1** | `00:00–00:10` | **Hook "Em ơi, có biến!" + tin nóng nhất của ngày** |
-| **Clip 2–5** | `00:10–00:50` | **Mỗi clip một tin ở một lĩnh vực khác nhau:** một câu đưa tin đời thường + một câu chốt hài; Phèo đòi lương, Hường né |
-| **Clip 6** | `00:50–01:00` | **Tin gắn với chính ngày hôm đó + quà lật kèo nghĩa đen (`SIGNATURE FREEZE`)** |
+| **Clip 1** | `00:00–00:15` | **Hook "Em ơi, có biến!" + tin nóng nhất của ngày** |
+| **Clip 2–3** | `00:15–00:45` | **Mỗi clip một tin ở một lĩnh vực khác nhau:** phản ứng + câu đưa tin đời thường + câu chốt hài; Phèo đòi lương, Hường né |
+| **Clip 4** | `00:45–01:00` | **Tin gắn với chính ngày hôm đó + quà lật kèo nghĩa đen (`SIGNATURE FREEZE`)** |
 
 ## Cấu trúc cũ 6 Clip × 10 giây (60s), Tập 17–23 (dạy nấu ăn)
 
@@ -24,7 +24,7 @@
 | **Clip 5** | `00:40–00:50` | **Phần 5 — Bí quyết canh lửa, lượng nước & Thời gian nấu/om chính xác** |
 | **Clip 6** | `00:50–01:00` | **Phần 6 — Mẹo dậy hương cuối cùng, Trình bày & Cú lật kèo thưởng hài hước (`SIGNATURE FREEZE`)** |
 
-## Danh sách các tập mới nhất (Chuẩn 60s = 6 clips × 10s)
+## Danh sách các tập mới nhất (60s; từ Tập 24 = 4 clips × 15s)
 
 - [Tập 14 — Canh cá lăng nấu măng chua chuẩn vị nhà hàng: Mẹo chà muối chanh sạch nhớt, luộc măng khử chua gắt & tỷ lệ nêm thanh ngọt](tap-14/README.md)
 - [Tập 15 — Vịt cỏ om sấu nước dừa khoai sọ mềm thơm: Mẹo chà gừng rượu khử hôi lông, ướp tỷ lệ vàng 3-2-1 & bí quyết dằm sấu sánh nước](tap-15/README.md)

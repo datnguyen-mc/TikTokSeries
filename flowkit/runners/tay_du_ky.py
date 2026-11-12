@@ -681,7 +681,7 @@ def upload_start_frame(image_path: str) -> str:
                     ("Media ID", media_id),
                     ("File Ảnh Nối", os.path.basename(image_path)),
                     ("Slot Kích Hoạt", "Khung hình [Bắt đầu] (Start Frame) cho Clip tiếp theo"),
-                    ("Trạng Thái", "Sẵn sàng Image-to-Video Omni Flash 10s (9:16) ✅"),
+                    ("Trạng Thái", "Sẵn sàng Image-to-Video Omni Flash (9:16) ✅"),
                 ]
             )
             return media_id
@@ -713,6 +713,18 @@ def load_previous_last_frame(ep_num: int, clip_num: int, ep_folder_name: str) ->
 # -------------------------------------------------------------
 # 4. GỬI API REQUEST & LOG CHI TIẾT PARAMS (9:16 PORTRAIT + KHÓA NHÂN VẬT)
 # -------------------------------------------------------------
+# 12/11/2026 (user: "tất cả series 15 giây thành 4 prompt thui"): tập mới = 4 clip × 15 giây trên Omni 1.2.
+# Độ dài lấy từ dòng [FORMAT] ("Vertical 9:16, 15-second clip, …"), nên tập cũ 6 × 10 giây (ghi "10-second clip")
+# vẫn render đúng 10 giây. Prompt không ghi độ dài là định dạng cũ → 10 giây.
+OMNI_MODEL_VERSION = "1.2"  # Omni 1.1 chỉ có 4/6/8/10s
+
+
+def clip_duration_from_prompt(prompt: str) -> int:
+    head = (prompt or "").split("[CHARACTERS", 1)[0]
+    m = re.search(r"\b(\d{1,2})-second clip\b", head)
+    return int(m.group(1)) if m else 10
+
+
 def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start_image_media_id: str = None):
     """Gửi yêu cầu tạo video 9:16 và luôn khóa đúng nhân vật 4 thầy trò."""
     key = f"tap_{ep_num:02d}_clip_{clip_num:02d}"
@@ -721,6 +733,7 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
     # Không chèn nhãn "[TẬP xx - CLIP yy]" vào đầu prompt (chữ dòng đầu dễ thành title card / chữ trên hình);
     # tên clip trên Flow vẫn được đặt lại sau khi render bằng force_rename_clip_on_flow().
     flow_prompt = prompt
+    clip_dur = clip_duration_from_prompt(prompt)
 
     use_char_refs = is_new_scene_clip(prompt, clip_num, start_image_media_id)
     ref_media_ids = get_clip_reference_media_ids(prompt)
@@ -734,7 +747,7 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
-            "duration_s": 10,
+            "duration_s": clip_dur,
             "model_family": "omni_flash",
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO
@@ -748,7 +761,7 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
-            "duration_s": 10,
+            "duration_s": clip_dur,
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO
         }
@@ -760,10 +773,13 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
             "prompt": flow_prompt,
             "project_id": PROJECT_ID,
             "scene_id": sid,
-            "duration_s": 10,
+            "duration_s": clip_dur,
             "resolution": "720p",
             "aspect_ratio": ASPECT_RATIO
         }
+
+    if clip_dur > 10:
+        payload["model_version"] = OMNI_MODEL_VERSION
 
     print_box(
         "📡 FLOWKIT API REQUEST CALL (9:16 PORTRAIT — CHARACTER LOCKED)",
@@ -773,7 +789,7 @@ def submit_clip_with_detailed_log(prompt: str, ep_num: int, clip_num: int, start
             ("Phân Cảnh", f"Tập {ep_num:02d} - Clip {clip_num:02d}"),
             ("Chế Độ Tạo", mode),
             ("Khóa Hình Ảnh / Nhân Vật", slot_desc),
-            ("Thời Lượng", "10 giây (Omni Flash 10s)"),
+            ("Thời Lượng", f"{clip_dur} giây (Omni Flash {clip_dur}s" + (f", model {OMNI_MODEL_VERSION})" if clip_dur > 10 else ")")),
             ("Độ Phân Giải", "720p HD"),
             ("Tỉ Lệ Khung Hình", "PORTRAIT (9:16 Vertical TikTok)"),
             ("Model Family", "omni_flash"),

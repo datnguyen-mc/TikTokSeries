@@ -46,15 +46,29 @@ def sections(t):
     return re.findall(r"^\[([A-Z][^\]]*)\]", t, re.M)
 
 
+def clip_seconds(t):
+    """Clip length from the [FORMAT] line ("Vertical 9:16, 15-second clip, …"); old episodes say 10."""
+    m = re.search(r"\b(\d{1,2})-second clip\b", t.split("[CHARACTERS", 1)[0])
+    return int(m.group(1)) if m else 10
+
+
 def main(d):
     files = sorted(glob.glob(os.path.join(d, "clip-*.md")), key=lambda f: int(re.search(r"clip-(\d+)", f).group(1)))
     if not files:
         print("ERROR no clip files"); return 1
     voices = {}
     bad = 0
+    lengths = {clip_seconds(open(f, encoding="utf-8").read()) for f in files}
+    if len(lengths) > 1:
+        bad += 1
+        print(f"ERROR clips mix lengths {sorted(lengths)} s in one episode")
+    if 15 in lengths and len(files) != 4:
+        print(f"WARN  15-second episode has {len(files)} clips (standard since 12/11/2026: 4 clips x 15 s)")
     for f in files:
         t = open(f, encoding="utf-8").read()
         errs, warns = [], []
+        secs_len = clip_seconds(t)
+        long_clip = secs_len >= 15
         if not t.lstrip().startswith("[FORMAT]"):
             errs.append("must start with [FORMAT]")
         secs = sections(t)
@@ -90,6 +104,8 @@ def main(d):
         # dialogue
         turns, total = 0, 0
         lines_seen = []
+        speech_spans = []
+        last_end = 0.0
         for line in t.splitlines():
             sm = SEG.match(line)
             if not sm:
@@ -99,6 +115,7 @@ def main(d):
             a = int(sm.group(1)) * 60 + float(sm.group(2))
             b = int(sm.group(3)) * 60 + float(sm.group(4))
             seg = sm.group(5)
+            last_end = max(last_end, b)
             heads = list(SAY_HEAD.finditer(seg))
             says = [(h.group(1), h.group(2), seg[h.end():(heads[i + 1].start() if i + 1 < len(heads) else len(seg))]) for i, h in enumerate(heads)]
             if not says:
@@ -113,6 +130,7 @@ def main(d):
                 n += syl(vi)
                 turns += 1
             total += n
+            speech_spans.append((a, b))
             dur = b - a
             rate = n / dur if dur > 0 else 99
             if rate > 4.4:
@@ -123,14 +141,36 @@ def main(d):
             south = [w for ln in lines_seen for w in SOUTH.findall(ln)]
             if south:
                 errs.append(f"Southern words in a Northern-accent series: {sorted(set(south))}")
-        if turns > 3 or (turns == 3 and total > 24):
-            errs.append(f"{turns} speaking turns ({total} syllables)")
-        if total > 36:
-            errs.append(f"{total} spoken syllables in clip (max 36)")
+        if long_clip:
+            # 15 s clips (since 12/11/2026): 2–3 turns, 38–54 syllables; long silences make Omni repeat a line.
+            if turns > 4 or (turns == 4 and total > 54):
+                errs.append(f"{turns} speaking turns ({total} syllables)")
+            if total > 56:
+                errs.append(f"{total} spoken syllables in clip (max 54, hard limit 56)")
+            elif total > 54:
+                warns.append(f"{total} spoken syllables (target 38–54)")
+            elif total < 38:
+                warns.append(f"only {total} spoken syllables in a {secs_len} s clip (target 38–54; Omni may repeat a line to fill the time)")
+            if speech_spans:
+                spans = sorted(speech_spans)
+                if spans[0][0] > 2.0:
+                    warns.append(f"first line starts at {spans[0][0]:.1f}s (start by 2.0s)")
+                gaps = [nxt[0] - cur[1] for cur, nxt in zip(spans, spans[1:])]
+                if gaps and max(gaps) > 2.5:
+                    warns.append(f"silent gap of {max(gaps):.1f}s between turns (max 2.5s)")
+                if spans[-1][1] < secs_len - 3.0:
+                    warns.append(f"last line ends at {spans[-1][1]:.1f}s (end at {secs_len - 3:.0f}s or later)")
+            if abs(last_end - secs_len) > 0.05:
+                errs.append(f"timed segments end at {last_end:.1f}s, not {secs_len}s")
+        else:
+            if turns > 3 or (turns == 3 and total > 24):
+                errs.append(f"{turns} speaking turns ({total} syllables)")
+            if total > 36:
+                errs.append(f"{total} spoken syllables in clip (max 36)")
         for ln in lines_seen:
             if ln and t.count(ln[:25]) > 1:
                 errs.append("dialogue repeated elsewhere in prompt: " + ln[:40])
-        if not 3000 <= len(t) <= 11000:
+        if not 3000 <= len(t) <= (12500 if long_clip else 11000):
             warns.append(f"length {len(t)} chars")
         name = os.path.basename(f)
         if errs:
@@ -139,7 +179,7 @@ def main(d):
                 print(f"ERROR {name}: {e}")
         for w in warns:
             print(f"WARN  {name}: {w}")
-        print(f"{'OK   ' if not errs else 'FAIL '} {name}: {turns} turns, {total} syllables, {len(t)} chars")
+        print(f"{'OK   ' if not errs else 'FAIL '} {name}: {secs_len}s, {turns} turns, {total} syllables, {len(t)} chars")
     for tag, vs in voices.items():
         if len(vs) > 1:
             bad += 1

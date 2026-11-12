@@ -13,6 +13,7 @@ A limestone sinkhole in the primeval jungle at midday: a pit about four meters d
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards.
 - @Roar = Roar, 30, the clan's strongest Stone Age hunter; tall, broad-shouldered and muscular, weathered brown skin, thick black hair bound with a strip of bark, heavy brows, a fierce jaw; a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, barefoot.
 - @Khang = Khang, 29, Vietnamese survival YouTuber; lean athletic build, tanned skin, short black undercut hair, light stubble, expressive dark eyes, a quick showman's grin; dusty sweat-stained olive-green tactical shirt with rolled sleeves, muddy khaki cargo trousers, brown hiking boots, a black chest harness holding a small square chest camera, no bandana.
+Spoken names in the Vietnamese dialogue: @Roar is called Gầm; @Khang is called Lửa or Người Làm Lửa (Fire-Maker) by the cave people.
 - Wardrobe: in this shot @Roar and @Khang wear the outfits written above, not the outfit in the reference image; faces and hair stay identical.
 Nobody else appears in the shot.
 
@@ -44,16 +45,16 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar finishes and closes his mouth; @Khang just taps the knot twice with a small grin, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and gruff, face turned away): "Why save me? I wanted you out of our cave."
-- Turn 2, 5.1–10.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, matter-of-fact, a little wry): "Where I'm from, the village helps whoever falls. Kick me out once you're up."
-- Turn 3, 10.6–14.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, grudging curiosity): "Strange knot. Tight, but it doesn't squeeze. Who taught you?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and gruff, face turned away): "Sao cứu tôi? Tôi muốn anh rời khỏi hang."
+- Turn 2, 5.1–10.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, matter-of-fact, a little wry): "Ở chỗ tôi, ai ngã thì cả làng giúp. Lên rồi muốn đuổi tôi thì đuổi."
+- Turn 3, 10.6–14.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, grudging curiosity): "Nút lạ. Chặt, mà không siết. Ai dạy anh?"
 - Pacing: @Roar speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Roar answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the thick vine rope rasping as it is looped and knotted, heavy breathing, pebbles trickling down the wall, cicadas far above. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.

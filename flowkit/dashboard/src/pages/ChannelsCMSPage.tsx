@@ -341,11 +341,11 @@ export default function ChannelsCMSPage() {
   // New episode & prompt builder state
   const [showNewEpModal, setShowNewEpModal] = useState(false)
   const [newEpNum, setNewEpNum] = useState<number>(17)
-  const [newEpClips, setNewEpClips] = useState<number>(5)
+  const [newEpClips, setNewEpClips] = useState<number>(4)
   const [newEpSuffix, setNewEpSuffix] = useState<string>('')
   const [newEpStoryIdea, setNewEpStoryIdea] = useState<string>('')
   const [newEpSetting, setNewEpSetting] = useState<string>('')
-  const [newEpSceneBeats, setNewEpSceneBeats] = useState<string[]>(['', '', '', '', ''])
+  const [newEpSceneBeats, setNewEpSceneBeats] = useState<string[]>(['', '', '', ''])
   const [generatedPrompts, setGeneratedPrompts] = useState<string[]>([])
   const [previewClipIdx, setPreviewClipIdx] = useState<number>(0)
   const [generatingPrompts, setGeneratingPrompts] = useState<boolean>(false)
@@ -1980,7 +1980,7 @@ export default function ChannelsCMSPage() {
                     />
                   </div>
                   <div className="flex flex-col gap-1">
-                    <label className="text-[11px] font-semibold text-slate-300">Số Lượng Clips (8-10s/clip)</label>
+                    <label className="text-[11px] font-semibold text-slate-300">Số Lượng Clips (TikTok: 4 × 15s)</label>
                     <input
                       type="number"
                       min={1}

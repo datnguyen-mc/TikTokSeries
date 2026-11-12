@@ -13,6 +13,7 @@ Early misty morning at the mouth of the Stone Age clan cave: thick white mist ov
 Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, furniture or signboards, and never flash or display the studio reference portrait card; the characters are already in place in the very first frame.
 - @Stream = Stream, 19, Stone Age forager girl of the cave clan; slim and agile, warm brown skin, long straight black hair tied back with a vine cord, bright alert dark eyes, two thin red-ochre stripes on each cheekbone; a knee-length tunic of beaten tan bark cloth with a soft deer-hide wrap covering both shoulders, a necklace of small stream-snail shells, a woven rattan basket on her back, barefoot.
 - @Moon = Grandma Moon, 65, Stone Age clan leader and keeper of the fire; small and straight-backed, deeply lined brown face, calm piercing eyes, white hair in a high knot held by a bone pin, a red-ochre dot on her forehead; a long dark hide cloak over a knee-length bark-cloth tunic, a thick green bamboo tube for carrying embers, barefoot.
+Spoken names in the Vietnamese dialogue: @Stream is called Suối; @Moon is called Bà (Grandma) or Bà Trăng.
 Nobody else appears in the shot.
 
 [SHOT LIST — 4 shots, hard cuts only at the marked seconds]
@@ -43,16 +44,16 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Both stand silent at the cave mouth as white mist drifts in around their bare feet, mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.1s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, breathless and urgent): "Grandmother, Roar's bed is cold. He left before moonset."
-- Turn 2, 3.6–9.0s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and heavy, eyes on the mist): "He went after the rhino, alone. Losing to the stranger burned him inside."
-- Turn 3, 9.5–12.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, rising alarm, pleading): "A rhino can crush a man. He can't do this alone!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.1s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, breathless and urgent): "Bà ơi, chỗ Gầm nằm lạnh rồi. Đi từ trước trăng lặn."
+- Turn 2, 3.6–9.0s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and heavy, eyes on the mist): "Nó đi theo con tê giác, một mình. Thua người lạ làm nó nóng ruột."
+- Turn 3, 9.5–12.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, rising alarm, pleading): "Tê giác giẫm chết người được. Anh ấy không làm một mình được!"
 - Pacing: @Stream speaks quickly, then @Moon answers slowly and calmly, then @Stream answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: quick bare footsteps on damp stone, water dripping at the cave mouth, distant birdcalls muffled by thick mist, dry leaves rustling in a cool breeze. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.

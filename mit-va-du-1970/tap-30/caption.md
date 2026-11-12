@@ -10,11 +10,11 @@ Nhà bạn còn giữ tấm hình trắng đen nào có đủ mặt cả nhà h�
 #MitVaDu1970 #PhimGiaDinh1970 #MienTayXua #HinhTrangDenXua #ThuongMa
 
 **Bình luận ghim:**
-Giây 57 Nở nói một câu làm ba xì hơi luôn 😂🥹 Còn má bạn, có phải lúc nào cũng nói "má hổng ăn hình" hông?
+Giây 56 Nở nói một câu làm ba xì hơi luôn 😂🥹 Còn má bạn, có phải lúc nào cũng nói "má hổng ăn hình" hông?
 
 **Trước khi đăng:**
 - Bật nhãn nội dung do AI tạo khi đăng.
-- Gắn giỏ hàng tập vở (`SP_TAP`) và hộp bút màu (`SP_BUTMAU`) như các tập trước; hai món lên hình ở clip 6.
-- Xem lại clip 1–4: ông thợ chụp hình, máy chụp hình, chân máy hay xe đạp không được lên hình; có thì tạo lại clip đó.
-- Clip 4: cuối clip má đứng một mình ở mép trái cạnh lu nước, không đứng chung với hai cha con.
-- Clip 5–6: tấm hình trắng đen nhỏ, viền răng cưa, chỉ có ba và Nở; tranh của Nở có má đứng giữa, không có chữ hay số.
+- Gắn giỏ hàng tập vở (`SP_TAP`) và hộp bút màu (`SP_BUTMAU`) như các tập trước; hai món lên hình ở clip 4.
+- Xem lại clip 1–2: ông thợ chụp hình, máy chụp hình, chân máy hay xe đạp không được lên hình; có thì tạo lại clip đó.
+- Clip 2: cuối clip má đứng một mình ở mép trái cạnh lu nước, không đứng chung với hai cha con.
+- Clip 3–4: tấm hình trắng đen nhỏ, viền răng cưa, chỉ có ba và Nở; tranh của Nở có má đứng giữa, không có chữ hay số.

@@ -59,19 +59,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): The worm inches along the fern leaf while two pairs of shoes walk away across the leaf litter in soft focus behind it. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–6.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, theatrical suffering, hamming it up for the lens): "Day three. No food, no clean water. I have no choice, I have to eat this worm to survive!"
-- Turn 2, 6.6–10.2s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, flat and deadpan, utterly unbothered): "Cut! Khang, we're out of gummy worms. That one's real."
-- Turn 3, 10.7–12.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, grossed out, tossing the worm away): "Real? Forget it. Fire scene first."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–6.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, theatrical suffering, hamming it up for the lens): "Ngày thứ ba. Không đồ ăn, không nước sạch. Không còn cách nào khác, tôi phải ăn con sâu này để sống sót!"
+- Turn 2, 6.6–10.2s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, flat and deadpan, utterly unbothered): "Cắt! Anh Khang, kẹo dẻo hình sâu hết rồi. Con đó là thật."
+- Turn 3, 10.7–12.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, grossed out, tossing the worm away): "Thật á? Thôi. Quay cảnh lửa trước."
 - Pacing: @Khang speaks quickly, then @Bin answers at an even everyday pace, then @Khang answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: insects buzzing and birdsong in the canopy, distant gibbon calls, dry leaves crunching under knees, the crinkle of an empty plastic candy bag, the soft whir of a gimbal motor. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -124,19 +124,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Beside them the tinder keeps smoking on the forest floor as @Bin slips the lighter into his yellow windbreaker pocket, both mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, showman bravado, playing to the lens): "Friction, friction, patience makes fire! There's smoke! I can survive anywhere!"
-- Turn 2, 4.2–10.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, bored and flat, stating the obvious): "That's my lighter. Three years, I've lit every fire for you. You've never made one yourself."
-- Turn 3, 10.5–13.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, a sharp hissed whisper, scolding): "Keep your voice down! The mic picks up everything."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, showman bravado, playing to the lens): "Ma sát, ma sát, kiên nhẫn ra lửa! Có khói rồi! Ở đâu tôi cũng sống được!"
+- Turn 2, 4.2–10.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, bored and flat, stating the obvious): "Bật lửa của em đấy. Ba năm nay em châm lửa hộ anh. Anh chưa tự nhóm được lần nào."
+- Turn 3, 10.5–13.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, a sharp hissed whisper, scolding): "Nói nhỏ thôi! Micro thu hết đấy!"
 - Pacing: @Khang speaks quickly, then @Bin answers at an even everyday pace, then @Khang answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a wooden drill whirring against a board, the click and hiss of a pocket lighter, crackling tinder catching, birdsong and insects in the canopy, leaves rustling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -189,19 +189,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 3): @Bin finishes, closes his mouth and waits behind the gimbal with the same thin smile. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, flat and matter-of-fact): "Khang, the tourist shuttle drove behind you. Third time. They waved."
-- Turn 2, 4.9–9.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, flustered, waving it away): "So cut it! Make it look like deep jungle. Add monkey howls, add some fog."
-- Turn 3, 9.9–14.3s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, dry, with a thin teasing smile): "Sure. So, tonight at the guesthouse, goat hotpot or hill chicken?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, flat and matter-of-fact): "Anh Khang, xe điện chở khách vừa chạy sau lưng anh. Lần thứ ba. Họ vẫy tay."
+- Turn 2, 4.9–9.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, flustered, waving it away): "Thì cắt đi! Làm như rừng sâu. Thêm tiếng khỉ hú, thêm ít sương mù."
+- Turn 3, 9.9–14.3s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, dry, with a thin teasing smile): "Được thôi. Vậy tối nay ở nhà nghỉ, lẩu dê hay gà đồi?"
 - Pacing: @Bin speaks at an even everyday pace, then @Khang answers quickly, then @Bin answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the soft electric whine and rolling tires of a passing open shuttle on asphalt, birdsong and cicadas, leaves rustling, boots shuffling on dry leaves. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -254,19 +254,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): In the foreground @Khang's folded arms slowly loosen and his head tilts, the smirk gone, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, reading aloud fast, deadpan): "This comment: five-star survival, sleeps in a guesthouse, eats goat hotpot. Ten thousand likes."
-- Turn 2, 5.4–9.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, smug and dismissive): "Keyboard warriors. One night out here and they'd cry for mommy."
-- Turn 3, 9.9–13.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and pointed, no smile): "Have you ever spent one real night in the jungle?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, reading aloud fast, deadpan): "Bình luận này: sinh tồn năm sao, ngủ nhà nghỉ, ăn lẩu dê. Mười nghìn lượt thích."
+- Turn 2, 5.4–9.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, smug and dismissive): "Anh hùng bàn phím. Ở đây một đêm là khóc gọi mẹ ngay."
+- Turn 3, 9.9–13.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and pointed, no smile): "Anh đã từng ngủ thật một đêm trong rừng chưa?"
 - Pacing: @Bin speaks quickly, then @Khang answers at an even everyday pace, then @Bin answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: cicadas and birdsong in the late afternoon canopy, a thumb tapping a phone screen, leaves shifting underfoot, a soft breeze in the ferns. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -318,19 +318,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 3): Silent lightning flickers in the window behind them as the hotpot keeps bubbling, both men silent, mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, fast and gleeful, rubbing it in): "Khang, someone filmed you ordering pizza delivery into the jungle. Two million views already!"
-- Turn 2, 5.1–9.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, hoarse and sputtering, outraged): "Who filmed it? That night it was just you, me, and the delivery guy!"
-- Turn 3, 9.8–13.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, dry, deadpan): "The delivery guy is subscribed to your channel."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, fast and gleeful, rubbing it in): "Anh Khang, có người quay cảnh anh gọi pizza giao vào rừng. Hai triệu lượt xem rồi!"
+- Turn 2, 5.1–9.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, hoarse and sputtering, outraged): "Ai quay? Đêm đó chỉ có anh, em với anh giao hàng thôi mà!"
+- Turn 3, 9.8–13.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, dry, deadpan): "Anh giao hàng đăng ký kênh anh đấy."
 - Pacing: @Bin speaks quickly, then @Khang answers quickly, then @Bin answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: hotpot broth bubbling on a portable gas stove, the low hiss of the burner, chopsticks clattering on wood, rain pattering on the roof, distant rolling thunder. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -382,19 +382,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 3): @Bin finishes, closes his mouth and sets the phone down, while @Khang's hand with the multitool slowly sinks. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, reading bad news, slowly deflating): "The multitool brand just texted. They're canceling the sponsorship and want the deposit back."
-- Turn 2, 5.9–8.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, outraged, voice cracking): "Canceling? Three years I've promoted their multitools! They cut anything!"
-- Turn 3, 9.4–14.2s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, pitiless and deadpan): "You only cut sandwiches and shoelaces. Three million subscribers know it now."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, reading bad news, slowly deflating): "Hãng dao đa năng vừa nhắn. Họ huỷ tài trợ và đòi lại tiền cọc."
+- Turn 2, 5.9–8.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, outraged, voice cracking): "Huỷ á? Ba năm anh quảng cáo dao của họ! Cắt gì cũng đứt!"
+- Turn 3, 9.4–14.2s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, pitiless and deadpan): "Anh chỉ cắt bánh mì với dây giày. Ba triệu người xem biết hết rồi."
 - Pacing: @Bin speaks at an even everyday pace, then @Khang answers quickly, then @Bin answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a phone buzzing on a wooden table, hotpot bubbling, a floor cushion scraping as someone stands, rain on the roof, distant thunder. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -447,19 +447,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang steps toward the door as white lightning flickers across the window, both men silent, mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, decisive, chin up): "Fine. Tonight I sleep alone in the Cave of Hands. Real footage. No cuts."
-- Turn 2, 5.1–9.3s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, alarmed, pleading fast): "There's a storm coming! The cave is closed! You'd risk your life for views?"
-- Turn 3, 9.8–12.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and final): "Wait at the ranger station. Six a.m."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, decisive, chin up): "Được. Tối nay anh ngủ một mình trong hang Bàn Tay. Quay thật. Không cắt."
+- Turn 2, 5.1–9.3s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, alarmed, pleading fast): "Bão sắp đến! Hang đóng cửa rồi! Anh liều mạng vì lượt xem à?"
+- Turn 3, 9.8–12.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and final): "Chờ ở trạm kiểm lâm. Sáu giờ sáng."
 - Pacing: @Khang speaks quickly, then @Bin answers quickly, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rain drumming on the roof, thunder rolling over the mountains, the click of a plastic buckle, nylon straps tightening, a wooden floor creaking under quick steps. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -512,19 +512,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): In the white flash @Khang, backpack on, raises one hand over his shoulder without turning round, both mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–7.6s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, low and spooky, telling a ghost story): "Villagers say a god once stepped out of the lightning, taught the cave people fire, then left with the thunder."
-- Turn 2, 8.1–10.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, amused, a cocky grin): "Nice. Tonight I'll be that god."
-- Turn 3, 10.8–13.5s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, calling after him, teasing): "A god who needs me to light his fires?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–7.6s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, low and spooky, telling a ghost story): "Dân làng kể ngày xưa có vị thần bước ra từ tia sét, dạy người trong hang làm lửa, rồi theo sấm đi mất."
+- Turn 2, 8.1–10.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, amused, a cocky grin): "Hay. Tối nay anh là vị thần đó."
+- Turn 3, 10.8–13.5s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, calling after him, teasing): "Thần gì mà phải nhờ em châm lửa hộ?"
 - Pacing: @Bin speaks at an even everyday pace, then @Khang answers at an even everyday pace, then @Bin answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: heavy rain on the roof, the hiss of the gas stove, wooden floorboards creaking under boots, wind gusting through the open door, a loud crack of thunder with the lightning flash. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -575,18 +575,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Thunder rolls; @Khang turns his head toward the wall of faded red hands, the headlamp beam swinging onto them, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–7.2s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, hushed whisper, half thrilled): "Eleven p.m., in the Cave of Hands. Nobody with me. Nobody lighting my fires. That rain is real."
-- Part 2, 7.7–12.5s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, intense, eyes locked on the lens): "So if you think I fake it, watch closely. This time it's one hundred percent real."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–7.2s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, hushed whisper, half thrilled): "Mười một giờ đêm, trong hang Bàn Tay. Không ai đi cùng. Không ai châm lửa hộ. Mưa ngoài kia là thật."
+- Part 2, 7.7–12.5s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, intense, eyes locked on the lens): "Ai nghĩ tôi diễn thì xem kỹ đây. Lần này là thật một trăm phần trăm."
 - Pacing: @Khang speaks at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: heavy rain roaring at the cave mouth, water dripping from the stalactite, wind moaning through the cave, a deep roll of thunder after a lightning flash. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -637,19 +637,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang stays with his palm pressed to the wall, grinning in disbelief, mouth closed, as lightning flickers faintly behind him. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–4.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, hushed and awed): "Here they are. Hundreds of ancient handprints, red ochre."
-- Part 2, 4.5–10.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, playful, hamming it up for viewers): "Locals say the biggest one is the fire god's hand. Let's see how big a god is."
-- Part 3, 11.1–13.8s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, amazed, breaking into a laugh): "Oh... perfect fit. The god's hand is my size?"
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–4.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, hushed and awed): "Đây rồi. Hàng trăm dấu tay cổ, son đỏ."
+- Part 2, 4.5–10.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, playful, hamming it up for viewers): "Dân ở đây bảo bàn tay to nhất là tay thần lửa. Xem thần to cỡ nào nào."
+- Part 3, 11.1–13.8s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, amazed, breaking into a laugh): "Ơ... vừa khít. Tay thần bằng tay tôi à?"
 - Pacing: @Khang speaks slowly and calmly, then @Khang continues at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rain roaring outside the cave mouth, steady dripping water, boots scuffing on dry earth, a palm patting cool rock, distant thunder. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -700,18 +700,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): A white flash of lightning swallows the whole frame until everything is pure white. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–7.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, panicked, shouting over thunder, breathless): "Hear that? Lightning, right above us! The cave is shaking! My hand's stuck! I can't pull it off! The rock's getting hot like coal!"
-- Part 2, 8.1–11.7s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and sincere, to the lens): "Bin, if you ever see this... don't cut anything."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–7.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, panicked, shouting over thunder, breathless): "Nghe không? Sét đánh ngay trên đầu! Hang đang rung! Tay tôi bị dính! Không rút ra được! Đá nóng dần như than!"
+- Part 2, 8.1–11.7s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and sincere, to the lens): "Bin, nếu em xem được... đừng cắt gì nhé."
 - Pacing: @Khang speaks quickly, then @Khang continues slowly and calmly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 11.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a deafening thunderclap right overhead, rock rumbling and grinding, grit pattering on the floor, a rising electric hum and crackle from the wall, a final sharp crack of thunder with the white flash. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -762,19 +762,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang's grin fades as he looks past the lens at the misty untouched valley, mouth closed, chest rising and falling. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–5.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, groggy and confused, wincing): "Ow... my head. Is it morning? Why am I lying by a stream?"
-- Part 2, 6.1–9.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calling out loudly, half laughing): "Bin! You there? Don't hide and film me!"
-- Part 3, 9.5–13.7s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, shaky laugh, forcing his showman voice): "Camera's still recording. Okay, everyone, I got hit by lightning and I'm still alive!"
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–5.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, groggy and confused, wincing): "Ui... đầu tôi. Sáng rồi à? Sao tôi lại nằm bên suối?"
+- Part 2, 6.1–9.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calling out loudly, half laughing): "Bin! Em đâu rồi? Đừng nấp quay lén anh!"
+- Part 3, 9.5–13.7s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, shaky laugh, forcing his showman voice): "Máy vẫn đang quay. Được rồi cả nhà, tôi bị sét đánh mà vẫn còn sống!"
 - Pacing: @Khang speaks slowly and calmly, then @Khang continues at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a clear stream gurgling over smooth stones, dawn birdsong and insects, wet sand crunching, distant gibbon calls echoing off the cliff. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -825,18 +825,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Mist drifts between the giant trunks and nobody steps out; @Khang's forced grin slowly drains away, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–6.2s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, puzzled, losing patience): "No signal. Not one bar. Where's the road? Where's the guesthouse? It was right here yesterday."
-- Part 2, 6.7–13.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, forced laugh, calling to a hidden friend): "Okay, I get it. Bin set up a prank. Nice props, man, the trees are as big as houses! Come out!"
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–6.2s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, puzzled, losing patience): "Mất sóng. Không một vạch. Đường đâu? Nhà nghỉ đâu? Hôm qua còn ở ngay đây mà."
+- Part 2, 6.7–13.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, forced laugh, calling to a hidden friend): "Rồi, hiểu rồi. Bin bày trò chơi khăm. Đạo cụ xịn đấy, cây to bằng cái nhà! Ra đây đi!"
 - Pacing: @Khang speaks at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a clear stream rippling over stones, wild birdsong and insects, boots crunching on sand, leaves rustling, a distant gibbon call. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -887,19 +887,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang freezes in the low crouch, mouth closed, as the tall reeds keep swaying. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–6.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and wary, studying the track): "This footprint... it's as big as a dinner tray. Three round toes. That's something heavy."
-- Part 2, 6.9–11.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, thinking aloud, uneasy): "Nothing in Cuc Phuong is this big anymore. And gaur have split hooves."
-- Part 3, 12.1–13.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, an urgent whisper): "Shh! Wait... what's behind those bushes?"
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–6.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and wary, studying the track): "Dấu chân này... to bằng cái mâm. Ba ngón tròn. Con gì nặng lắm đây."
+- Part 2, 6.9–11.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, thinking aloud, uneasy): "Ở Cúc Phương giờ chẳng còn con gì to thế. Mà bò tót thì móng chẻ đôi."
+- Part 3, 12.1–13.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, an urgent whisper): "Suỵt! Khoan... sau bụi kia là gì?"
 - Pacing: @Khang speaks slowly and calmly, then @Khang continues at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: reeds rustling heavily with no wind, a clear stream trickling, birds suddenly falling silent, sand crunching under a boot, a heavy animal breathing somewhere behind the reeds. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -949,19 +949,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 3): The rhino snorts softly and swings its heavy head away from the reeds while @Khang lets out a slow silent breath, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–4.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, barely breathing, in awe): "Everyone... a rhino. A real rhino, thirty meters from me."
-- Part 2, 4.9–9.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, rushed whisper, disbelieving): "Rhinos went extinct in Vietnam in two thousand eleven! Bin can't rent one of these!"
-- Part 3, 9.9–13.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, holding his breath, a thin whisper): "It's looking at me... stay down, stay down."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–4.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, barely breathing, in awe): "Cả nhà ơi... tê giác. Tê giác thật, cách tôi ba mươi mét."
+- Part 2, 4.9–9.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, rushed whisper, disbelieving): "Tê giác tuyệt chủng ở Việt Nam từ năm hai nghìn không trăm mười một! Bin không thuê nổi con này!"
+- Part 3, 9.9–13.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, holding his breath, a thin whisper): "Nó đang nhìn tôi... nằm im, nằm im."
 - Pacing: @Khang speaks slowly and calmly, then @Khang continues quickly, then @Khang continues slowly and calmly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a large animal slurping and snorting at the water's edge, water dripping, reeds rustling, the stream flowing, birdsong gone quiet. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1012,19 +1012,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang lowers the camera, turns to face the empty valley and squares his shoulders, mouth closed, the orange backpack on his back. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–3.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and slow, in awe): "No roads. No trash. Not one motorbike engine."
-- Part 2, 4.1–9.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, thinking aloud, a dawning realisation): "Either I'm dreaming, or the lightning sent me back to a time before people built roads."
-- Part 3, 10.4–13.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, a deep breath, rallying himself): "Alright. Real survival. No Bin. No guesthouse. No cuts."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–3.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and slow, in awe): "Không đường. Không rác. Không một tiếng xe máy."
+- Part 2, 4.1–9.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, thinking aloud, a dawning realisation): "Hoặc tôi đang mơ, hoặc tia sét đã đưa tôi về thời chưa có con đường nào."
+- Part 3, 10.4–13.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, a deep breath, rallying himself): "Được. Sinh tồn thật. Không Bin. Không nhà nghỉ. Không cắt."
 - Pacing: @Khang speaks slowly and calmly, then @Khang continues at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: heavy footfalls thudding away into the forest, branches swishing as something large passes, the stream flowing, wind in the reeds, birdsong slowly returning. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1076,18 +1076,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang strides toward a thick liana hanging from a giant tree, mouth closed, dappled sunlight sliding over his shoulders. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–6.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, brisk show-and-tell for the viewers): "Inventory: one multitool, one whistle, one silver emergency blanket, one pack of instant noodles, and a solar charger."
-- Part 2, 7.4–12.5s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, counting it off fast, teacher mode): "Rule of three: three minutes without air, three days without water, three weeks without food. First, water."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–6.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, brisk show-and-tell for the viewers): "Kiểm đồ: một dao đa năng, một cái còi, một tấm chăn bạc cứu hộ, một gói mì tôm, và một sạc mặt trời."
+- Part 2, 7.4–12.5s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, counting it off fast, teacher mode): "Quy tắc số ba: ba phút không thở, ba ngày không nước, ba tuần không ăn. Trước tiên, nước."
 - Pacing: @Khang speaks at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: insects buzzing, birdsong in the canopy, a crinkling foil noodle packet, a soft clink of metal tools on a leaf, the stream babbling nearby. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1139,19 +1139,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang raises the dripping vine like a trophy toward the lens, mouth closed, drops sparkling in the dappled sun. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–5.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, confident survival-expert lecture): "Never drink unboiled stream water out here. But this vine holds clean water."
-- Part 2, 5.6–8.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, excited, hurrying): "Cut the top first, then the bottom. There! It's dripping!"
-- Part 3, 9.1–13.5s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, smug, then a sheepish slip): "Sweet. I read this in my script... I mean, a book."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–5.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, confident survival-expert lecture): "Ở đây đừng bao giờ uống nước suối chưa đun. Nhưng dây leo này chứa nước sạch."
+- Part 2, 5.6–8.6s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, excited, hurrying): "Chặt đầu trên trước, rồi đầu dưới. Đấy! Nước nhỏ giọt rồi!"
+- Part 3, 9.1–13.5s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, smug, then a sheepish slip): "Ngọt. Tôi đọc trong kịch bản... à nhầm, trong sách."
 - Pacing: @Khang speaks at an even everyday pace, then @Khang continues quickly, then @Khang continues slowly and calmly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a small saw rasping through fibrous vine, the vine creaking, clear water dripping onto leaves, birdsong and insects, the stream nearby. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1203,19 +1203,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): No smoke rises from the notch; @Khang keeps spinning, breathing hard through his nose, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–4.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frustrated, flicking a dead lighter): "Now fire. Lighter... it won't light. Soaked from last night? Come on!"
-- Part 2, 4.5–10.3s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, recovering, a confident teacher voice): "No problem. Old-school method: the hand drill. Spin fast, friction makes heat, heat makes fire."
-- Part 3, 10.8–13.2s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless, forcing the hype): "Watch closely, everyone, smoke is coming any second!"
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in three parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–4.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frustrated, flicking a dead lighter): "Giờ đến lửa. Bật lửa... không lên. Ướt từ đêm qua à? Nào!"
+- Part 2, 4.5–10.3s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, recovering, a confident teacher voice): "Không sao. Cách cổ điển: xoay que. Xoay nhanh, ma sát ra nhiệt, nhiệt ra lửa."
+- Part 3, 10.8–13.2s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless, forcing the hype): "Xem kỹ nhé cả nhà, khói sắp lên rồi!"
 - Pacing: @Khang speaks quickly, then @Khang continues at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the scrape and click of a wet lighter wheel, a wooden drill squeaking and whirring in a notch, heavy breathing, insects buzzing, birdsong. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1267,18 +1267,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes, closes his mouth and lets the camera rest on his chest, staring up at the canopy. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–4.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, drained and hoarse): "Two hours. Blisters everywhere. Not one wisp of smoke."
-- Part 2, 4.5–13.8s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet honesty, no performance, then a small rueful smile): "Okay, confession. Three years running a survival channel, and I have never made a fire myself. Nobody will ever see this. So why not be honest."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–4.0s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, drained and hoarse): "Hai tiếng. Phồng hết tay. Không một sợi khói."
+- Part 2, 4.5–13.8s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet honesty, no performance, then a small rueful smile): "Thôi, thú thật. Ba năm làm kênh sinh tồn, tôi chưa tự nhóm được lửa lần nào. Chẳng ai xem đoạn này đâu. Vậy thì nói thật luôn."
 - Pacing: @Khang speaks slowly and calmly, then @Khang continues at an even everyday pace; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: insects droning in the afternoon heat, dry leaves rustling under a body, distant birdsong, a slow tired breath. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1332,18 +1332,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): The tiger lowers its nose toward the water on its own side of the stream and stays there, ears forward, never stepping in. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, high-pitched panic, shouting): "Help! Help! The tiger's been waiting for me since the sun was high!"
-- Turn 2, 4.8–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless, shouting, thinking fast): "Stay up there! Don't jump in the water! I'm thinking, don't be scared!"
-- Turn 3, 9.2–12.2s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, a shrill warning, pointing): "Stranger! It's looking at you now! It's going to cross!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, high-pitched panic, shouting): "Cứu! Cứu với! Con hổ rình cháu từ lúc mặt trời đứng bóng!"
+- Turn 2, 4.8–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless, shouting, thinking fast): "Ở yên trên đó! Đừng nhảy xuống nước! Chú đang nghĩ, đừng sợ!"
+- Turn 3, 9.2–12.2s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, a shrill warning, pointing): "Người lạ ơi! Nó đang nhìn chú! Nó sắp lội qua!"
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rushing stream water, a low rumbling growl from the far bank, reeds thrashing as someone pushes through, quick panting breaths, cicadas. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1397,17 +1397,17 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): The tiger's striped tail vanishes into the forest; @Khang lowers the whistle and the blanket, chest heaving, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–7.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, yelling and making himself big, then panting): "Hey! Go away! Look at this! Shiny, huh? Big, huh? I'm bigger than you! Look big, make noise, never turn your back and run!"
-- Turn 2, 8.1–11.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, squealing with wonder): "The silver skin shines like the sun! The tiger's backing off!"
+- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–7.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, yelling and making himself big, then panting): "Này! Đi đi! Nhìn đây! Sáng không? To không? Tao to hơn mày! Làm mình to ra, làm ồn, không bao giờ quay lưng bỏ chạy!"
+- Turn 2, 8.1–11.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, squealing with wonder): "Da bạc sáng như mặt trời! Con hổ lùi rồi!"
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 11.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a foil blanket crackling and snapping in the wind, the rushing stream, a low growl fading into the forest, a sharp whistle blowing in short bursts, a boy's delighted gasp. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1461,19 +1461,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Snail finishes, closes his mouth and grins up at @Khang with the shell held high. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.7s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, delighted and awed): "Silver skin! Shinier than water! Even the tiger's scared! Let me touch!"
-- Turn 2, 5.2–9.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, tired, amused, matter-of-fact): "It's not skin, it's a blanket. Twelve bucks online. Where do you live?"
-- Turn 3, 10.4–14.0s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, proud and bouncy, showing his shell): "My name is like this! I live in the cave up there!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.7s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, delighted and awed): "Da bạc! Sáng hơn cả nước! Hổ cũng phải sợ! Cho cháu sờ với!"
+- Turn 2, 5.2–9.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, tired, amused, matter-of-fact): "Không phải da, là cái chăn. Mua trên mạng ba trăm nghìn. Cháu sống ở đâu?"
+- Turn 3, 10.4–14.0s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, proud and bouncy, showing his shell): "Tên cháu thế này! Cháu sống ở cái hang trên kia!"
 - Pacing: @Snail speaks at an even everyday pace, then @Khang answers at an even everyday pace, then @Snail answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: water sloshing around wading legs, a foil blanket crinkling, the stream rushing over the boulder, bare feet landing on wet sand, birds calling at the forest edge. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1527,19 +1527,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream follows two paces behind with the spear held upright, mouth closed, the snail-shell necklace clicking against her chest. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.7s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, fierce and guarded, demanding): "Don't move! Away from my brother! Why is your skin green?"
-- Turn 2, 4.2–8.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, hands up, placating, talking fast): "Easy! I just saved him from a tiger! It's a shirt, not skin!"
-- Turn 3, 8.6–12.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, wary and curious, laying down terms): "What is shirt? Come. Grandmother decides if you're man or ghost."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.7s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, fierce and guarded, demanding): "Đứng yên! Tránh xa em tôi! Sao da người lạ màu xanh?"
+- Turn 2, 4.2–8.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, hands up, placating, talking fast): "Bình tĩnh! Tôi vừa cứu nó khỏi con hổ! Đây là áo, không phải da!"
+- Turn 3, 8.6–12.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, wary and curious, laying down terms): "Áo là gì? Đi. Bà sẽ quyết anh là người hay là ma."
 - Pacing: @Stream speaks quickly, then @Khang answers quickly, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: reeds rustling and parting, the stream rushing over the boulder, bare feet on wet sand, snail shells clicking on a necklace, birds calling at the forest edge. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1592,19 +1592,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream stays in front of him with her arms at her sides, breathing steadily, both mouths closed in the fading dusk light. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.5s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, harsh and suspicious, barking each word): "Stream! Why bring a stranger here? He smells strange. The tiger will follow!"
-- Turn 2, 5.0–9.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, firm, standing her ground): "The tiger already came. He chased it off and saved Snail. Where were you, Roar?"
-- Turn 3, 10.0–13.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, cold and flat): "Hunting, to feed the cave. What did he bring?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.5s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, harsh and suspicious, barking each word): "Suối! Sao dắt người lạ về đây? Nó có mùi lạ. Hổ sẽ theo tới!"
+- Turn 2, 5.0–9.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, firm, standing her ground): "Hổ đến rồi. Anh ấy đuổi nó đi và cứu Ốc. Lúc đó anh ở đâu, Gầm?"
+- Turn 3, 10.0–13.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, cold and flat): "Đi săn, để nuôi cả hang. Nó mang gì tới?"
 - Pacing: @Roar speaks quickly, then @Stream answers quickly, then @Roar answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: evening cicadas rising from the jungle, the stream rushing below the cave mouth, the hearth fire crackling deep inside, bare feet scuffing on packed earth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1658,19 +1658,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon finishes, closes her mouth and holds his gaze, while @Khang breathes out slowly on his knees, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and grave, measuring every word): "Stranger. This cave does not feed strange mouths."
-- Turn 2, 4.2–8.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, eager and fast, a little too polite): "Grandma, I don't need food. Just a safe place to sleep. I'll feed myself!"
-- Turn 3, 8.9–14.3s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and final, like speaking a law): "Feed yourself? Good. Seven suns, by your own hands. Live, and you stay."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and grave, measuring every word): "Người lạ. Hang này không nuôi miệng lạ."
+- Turn 2, 4.2–8.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, eager and fast, a little too polite): "Bà ơi, cháu không cần ăn. Chỉ cần chỗ ngủ an toàn. Cháu tự lo cái ăn!"
+- Turn 3, 8.9–14.3s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and final, like speaking a law): "Tự lo? Tốt. Bảy mặt trời, bằng chính tay mình. Sống được, thì ở lại."
 - Pacing: @Moon speaks slowly and calmly, then @Khang answers quickly, then @Moon answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling and popping, rustling dry leaves and shuffling bare feet in the dark, wind sighing across the cave mouth, a hide creaking on its drying pole. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1724,19 +1724,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes, closes his mouth and swallows hard, his palm still pressed to the cold wall in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and stunned, half to himself): "Wait... that elephant stalactite. This entrance. It's the Cave of Hands."
-- Turn 2, 5.3–9.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, puzzled and a little wary): "Hands? The wall has only stone and smoke. You talk strange words."
-- Turn 3, 10.1–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, a hushed whisper, piecing it together): "No hands yet. That means... I got here before the handprints."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and stunned, half to himself): "Khoan... nhũ đá hình con voi. Cửa hang này. Là hang Bàn Tay."
+- Turn 2, 5.3–9.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, puzzled and a little wary): "Bàn tay? Vách chỉ có đá với khói. Anh nói chữ lạ."
+- Turn 3, 10.1–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, a hushed whisper, piecing it together): "Chưa có bàn tay nào. Tức là... tôi đến trước cả những dấu tay."
 - Pacing: @Khang speaks slowly and calmly, then @Stream answers at an even everyday pace, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling behind them, water dripping from the stalactite into a small pool, the stream rushing below the cave mouth, a palm sliding over dry rock. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1788,18 +1788,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 3): @Khang finishes, closes his mouth and keeps holding the camera in silence, breathing slowly in the dark corner. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–9.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, hushed whisper to the lens, then low and wry): "Everyone... I think this is the Stone Age. Over ten thousand years ago. Grandma gave me seven days. Seven-day survival. Like my video titles."
-- Part 2, 9.9–13.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and honest, the showman gone): "Only now, if I fail, nobody can cut it out."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–9.4s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, hushed whisper to the lens, then low and wry): "Cả nhà ơi... tôi nghĩ đây là thời đồ đá. Hơn một vạn năm trước. Bà cho tôi bảy ngày. Bảy ngày sinh tồn. Y như tên video của tôi."
+- Part 2, 9.9–13.9s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and honest, the showman gone): "Chỉ khác là giờ thất bại thì không ai cắt được."
 - Pacing: @Khang speaks at an even everyday pace, then @Khang continues slowly and calmly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the distant hearth crackling softly, slow breathing of sleepers in the dark, crickets and frogs outside the cave mouth, water dripping onto stone. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1853,19 +1853,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang sits dripping in the sparkling stream with his mouth closed, while @Stream grins down at him in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless and frantic, mid-chase): "Day two. Starving. Fish, hold still... Ah! Slipped again! That's ten in a row!"
-- Turn 2, 5.1–9.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, amused, laughing between the words): "You chased fish all morning. The fish are not tired. You are."
-- Turn 3, 9.9–13.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, deflated and whiny, flopping down): "Then you catch one! Stop laughing, I'm about to faint."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless and frantic, mid-chase): "Ngày hai. Đói lả. Cá ơi, đứng yên... Á! Lại tuột! Mười lần liền rồi!"
+- Turn 2, 5.1–9.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, amused, laughing between the words): "Anh đuổi cá cả buổi sáng. Cá không mệt. Anh mệt."
+- Turn 3, 9.9–13.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, deflated and whiny, flopping down): "Thế em bắt một con đi! Đừng cười, anh sắp xỉu rồi."
 - Pacing: @Khang speaks quickly, then @Stream answers at an even everyday pace, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the shallow stream babbling over round pebbles, a big splash as a body hits the water, morning birdsong and cicadas in the jungle, water dripping from soaked clothes. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1919,19 +1919,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang stares down at the wet snails in his palm with his mouth closed, while @Stream wades back toward the boulder in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.1s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, calm and matter-of-fact, a teacher): "No chasing. Lift the stones, find snails. Snails don't run. Good for you."
-- Turn 2, 5.6–9.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, overjoyed, words tumbling out): "Food that doesn't run! Exactly what I need! Stream, you're an angel!"
-- Turn 3, 9.7–13.7s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, puzzled, then firm and practical): "What is angel? Roast snails first. Raw ones hurt your belly."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.1s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, calm and matter-of-fact, a teacher): "Đừng đuổi. Lật đá lên, tìm ốc. Ốc không biết chạy. Hợp với anh."
+- Turn 2, 5.6–9.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, overjoyed, words tumbling out): "Đồ ăn không biết chạy! Đúng thứ anh cần! Suối, em là thiên thần!"
+- Turn 3, 9.7–13.7s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, puzzled, then firm and practical): "Thiên thần là gì? Nướng ốc trước đã. Ăn sống đau bụng."
 - Pacing: @Stream speaks at an even everyday pace, then @Khang answers quickly, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the shallow stream babbling, a flat stone lifting out of the water with a wet suck, tiny snail shells clicking into a rattan basket, morning birdsong. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -1986,19 +1986,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang holds the packet high with a closed-mouth grin, while @Snail chews beside him with bulging cheeks, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.7s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, breathless and dazzled, bouncing): "A gold leaf that sings! What's inside? Show me, Silver Skin!"
-- Turn 2, 4.2–8.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, warm and teasing, like a show host): "Instant noodles, Snail. My last pack. Try a bite. Chew slowly."
-- Turn 3, 8.7–12.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, a joyful yell, mouth half full): "Dry worms! Dry worms taste so good! Everybody! The stranger has dry worms!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.7s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, breathless and dazzled, bouncing): "Lá vàng biết hát! Bên trong có gì? Cho cháu xem đi, Da Bạc!"
+- Turn 2, 4.2–8.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, warm and teasing, like a show host): "Mì tôm đấy, Ốc. Gói cuối cùng của chú. Ăn thử đi. Nhai từ từ."
+- Turn 3, 8.7–12.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, a joyful yell, mouth half full): "Sâu khô! Sâu khô ngon quá! Mọi người ơi! Người lạ có sâu khô!"
 - Pacing: @Snail speaks quickly, then @Khang answers at an even everyday pace, then @Snail answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: crinkling foil, a crisp crack of dry noodles snapping, loud crunching, the hearth fire crackling, small bare feet pattering on the cave floor. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2053,19 +2053,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang bows his head to her with his mouth closed and a slow grin spreading, while @Moon watches him in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.3s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, watching closely): "Hungry, and still you feed the children."
-- Turn 2, 3.8–8.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, warm and easy, a little proud): "One pack, Grandma. Eat alone, you're full once. Share it, the whole cave smiles."
-- Turn 3, 9.3–13.4s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, even and warm, granting a favour): "One who shares is no ghost. Tonight, sleep near the fire."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.3s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, watching closely): "Đói, mà vẫn cho lũ trẻ ăn."
+- Turn 2, 3.8–8.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, warm and easy, a little proud): "Một gói thôi bà. Ăn một mình, no một lần. Chia ra, cả hang cùng cười."
+- Turn 3, 9.3–13.4s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, even and warm, granting a favour): "Người biết chia không phải ma. Đêm nay, ngủ gần bếp lửa."
 - Pacing: @Moon speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Moon answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling, noodle crumbs pattering into small hands, a foil sachet tearing, a long sniff, soft daylight wind at the cave mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2119,19 +2119,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon wraps one arm around @Snail with her mouth closed, her eyes fixed on the rain beyond the cave mouth. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying hard, the words tumbling out): "I fell asleep! Rain blew in, the fire's dead! The tube is cold, Grandma!"
-- Turn 2, 5.1–10.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and heavy, steadying herself): "Our fire-maker left us last season. We keep fire. We cannot make it."
-- Turn 3, 11.4–13.9s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, sobbing, a small hiccuping voice): "If the tiger comes tonight, what then?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying hard, the words tumbling out): "Cháu ngủ quên! Mưa hắt vào, lửa chết rồi! Ống tre nguội rồi, bà ơi!"
+- Turn 2, 5.1–10.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and heavy, steadying herself): "Người làm lửa của ta đã đi từ mùa trước. Ta giữ được lửa. Ta không làm ra được."
+- Turn 3, 11.4–13.9s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, sobbing, a small hiccuping voice): "Đêm nay hổ đến thì sao ạ?"
 - Pacing: @Snail speaks quickly, then @Moon answers slowly and calmly, then @Snail answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: heavy rain hissing at the cave mouth, gusts of wind, water dripping and splashing on stone, wet ash sizzling faintly, a child's sobbing breaths. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2186,19 +2186,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang turns toward the rain at the cave mouth with his mouth closed, his chest rising and falling. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.8s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, loud and accusing, playing to the cave): "Since he came: a tiger, rain, and now the fire's dead! He's bad luck!"
-- Turn 2, 5.3–8.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, fast and defiant, standing his ground): "Rain isn't my fault! Give me till sunrise. I'll make fire!"
-- Turn 3, 9.1–12.1s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, contemptuous, almost a sneer): "Two days spinning sticks, and not even smoke."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.8s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, loud and accusing, playing to the cave): "Từ khi nó đến: hổ, mưa, giờ lửa chết! Nó mang xui tới!"
+- Turn 2, 5.3–8.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, fast and defiant, standing his ground): "Mưa đâu phải tại tôi! Cho tôi đến sáng. Tôi sẽ làm ra lửa!"
+- Turn 3, 9.1–12.1s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, contemptuous, almost a sneer): "Hai ngày xoay que, chẳng có nổi khói."
 - Pacing: @Roar speaks quickly, then @Khang answers quickly, then @Roar answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: heavy rain hissing at the cave mouth, a sharp crack of thunder, wind gusting, bare feet shuffling back on damp stone, water dripping from the ceiling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2252,19 +2252,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream holds the bamboo steady with her mouth closed and her eyes fixed on the notch, as @Khang saws on in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–6.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, low and reflective, remembering): "I once filmed an old Muong man making fire by sawing bamboo. I thought he was faking."
-- Turn 2, 7.0–9.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, doubtful and flat): "Bamboo burns. It doesn't make fire."
-- Turn 3, 9.7–13.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent and breathless, sawing hard): "Hold tight! Saw fast, and the bamboo dust heats into an ember!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–6.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, low and reflective, remembering): "Có lần tôi quay một cụ người Mường cưa tre ra lửa. Tôi tưởng cụ diễn."
+- Turn 2, 7.0–9.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, doubtful and flat): "Tre thì cháy. Tre không làm ra lửa."
+- Turn 3, 9.7–13.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent and breathless, sawing hard): "Giữ chặt! Cưa nhanh, mùn tre nóng lên thành than!"
 - Pacing: @Khang speaks at an even everyday pace, then @Stream answers at an even everyday pace, then @Khang answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a small multitool scraping dry bamboo, the rasp of bamboo sawing on bamboo, rain easing to a drip outside the cave mouth, heavy breathing, birds stirring before dawn. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2319,19 +2319,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes, presses his lips together and smiles through tears at the little fire, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frantic whisper rising to a cry of joy): "Smoke! There's an ember! Into the tinder, blow gently, gently... It's burning!"
-- Turn 2, 4.5–9.1s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and solemn, giving him a name): "Thunder brought us a fire-maker. Your name is Fire-Maker."
-- Turn 3, 9.6–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and tearful, voice cracking): "Twenty-nine years old, and this is my first fire ever."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frantic whisper rising to a cry of joy): "Khói! Có than rồi! Cho vào bùi nhùi, thổi nhẹ, nhẹ thôi... Cháy rồi!"
+- Turn 2, 4.5–9.1s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and solemn, giving him a name): "Sấm mang đến cho ta người làm lửa. Tên con là Người Làm Lửa."
+- Turn 3, 9.6–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and tearful, voice cracking): "Hai mươi chín tuổi, đây là ngọn lửa đầu tiên của tôi."
 - Pacing: @Khang speaks quickly, then @Moon answers slowly and calmly, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a soft whoosh as dry tinder catches, small flames crackling, the clan clapping and stamping their feet, the last of the rain dripping at the cave mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2385,19 +2385,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang sets the green bamboo tube upright on the floor between them, mouth closed, as @Stream watches in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.3s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, worried, the words rushing out): "Snail drank from the mud pool. Now his belly hurts and he's burning."
-- Turn 2, 4.8–9.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and clear, explaining gently): "Still water has tiny bugs, too small to see. They bite you from inside."
-- Turn 3, 10.3–13.0s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, urgent and puzzled): "Bugs we can't see? How do we catch them?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.3s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, worried, the words rushing out): "Ốc uống nước vũng bùn. Giờ nó đau bụng, người nóng hầm hập."
+- Turn 2, 4.8–9.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and clear, explaining gently): "Nước đọng có con bọ tí hon, nhỏ quá không thấy được. Chúng cắn từ bên trong."
+- Turn 3, 10.3–13.0s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, urgent and puzzled): "Bọ không thấy được? Bắt chúng thế nào?"
 - Pacing: @Stream speaks quickly, then @Khang answers at an even everyday pace, then @Stream answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling, a feverish child's quick shallow breathing, a wet leaf dabbing skin, daylight wind murmuring at the cave mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2451,19 +2451,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Flames lick the side of the green bamboo tube while @Khang watches it with his mouth closed, forearms on his knees. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, firm and certain, laying down a rule): "We boil them. From now on, the whole cave drinks boiled water."
-- Turn 2, 5.2–9.9s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, skeptical, almost scolding): "Water kills fire. Fire eats bamboo. Put it in fire, you get ashes."
-- Turn 3, 10.4–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick and confident, a friendly dare): "Green bamboo burns slow. The water boils before the bamboo catches. Watch."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, firm and certain, laying down a rule): "Ta luộc chúng. Từ giờ, cả hang uống nước đun sôi."
+- Turn 2, 5.2–9.9s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, skeptical, almost scolding): "Nước giết lửa. Lửa ăn tre. Cho vào lửa, chỉ còn tro."
+- Turn 3, 10.4–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick and confident, a friendly dare): "Tre tươi cháy chậm. Nước sôi trước khi tre bắt lửa. Xem này."
 - Pacing: @Khang speaks at an even everyday pace, then @Stream answers at an even everyday pace, then @Khang answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling, water glugging from one bamboo tube into another, a multitool scraping fresh green bamboo, a wet tube settling against hot stones. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2517,19 +2517,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream lifts her chin with a proud little smile, mouth closed, as @Khang grins back at her in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, amazed, the words tumbling out): "The water bubbles like a fish breathing! The bamboo is still green! Fire, is this magic?"
-- Turn 2, 5.7–9.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and practical): "No magic. Let it cool, then give Snail small sips."
-- Turn 3, 9.8–13.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, careful and proud, counting each step): "I'll remember. Green bamboo, stream water, big fire, bubbles, then drink."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, amazed, the words tumbling out): "Nước sủi bọt như cá thở! Tre vẫn còn xanh! Lửa ơi, đây là phép à?"
+- Turn 2, 5.7–9.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and practical): "Không phải phép. Để nguội, rồi cho Ốc uống từng ngụm nhỏ."
+- Turn 3, 9.8–13.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, careful and proud, counting each step): "Tôi nhớ rồi. Tre xanh, nước suối, lửa to, sủi bọt, rồi uống."
 - Pacing: @Stream speaks quickly, then @Khang answers at an even everyday pace, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: water bubbling and hissing inside the bamboo tube, steam whispering, the hearth fire crackling, hot water pouring into a bamboo cup. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2583,19 +2583,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Snail finishes, closes his mouth and falls asleep holding the sleeve, while @Khang sits still with his mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking slowly and softly, unhurried, with a short natural pause between phrases, weak and slow, a faint smile): "Fire... my belly stopped biting. Hot water beats mud water."
-- Turn 2, 4.9–9.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, soft and tender, half teasing): "Better than dry worms? Sleep now. Tomorrow I'll teach you to boil water."
-- Turn 3, 10.1–14.1s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, drowsy, eyes drooping, a cheeky smile): "Dry worms are better. But with you here, I'm not scared."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking slowly and softly, unhurried, with a short natural pause between phrases, weak and slow, a faint smile): "Chú Lửa... bụng cháu hết cắn rồi. Nước nóng hơn nước bùn."
+- Turn 2, 4.9–9.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, soft and tender, half teasing): "Ngon hơn sâu khô không? Ngủ đi. Mai chú dạy cháu đun nước."
+- Turn 3, 10.1–14.1s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, drowsy, eyes drooping, a cheeky smile): "Sâu khô ngon hơn. Nhưng có chú ở đây, cháu không sợ."
 - Pacing: @Snail speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Snail answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: embers ticking and hissing softly in the hearth, slow breathing of sleepers in the dark, crickets outside the cave mouth, a hide blanket rustling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2650,19 +2650,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang holds @Roar's stare with his mouth closed and gives one slow nod, as the clan watches in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.7s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, loud and challenging, playing to the crowd): "Fire-Maker! Fire is not food. At high sun, whoever brings more food, the cave listens to."
-- Turn 2, 6.2–9.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, cool and amused, accepting the dare): "A contest? Fine. You hunt, I fish. And the loser?"
-- Turn 3, 10.3–13.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, fast and hard, a threat): "The loser takes his silver skin and leaves this cave."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.7s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, loud and challenging, playing to the crowd): "Người Làm Lửa! Lửa không phải đồ ăn. Đến đứng bóng, ai mang về nhiều đồ ăn hơn, cả hang nghe người đó."
+- Turn 2, 6.2–9.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, cool and amused, accepting the dare): "Thi à? Được. Anh đi săn, tôi bắt cá. Còn người thua?"
+- Turn 3, 10.3–13.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, fast and hard, a threat): "Người thua cầm tấm da bạc mà rời khỏi hang."
 - Pacing: @Roar speaks quickly, then @Khang answers at an even everyday pace, then @Roar answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: morning birdsong over the jungle, the stream rushing below the terrace, a spear butt thudding into packed earth, bare feet shifting on dirt, wind in the bamboo. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2716,19 +2716,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes, closes his mouth and goes back to weaving in silence, while @Stream watches him. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, eager, explaining like a teacher): "It's a fish trap. Easy to swim in, impossible to find the way out."
-- Turn 2, 5.9–9.9s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, soft and teasing, a small smile): "Like you. You wandered into our cave and can't find home."
-- Turn 3, 10.4–14.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, caught off guard): "Yeah... like me. I don't even know where home is."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, eager, explaining like a teacher): "Đây là cái lờ. Cá bơi vào thì dễ, tìm đường ra thì không."
+- Turn 2, 5.9–9.9s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, soft and teasing, a small smile): "Giống anh. Anh lạc vào hang tôi mà không tìm được đường về."
+- Turn 3, 10.4–14.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, caught off guard): "Ừ... giống tôi. Tôi còn chẳng biết nhà ở đâu."
 - Pacing: @Khang speaks at an even everyday pace, then @Stream answers at an even everyday pace, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the slow deep pool lapping at flat rocks, split bamboo strips creaking as they are woven, bamboo leaves rustling in a breeze, cicadas in the warming air. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2782,19 +2782,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon finishes, closes her mouth and lets go, while @Roar looks down at the broken spear with his mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, even and direct, no warmth yet): "High sun. You left at dawn, Roar. Why are your hands empty?"
-- Turn 2, 5.4–9.5s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, defensive and loud, avoiding her eyes): "The boar was huge! My spear hit stone and broke. Not my fault!"
-- Turn 3, 10.0–14.2s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and gentle, closing the matter): "No one blames you. Some hunts feed us, some don't."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, even and direct, no warmth yet): "Đứng bóng rồi. Con đi từ sáng sớm, Gầm. Sao tay không?"
+- Turn 2, 5.4–9.5s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, defensive and loud, avoiding her eyes): "Con lợn rừng to lắm! Giáo con đâm vào đá, gãy rồi. Không phải tại con!"
+- Turn 3, 10.0–14.2s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and gentle, closing the matter): "Không ai trách con. Có lần săn được, có lần không."
 - Pacing: @Moon speaks at an even everyday pace, then @Roar answers quickly, then @Moon answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: noon cicadas buzzing loudly, the stream far below, a heavy tread on dry earth, a broken spear shaft scraping the ground, hot wind over the terrace. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2849,19 +2849,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes and closes his mouth, as @Roar turns his broad back and walks off along the rocks with his mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, plain and friendly, no gloating): "Roar, these fish feed the whole cave. One trap works all season."
-- Turn 2, 5.2–8.0s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, a low growl through clenched teeth): "You won. Don't talk like you care about me."
-- Turn 3, 8.5–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and sincere, reaching out): "I don't want to beat you. I just want no child going hungry tonight."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, plain and friendly, no gloating): "Gầm, chỗ cá này đủ cho cả hang. Một cái lờ dùng được cả mùa."
+- Turn 2, 5.2–8.0s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, a low growl through clenched teeth): "Anh thắng rồi. Đừng nói như thể anh quan tâm tôi."
+- Turn 3, 8.5–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and sincere, reaching out): "Tôi không muốn thắng anh. Tôi chỉ muốn đêm nay không đứa trẻ nào đói."
 - Pacing: @Khang speaks at an even everyday pace, then @Roar answers quickly, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: water pouring through a bamboo trap, fish flapping wetly inside it, children clapping and splashing, the slow pool lapping at the rocks, bamboo creaking in the breeze. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2915,19 +2915,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Snail keeps staring up at him with his mouth closed, the screen glow flickering over his face in the silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, breathless wonder, mouth falling open): "Tiny people live in the seeing stone! A thousand fires, bright like stars!"
-- Turn 2, 4.8–10.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, soft and wistful, homesick): "That's my home. Bright all night. Hot water comes from the walls. Nobody keeps fire."
-- Turn 3, 10.7–13.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, quick and curious, blurting it out): "Then why did you leave home and come here?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, breathless wonder, mouth falling open): "Có người tí hon sống trong hòn đá có mắt! Nghìn đốm lửa, sáng như sao!"
+- Turn 2, 4.8–10.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, soft and wistful, homesick): "Nhà chú đấy. Sáng cả đêm. Nước nóng chảy ra từ tường. Không ai phải giữ lửa."
+- Turn 3, 10.7–13.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, quick and curious, blurting it out): "Thế sao chú lại bỏ nhà mà đến đây?"
 - Pacing: @Snail speaks quickly, then @Khang answers at an even everyday pace, then @Snail answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling and popping, fish sizzling on bamboo skewers over the coals, a faint electronic hum from the camera, crickets outside the cave mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -2981,19 +2981,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream finishes, closes her mouth and holds his gaze in the dancing firelight. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, genuinely curious): "Your home has so many fires. Why weren't you happy there?"
-- Turn 2, 5.3–9.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet and heavy, admitting it): "Back there, I told survival stories to millions of people. All fake."
-- Turn 3, 10.1–14.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, puzzled, gently searching): "What is fake? Like Snail playing tiger to scare the little ones?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, genuinely curious): "Nhà anh nhiều lửa thế. Sao anh không vui ở đó?"
+- Turn 2, 5.3–9.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet and heavy, admitting it): "Ở đó, tôi kể chuyện sinh tồn cho hàng triệu người. Toàn là giả."
+- Turn 3, 10.1–14.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, puzzled, gently searching): "Giả là gì? Như Ốc giả làm hổ dọa lũ nhỏ à?"
 - Pacing: @Stream speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling softly, a child's slow sleeping breath, embers popping, wind sighing at the dark cave mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3047,19 +3047,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream gives one small slow nod with her mouth closed, as the fire crackles between them in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–6.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, low and bitter, confessing): "Exactly. Someone else made my fires. The fish came from a market. I just acted hungry."
-- Turn 2, 6.7–10.7s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, plain and serious, no smile): "Here, whoever fakes it really starves. These days, are you faking?"
-- Turn 3, 11.2–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, finally honest): "No. For the first time, I'm not."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–6.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, low and bitter, confessing): "Đúng vậy. Lửa là người khác nhóm. Cá thì mua ở chợ. Tôi chỉ giả vờ đói."
+- Turn 2, 6.7–10.7s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, plain and serious, no smile): "Ở đây, ai giả là đói thật. Mấy ngày nay, anh có giả không?"
+- Turn 3, 11.2–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, finally honest): "Không. Lần đầu tiên, tôi không giả."
 - Pacing: @Khang speaks at an even everyday pace, then @Stream answers at an even everyday pace, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the hearth fire crackling, the dry click of a dead lighter, a small plastic object dropping into soft ash, crickets and a distant owl outside. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3113,19 +3113,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream finishes, closes her mouth and keeps holding his hand as the fire crackles in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, warm and matter-of-fact): "Real people get blisters, scraped feet, empty bellies. You are a real person now."
-- Turn 2, 5.9–10.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, sheepish, a little embarrassed): "The seeing stone is going to sleep. Battery's almost gone. Not much more filming."
-- Turn 3, 11.4–14.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, an invitation): "Let it sleep. Talk to me instead."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, warm and matter-of-fact): "Người thật thì phồng tay, xước chân, đói bụng. Giờ anh là người thật rồi."
+- Turn 2, 5.9–10.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, sheepish, a little embarrassed): "Hòn đá có mắt sắp ngủ rồi. Pin gần hết. Chẳng quay được bao lâu nữa."
+- Turn 3, 11.4–14.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, an invitation): "Cho nó ngủ đi. Nói với tôi này."
 - Pacing: @Stream speaks at an even everyday pace, then @Khang answers at an even everyday pace, then @Stream answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a single soft electronic beep, the hearth fire crackling and popping, a plastic clip unsnapping, crickets and frogs outside the dark cave mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3178,19 +3178,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Both stand silent at the cave mouth as white mist drifts in around their bare feet, mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.1s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, breathless and urgent): "Grandmother, Roar's bed is cold. He left before moonset."
-- Turn 2, 3.6–9.0s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and heavy, eyes on the mist): "He went after the rhino, alone. Losing to the stranger burned him inside."
-- Turn 3, 9.5–12.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, rising alarm, pleading): "A rhino can crush a man. He can't do this alone!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.1s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, breathless and urgent): "Bà ơi, chỗ Gầm nằm lạnh rồi. Đi từ trước trăng lặn."
+- Turn 2, 3.6–9.0s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and heavy, eyes on the mist): "Nó đi theo con tê giác, một mình. Thua người lạ làm nó nóng ruột."
+- Turn 3, 9.5–12.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, rising alarm, pleading): "Tê giác giẫm chết người được. Anh ấy không làm một mình được!"
 - Pacing: @Stream speaks quickly, then @Moon answers slowly and calmly, then @Stream answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: quick bare footsteps on damp stone, water dripping at the cave mouth, distant birdcalls muffled by thick mist, dry leaves rustling in a cool breeze. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3244,19 +3244,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes and closes his mouth and waits, a strand of mist drifting across his face. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, steady and practical, already geared up): "Grandma, let me find him. I have a whistle. Stream knows tracks."
-- Turn 2, 5.2–8.5s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, probing, weighing him up): "Roar wants you gone. Why look for him?"
-- Turn 3, 9.0–14.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and sincere, the grin gone): "Hating me doesn't make him less one of us. Our people come home."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, steady and practical, already geared up): "Bà ơi, để cháu đi tìm. Cháu có còi. Suối biết đọc dấu chân."
+- Turn 2, 5.2–8.5s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, probing, weighing him up): "Gầm muốn con đi. Sao lại tìm nó?"
+- Turn 3, 9.0–14.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, quiet and sincere, the grin gone): "Ghét cháu thì anh ấy vẫn là người của hang. Người mình phải về nhà."
 - Pacing: @Khang speaks at an even everyday pace, then @Moon answers slowly and calmly, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: boot laces pulled tight, a plastic whistle tapping against a chest strap, water dripping at the cave mouth, muffled birdcalls in the mist. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3310,19 +3310,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang gives three short sharp whistle blows toward the slope while @Stream holds perfectly still beside him, mouth closed, listening. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, focused tracker, low and certain): "Roar's footprints follow the rhino tracks. Here, broken twigs, leaves turned over. Not long ago."
-- Turn 2, 6.3–11.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick and eager, explaining): "A whistle carries farther than shouting. Three blasts means help. If he hears it, he'll shout back."
-- Turn 3, 11.9–13.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, a sharp whisper, hand raised): "Shh... listen. Down there."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, focused tracker, low and certain): "Dấu chân Gầm theo dấu tê giác. Đây, cành gãy, lá lật. Chưa lâu đâu."
+- Turn 2, 6.3–11.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick and eager, explaining): "Tiếng còi đi xa hơn tiếng hét. Ba hồi là cầu cứu. Nếu nghe thấy, anh ấy sẽ hét lại."
+- Turn 3, 11.9–13.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, a sharp whisper, hand raised): "Suỵt... nghe. Dưới kia."
 - Pacing: @Stream speaks at an even everyday pace, then @Khang answers quickly, then @Stream answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: damp leaves crunching underfoot, a twig cracking, water dripping from the canopy, insects humming, then near silence broken by three short shrill whistle blows echoing through the trees. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3376,19 +3376,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar sits silent, mouth closed, his chest rising and falling slowly in the shaft of sunlight. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.8s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, shouting up, proud and hoarse): "Go away! I don't need pity! I can climb out myself!"
-- Turn 2, 4.3–8.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, firm and calm, leaning over the rim): "With your ankle that swollen? How? Sit still. Don't try to stand."
-- Turn 3, 9.1–13.7s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, voice dropping, worn out): "I've been here since night. The tiger walked the edge twice."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.8s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, shouting up, proud and hoarse): "Đi đi! Tôi không cần thương hại! Tôi tự leo lên được!"
+- Turn 2, 4.3–8.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, firm and calm, leaning over the rim): "Cổ chân sưng thế kia? Leo kiểu gì? Ngồi yên. Đừng cố đứng."
+- Turn 3, 9.1–13.7s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, voice dropping, worn out): "Tôi ở đây từ đêm. Con hổ đi quanh miệng hố hai lần."
 - Pacing: @Roar speaks quickly, then @Khang answers at an even everyday pace, then @Roar answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: pebbles trickling down a rock wall, ferns rustling at the rim, a hoarse voice echoing off stone, cicadas droning, distant birds. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3441,19 +3441,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 3): @Khang twists the three strands tighter in silence, mouth closed, the thick green rope growing in his hands. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick and busy, hands working): "One vine snaps. Braid three together and it'll hold a buffalo. Pull it tight for me!"
-- Turn 2, 5.7–10.0s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, curious, testing the rope): "Where did you learn this? We braid baskets, never rope this thick."
-- Turn 3, 10.5–13.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, flustered, covering it fast): "The internet. I mean... a place very far away."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick and busy, hands working): "Một sợi dây leo thì đứt. Bện ba sợi lại thì giữ được cả con trâu. Kéo căng giúp tôi!"
+- Turn 2, 5.7–10.0s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, curious, testing the rope): "Anh học ở đâu thế? Bọn tôi đan giỏ, chưa bện dây to thế này."
+- Turn 3, 10.5–13.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, flustered, covering it fast): "Trên mạng. À... một nơi rất xa."
 - Pacing: @Khang speaks quickly, then @Stream answers at an even everyday pace, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: long lianas tearing loose from a trunk with a rush of leaves, dry vine fibers creaking as they twist, cicadas droning, a woodpecker tapping far off. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3507,19 +3507,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar lets out a long breath through his nose, mouth closed, the corner of his lip twitching. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm medic voice, hands busy): "Not broken, just twisted. I'll splint it. If it hurts, scream. No shame in that."
-- Turn 2, 6.3–9.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, through gritted teeth, then a roar): "Hunters don't scream! A hunter screams, the animals run! Argh!"
-- Turn 3, 9.9–13.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, dry, with a crooked smirk): "There are no animals down here. Just you and me."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm medic voice, hands busy): "Không gãy, chỉ trẹo thôi. Tôi nẹp lại. Đau thì cứ hét. Không có gì xấu hổ."
+- Turn 2, 6.3–9.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, through gritted teeth, then a roar): "Thợ săn không hét! Thợ săn hét là thú chạy hết! Á!"
+- Turn 3, 9.9–13.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, dry, with a crooked smirk): "Dưới này làm gì có thú. Chỉ có anh với tôi."
 - Pacing: @Khang speaks at an even everyday pace, then @Roar answers quickly, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: two sticks knocking together, cloth knotted and pulled tight, harsh breathing echoing off the rock walls, pebbles trickling, cicadas far above. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3573,19 +3573,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar finishes and closes his mouth; @Khang just taps the knot twice with a small grin, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and gruff, face turned away): "Why save me? I wanted you out of our cave."
-- Turn 2, 5.1–10.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, matter-of-fact, a little wry): "Where I'm from, the village helps whoever falls. Kick me out once you're up."
-- Turn 3, 10.6–14.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, grudging curiosity): "Strange knot. Tight, but it doesn't squeeze. Who taught you?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and gruff, face turned away): "Sao cứu tôi? Tôi muốn anh rời khỏi hang."
+- Turn 2, 5.1–10.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, matter-of-fact, a little wry): "Ở chỗ tôi, ai ngã thì cả làng giúp. Lên rồi muốn đuổi tôi thì đuổi."
+- Turn 3, 10.6–14.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, grudging curiosity): "Nút lạ. Chặt, mà không siết. Ai dạy anh?"
 - Pacing: @Roar speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Roar answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the thick vine rope rasping as it is looped and knotted, heavy breathing, pebbles trickling down the wall, cicadas far above. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3639,19 +3639,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar huffs a short laugh through his nose, mouth closed, still holding @Khang's hand, both chests heaving. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, straining, shouting the rhythm): "Pull! One, two, three! Around the tree, so he can't fall!"
-- Turn 2, 4.2–10.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, out of breath, solemn): "I'm up. From today, you are my brother. Whoever wants you gone, goes through me."
-- Turn 3, 10.9–13.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing, relieved): "Then, Roar, stop calling me stranger, okay?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, straining, shouting the rhythm): "Kéo! Một, hai, ba! Vòng qua gốc cây, để anh ấy không rơi!"
+- Turn 2, 4.2–10.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, out of breath, solemn): "Tôi lên rồi. Từ hôm nay, anh là anh em của tôi. Ai muốn đuổi anh, phải qua tôi trước."
+- Turn 3, 10.9–13.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing, relieved): "Vậy Gầm, đừng gọi tôi là người lạ nữa nhé?"
 - Pacing: @Khang speaks quickly, then @Roar answers slowly and calmly, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the vine rope creaking around a tree trunk, bark rasping, grunts of effort, soil and pebbles spilling into the pit, heavy panting, leaves rustling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3705,19 +3705,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar stares down at the rising water in silence, mouth closed, his knuckles tightening on the staff. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, uneasy, slowing to a stop): "Wait. This morning the stream was clear. Why is it brown now?"
-- Turn 2, 5.2–9.3s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, dismissive, waving it off): "Rain upstream makes the water brown. Every season. Nothing to fear."
-- Turn 3, 9.8–13.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, pointing hard): "It's sunny here. But look at those branches racing. The water's rising fast!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, uneasy, slowing to a stop): "Khoan. Sáng nay suối còn trong. Sao giờ đục ngầu thế?"
+- Turn 2, 5.2–9.3s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, dismissive, waving it off): "Mưa đầu nguồn thì nước đục. Mùa nào cũng thế. Không có gì đáng sợ."
+- Turn 3, 9.8–13.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, pointing hard): "Ở đây trời nắng. Nhưng nhìn cành cây trôi nhanh kìa. Nước lên nhanh lắm!"
 - Pacing: @Khang speaks at an even everyday pace, then @Roar answers at an even everyday pace, then @Khang answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: fast muddy water rushing and gurgling, a heavy branch knocking against rocks as it races past, reeds hissing in the wind, a wooden staff tapping on stones. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3771,19 +3771,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Both stand still on the rock under the bright sun, mouths closed, while thunder rolls faintly from the dark peaks. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, pointing upstream): "Look, black clouds all over the headwaters. Tonight all that water comes here."
-- Turn 2, 4.8–8.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, quiet, working it out): "Our cave sits by the stream. Can water reach our beds?"
-- Turn 3, 9.3–12.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, sharp warning, no showman left): "Flash floods don't creep. It hits all at once and takes everything!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, pointing upstream): "Nhìn kìa, mây đen phủ kín đầu nguồn. Đêm nay chỗ nước đó đổ hết về đây."
+- Turn 2, 4.8–8.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, quiet, working it out): "Hang mình ở cạnh suối. Nước có lên tới chỗ ngủ không?"
+- Turn 3, 9.3–12.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, sharp warning, no showman left): "Lũ quét không lên từ từ. Nó ập đến một lúc và cuốn hết!"
 - Pacing: @Khang speaks quickly, then @Stream answers at an even everyday pace, then @Khang answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rushing brown water below, a low far-off rumble of thunder from the distant peaks, reeds hissing in a rising wind, bare feet scraping on rock. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3837,19 +3837,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang nods once, mouth closed, already backing away along the bank toward the reeds. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–6.6s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and haunted, remembering): "When I was small, water once filled the lower cave. Some elders didn't make it."
-- Turn 2, 7.1–9.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, turning on him): "Then we can't wait! Is there higher ground?"
-- Turn 3, 10.0–13.8s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, decisive, pointing up the cliff): "The upper cave, in the cliff. Stream, take Fire the short way!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–6.6s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, low and haunted, remembering): "Hồi tôi còn nhỏ, nước từng ngập hang dưới. Mấy người già không thoát được."
+- Turn 2, 7.1–9.5s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, turning on him): "Vậy không chờ được! Có chỗ nào cao hơn không?"
+- Turn 3, 10.0–13.8s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, decisive, pointing up the cliff): "Hang trên, trong vách núi. Suối, dẫn Lửa đi đường tắt!"
 - Pacing: @Roar speaks slowly and calmly, then @Khang answers quickly, then @Roar answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the brown current roaring louder, a branch thudding against rocks, thunder rumbling far upstream, reeds thrashing in the wind. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3903,19 +3903,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Both run on along the rocks toward the distant limestone cliff, mouths closed, the brown stream roaring beside them. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.3s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, commanding, on the run): "This way! Through the reeds, across the rocks, then the cave! Stay close!"
-- Turn 2, 4.8–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, panting, half to himself): "What if Grandma doesn't believe me? Back home, even the truth gets ignored."
-- Turn 3, 9.2–12.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, steady, eyes ahead, not looking back): "Here is different. I believe you. Grandmother listens to me."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.3s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, commanding, on the run): "Lối này! Qua bãi lau, qua mấy tảng đá, rồi tới hang! Theo sát tôi!"
+- Turn 2, 4.8–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, panting, half to himself): "Nếu bà không tin thì sao? Ở chỗ tôi, nói thật cũng chẳng ai nghe."
+- Turn 3, 9.2–12.8s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, steady, eyes ahead, not looking back): "Ở đây khác. Tôi tin anh. Bà nghe tôi."
 - Pacing: @Stream speaks quickly, then @Khang answers quickly, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: bare feet and boots pounding through reeds, reed stalks swishing and whipping, ragged breathing, splashes on wet rocks, the stream roaring behind. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -3969,19 +3969,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 3): @Khang finishes and closes his mouth, breathing hard, while @Moon watches him without a word. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless, bursting in): "Grandma, we must move to the upper cave now! A flood is coming tonight!"
-- Turn 2, 5.1–10.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, unmoved, calm and slow): "The sky is clear. It is not the water season. Why frighten the cave?"
-- Turn 3, 11.4–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, desperate, pleading): "The stream's brown and rising! I saw it myself!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, breathless, bursting in): "Bà ơi, phải lên hang trên ngay! Đêm nay lũ về đấy!"
+- Turn 2, 5.1–10.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, unmoved, calm and slow): "Trời quang. Chưa đến mùa nước. Sao lại làm cả hang sợ?"
+- Turn 3, 11.4–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, desperate, pleading): "Suối đục mà nước đang lên! Cháu tận mắt thấy!"
 - Pacing: @Khang speaks quickly, then @Moon answers slowly and calmly, then @Khang answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: running boots on the rock floor, ragged breathing, fish sizzling over the hearth, a crackling fire, chatter dying away, the stream roaring louder outside. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4035,19 +4035,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon finishes and closes her mouth, her calm eyes unmoving, as the murmur of the clan dies down. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.5s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, measured, weighing the danger): "Climbing to the upper cave at night, children and elders fall."
-- Turn 2, 5.0–8.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, quick and fierce, stepping forward): "Grandmother, Fire has never been wrong. Fire, boiled water, the fish trap!"
-- Turn 3, 9.1–14.1s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, grave and slow): "If he's wrong, the cave climbs in the dark for a stranger."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.5s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, measured, weighing the danger): "Leo lên hang trên lúc đêm, trẻ con với người già sẽ ngã."
+- Turn 2, 5.0–8.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, quick and fierce, stepping forward): "Bà ơi, Lửa chưa sai bao giờ. Lửa, nước đun sôi, cái lờ cá!"
+- Turn 3, 9.1–14.1s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, grave and slow): "Nếu nó sai, cả hang leo trong bóng tối vì một người lạ."
 - Pacing: @Moon speaks at an even everyday pace, then @Stream answers quickly, then @Moon answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a low murmur running through the clan, a small child whimpering, the fire crackling, fish fat hissing on the coals, the stream roaring outside. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4102,19 +4102,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar finishes and closes his mouth, breathing hard, waiting for @Moon's answer in the silent cave. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–7.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and loud, every word a vow): "He is no stranger. He saved me from the pit, with the tiger circling. I trust him."
-- Turn 2, 7.9–9.8s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, stunned, almost a whisper): "Roar? You hated him most."
-- Turn 3, 10.3–14.1s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, forceful, urging her up): "Hate was yesterday. Muddy water is tonight. Grandmother, take the cave up!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–7.4s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and loud, every word a vow): "Anh ấy không phải người lạ. Anh ấy cứu con dưới hố, lúc hổ đi quanh. Con tin anh ấy."
+- Turn 2, 7.9–9.8s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, stunned, almost a whisper): "Gầm? Con ghét nó nhất mà."
+- Turn 3, 10.3–14.1s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, forceful, urging her up): "Ghét là chuyện hôm qua. Nước đục là chuyện đêm nay. Bà ơi, đưa cả hang lên!"
 - Pacing: @Roar speaks slowly and calmly, then @Moon answers at an even everyday pace, then @Roar answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a wooden staff thudding on rock, a dragging bare foot, the fire crackling in a sudden hush, the stream roaring outside. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4169,19 +4169,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon holds his gaze in silence, mouth closed, as the golden light fades on the cave wall behind her. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, decisive, her voice carrying): "Everyone! Children first. Snail, carry the fire tube. Don't let it die."
-- Turn 2, 5.4–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick orders, hands busy): "Tie each child to an adult! Stream and I go last!"
-- Turn 3, 9.2–13.4s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and even, a warning): "Fire-Maker. If no water comes, you leave at sunrise."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, decisive, her voice carrying): "Tất cả! Trẻ con trước. Ốc, mang ống lửa. Đừng để lửa chết."
+- Turn 2, 5.4–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, quick orders, hands busy): "Buộc mỗi đứa trẻ với một người lớn! Tôi với Suối đi sau cùng!"
+- Turn 3, 9.2–13.4s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and even, a warning): "Người Làm Lửa. Nếu nước không về, sáng mai con phải đi."
 - Pacing: @Moon speaks at an even everyday pace, then @Khang answers quickly, then @Moon answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the clan stirring, hide bundles rustling, vine cords pulled tight, children's quick footsteps, the hearth crackling, the stream roaring outside. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4236,19 +4236,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream finishes and closes her mouth, breathing shakily, her eyes fixed on the darkness below. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, breathless and frantic): "Grandmother, one is missing! Where's Snail? Has anyone seen Snail?"
-- Turn 2, 3.9–7.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking quickly in short lively phrases, every word still clear, quick, her voice shaking): "The fire tube is gone too. He put it down to climb."
-- Turn 3, 8.2–14.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and numb, the truth sinking in): "He went back down for the fire. Since the night it died, he blames himself."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, breathless and frantic): "Bà ơi, thiếu một người! Ốc đâu? Có ai thấy Ốc không?"
+- Turn 2, 3.9–7.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking quickly in short lively phrases, every word still clear, quick, her voice shaking): "Ống lửa cũng mất. Nó đặt xuống để leo."
+- Turn 3, 8.2–14.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and numb, the truth sinking in): "Nó quay xuống tìm lửa. Từ đêm lửa chết, nó cứ tự trách mình."
 - Pacing: @Stream speaks quickly, then @Moon answers quickly, then @Stream answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: heavy rain hammering the rock, torches sputtering and hissing in the wind, the flood roaring far below, a baby whimpering, thunder rolling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4301,18 +4301,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang's small lit figure descends the rain-lashed cliff toward the dark cave mouth, where a faint red ember glow flickers inside, mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, panting, half laughing with relief): "Found it! Still glowing! Little fire, this time I won't let you die!"
-- Turn 2, 4.8–9.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, shouting down through the rain): "Snail! Stay there, hold the stone pillar! I'm coming down! When I whistle, shout back!"
-- Turn 3, 9.8–12.5s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying out, his voice cracking): "Fire! The water's up to my legs! I'm here!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, panting, half laughing with relief): "Thấy rồi! Vẫn còn đỏ! Lửa nhỏ ơi, lần này tao không để mày chết đâu!"
+- Turn 2, 4.8–9.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, shouting down through the rain): "Ốc! Ở yên đó, ôm cột đá! Chú xuống đây! Chú thổi còi thì hét lên!"
+- Turn 3, 9.8–12.5s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying out, his voice cracking): "Chú Lửa! Nước tới chân cháu rồi! Cháu ở đây!"
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.5s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: brown water gushing into the cave and swirling around stone pillars, rain lashing the cliff, a vine rope creaking, boots scraping on wet rock, embers hissing softly inside a bamboo tube. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4366,19 +4366,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang's headlamp drops steadily toward the brown flood churning at the foot of the cliff while the rope creaks. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.5s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, shouting down over the rain): "The rope only reaches the big rock! Past that, I can't hold you!"
-- Turn 2, 5.0–8.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, shouting up, firm and fast): "Enough! Hold tight, back against the rock. Don't stand on that ankle!"
-- Turn 3, 9.1–12.9s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, a booming growl): "Fire! Bring the boy back. And bring yourself back too!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.5s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking quickly in short lively phrases, every word still clear, shouting down over the rain): "Dây chỉ tới tảng đá lớn! Quá đó, tôi không giữ nổi anh!"
+- Turn 2, 5.0–8.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, shouting up, firm and fast): "Đủ rồi! Giữ chặt, tựa lưng vào đá. Đừng đứng bằng cái chân đó!"
+- Turn 3, 9.1–12.9s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, a booming growl): "Lửa! Mang thằng bé về. Và mang cả anh về nữa!"
 - Pacing: @Roar speaks quickly, then @Khang answers quickly, then @Roar answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rain hammering the ledge, the vine rope creaking and rasping over rock, torches hissing, the flood roaring below, a long roll of thunder. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4432,18 +4432,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): A surge of muddy brown water rolls past the boulder and into the cave mouth below them while @Khang and @Snail hold still on the dry top, mouths closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, wading in): "Snail! Your hand! Arms around my neck, don't let go!"
-- Turn 2, 3.9–7.8s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying, clinging on stubbornly): "The fire tube! I'm not letting go! Grandmother said don't let it die!"
-- Turn 3, 8.3–11.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, fast and firm, half laughing): "Fine, keep it! Onto that rock, quick, here comes the water!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, urgent, wading in): "Ốc! Đưa tay đây! Ôm cổ chú, đừng buông!"
+- Turn 2, 3.9–7.8s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, crying, clinging on stubbornly): "Ống lửa! Cháu không buông đâu! Bà bảo đừng để lửa chết!"
+- Turn 3, 8.3–11.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, fast and firm, half laughing): "Được, cầm luôn! Lên tảng đá kia, nhanh, nước tới rồi!"
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 11.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: brown water churning and roaring through the cave mouth, boots sloshing through deep water, rain lashing outside, a rising rumble as a surge of muddy water rolls in. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4497,19 +4497,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang lifts the whistle to his lips and gives three short sharp blows toward the ledge, his eyes fixed on the torchlight. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–2.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, bellowing up the cliff): "Everyone! Down here! Two of us, both alive!"
-- Turn 2, 3.3–7.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking slowly and softly, unhurried, with a short natural pause between phrases, small and shaking): "Fire... the water's higher. Will the rock get swept away?"
-- Turn 3, 7.8–13.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, gentle and coaxing, steady): "This rock is huge, the water can't move it. See the torches? Stream's throwing a rope."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–2.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, bellowing up the cliff): "Mọi người ơi! Dưới này! Hai người, đều còn sống!"
+- Turn 2, 3.3–7.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking slowly and softly, unhurried, with a short natural pause between phrases, small and shaking): "Chú Lửa... nước lên cao hơn rồi. Đá có bị cuốn đi không?"
+- Turn 3, 7.8–13.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, gentle and coaxing, steady): "Tảng đá này to lắm, nước không đẩy nổi đâu. Thấy đuốc không? Suối đang ném dây xuống."
 - Pacing: @Khang speaks quickly, then @Snail answers slowly and calmly, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: churning brown floodwater roaring around the boulder, rain lashing stone, torches hissing high above, distant thunder, three short shrill whistle blows at the very end. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4564,18 +4564,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): Far below on the boulder, @Khang's headlamp beam follows the rising rope, his mouth closed. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, shouting down from the ledge): "Fire! The rope has a stone! Hands up and catch!"
-- Turn 2, 3.9–7.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, fast and focused, hands working): "Got it! Tying Snail first. Bowline, it won't slip, don't worry!"
-- Turn 3, 7.7–11.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, fierce, leading the pull): "Snail, hug the fire tube! The whole cave is pulling! One, two, pull!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, shouting down from the ledge): "Lửa! Dây có buộc đá! Giơ tay lên mà bắt!"
+- Turn 2, 3.9–7.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, fast and focused, hands working): "Bắt được rồi! Buộc Ốc trước. Nút ghế, không tuột đâu, yên tâm!"
+- Turn 3, 7.7–11.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, fierce, leading the pull): "Ốc, ôm chặt ống lửa! Cả hang đang kéo! Một, hai, kéo!"
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 11.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rain hammering the ledge, a stone-weighted rope whirring through the air and thudding onto the boulder, the vine rope creaking, the clan grunting as they haul, the flood roaring below. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, slow or drawn-out delivery, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4629,19 +4629,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): The blinking red light shrinks into the dark rain while @Khang holds the rope with both hands, mouth closed, watching it go. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frantic, clutching at it): "The strap snapped! No... all seven days are in there!"
-- Turn 2, 3.9–7.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, screaming down, fierce): "Fire! Let the seeing stone go! Hold the rope with both hands!"
-- Turn 3, 8.0–13.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, letting go): "Go, then. Three million viewers aren't worth one boy holding a fire tube."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frantic, clutching at it): "Đai đứt rồi! Không... cả bảy ngày nằm trong đó!"
+- Turn 2, 3.9–7.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, screaming down, fierce): "Lửa! Bỏ hòn đá có mắt đi! Hai tay giữ dây!"
+- Turn 3, 8.0–13.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and quiet, letting go): "Đi đi. Ba triệu người xem không đáng bằng một đứa trẻ ôm ống lửa."
 - Pacing: @Khang speaks quickly, then @Stream answers quickly, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a sharp plastic click as a buckle pops open, rain hammering, the flood roaring around the boulder, a small splash, the vine rope creaking taut. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4696,19 +4696,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon finishes and closes her mouth, holding his gaze in silence as rain drips from the rock overhead. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.4s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, hushed, eyes on the water): "The water came. The lower cave is flooded."
-- Turn 2, 3.9–7.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, out of breath, lying on the rock): "Is everyone here, Grandma? Did Snail keep the fire?"
-- Turn 3, 7.7–13.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and warm, every word weighed): "All here. The fire lives, the people live. You gave your stone for our fire."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.4s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, hushed, eyes on the water): "Nước đã về. Hang dưới ngập rồi."
+- Turn 2, 3.9–7.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, out of breath, lying on the rock): "Mọi người đủ cả chứ bà? Ốc có giữ được lửa không?"
+- Turn 3, 7.7–13.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and warm, every word weighed): "Đủ cả. Lửa còn, người còn. Con đã đổi hòn đá của con lấy lửa của hang."
 - Pacing: @Moon speaks at an even everyday pace, then @Khang answers at an even everyday pace, then @Moon answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rain easing on the rock ledge, torches hissing, the flood roaring far below, heavy ragged breathing, a bamboo cap popping off, embers crackling softly. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4763,19 +4763,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang bows his head to her, mouth closed, while mist curls off the drowned valley below them in the dawn sun. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.2s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and grave, like a law spoken aloud): "Seventh sun. You lived, and you saved the cave."
-- Turn 2, 4.7–9.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, humble, shaking his head, warm): "Not alone. Stream fed me, Roar held the rope, Snail kept the fire."
-- Turn 3, 9.9–13.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, warm and final, a rare small smile): "Then you are of the cave. We never walk alone."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.2s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and grave, like a law spoken aloud): "Mặt trời thứ bảy. Con sống, và con cứu cả hang."
+- Turn 2, 4.7–9.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, humble, shaking his head, warm): "Không phải một mình cháu. Suối cho cháu ăn, Gầm giữ dây, Ốc giữ lửa."
+- Turn 3, 9.9–13.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, warm and final, a rare small smile): "Vậy con là người của hang. Chúng ta không bao giờ đi một mình."
 - Pacing: @Moon speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Moon answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: dawn birdsong across the valley, water dripping off the cliff, a soft wind on the ledge, the stream trickling far below, bare feet shifting on stone. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4828,19 +4828,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream carries a small shell cup of red paste toward the wall, mouth closed, while @Moon watches in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, steady, announcing a new law): "From today, whoever saves the cave leaves a hand on the wall."
-- Turn 2, 5.4–9.0s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, curious and eager, turning the reed): "Red earth and water, blown through a reed. Fire first?"
-- Turn 3, 9.5–13.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and certain, nodding): "Yes. His hand is biggest. Put it in the middle."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.9s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking at a natural, even conversational pace, steady, announcing a new law): "Từ hôm nay, ai cứu được hang thì để bàn tay lên vách."
+- Turn 2, 5.4–9.0s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, curious and eager, turning the reed): "Đất đỏ với nước, thổi qua ống sậy. Lửa trước chứ?"
+- Turn 3, 9.5–13.7s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and certain, nodding): "Phải. Tay nó to nhất. Đặt vào giữa."
 - Pacing: @Moon speaks at an even everyday pace, then @Stream answers at an even everyday pace, then @Moon answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: stone grinding on stone, water dripping from the cave roof, runoff trickling across the mud floor, birdsong outside the bright mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4894,19 +4894,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang closes his mouth and breathes out shakily beside the fresh red hand, while @Stream watches him in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, a stunned whisper): "The big hand in the middle... it's mine. Always was."
-- Turn 2, 4.9–8.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, gentle, puzzled, proud of her work): "What's wrong, Fire? No rain will ever wash it away."
-- Turn 3, 9.0–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing through tears): "No. Ten thousand years from now, some idiot will fit his hand in it."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, a stunned whisper): "Bàn tay to ở giữa... là tay tôi. Từ đầu đã vậy."
+- Turn 2, 4.9–8.5s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, gentle, puzzled, proud of her work): "Sao thế, Lửa? Mưa nào cũng không rửa trôi được đâu."
+- Turn 3, 9.0–14.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing through tears): "Không. Một vạn năm nữa, sẽ có thằng ngốc nào đó ướm tay vào."
 - Pacing: @Khang speaks slowly and calmly, then @Stream answers at an even everyday pace, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: soft puffs of air through a hollow reed, a fine spray hissing on wet stone, water dripping in the cave, morning birdsong outside. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -4960,19 +4960,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream finishes the last words and closes her mouth, gazing at the two red hands side by side, while @Khang watches her in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, soft and shy, eyes on the wall): "My hand next to yours. So everyone knows they went together."
-- Turn 2, 4.9–8.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, hesitant, low and honest): "Stream... if I have to leave, will you be angry?"
-- Turn 3, 9.4–14.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, steady, not looking at him): "A stream goes far but marks the stone. If you go, your hand stays."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, soft and shy, eyes on the wall): "Tay tôi cạnh tay anh. Để ai cũng biết hai người đi cùng nhau."
+- Turn 2, 4.9–8.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, hesitant, low and honest): "Suối... nếu tôi phải đi, em có giận không?"
+- Turn 3, 9.4–14.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, steady, not looking at him): "Suối chảy đi xa nhưng để dấu trên đá. Anh có đi, bàn tay anh vẫn ở lại."
 - Pacing: @Stream speaks at an even everyday pace, then @Khang answers slowly and calmly, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: soft puffs of air through a reed, a fine spray hissing on stone, water dripping in the cave, morning birdsong outside, a slow breath. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5027,19 +5027,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Snail turns the stone toward the children on the gravel bar, mouth closed, while @Khang watches him fondly from the boulder. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, bursting with excitement, a tiny showman): "Hello everyone! Fire, fish, boiled water! I can survive anywhere!"
-- Turn 2, 3.9–8.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing, a little rueful): "Who taught you that? That line was a lie for three years."
-- Turn 3, 8.7–12.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, quick and proud): "You say it to your stone every morning! Now I have one!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.4s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, bursting with excitement, a tiny showman): "Xin chào cả nhà! Cá, lửa, nước sôi! Ở đâu tôi cũng sống được!"
+- Turn 2, 3.9–8.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing, a little rueful): "Ai dạy cháu câu đó? Câu đó chú nói dối ba năm rồi."
+- Turn 3, 8.7–12.3s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, quick and proud): "Sáng nào chú cũng nói với hòn đá của chú! Giờ cháu cũng có một hòn!"
 - Pacing: @Snail speaks quickly, then @Khang answers at an even everyday pace, then @Snail answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: the clear stream rippling over stones, small bare feet splashing in the shallows, cicadas in the midday heat, driftwood creaking in the sun. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5093,19 +5093,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Roar closes his mouth and a slow wide grin breaks across his fierce face, his shoulders shaking with a silent laugh. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.3s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, gruff and teasing, laughing for once): "Eyes closed, you only hit sky. Eyes open, see the target, let go."
-- Turn 2, 5.8–9.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frustrated, half laughing at himself): "You learned traps in one morning. I still can't hit anything!"
-- Turn 3, 9.6–14.1s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, warm and gruff, almost proud): "Your hands make fire and traps. Leave the spear to me, brother."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.3s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, gruff and teasing, laughing for once): "Nhắm mắt thì chỉ trúng trời. Mở mắt, nhìn đích, rồi buông."
+- Turn 2, 5.8–9.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, frustrated, half laughing at himself): "Anh học đặt lờ trong một buổi sáng. Tôi thì vẫn chưa ném trúng gì!"
+- Turn 3, 9.6–14.1s, spoken on camera by @Roar (man of 30, deep rough bass, gruff and forceful, speaking at a natural, even conversational pace, warm and gruff, almost proud): "Tay anh làm ra lửa và lờ cá. Cây giáo để tôi lo, anh em."
 - Pacing: @Roar speaks at an even everyday pace, then @Khang answers quickly, then @Roar answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a bamboo spear skidding across gravel, the stream rippling, split rattan creaking in big hands, cicadas, a breeze rustling the reeds. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5159,19 +5159,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang breathes out and smiles, mouth closed, his eyes wet in the flickering firelight. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, curious, gently amused): "What's this? Why's he wearing a box on his chest?"
-- Turn 2, 4.5–10.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, earnest, absorbed in his drawing): "It's you and your seeing stone. The water took it. I drew it so it's not sad."
-- Turn 3, 11.1–13.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, moved, voice thick): "It's beautiful. Best picture I've ever had."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.0s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, curious, gently amused): "Cái gì đây? Sao người này đeo cái hộp trên ngực?"
+- Turn 2, 4.5–10.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking at a natural, even conversational pace, earnest, absorbed in his drawing): "Là chú với hòn đá có mắt. Nước cuốn nó đi rồi. Cháu vẽ lại cho nó đỡ buồn."
+- Turn 3, 11.1–13.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, moved, voice thick): "Đẹp lắm. Bức tranh đẹp nhất của chú."
 - Pacing: @Khang speaks at an even everyday pace, then @Snail answers at an even everyday pace, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: charcoal scratching on rock, the hearth fire crackling, water dripping from the stalactite, the stream murmuring outside the cave. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5225,19 +5225,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Moon stands in silence, mouth closed, the wind tugging at her hide cloak as she looks at him. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.3s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and grave, listening to the sky): "Thunder again. Like the night you came."
-- Turn 2, 3.8–8.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, uneasy, half laughing in disbelief): "You feel it too? Since noon, the wall has been getting warmer."
-- Turn 3, 8.6–14.0s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, tender and final): "Thunder brought you. Thunder will call you home. The cave remembers its own."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.3s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and grave, listening to the sky): "Lại có sấm. Như đêm con đến."
+- Turn 2, 3.8–8.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, uneasy, half laughing in disbelief): "Bà cũng thấy à? Từ trưa đến giờ, vách đá cứ ấm dần lên."
+- Turn 3, 8.6–14.0s, spoken on camera by @Moon (old woman of 65, low slow husky voice with weight in every word, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, tender and final): "Sấm đưa con đến. Sấm sẽ gọi con về. Hang nhớ người của mình."
 - Pacing: @Moon speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Moon answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.0s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: distant rolling thunder, wind rushing through the jungle canopy, the hearth fire crackling behind, the first fat raindrops on broad leaves. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5292,19 +5292,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream finishes and closes her mouth, her eyes wet, as another white flash lights her face and fades. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and hurt, voice barely steady): "Are you really leaving, Fire? Here there's fire, fish, me. Not enough?"
-- Turn 2, 5.7–12.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, turning to her, gentle and torn): "More than enough. More than anywhere I've lived. But my mom is waiting, and my friend is searching."
-- Turn 3, 12.7–14.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, voice breaking, holding back tears): "Then you must go."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and hurt, voice barely steady): "Anh đi thật à, Lửa? Ở đây có lửa, có cá, có tôi. Chưa đủ sao?"
+- Turn 2, 5.7–12.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, turning to her, gentle and torn): "Đủ lắm rồi. Hơn mọi nơi anh từng sống. Nhưng mẹ anh đang chờ, bạn anh đang đi tìm."
+- Turn 3, 12.7–14.2s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, voice breaking, holding back tears): "Vậy anh phải đi."
 - Pacing: @Stream speaks slowly and calmly, then @Khang answers at an even everyday pace, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rolling thunder, rain roaring beyond the cave mouth, wind gusting through the entrance, the hearth fire hissing and crackling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5358,19 +5358,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Stream finishes the last words and closes her mouth, while lightning flashes white across both their faces. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, voice wavering, holding back tears): "Bend down. Where you live, there are no stream snails. Remember us with this."
-- Turn 2, 5.9–9.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow realization, a soft wondering smile): "Snail... Stream. Stream snails. You're giving me both of you?"
-- Turn 3, 10.4–14.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, laughing through tears): "Yes. Take both of us, so you never get lost again."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, voice wavering, holding back tears): "Cúi xuống. Chỗ anh ở không có ốc suối. Nhớ bọn tôi bằng cái này."
+- Turn 2, 5.9–9.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow realization, a soft wondering smile): "Ốc... Suối. Ốc suối. Em trao cả hai người cho anh à?"
+- Turn 3, 10.4–14.4s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking at a natural, even conversational pace, laughing through tears): "Phải. Mang cả hai chị em theo, để anh không bao giờ lạc nữa."
 - Pacing: @Stream speaks at an even everyday pace, then @Khang answers slowly and calmly, then @Stream answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: small shells clicking on a cord, rain hammering outside the cave mouth, low thunder, the hearth fire crackling. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5424,19 +5424,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang holds the boy tight, mouth closed, eyes squeezed shut, as lightning flashes white across the cave mouth behind them. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.0s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, sobbing, desperate and fast): "Don't go, Fire! Take me with you! I'll bring my seeing stone!"
-- Turn 2, 4.5–10.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, kneeling, gentle and proud): "Stay and teach them: boiling water, fish traps, bamboo fire. Nobody does it better than you."
-- Turn 3, 10.8–13.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking slowly and softly, unhurried, with a short natural pause between phrases, lip wobbling, brave through tears): "Then say hello everyone for me, okay?"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.0s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, sobbing, desperate and fast): "Chú Lửa đừng đi! Cho cháu đi với! Cháu mang hòn đá có mắt của cháu!"
+- Turn 2, 4.5–10.3s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, kneeling, gentle and proud): "Ở lại dạy mọi người: đun nước, đặt lờ, cưa tre ra lửa. Không ai làm giỏi hơn cháu."
+- Turn 3, 10.8–13.6s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking slowly and softly, unhurried, with a short natural pause between phrases, lip wobbling, brave through tears): "Chú nói xin chào cả nhà hộ cháu nhé?"
 - Pacing: @Snail speaks quickly, then @Khang answers at an even everyday pace, then @Snail answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: rain roaring outside the cave mouth, thunder rumbling, the hearth fire crackling, small bare feet pattering on stone. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5490,19 +5490,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): A blinding white lightning flash floods the cave and swallows the whole frame in pure white. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and calm, a quiet goodbye): "My hand still fits. Stream, take care of Snail, and the cave."
-- Turn 2, 5.7–9.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, shouting over the thunder, in tears): "Go, Fire-Maker! The cave will remember you until the stones wear away!"
-- Turn 3, 10.1–13.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and tender, a last promise): "I'll remember you too. Even ten thousand years apart."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and calm, a quiet goodbye): "Tay tôi vẫn vừa khít. Suối, chăm sóc Ốc, và cả hang nhé."
+- Turn 2, 5.7–9.6s, spoken on camera by @Stream (young woman of 19, clear warm alto, direct and curious, speaking quickly in short lively phrases, every word still clear, shouting over the thunder, in tears): "Đi đi, Người Làm Lửa! Hang sẽ nhớ anh cho đến khi đá mòn!"
+- Turn 3, 10.1–13.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and tender, a last promise): "Anh cũng sẽ nhớ em. Dù cách nhau một vạn năm."
 - Pacing: @Khang speaks slowly and calmly, then @Stream answers quickly, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a deep rumble shaking the rock, thunder cracking right overhead, roaring rain, a rising electric hum, then one huge thunderclap. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5557,19 +5557,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Bin bows his forehead onto @Khang's shoulder, mouth closed, as the rangers crouch nearby in soft focus. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–3.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, frantic, breaking down with relief): "Khang! He's here! Call the rescue team! Are you alive?"
-- Turn 2, 3.9–7.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, dazed and hoarse, half dreaming): "Bin... it's really you. What day is it?"
-- Turn 3, 7.6–12.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, fast, laughing and sobbing at once): "You've been missing seven days! The whole country searched! The rangers flipped this forest upside down!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, frantic, breaking down with relief): "Anh Khang! Anh ấy đây rồi! Gọi đội cứu hộ! Anh còn sống không?"
+- Turn 2, 3.9–7.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, dazed and hoarse, half dreaming): "Bin... đúng là em rồi. Hôm nay ngày mấy?"
+- Turn 3, 7.6–12.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, fast, laughing and sobbing at once): "Anh mất tích bảy ngày rồi! Cả nước đi tìm! Kiểm lâm lật tung cả khu rừng này!"
 - Pacing: @Bin speaks quickly, then @Khang answers slowly and calmly, then @Bin answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: running footsteps on the dusty cave floor, a handheld radio hissing static, water dripping, morning birdsong outside the mouth, heavy panting. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5623,19 +5623,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang sits quietly against the wall of red hands, mouth closed, holding one shell of his necklace between two fingers. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and dreamy, still half elsewhere): "Seven days... it was seven days there too. Seven suns."
-- Turn 2, 4.9–9.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, rapid-fire, baffled): "What are you saying? Where's this necklace from? Where's the camera? What did you film?"
-- Turn 3, 9.9–13.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and plain, strangely at peace): "The camera's gone. Seven days, and not one second of footage."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and dreamy, still half elsewhere): "Bảy ngày... bên đó cũng là bảy ngày. Bảy mặt trời."
+- Turn 2, 4.9–9.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, rapid-fire, baffled): "Anh nói gì thế? Chuỗi vòng này ở đâu ra? Máy quay đâu? Anh quay được gì?"
+- Turn 3, 9.9–13.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and plain, strangely at peace): "Máy quay mất rồi. Bảy ngày, không một giây hình nào."
 - Pacing: @Khang speaks slowly and calmly, then @Bin answers quickly, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.9s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a handheld radio hissing static nearby, water dripping in the cave, birdsong outside, small shells clicking, distant footsteps on grit. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5689,19 +5689,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang puts one arm around @Bin's shoulders, both silent with their mouths closed, beneath the wall of faded red hands. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, exasperated, rapid, half hysterical): "Seven days, the whole country watching, and you come back empty-handed? Subscribers are exploding!"
-- Turn 2, 5.4–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm, quietly proud): "Not empty-handed. These hands can make fire now."
-- Turn 3, 9.2–13.6s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, voice thick, finally letting go): "Forget it. You're back, that's enough. I thought I'd lost you."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, exasperated, rapid, half hysterical): "Bảy ngày cả nước theo dõi, mà anh về tay trắng? Người xem đang sôi lên kia kìa!"
+- Turn 2, 5.4–8.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm, quietly proud): "Không phải tay trắng. Đôi tay này giờ làm ra lửa được."
+- Turn 3, 9.2–13.6s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking slowly and softly, unhurried, with a short natural pause between phrases, voice thick, finally letting go): "Thôi. Anh về là được rồi. Em tưởng mất anh rồi."
 - Pacing: @Bin speaks quickly, then @Khang answers at an even everyday pace, then @Bin answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.6s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: sneakers scuffing on the dusty floor, a radio hissing static, water dripping, birdsong outside the cave mouth, a shaky exhale. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5755,19 +5755,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes the last words and closes his mouth, his hand still hovering just short of the faded red hand. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet and wondering): "Bin, do you believe someone once spent their whole life by this wall?"
-- Turn 2, 5.6–9.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, deadpan and teasing): "Cave people lived in caves, sure. Did the lightning fry your brain?"
-- Turn 3, 10.4–14.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, calm and clear-eyed): "Maybe. But for the first time, my head feels clear."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet and wondering): "Bin, em có tin từng có người sống cả đời bên vách đá này không?"
+- Turn 2, 5.6–9.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, deadpan and teasing): "Người hang thì sống trong hang, đúng rồi. Sét đánh cháy não anh à?"
+- Turn 3, 10.4–14.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, calm and clear-eyed): "Có thể. Nhưng lần đầu tiên, đầu óc anh thấy sáng rõ."
 - Pacing: @Khang speaks at an even everyday pace, then @Bin answers at an even everyday pace, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: boots crunching on grit, water dripping from the stalactite, a flashlight click, birdsong at the cave mouth, a soft wind through the entrance. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5821,19 +5821,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang sits still on the porch step, mouth closed, the limestone peaks glowing behind him in the late sun. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–6.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, plain and honest, no showman): "Today, no old opening line. I can survive anywhere: I lied about that for three years."
-- Turn 2, 6.7–10.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, quiet and worried): "You sure? Say that, and the last sponsors walk."
-- Turn 3, 10.5–13.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and certain): "Sure. Let them. Faking it makes you starve."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–6.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, plain and honest, no showman): "Hôm nay không có câu mở đầu cũ. Ở đâu tôi cũng sống được: câu đó tôi nói dối ba năm."
+- Turn 2, 6.7–10.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, quiet and worried): "Anh chắc chưa? Nói thế là tài trợ cuối cùng bỏ luôn."
+- Turn 3, 10.5–13.7s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and certain): "Chắc. Kệ họ. Giả vờ thì đói thật."
 - Pacing: @Khang speaks at an even everyday pace, then @Bin answers at an even everyday pace, then @Khang answers slowly and calmly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: cicadas at the forest edge, a rooster far off, wooden porch boards creaking, leaves rustling in a light breeze. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5886,18 +5886,18 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 5): The whistle rests in @Khang's open palm, faint blister scars catching the late golden sun, all quiet but the cicadas. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
-- Part 1, 0.4–5.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet and sincere, an apology): "Most of my old videos were staged. You trusted me, and I'm sorry."
-- Part 2, 5.6–12.8s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, brisk and practical, teaching for real): "Here's what's real, learned with blistered hands: boil your water, green bamboo can boil it, bamboo can make fire, three whistle blasts means help."
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Khang alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–5.1s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, quiet and sincere, an apology): "Phần lớn video cũ của tôi là dàn dựng. Mọi người đã tin tôi, tôi xin lỗi."
+- Part 2, 5.6–12.8s (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking quickly in short lively phrases, every word still clear, brisk and practical, teaching for real): "Đây là điều thật, học bằng đôi tay phồng rộp: đun sôi nước uống, tre tươi đun được nước, tre làm ra được lửa, ba hồi còi là cầu cứu."
 - Pacing: @Khang speaks at an even everyday pace, then @Khang continues quickly; the change of speed is clearly audible.
 - Throughout, @Khang's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Khang closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.8s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: porch boards creaking, bamboo knocking softly on wood, cicadas at the forest edge, a light breeze through the potted plants. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -5951,19 +5951,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang and @Bin sit side by side on the porch step in the golden light, both silent, the limestone peaks glowing far behind. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–4.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, breathless and thrilled): "Khang, three hours, five million views! Nobody's hating on you. People are actually thanking you!"
-- Turn 2, 5.4–7.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, mild, eyes on his weaving): "Huh. So people watch the truth too."
-- Turn 3, 8.4–12.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, curious, a sly grin): "And half the comments ask where you bought that shell necklace."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.9s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, breathless and thrilled): "Anh Khang, ba tiếng, năm triệu lượt xem! Không ai chửi anh. Người ta còn cảm ơn anh!"
+- Turn 2, 5.4–7.9s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, mild, eyes on his weaving): "Ồ. Hoá ra người ta cũng xem sự thật."
+- Turn 3, 8.4–12.4s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, curious, a sly grin): "Mà nửa số bình luận hỏi anh mua chuỗi vỏ ốc ở đâu."
 - Pacing: @Bin speaks quickly, then @Khang answers at an even everyday pace, then @Bin answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 12.4s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a screen door banging, quick footsteps on porch boards, bamboo strips rustling, cicadas, a rooster far away. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -6017,19 +6017,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang goes back to weaving the bamboo strips, mouth closed, as the limestone peaks glow in the late sun. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, far away): "You can't buy it. Someone put it on me, somewhere very far away."
-- Turn 2, 6.1–10.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, nosy and eager, teasing): "Who? Seven days in the jungle and you got a girlfriend? Tell me!"
-- Turn 3, 10.5–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, smiling, quietly mysterious): "You won't believe me. Take me to the cave tomorrow."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, far away): "Không mua được đâu. Có người đeo cho anh, ở một nơi rất xa."
+- Turn 2, 6.1–10.0s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, nosy and eager, teasing): "Ai? Bảy ngày trong rừng mà có bạn gái à? Kể em nghe!"
+- Turn 3, 10.5–14.1s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, smiling, quietly mysterious): "Em không tin đâu. Mai đưa anh vào hang."
 - Pacing: @Khang speaks slowly and calmly, then @Bin answers quickly, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.1s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: bamboo strips creaking, cicadas, a breeze through the potted plants, small shells clicking, a rooster far away. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -6083,19 +6083,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Bin stares at the faint charcoal stick figure, mouth closed, while @Khang smiles beside him in silence. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.5s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, excited and rapid, pointing): "Look! By the big hand: a stick man with a box on his chest. Like your camera!"
-- Turn 2, 6.0–10.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, smiling): "A little boy drew it. So the seeing stone wouldn't be sad."
-- Turn 3, 11.3–13.7s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, astonished, blurting it out): "Archaeologists say it's over ten thousand years old!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.5s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, excited and rapid, pointing): "Nhìn kìa! Cạnh bàn tay to: một người que đeo hộp trên ngực. Giống máy quay của anh!"
+- Turn 2, 6.0–10.8s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and soft, smiling): "Một cậu bé vẽ đấy. Để hòn đá có mắt khỏi buồn."
+- Turn 3, 11.3–13.7s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, astonished, blurting it out): "Giới khảo cổ bảo nó hơn một vạn năm tuổi!"
 - Pacing: @Bin speaks quickly, then @Khang answers slowly and calmly, then @Bin answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.7s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a flashlight click, sneakers scuffing on grit, water dripping, birdsong and cicadas outside the sunlit mouth. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -6149,19 +6149,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang finishes the last words and closes his mouth, gazing at the two faded hands side by side. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and tender, remembering): "And this smaller hand, right beside it. That's a girl named Stream."
-- Turn 2, 5.7–9.7s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, dry, squinting, unconvinced): "You're acting again, right? Good script, but I'm not buying it."
-- Turn 3, 10.2–14.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and sure, at peace): "You don't have to. No filming, no posting. Remembering is enough."
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow and tender, remembering): "Còn bàn tay nhỏ hơn, ngay bên cạnh. Là của cô gái tên Suối."
+- Turn 2, 5.7–9.7s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking at a natural, even conversational pace, dry, squinting, unconvinced): "Anh lại diễn đúng không? Kịch bản hay, nhưng em không tin đâu."
+- Turn 3, 10.2–14.2s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, calm and sure, at peace): "Em không cần tin. Không quay, không đăng. Nhớ là đủ rồi."
 - Pacing: @Khang speaks slowly and calmly, then @Bin answers at an even everyday pace, then @Khang answers at an even everyday pace; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 14.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: water dripping from the stalactite, distant birdsong outside, a flashlight buzzing faintly, small shells clicking. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -6215,19 +6215,19 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 4): @Khang grins and walks toward the sunlit cave mouth, mouth closed, while @Bin hurries after him, both silent. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–5.2s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, panicking, rapid and shrill): "Whoa! Thunder! Take your hand off! Last time you touched that, you vanished for seven days!"
-- Turn 2, 5.7–10.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing, teasing, then gentle): "Scared I'll vanish? Over there, they have fire now. They don't need me."
-- Turn 3, 10.9–13.3s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, fast, demanding answers): "Over where? Explain that to me right now!"
+- Dialogue in Vietnamese with exact lip-sync, three spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–5.2s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, panicking, rapid and shrill): "Ối! Sấm! Bỏ tay ra! Lần trước anh chạm vào đó là biến mất bảy ngày!"
+- Turn 2, 5.7–10.4s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking at a natural, even conversational pace, laughing, teasing, then gentle): "Sợ anh biến mất à? Bên đó giờ họ có lửa rồi. Họ không cần anh nữa."
+- Turn 3, 10.9–13.3s, spoken on camera by @Bin (young man of 24, light dry voice, deadpan and teasing, speaking quickly in short lively phrases, every word still clear, fast, demanding answers): "Bên nào? Giải thích ngay cho em!"
 - Pacing: @Bin speaks quickly, then @Khang answers at an even everyday pace, then @Bin answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.3s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: a long low roll of distant thunder, sneakers scuffing on grit, a flashlight knocking against stone, birdsong falling quiet outside. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```
 
 ---
@@ -6282,16 +6282,16 @@ Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one 
 - 14–15s (Shot 5): Today, soft morning sunlight replaces the firelight on the very same two hands, now faded with age, still side by side. The sequence settles on this as its final frame.
 
 [AUDIO]
-- Dialogue in English with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
-- Turn 1, 0.4–7.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, plain and grateful, no performance): "I can't survive anywhere. I survived because someone shared their snails with me, and someone held my rope."
-- Turn 2, 8.1–13.2s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, radiant, shouting with joy): "Hello everyone! Today I teach the cave bamboo fire, like Fire taught me! I can survive anywhere!"
+- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–7.6s, spoken on camera by @Khang (man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious, speaking slowly and softly, unhurried, with a short natural pause between phrases, slow, plain and grateful, no performance): "Không phải ở đâu tôi cũng sống được. Tôi sống được vì có người chia ốc cho tôi, và có người giữ dây."
+- Turn 2, 8.1–13.2s, spoken on camera by @Snail (boy of 8, high bright child's voice, quick and excited, speaking quickly in short lively phrases, every word still clear, radiant, shouting with joy): "Xin chào cả nhà! Hôm nay tôi dạy cả hang cưa tre ra lửa, như chú Lửa dạy tôi! Ở đâu tôi cũng sống được!"
 - Pacing: @Khang speaks slowly and calmly, then @Snail answers quickly; the change of speed is clearly audible.
 - Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
-- Voices: everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
+- Voices: everyone speaks clear, natural Vietnamese with a standard Northern (Hanoi) accent and correct tones, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.
 - All speech is over by 13.2s. From then until 15.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
-- Speak only the English words inside the double quotes, once, in clear natural English; never read these directions, names or tags aloud.
+- Speak only the Vietnamese words inside the double quotes, once, in clear natural Vietnamese; never read these directions, names or tags aloud.
 - SFX: birdsong and a soft morning breeze at the cave mouth, then a crackling hearth fire at night, bamboo rasping on bamboo, small bare feet on stone. Ambience continues to 15.0s. No music.
 
 [AVOID]
-On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than English.
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, garbled or invented words, words in any language other than Vietnamese.
 ```

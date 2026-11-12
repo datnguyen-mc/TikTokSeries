@@ -1,15 +1,15 @@
 # Caption TikTok / Reels / YouTube Shorts — Tập 24
 
-**Tiêu đề:** Có biến ngày 11/11: sale ngày đôi, vàng tụt, AI đoán tuổi… và quà Lễ độc thân của bà chủ 😂🥢
+**Tiêu đề:** Có biến ngày 11/11: sale ngày đôi, vàng tụt, U23 thắng Thái Lan… và quà Lễ độc thân của bà chủ 😂🥢
 
 **Caption:**
-Sáng 11/11 có biến gì? Phèo với bà chủ Hường buôn nhanh 5 tin nóng: sàn nào cũng sale ngày đôi; rạng sáng nay vàng thế giới tụt mạnh; mạng xã hội dùng AI đoán tuổi để tìm tài khoản thiếu niên khai gian; U23 Việt Nam thắng U23 Thái Lan 3–0; và chuyện bị lừa "mua hàng 0 đồng" xong lại tìm "luật sư mạng" đòi tiền, suýt mất thêm lần nữa. Nhớ nhé cả nhà: làm gì có hàng 0 đồng! Còn quà Lễ độc thân bà chủ tặng Phèo là gì, xem đến giây 55 là biết 😂
+Sáng 11/11 có biến gì? Phèo với bà chủ Hường buôn nhanh 3 tin nóng: sàn nào cũng sale ngày đôi, bà chủ chốt hai chục đơn mà vẫn bảo "mua càng nhiều càng tiết kiệm"; rạng sáng nay vàng thế giới tụt mạnh, còn lương Phèo thì "đứng im cả năm"; U23 Việt Nam thắng U23 Thái Lan 3–0, Phèo xin thưởng thì chỉ được "xem ké". Còn quà Lễ độc thân bà chủ tặng Phèo là gì, xem đến giây 50 là biết 😂
 Hôm nay bạn chốt mấy đơn rồi? Ai còn độc thân thì để lại một chiếc đũa 🥢 dưới bình luận nào 👇
 
 #365NgayPheoLamNoiTro #PheoVaNo #CoBien #Sale1111 #LeDocThan
 
 **Bình luận ghim (≤150 ký tự):**
-Không có hàng 0 đồng đâu nhé cả nhà! Ai độc thân như chiếc đũa của Phèo thì điểm danh 🥢😂
+Một chiếc đũa lẻ + một Phèo lẻ = một đôi 😂 Ai độc thân như Phèo thì điểm danh 🥢
 
 **Trước khi đăng:**
 - Đúng 5 hashtag (TikTok báo lỗi khi thêm hashtag thứ sáu).

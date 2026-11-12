@@ -35,6 +35,9 @@ except ImportError:
 # In-memory registry of active runner subprocesses per channel_slug
 ACTIVE_JOBS: dict[str, dict] = {}
 
+# TikTok series render 4 clips × 15s per episode (Omni 1.2) since 12/11/2026.
+TIKTOK_15S_SLUGS = ("mit-va-du-1970", "pheo-va-no-meo", "me-va-be", "tay-du-ky-2026", "365ngayvietnam")
+
 DEFAULT_CHANNELS = [
     {
         "slug": "mit-va-du-1970",
@@ -44,7 +47,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/mit_va_du.py",
         "series_dir": "mit-va-du-1970",
         "ep_prefix": "tap",
-        "description": "Phim tình cảm gia đình miền Tây những năm 1970 cảm động & hài hước dài 60s (6 clips × 10s) về gia đình chó nhân hóa Mít, Đú và bé Nở (3D Pixar 9:16).",
+        "description": "Phim tình cảm gia đình miền Tây những năm 1970 cảm động & hài hước dài 60s (4 clips × 15s) về gia đình chó nhân hóa Mít, Đú và bé Nở (3D Pixar 9:16).",
         "characters": [
             {
                 "tag": "@Mit",
@@ -77,7 +80,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/365ngayvietnam.py",
         "series_dir": "365ngayvietnam",
         "ep_prefix": "tap",
-        "description": "Clip dài 60s (6 clips × 10s) du lịch check-in danh thắng & thưởng thức món ăn đặc sản của Vy và Joi — mỗi cảnh xuất hiện ở một địa điểm/bàn ăn khác nhau, không lặp cảnh xe máy đội nón (9:16).",
+        "description": "Clip dài 60s (4 clips × 15s) du lịch check-in danh thắng & thưởng thức món ăn đặc sản của Vy và Joi — mỗi cảnh xuất hiện ở một địa điểm/bàn ăn khác nhau, không lặp cảnh xe máy đội nón (9:16).",
         "characters": [
             {
                 "tag": "@Vy",
@@ -101,7 +104,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/me_va_be.py",
         "series_dir": "me-va-be",
         "ep_prefix": "tap",
-        "description": "Clip dài 60s (6 clips × 10s) chia sẻ mẹo nuôi con khoa học, quay cận các hành động dễ thương của hai bé song sinh Gạo – Bông và giới thiệu đồ cho bé phù hợp từng giai đoạn tuổi (9:16).",
+        "description": "Clip dài 60s (4 clips × 15s) chia sẻ mẹo nuôi con khoa học, quay cận các hành động dễ thương của hai bé song sinh Gạo – Bông và giới thiệu đồ cho bé phù hợp từng giai đoạn tuổi (9:16).",
         "characters": [
             {
                 "tag": "@Ngọc",
@@ -131,7 +134,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/pheo_va_no_meo.py",
         "series_dir": "pheo-va-no-meo",
         "ep_prefix": "tap",
-        "description": "Clip 60s (6 clips × 10s): mèo Phèo & bà chủ Hường bàn drama mỗi ngày theo cách hài hước, mỗi clip một tin mới ở một lĩnh vực khác nhau (3D Pixar 9:16).",
+        "description": "Clip 60s (4 clips × 15s): mèo Phèo & bà chủ Hường bàn drama mỗi ngày theo cách hài hước, mỗi clip một tin mới ở một lĩnh vực khác nhau (3D Pixar 9:16).",
         "characters": [
             {
                 "tag": "@Pheo",
@@ -157,7 +160,7 @@ DEFAULT_CHANNELS = [
         "runner_script": "runners/tay_du_ky.py",
         "series_dir": "tay-du-ky-2026",
         "ep_prefix": "tap",
-        "description": "Clip hài 60s (6 clips × 10s) tổng kết xu hướng hot và drama trong ngày của 4 thầy trò Đường Tăng tại nhà trọ Sài Gòn 2026 (2D 9:16).",
+        "description": "Clip hài 60s (4 clips × 15s) tổng kết xu hướng hot và drama trong ngày của 4 thầy trò Đường Tăng tại nhà trọ Sài Gòn 2026 (2D 9:16).",
         "characters": [
             {
                 "tag": "@Thay",
@@ -823,6 +826,72 @@ DEFAULT_CHANNELS = [
             }
         ]
     },
+    {
+        "slug": "bay-ngay-sinh-ton",
+        "name": "Bảy Ngày Sinh Tồn — Seven Days in the Stone Age (Phim Sinh Tồn 24 Phút)",
+        "project_id": "",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/bay_ngay_sinh_ton.py",
+        "series_dir": "bay-ngay-sinh-ton",
+        "ep_prefix": "canh",
+        "description": "Phim phiêu lưu sinh tồn có miếng hài, kịch bản gốc (100% thoại tiếng Anh do nhân vật nói trên hình, không người dẫn chuyện, nhịp giọng theo cảnh): YouTuber sinh tồn Khang bị bóc phốt diễn, ngủ một đêm giông trong hang Bàn Tay ở Cúc Phương và tỉnh dậy ở thời đồ đá; bảy lần mặt trời tự sống bằng hai bàn tay (16:9, 24 cảnh × 4 clips × 15s = 96 clips — Google Flow Omni 1.2).",
+        "characters": [
+            {
+                "tag": "@Khang",
+                "name": "Khang — VOICE_LOCK_KHANG_BNST",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_KHANG_BNST",
+                "description": "Khang, 29, Vietnamese survival YouTuber; lean athletic build, tanned skin, short black undercut hair, light stubble, expressive dark eyes, a quick showman's grin; olive-green tactical shirt with a plain patch without letters, khaki cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera, a bright orange backpack.",
+                "ref_prompt": "Full-body photorealistic character reference of @Khang: Khang, 29, Vietnamese survival YouTuber; lean athletic build, tanned skin, short black undercut hair, light stubble, expressive dark eyes, a quick showman's grin; olive-green tactical shirt with a plain patch without letters, khaki cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera, a bright orange backpack; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Bin",
+                "name": "Bin — VOICE_LOCK_BIN_BNST",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_BIN_BNST",
+                "description": "Bin, 24, Khang's cameraman and channel manager; slim, round face, round black-rimmed glasses, short messy black hair; cream bucket hat, thin yellow windbreaker over a black T-shirt, black jeans, white sneakers, a handheld camera gimbal.",
+                "ref_prompt": "Full-body photorealistic character reference of @Bin: Bin, 24, Khang's cameraman and channel manager; slim, round face, round black-rimmed glasses, short messy black hair; cream bucket hat, thin yellow windbreaker over a black T-shirt, black jeans, white sneakers, a handheld camera gimbal; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Stream",
+                "name": "Stream — VOICE_LOCK_STREAM_BNST",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_STREAM_BNST",
+                "description": "Stream, 19, Stone Age forager girl of the cave clan; slim and agile, warm brown skin, long straight black hair tied back with a vine cord, bright alert dark eyes, two thin red-ochre stripes on each cheekbone; a knee-length tunic of beaten tan bark cloth with a soft deer-hide wrap covering both shoulders, a necklace of small stream-snail shells, a woven rattan basket on her back, barefoot.",
+                "ref_prompt": "Full-body photorealistic character reference of @Stream: Stream, 19, Stone Age forager girl of the cave clan; slim and agile, warm brown skin, long straight black hair tied back with a vine cord, bright alert dark eyes, two thin red-ochre stripes on each cheekbone; a knee-length tunic of beaten tan bark cloth with a soft deer-hide wrap covering both shoulders, a necklace of small stream-snail shells, a woven rattan basket on her back, barefoot; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Moon",
+                "name": "Grandma Moon — VOICE_LOCK_MOON_BNST",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_MOON_BNST",
+                "description": "Grandma Moon, 65, Stone Age clan leader and keeper of the fire; small and straight-backed, deeply lined brown face, calm piercing eyes, white hair in a high knot held by a bone pin, a red-ochre dot on her forehead; a long dark hide cloak over a knee-length bark-cloth tunic, a thick green bamboo tube for carrying embers, barefoot.",
+                "ref_prompt": "Full-body photorealistic character reference of @Moon: Grandma Moon, 65, Stone Age clan leader and keeper of the fire; small and straight-backed, deeply lined brown face, calm piercing eyes, white hair in a high knot held by a bone pin, a red-ochre dot on her forehead; a long dark hide cloak over a knee-length bark-cloth tunic, a thick green bamboo tube for carrying embers, barefoot; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Roar",
+                "name": "Roar — VOICE_LOCK_ROAR_BNST",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_ROAR_BNST",
+                "description": "Roar, 30, the clan's strongest Stone Age hunter; tall, broad-shouldered and muscular, weathered brown skin, thick black hair bound with a strip of bark, heavy brows, a fierce jaw; a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, a long bamboo spear with a chipped stone tip, barefoot.",
+                "ref_prompt": "Full-body photorealistic character reference of @Roar: Roar, 30, the clan's strongest Stone Age hunter; tall, broad-shouldered and muscular, weathered brown skin, thick black hair bound with a strip of bark, heavy brows, a fierce jaw; a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, a long bamboo spear with a chipped stone tip, barefoot; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor.",
+            },
+            {
+                "tag": "@Snail",
+                "name": "Snail — VOICE_LOCK_SNAIL_BNST",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_SNAIL_BNST",
+                "description": "Snail, 8, Stream's little brother in the Stone Age clan; small and wiry, round cheeky face, big curious dark eyes, head shaved except a small tuft of hair on top; a small knee-length bark-cloth tunic covering both shoulders, a string of snail shells around one wrist, barefoot.",
+                "ref_prompt": "Full-body photorealistic character reference of @Snail: Snail, 8, Stream's little brother in the Stone Age clan; small and wiry, round cheeky face, big curious dark eyes, head shaved except a small tuft of hair on top; a small knee-length bark-cloth tunic covering both shoulders, a string of snail shells around one wrist, barefoot; plain grey studio background, soft cinematic side light, 8K. Not resembling any real person.",
+            }
+        ]
+    },
 ]
 
 CHANNEL_MAX_EPISODES: dict[str, int] = {
@@ -835,6 +904,7 @@ CHANNEL_MAX_EPISODES: dict[str, int] = {
     "ma-da-dam-sen": 15,
     "gang-to-tai-xuat": 27,
     "cai-ket-cho-tieu-tam": 25,
+    "bay-ngay-sinh-ton": 24,
 }
 
 
@@ -2125,7 +2195,7 @@ async def auto_lock_cms_channel_characters(slug: str, force_regenerate: bool = F
 
 class GeneratePromptsRequest(BaseModel):
     episode_num: int
-    clip_count: int = 5
+    clip_count: int = 4  # TikTok: 4 clips × 15s since 12/11/2026
     story_idea: Optional[str] = None
     setting: Optional[str] = None
     scene_beats: Optional[list[str]] = None
@@ -2133,7 +2203,7 @@ class GeneratePromptsRequest(BaseModel):
 
 class CreateEpisodeRequest(BaseModel):
     episode_num: int
-    clip_count: int = 5
+    clip_count: int = 4  # TikTok: 4 clips × 15s since 12/11/2026
     folder_suffix: Optional[str] = None
     story_idea: Optional[str] = None
     setting: Optional[str] = None
@@ -2156,10 +2226,15 @@ def _build_structured_episode_prompts(
     is_portrait = "PORTRAIT" in row_dict["aspect_ratio"]
     ar_text = "Vertical 9:16" if is_portrait else "Widescreen 16:9"
     char_tags = " ".join(c["tag"] for c in chars)
+    # TikTok series: 4 clips × 15s per episode on Omni 1.2 since 12/11/2026 (the runners read the length from
+    # "N-second clip" in [FORMAT]); the landscape films keep their own 10s templates.
+    clip_s = 15 if slug in TIKTOK_15S_SLUGS else 10
+    t1, t2 = (5, 10) if clip_s == 15 else (3.5, 7)
+    t1s, t2s = (f"{t1:04.1f}" if isinstance(t1, float) else f"{t1:02d}"), f"{t2:02d}"
 
     if slug == "mit-va-du-1970":
         world_format = (
-            f"{ar_text}, 10-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, "
+            f"{ar_text}, {clip_s}-second clip, high-end 3D animated film, Pixar/Disney-quality stylized CGI, "
             "soft global illumination, shallow depth of field, 24fps, cinematic color grade. "
             "Era and place: rural Mekong Delta / Vietnamese countryside, 1970. Warm nostalgic palette of honey gold, "
             "rice-paddy green and earth brown, subtle 35mm film grain. Every character in this world is a cute "
@@ -2212,7 +2287,7 @@ def _build_structured_episode_prompts(
         )
     else:
         world_format = (
-            f"{ar_text}, 10-second clip, high-end 3D animated film, Pixar/DreamWorks-quality stylized CGI, "
+            f"{ar_text}, {clip_s}-second clip, high-end 3D animated film, Pixar/DreamWorks-quality stylized CGI, "
             "soft global illumination, shallow depth of field, 24fps, cinematic color grade. "
             + (
                 # TikTok series except Mít & Đú speak "giọng Bắc thanh thoát" (user rule, 07/11/2026)
@@ -2262,9 +2337,9 @@ def _build_structured_episode_prompts(
                 f"[SETTING]\n{final_setting}\n"
                 f"Story context (Tập {episode_num:02d}): {idea_text}\n\n"
                 f"[SHOT LIST]\n"
-                f"00:00–00:03.5 | Medium wide establishing shot — {beat}\n"
-                f"00:03.5–00:07 | Medium shot, dynamic camera — Các nhân vật {char_tags} tương tác trực tiếp với đạo cụ trong cảnh, cử chỉ tự nhiên và biểu cảm rõ nét.\n"
-                f"00:07–00:10 | Medium close-up — Khoảnh khắc nhấn điểm hài hước/đáng yêu cuối cảnh 1 để chuẩn bị nối sang cảnh 2.\n\n"
+                f"00:00–00:{t1s} | Medium wide establishing shot — {beat}\n"
+                f"00:{t1s}–00:{t2s} | Medium shot, dynamic camera — Các nhân vật {char_tags} tương tác trực tiếp với đạo cụ trong cảnh, cử chỉ tự nhiên và biểu cảm rõ nét.\n"
+                f"00:{t2s}–00:{clip_s:02d} | Medium close-up — Khoảnh khắc nhấn điểm hài hước/đáng yêu cuối cảnh 1 để chuẩn bị nối sang cảnh 2.\n\n"
                 f"[SOUND]\n"
                 f"Natural ambient background sounds, expressive foley matching movements, cheerful acoustic folk melody.\n\n"
                 f"[END FRAME]\n"
@@ -2279,9 +2354,9 @@ def _build_structured_episode_prompts(
                 f"[CHARACTERS — unchanged, match {char_tags} reference images]\n"
                 f"{char_block}\n\n"
                 f"[SHOT LIST — TẬP {episode_num:02d} CLIP {idx:02d}]\n"
-                f"00:00–00:03.5 | Same medium shot, continuing seamlessly from the last frame of Clip {idx - 1} — {beat}\n"
-                f"00:03.5–00:07 | Medium shot — Diễn biến tiếp nối mượt mà của {char_tags} trong bối cảnh ({final_setting}).\n"
-                f"00:07–00:10 | Medium close-up — Biểu cảm đáng yêu của {char_tags} khép lại Clip {idx}.\n\n"
+                f"00:00–00:{t1s} | Same medium shot, continuing seamlessly from the last frame of Clip {idx - 1} — {beat}\n"
+                f"00:{t1s}–00:{t2s} | Medium shot — Diễn biến tiếp nối mượt mà của {char_tags} trong bối cảnh ({final_setting}).\n"
+                f"00:{t2s}–00:{clip_s:02d} | Medium close-up — Biểu cảm đáng yêu của {char_tags} khép lại Clip {idx}.\n\n"
                 f"[SOUND]\n"
                 f"Seamless ambient audio continuation, lively foley effects, warm Vietnamese voice acting.\n\n"
                 f"[END FRAME]\n"

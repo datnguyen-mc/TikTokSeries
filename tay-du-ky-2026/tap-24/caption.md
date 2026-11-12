@@ -18,5 +18,5 @@ Tua lại giây 23: Đại Ca hóa quạt Ba Tiêu mà quên giấu đuôi khỉ
 **Trước khi đăng:**
 - Đăng muộn nhất trước 15:44 ngày 12/11/2026 (tin túi thạch của VnExpress ra 15:44 ngày 10/11). Trễ hơn thì bỏ vế "và túi thạch trong suốt… mùa lạnh" ở dòng tổng kết, đổi "3 tin" thành "2 tin" và thay `#TuiThach` bằng `#LapDong`; hai tin còn lại còn hạn tới 05:00 ngày 13/11.
 - Bật nhãn "Nội dung do AI tạo" của TikTok.
-- Xem lại cả 6 clip: không chữ, số, logo hay giao diện ứng dụng trên hình (màn hình điện thoại chỉ có một hình bông tuyết); không tuyết, lửa, khói thật; quạt giả có đuôi khỉ ở clip 3–4 và không có mặt; túi trong suốt chỉ thấy chiếc khăn len kem; giọng Bắc; kệ thờ Phật không xê dịch; khung cuối đủ 5 nhân vật.
+- Xem lại cả 4 clip (mỗi clip 15 giây): không chữ, số, logo hay giao diện ứng dụng trên hình (màn hình điện thoại chỉ có một hình bông tuyết); không tuyết, lửa, khói thật; quạt giả có đuôi khỉ ở clip 2–3 và không có mặt; túi trong suốt chỉ thấy chiếc khăn len kem; giọng Bắc; kệ thờ Phật không xê dịch; khung cuối đủ 5 nhân vật.
 - Đúng 5 hashtag (TikTok báo lỗi từ hashtag thứ sáu).

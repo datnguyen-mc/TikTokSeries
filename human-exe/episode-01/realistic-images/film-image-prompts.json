@@ -1,0 +1,67 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "storyboard-realistic-v1.png",
+  "commonPrompt": "Use case: photorealistic-natural. Asset: one full-frame widescreen 16:9 cinematic film still for a narrated fictional workplace comedy. Use attached storyboard ONLY as actor identity, wardrobe, office architecture and photographic style reference. Do NOT reproduce its grid. Single scene, edge-to-edge photograph, no panels. Keep Ben identical to reference: curly dark brown hair, clean shaven, olive skin, pale blue rolled-sleeve shirt, age 30. Keep Mara identical when present: dark bob, earrings, charcoal blazer, age 40s. Natural human skin texture, realistic hands, candid understated acting, believable ordinary office, restrained cinematic color, 35mm photography. Faces and important actions within central 80 percent, lower 15 percent relatively quiet for later subtitles. No captions, watermarks, logos, giant text, cartoon, holograms or robots.",
+  "scenes": [
+    {
+      "id": "01-printer",
+      "prompt": "Ben stands at an office printer holding two slightly different versions of a report side by side, baffled by unnecessary duplication. Modest printer output tray with more copies. Daytime office, medium-wide composition including his face and printer, dry visual comedy.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-b0bd476c-4cd7-4f1d-ad15-69196f229f94.png"
+    },
+    {
+      "id": "02-workflow",
+      "prompt": "Evening at Ben's desk. Ben concentrating as he builds a simple automation workflow on his desktop monitor, one hand on mouse, notebook of small connected boxes beside keyboard. Over shoulder three-quarter profile that shows both recognizable face and the screen with a modest connected-box diagram. Warm desk lamp and cool empty office beyond.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-c2f6a303-cb7f-4aa5-b82a-ba1d1e7a2a13.png"
+    },
+    {
+      "id": "03-error",
+      "prompt": "Ben sits at his desk holding a report with an obviously absurd rising bar chart, looking from the paper toward a real sandwich on a lunch wrapper beside his keyboard with a puzzled eyebrow. A tiny everyday comedy of a faulty expense report. Medium shot, his face and sandwich clearly visible. No giant readable labels.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-5507a053-b09a-4f44-bdbe-5d92f213853b.png"
+    },
+    {
+      "id": "04-lunch",
+      "prompt": "Ben outdoors during a real lunch break on a modest city park bench, holding a phone to his ear and smiling gently while talking with his mother. Open lunch container sits next to him. Green trees, weekday afternoon sun, ordinary office buildings softly visible behind. Wide environmental shot, entire seated body naturally grounded.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-98b5c9ac-99c2-4333-a75e-af6190c35c53.png"
+    },
+    {
+      "id": "05-overload",
+      "prompt": "Ben at the same office desk now overwhelmed. Three coworkers' hands extend modest folders toward his desk from different directions while his inbox tray is full, Ben looks stunned, not farcical. Coworkers partly visible naturally, no disembodied hands. Realistically sized paperwork and busy background. Medium-wide storytelling photograph.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-925dafd1-498e-46c8-a25c-b0d65c0c171a.png"
+    },
+    {
+      "id": "06-exception",
+      "prompt": "Ben alone in the office kitchenette putting a closed cold lunch container back into the refrigerator with one hand while holding his phone to his ear with the other, exhausted concentration. Fridge door open, shelves visible, muted fluorescent light. Medium-wide shot showing coherent body and ordinary kitchenette. No smile.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-06a8cf64-f83f-461e-82e2-9bc29f9743f1.png"
+    },
+    {
+      "id": "07-jo",
+      "prompt": "Ben and coworker Jo quietly discussing beside his workstation. Jo is an East Asian woman in her early thirties, straight shoulder-length black hair, muted sage green cardigan over cream blouse. Jo gestures toward an unimpressive loading progress bar on his screen with a wry skeptical half smile, Ben looks unconvinced. Both are peers, not flirty. Medium two-shot.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-cfd2a1b1-c3e2-447c-a28c-a8e7f3c5407f.png"
+    },
+    {
+      "id": "08-burnout",
+      "prompt": "Ben exhausted at home on a small sofa after work, still in the pale blue office shirt, shoes off, shoulders slumped, phone face down on coffee table and cold untouched dinner nearby. Evening city light through apartment window. Thoughtful human scene of missing personal time, no melodrama. Wide view, face readable.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-f64d8f91-7998-44df-9758-25622dc178e8.png"
+    },
+    {
+      "id": "09-mara-secret",
+      "prompt": "Private office meeting after hours: Mara turns her laptop toward Ben across a small table, revealing her own automated report dashboard. Mara looks exhausted and honest, Ben surprised in recognition. Same actors as reference, both faces visible in profile three-quarter, laptop between them, closed glass office door behind. Intimate natural cinematic medium two-shot.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-7c85fc9f-876c-4254-9ba1-146b52328f73.png"
+    },
+    {
+      "id": "10-proposal",
+      "prompt": "Ben and Mara present a modest practical workload proposal to four diverse adult coworkers around a conference table. Jo, an East Asian woman with shoulder-length black hair and sage cardigan, sits among them. Ben indicates paper error logs; Mara listens beside him. A wall monitor has a simple chart with green bars, no readable labels. Skeptical but attentive colleagues, realistic meeting not triumphant corporate stock photography. Wide shot.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-7f3247ad-cc43-4f77-a959-d477e90c71f1.png"
+    },
+    {
+      "id": "11-training",
+      "prompt": "Ben patiently teaches Jo to check an unusual report side by side at a computer. Jo is East Asian, shoulder-length black hair, sage cardigan and cream blouse, holding a pen and checking a printed page herself; Ben points to a row on the report, not her. Both thoughtful and relaxed. Mara in softly blurred background discussing a task with another colleague. Warm afternoon office, medium two-shot.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-7fc3dc50-e13d-4e29-ae0c-6d91ef371281.png"
+    },
+    {
+      "id": "12-ending",
+      "prompt": "Ben exits the office building onto a leafy city sidewalk in late afternoon daylight, work bag over one shoulder, pale blue sleeves rolled up, phone tucked away, relaxed genuine smile. Golden sunlight, ordinary pedestrians softly out of focus, feeling of reclaimed time not huge success. Wide cinematic environmental shot, recognizable Ben face and believable walk posture.",
+      "source": "/Users/iseul-a/.codex/generated_images/01a1d4aa-dc9d-7ed1-8b5b-972795356750/exec-c5dff4ef-c5ec-4817-9a07-690faa5c8bdc.png"
+    }
+  ]
+}

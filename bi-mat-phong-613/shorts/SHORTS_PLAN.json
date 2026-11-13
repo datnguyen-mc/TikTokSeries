@@ -1,0 +1,472 @@
+{
+ "series": "bi-mat-phong-613",
+ "film_title": "Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm",
+ "tag": "BÍ MẬT PHÒNG 613",
+ "style": {
+  "tag_bg": "#8B1E2D",
+  "accent": "#5CF2D6"
+ },
+ "speaker_colors": {},
+ "match_script": false,
+ "fixes": {
+  "09.3": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bThời buổi bốn bái\\b": "Thời buổi này cúng bái",
+  "\\bCon lệ\\b": "Con lạy",
+  "\\bkéo tối muộn\\b": "kẻo tối muộn",
+  "\\bdèm\\b": "rèm",
+  "\\blạnh bút\\b": "lạnh buốt",
+  "\\bnhan\\b": "nhang",
+  "\\btắt liệm\\b": "tắt lịm",
+  "\\bÔi dồi ôi\\b": "Ôi giời ơi",
+  "\\bdơ\\b": "giơ",
+  "\\b12 giờ đêm Mà\\b": "12 giờ đêm mà",
+  "^Chính đấy à": "Trinh đấy à",
+  "^Chính vẫn đang": "Trinh vẫn đang",
+  "^Chính ơi": "Trinh ơi",
+  "\\bTrình\\b": "Trinh",
+  "giúp chị Á!": "giúp chị…",
+  "\\bcũ dích\\b": "cũ rích",
+  "\\bchấn ỉm\\b": "trấn yểm",
+  "\\bCháy thành cho\\b": "Cháy thành tro",
+  "\\bhôi dình\\b": "hôi rình",
+  "\\bTrinh Các cụ\\b": "Trinh. Các cụ",
+  "\\bvề liền Quay về\\b": "về liền. Quay về",
+  "\\blá lá bùa\\b": "lá bùa",
+  "\\bđừng treo em\\b": "đừng trêu em",
+  "\\bĐêm giằm\\b": "Đêm rằm",
+  "\\bcửa sắt Ông ta\\b": "cửa sắt… Ông ta",
+  "\\bcác đêm lô xe đêm rằm\\b": "gác đêm lô C. Đêm rằm",
+  "\\bsuối bậy\\b": "xúi bậy",
+  "\\bHồng Hy chính là\\b": "Có khi chính là",
+  "\\bPhương Nhắc ống nghe\\b": "Phương, nhấc ống nghe",
+  "\\bTrinh Khoan hãng mở\\b": "Trinh. Khoan hẵng mở",
+  "\\bdở trò\\b": "giở trò",
+  "\\bAi mở nắp ra đọc dù đáng sợ\\b": "Ai mở nắp ra đọc dù chỉ một chữ… Đáng sợ",
+  "\\blá bùa trò\\b": "lá bùa tro",
+  "\\bthành trò\\b": "thành tro",
+  "^cho giấy là\\b": "tro giấy là",
+  "\\bphơi bảy\\b": "phơi bày",
+  "\\bTrinh Ông Bảy càng\\b": "Trinh. Ông Bảy càng",
+  "\\bnăm 2000 phòng 613\\b": "năm 2016, phòng 613",
+  "\\bvì cửa sắt từ bên vài\\.": "vì cửa sắt bị khóa từ bên ngoài.",
+  "\\bcắt trộm cắp đồng\\b": "cắt trộm cáp đồng",
+  "\\bvà người tớ mau\\b": "vào người tớ mau",
+  "\\bvào trộn nhôm\\b": "vào chậu nhôm",
+  "\\bông bấy\\b": "ông Bảy",
+  "\\btụi mình ta đấy\\b": "tụi mình đấy",
+  "\\bcầu giao\\b": "cầu dao",
+  "\\btội đâu Ở tầng 6\\b": "tội đâu! Ở tầng 6",
+  "\\bcầm chiếc đẹ$": "cầm chiếc đèn pin này",
+  "^dưới sân kiệm này có tụi mình bó hoang\\.": "soi vào mặt tụi mình cơ mà.",
+  "\\bđóng 16 thế này\\b": "đóng kín mít thế này"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 15 phút có trên kênh YouTube, tìm “Bí Mật Phòng 613”",
+ "final_cta": "🎬 Xem trọn bộ 15 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [15 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#bimatphong613",
+   "#phimma",
+   "#phimngan"
+  ],
+  "youtube": [
+   "#bimatphong613",
+   "#phimmavietnam",
+   "#phimngan"
+  ],
+  "facebook": [
+   "#BiMatPhong613",
+   "#PhimMaVietNam",
+   "#PhimNgan",
+   "#ChuyenMaChungCu"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Bí Mật Phòng 613: Lời Cảnh Báo Đêm Rằm — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **các cảnh hay nhất** của phim 15 phút, gồm **11 phần dọc 9:16**, không phải cả phim. Mỗi phần là một khoảnh khắc trọn vẹn dài khoảng 35–50 giây (mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger), xếp theo thứ tự truyện và đăng nối tiếp như một series.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn đỏ đèn thờ “BÍ MẬT PHÒNG 613 • PHẦN N” và câu hook ở trên khung phim (cụm nhấn màu xanh ngọc); phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau, phần cuối đổi thành “XEM FULL PHIM”. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy nguyên từ tiếng thật trong clip (Whisper). Phim không có file phân cảnh JSON nên phụ đề không đối chiếu kịch bản; tên riêng hay chữ nghe sai thì sửa bằng `subtitle_replace` trong plan.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm); clip nào Omni nói lặp lại mấy chữ cuối thì cắt trước đoạn lặp.",
+  "- **File:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; caption TikTok, tiêu đề + mô tả YouTube và caption Facebook của mọi phần nằm ở cuối `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py bi-mat-phong-613              # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py bi-mat-phong-613 --only 7     # một phần",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py bi-mat-phong-613 --captions   # chỉ ghi lại README (lịch + caption)",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Bí Mật Phòng 613”. Chọn ảnh bìa bằng khung hình có hook (giây đầu). Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả ở phần caption bên dưới; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption; tắt “Tạo phụ đề tự động” vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00), 3 nền tảng cùng giờ, bắt đầu 14/11/2026. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Kiểm tra trước khi đăng",
+  "",
+  "- `subtitle_replace` đang để trống: xem phụ đề Whisper rồi thêm cặp sửa chữ khi cần (bản Whisper hiện có: “Chính”/“Trình” thay cho Trinh, “dèm” thay cho rèm, “nhan” thay cho nhang, “cầu giao” thay cho cầu dao, “lô xe” thay cho lô C), dựng lại phần đó bằng `--only`.",
+  "- Caption và câu trích đã so với bản Whisper ngày 13/11: Omni nói rút gọn nhiều câu ở cảnh 10–14 so với prompt, nên caption chỉ kể những gì nghe thấy trong clip.",
+  "- `canh-01/clip-2.md` bị hỏng (chỉ còn 2 ký tự); bản render 01.2 vẫn nói đúng thoại của shot 01.2 trong `KICH_BAN_15_PHUT.md` (đã so với Whisper) nên phần 1 có dùng.",
+  "",
+  "## Lỗi hình thấy trong clip đã chọn (chưa xử lý)",
+  "",
+  "Plan chưa có `from`/`to` hay `fixes`; xem lại rồi render lại clip, hoặc cắt bằng `from` / `fixes` trước khi đăng.",
+  "",
+  "- **09.3** (phần 7, ⭐): viền khung phim đen bo góc suốt cả clip. Script không tự cắt được (dò viền ra 1250×720, cao đủ 720), cần thêm `fixes` crop cho clip này hoặc render lại.",
+  "- **03.1** (phần 2): chữ “tok... tok...” hiện trên cửa kính phòng tắm khoảng giây thứ 5. Dòng “ĐỪNG ĐỐT” trên kính ở 03.2 là có trong kịch bản.",
+  "- **03.3** (phần 2): viền đen trên dưới khoảng 0–1,2 s."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "nen-nhang-giua-tu-tat",
+   "title": "Cúng nhập trạch phòng 613, nén nhang giữa tự tắt",
+   "hook": "Cúng nhập trạch phòng 613,\n[NÉN NHANG GIỮA] tự tắt",
+   "segments": [
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    },
+    {
+     "clip": "01.4"
+    },
+    {
+     "clip": "01.5"
+    },
+    {
+     "clip": "01.6"
+    }
+   ],
+   "caption": "Phương đang cúng nhập trạch trước cửa phòng 613 thì Trinh xách xô nước đi qua làm tắt ngúm cả chậu vàng mã, rồi còn cười chuyện cúng bái. Phương thấy gương Bát Quái trên đầu cửa bị lật úp vào tường, vừa bước qua bậc cửa đã lạnh buốt sống lưng như có ai nhìn từ góc phòng. Ba nén nhang ngoài hành lang, cây chính giữa tự tắt lịm: “điềm người khuất mặt không đồng ý cho ở...”",
+   "question": "Gặp điềm này, bạn có dám ở lại không?",
+   "yt_title": "Cúng nhập trạch phòng 613, nén nhang chính giữa tự tắt lịm | Bí Mật Phòng 613 P1",
+   "tags": [
+    "#tamlinh",
+    "#chungcucu"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "tieng-go-cua-phong-tam",
+   "title": "Ai gõ ba tiếng lên cửa phòng tắm lúc nửa đêm?",
+   "hook": "Ai gõ ba tiếng\nlên [CỬA PHÒNG TẮM]?",
+   "segments": [
+    {
+     "clip": "03.1"
+    },
+    {
+     "clip": "03.2"
+    },
+    {
+     "clip": "03.3"
+    },
+    {
+     "clip": "03.4"
+    },
+    {
+     "clip": "03.5"
+    }
+   ],
+   "caption": "Trinh đang gội đầu thì có tiếng gõ lên cửa kính mờ, vòi sen tắt ngang, một bóng tóc dài lướt qua. Phương thề nãy giờ chỉ đứng góc phòng dò sóng điện thoại: vậy thì “ai vừa gõ ba tiếng lên kính mờ rồi lướt qua cửa nhà tắm lúc nước tắt?!” Dưới sàn còn in một hàng dấu bàn chân trần ướt sũng, trong khi Trinh vẫn đi dép nhựa khô nguyên.",
+   "question": "Theo bạn, dấu chân ướt đó là của ai?",
+   "yt_title": "Ai gõ ba tiếng lên cửa phòng tắm lúc nửa đêm? | Bí Mật Phòng 613 P2",
+   "tags": [
+    "#phimkinhdi",
+    "#phongtro"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "bong-vay-trang-trong-guong",
+   "top": true,
+   "title": "Nửa đêm soi gương, thấy bóng váy trắng sau lưng",
+   "hook": "Nửa đêm soi gương,\nsau lưng [BÓNG VÁY TRẮNG]",
+   "segments": [
+    {
+     "clip": "04.1"
+    },
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    },
+    {
+     "clip": "04.4"
+    }
+   ],
+   "caption": "Gần mười hai giờ đêm rằm, Phương ngồi chải tóc trước chiếc gương tròn và thấy một bóng váy trắng đứng sau tấm rèm xanh. Quay lại thì Trinh vẫn ngủ say, còn cửa phòng tự mở hé. Ngoài khe cửa, cô gái áo trắng thì thầm: “Đừng để ông ta lấy mất cuốn sổ trong chiếc tủ gỗ...”",
+   "question": "Bạn có dám soi gương lúc nửa đêm không?",
+   "yt_title": "Nửa đêm soi gương, thấy bóng váy trắng đứng sau lưng | Bí Mật Phòng 613 P3",
+   "tags": [
+    "#chuyenma",
+    "#demram"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "dot-la-bua-tren-tu",
+   "title": "Cô bạn cứng vía đốt lá bùa niêm phong tủ gỗ",
+   "hook": "Đêm rằm, cô bạn cứng vía\n[ĐỐT LÁ BÙA] trên tủ",
+   "segments": [
+    {
+     "clip": "05.2"
+    },
+    {
+     "clip": "05.3"
+    },
+    {
+     "clip": "05.4"
+    },
+    {
+     "clip": "05.5"
+    },
+    {
+     "clip": "05.6"
+    }
+   ],
+   "caption": "Để Phương hết sợ, Trinh giật lá bùa vàng trên tủ gỗ châm lửa đốt, mặc Phương can: “Đêm rằm mà tự ý xé rồi đốt bùa trấn yểm là đại kỵ đấy!” Lửa bén lên màu xanh lạnh, rồi Trinh còn bê rổ quần áo ra sân phơi lúc quá nửa đêm. Cô vừa khuất bóng, chốt chiếc tủ gỗ đã tự nảy ra.",
+   "question": "Trinh liều hay Phương nhát, bạn đứng về phía ai?",
+   "yt_title": "Đêm rằm, cô bạn cùng phòng đốt lá bùa niêm phong trên tủ gỗ | Bí Mật Phòng 613 P4",
+   "tags": [
+    "#kiengky",
+    "#tamlinh"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "loi-canh-bao-duoi-anh-nen",
+   "title": "Cô gái áo trắng hiện ra, dặn đừng nghe ông bảo vệ",
+   "hook": "Bóng áo trắng hiện ra,\ndặn [ĐỪNG NGHE] ông bảo vệ",
+   "segments": [
+    {
+     "clip": "07.1"
+    },
+    {
+     "clip": "07.2"
+    },
+    {
+     "clip": "07.3"
+    },
+    {
+     "clip": "07.4"
+    }
+   ],
+   "caption": "Mất điện giữa sân phơi, Trinh cầm ly nến đỏ đi giữa giàn đồ, run rẩy xin lỗi vì trót đốt tờ giấy vàng. Cô gái áo trắng hiện ra, không hù dọa mà cảnh báo: “hai em tuyệt đối đừng nghe lời ông bảo vệ mà đốt chiếc hộp sắt trong tủ...” Cô bạn không tin ma quỷ bật khóc gọi Phương.",
+   "question": "Nên tin cô gái áo trắng hay ông bảo vệ?",
+   "yt_title": "Cô gái áo trắng hiện ra giữa sân phơi, dặn đừng nghe lời ông bảo vệ | Bí Mật Phòng 613 P5",
+   "tags": [
+    "#chuyenma",
+    "#bian"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "ong-bay-bao-ve",
+   "title": "Chưa kể gì, ông bảo vệ đã biết cô ấy gặp ai",
+   "hook": "Chưa kể gì, ông bảo vệ\nđã biết [CÔ ẤY GẶP AI]",
+   "segments": [
+    {
+     "clip": "07.6"
+    },
+    {
+     "clip": "08.1"
+    },
+    {
+     "clip": "08.2"
+    },
+    {
+     "clip": "08.3"
+    }
+   ],
+   "caption": "Chạy khỏi sân phơi, Trinh đâm sầm vào ông Bảy, bảo vệ gác đêm lô C. Cô chưa kịp kể, ông đã hỏi: “chắc vừa thấy con bé mặc váy trắng đứng sau tấm ga giường ở sân phơi rồi phải không?” Vừa nghe nhắc tới chiếc hộp sắt trong tủ gỗ, mặt ông biến sắc.",
+   "question": "Sao ông Bảy lại biết rõ thế nhỉ?",
+   "yt_title": "Chưa kể gì, ông bảo vệ đã biết cô ấy vừa gặp ai | Bí Mật Phòng 613 P6",
+   "tags": [
+    "#baove",
+    "#bian"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "dien-thoai-dut-day-do-chuong",
+   "top": true,
+   "title": "Điện thoại đứt dây tự đổ chuông giữa đêm",
+   "hook": "Điện thoại [ĐỨT DÂY]\ntự đổ chuông giữa đêm",
+   "segments": [
+    {
+     "clip": "09.2"
+    },
+    {
+     "clip": "09.3"
+    },
+    {
+     "clip": "09.4"
+    },
+    {
+     "clip": "09.5"
+    }
+   ],
+   "caption": "Chiếc điện thoại nội bộ trên tường đã đứt dây từ lâu bỗng đổ chuông. Phương nhấc máy, nghe tiếng lửa cháy và tiếng một cô gái gào khóc “kêu chú Bảy mở khóa cửa sắt!”. Rồi hai cánh tủ gỗ tự bật mở, để lộ chiếc hộp sắt ám khói đen, đúng lúc ông Bảy cầm nhang quay lên tới cửa.",
+   "question": "Nếu là bạn, bạn có dám nhấc máy không?",
+   "yt_title": "Điện thoại đứt dây tự đổ chuông, đầu dây là tiếng đám cháy năm xưa | Bí Mật Phòng 613 P7",
+   "tags": [
+    "#phimkinhdi",
+    "#chuyenma"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "dot-hop-sat-truoc-3-gio",
+   "title": "Ông bảo vệ ép đốt hộp sắt trước 3 giờ sáng",
+   "hook": "Phải đốt hộp sắt\n[TRƯỚC 3 GIỜ SÁNG]",
+   "segments": [
+    {
+     "clip": "10.2"
+    },
+    {
+     "clip": "10.3"
+    },
+    {
+     "clip": "10.4"
+    },
+    {
+     "clip": "10.5"
+    },
+    {
+     "clip": "10.6"
+    }
+   ],
+   "caption": "Ông Bảy chỉ vào chiếc hộp sắt, bảo trong đó là “sổ sách tà đạo của con bé gặp nạn tám năm trước” và cấm mở ra đọc. Ông dúi lá bùa tro, ép hai cô trút hết giấy tờ ra chậu nhôm đốt thành tro trước ba giờ sáng, lúc ấy chỉ còn bốn mươi lăm phút. Trinh vặn lại: nguy hiểm thế, sao tám năm qua bác không tự đốt đi?",
+   "question": "Bạn sẽ đốt hay mở hộp ra đọc?",
+   "yt_title": "Ông bảo vệ ép đốt hộp sắt trước 3 giờ sáng, cấm không được đọc | Bí Mật Phòng 613 P8",
+   "tags": [
+    "#bian",
+    "#tamlinh"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "mo-hop-sat",
+   "title": "Mở hộp sắt bị cấm, thấy cô gái trong gương",
+   "hook": "Mở hộp sắt, thẻ sinh viên\nlà [CÔ GÁI TRONG GƯƠNG]",
+   "segments": [
+    {
+     "clip": "11.2"
+    },
+    {
+     "clip": "11.3"
+    },
+    {
+     "clip": "11.4"
+    },
+    {
+     "clip": "11.5"
+    },
+    {
+     "clip": "11.6"
+    }
+   ],
+   "caption": "Bất chấp lời cấm, Trinh bật chốt hộp sắt: bên trong chỉ có thẻ sinh viên, bài báo cũ và một cuốn nhật ký bìa da. “Tấm ảnh trên thẻ sinh viên này chính là chị mặc đầm trắng tớ thấy trong gương.” Nhật ký của chị Linh ghi đêm mồng 3 tháng 11, chị phát hiện ông Bảy cắt trộm cáp đồng báo cháy, định sáng hôm sau nộp cuốn sổ, thì ngay đêm đó hành lang chập điện bốc cháy.",
+   "question": "Bạn đã nghi ông Bảy từ lúc nào?",
+   "yt_title": "Mở hộp sắt bị cấm, thẻ sinh viên bên trong là cô gái trong gương | Bí Mật Phòng 613 P9",
+   "tags": [
+    "#plottwist",
+    "#bian"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "khoa-trai-cua-luc-3-gio",
+   "title": "3 giờ sáng, ông bảo vệ khóa trái cửa phòng 613",
+   "hook": "3 giờ sáng, ông bảo vệ\n[KHÓA TRÁI CỬA] phòng 613",
+   "segments": [
+    {
+     "clip": "12.2"
+    },
+    {
+     "clip": "12.3"
+    },
+    {
+     "clip": "12.4"
+    },
+    {
+     "clip": "12.5"
+    },
+    {
+     "clip": "12.6"
+    }
+   ],
+   "caption": "Phương vạch mặt ông Bảy: “Chính ông đã khóa trái cửa sắt bên ngoài lúc chập điện, làm chị Linh không thoát ra được!” Ông không chối, khóa luôn cửa nhốt hai cô từ bên ngoài như tám năm trước, rồi đặt tay lên hộp cầu dao điện. Tiếng chuông bạc ngân lên ở cuối hành lang, và chị Linh xuất hiện.",
+   "question": "Chị Linh sẽ làm gì ông Bảy?",
+   "yt_title": "Đúng 3 giờ sáng, ông bảo vệ khóa trái cửa nhốt hai cô gái | Bí Mật Phòng 613 P10",
+   "tags": [
+    "#caotrao",
+    "#phimkinhdi"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "hai-tam-di-anh",
+   "top": true,
+   "title": "Bốt bảo vệ bỏ hoang 8 năm, bên trong có hai di ảnh",
+   "hook": "Bốt bảo vệ bỏ hoang\ncó [HAI TẤM DI ẢNH]",
+   "segments": [
+    {
+     "clip": "14.5"
+    },
+    {
+     "clip": "14.6"
+    },
+    {
+     "clip": "15.1"
+    },
+    {
+     "clip": "15.2"
+    },
+    {
+     "clip": "15.3"
+    }
+   ],
+   "caption": "Sáng ra, hai cô phát hiện bốt bảo vệ dưới sân đã đóng cửa bỏ hoang: “Nếu bốt bảo vệ này đã bỏ hoang suốt tám năm qua, nói chuyện với tụi mình suốt đêm qua là ai?” Qua chiếc gương tròn, hai cô thấy bàn thờ với hai khung ảnh, chị Linh và ông Bảy. Đêm cháy năm ấy, khóa cửa nhốt chị Linh xong thì hộp cầu dao phát nổ, ông Bảy chết cùng đêm.",
+   "question": "Bạn nhận ra ông Bảy là người đã khuất từ lúc nào?",
+   "yt_title": "Bốt bảo vệ bỏ hoang 8 năm, bên trong có hai tấm di ảnh | Bí Mật Phòng 613 P11",
+   "tags": [
+    "#plottwist",
+    "#ketphim"
+   ]
+  }
+ ]
+}

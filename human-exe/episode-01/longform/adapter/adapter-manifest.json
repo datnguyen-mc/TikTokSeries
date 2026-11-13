@@ -1,0 +1,6 @@
+{
+  "scope": "Only scheduling of actual evidence extraction, four concurrent jobs. No approval/acceptance checks removed or filled.",
+  "upstream_renderer_sha256": "c7e15dbebfd906ba869ca6486efa07e79fbc0f6bbde54a0f60fefc5d700a1b98",
+  "local_renderer_sha256": "aa3d6e9b45da84771ae5f5104bffcfa5359e3e1b1a6a2c98fde7bb779f9b4000",
+  "local_reference_module_sha256": "b6f55cd6d9f5d604ee8b592c4a036c66023998e17dbc22b4523f9885a1d33bfb"
+}

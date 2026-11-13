@@ -1,0 +1,446 @@
+{
+ "series": "can-nha-am-duong",
+ "film_title": "Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít",
+ "tag": "CĂN NHÀ ÂM DƯƠNG",
+ "style": {
+  "tag_bg": "#7A0E0E",
+  "accent": "#E6FF3B"
+ },
+ "speaker_colors": {},
+ "match_script": true,
+ "fixes": {
+  "01.1": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "06.6": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "12.3": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "07.3": {
+   "crop": [
+    1052,
+    592,
+    114,
+    10
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bBình Đành\\b": "Bình đành",
+  "\\bsắt giít rỉ sét\\b": "sắt rỉ sét",
+  "\\bbỏ không không ấy\\b": "bỏ không ấy",
+  "\\bngười đái người đàn ông\\b": "người đàn ông",
+  "\\bcon Van xin\\b": "con van xin",
+  "\\bthắp hương Xin lỗi\\b": "thắp hương xin lỗi",
+  "\\bNghĩa Trang\\b": "nghĩa trang",
+  "\\bsự sự im lặng\\b": "sự im lặng",
+  "^Nay đã tím": "nay đã tím",
+  "^Năm ngón tay hằn": "năm ngón tay hằn",
+  "^Rồi tan biến": "rồi tan biến",
+  "^Hãy ngủ lại": "hãy ngủ lại"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 15 phút có trên kênh YouTube, tìm “Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít”",
+ "final_cta": "🎬 Xem trọn bộ 15 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [15 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#cannhaamduong",
+   "#phimma",
+   "#truyenma"
+  ],
+  "youtube": [
+   "#cannhaamduong",
+   "#phimma",
+   "#truyenma"
+  ],
+  "facebook": [
+   "#CanNhaAmDuong",
+   "#PhimMa",
+   "#TruyenMa",
+   "#PhimNgan"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Căn Nhà Âm Dương: Oan Hồn Dưới Gốc Mít — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **các cảnh hay nhất** của phim ma 15 phút, không phải cả phim: **11 phần dọc 9:16**, mỗi phần là một khoảnh khắc trọn vẹn dài 30–60 giây (bí ẩn, hù dọa, cú lật), mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger, đăng nối tiếp theo thứ tự truyện như một series.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn đỏ máu “CĂN NHÀ ÂM DƯƠNG • PHẦN N” và câu hook ở trên khung phim (cụm nhấn màu vàng chanh); phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau, phần cuối đổi thành “XEM FULL PHIM”. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chính tả và tên riêng sửa theo kịch bản `PHAN_CANH_OMNI.json`. Câu Omni nói khác kịch bản thì phụ đề theo tiếng thật.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** mỗi đoạn dùng nguyên clip; khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm), câu Omni đọc lặp ở đuôi clip được cắt bỏ.",
+  "- **File:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; lịch đăng và caption TikTok, tiêu đề + mô tả YouTube, caption Facebook của mọi phần nằm trong `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py can-nha-am-duong            # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py can-nha-am-duong --only 4   # một phần",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py can-nha-am-duong --captions # chỉ caption + README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = 3 phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Căn Nhà Âm Dương”. Chọn ảnh bìa bằng khung hình có hook (giây đầu). Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả trong README này; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption; tắt “Tạo phụ đề tự động” vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00) từ 14/11, 3 nền tảng cùng giờ. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Ghi chú dựng",
+  "",
+  "- Các đoạn đang dùng nguyên clip, chưa có `from`/`to`: xem bản dựng rồi tinh chỉnh điểm cắt trong plan nếu cần.",
+  "- `subtitle_replace` và `fixes` đang trống: điền sau khi xem bản Whisper (tên riêng nghe sai, chữ hay logo Omni tự vẽ vào khung).",
+  "- Đã đối chiếu bản Whisper (`shorts/_whisper/`) của mọi clip trong plan với kịch bản: thoại khớp. Nhiều clip VO đọc lặp cụm cuối câu (05.5, 06.4–06.6, 07.5, 08.2, 08.6, 10.2, 10.6, 11.4, 12.2); script tự cắt đoạn lặp ở đuôi clip.",
+  "- **02.5** (8,7 s): tiếng bị cắt, ông Bảy dừng ở “nhà ấy nặng âm khí”, mất cụm “có ma đấy!” của kịch bản (phần 2). **12.2**: nghe như Omni nói vấp “người đái người đàn ông” (phần 10). Cần nghe lại trước khi đăng."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "tron-no-ve-nha-hoang",
+   "title": "Ôm nợ 400 triệu, trốn về căn nhà hoang của ông nội",
+   "hook": "Trốn nợ 400 triệu về\n[NHÀ CỦA MA QUỶ]",
+   "segments": [
+    {
+     "clip": "01.1"
+    },
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    },
+    {
+     "clip": "01.4"
+    }
+   ],
+   "caption": "Ôm món nợ hơn bốn trăm triệu, Bình bỏ trốn trong đêm về căn nhà hoang của ông nội. Mẹ gọi điện, giọng run run: “Bố mày vẫn chưa biết chuyện đâu, nhưng đám chủ nợ sắp tìm tới nhà rồi, mày về quê nội phải thật cẩn thận nhé!” Cậu đâu biết sau vụ tai nạn cướp đi sáu mạng người, căn nhà ấy đã thành nơi trú ngụ của ma quỷ.",
+   "question": "Nợ ngập đầu, bạn có dám về ở căn nhà ấy không?",
+   "yt_title": "Ôm nợ 400 triệu, trốn về căn nhà hoang có ma của ông nội | Căn Nhà Âm Dương P1",
+   "tags": [
+    "#tronno",
+    "#nhahoang"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "hoi-duong-ca-xom-bien-sac",
+   "title": "Hỏi đường về nhà ông nội, ai nghe cũng biến sắc",
+   "hook": "Hỏi đường về nhà ông,\nai nghe cũng [BIẾN SẮC]",
+   "segments": [
+    {
+     "clip": "02.3"
+    },
+    {
+     "clip": "02.4"
+    },
+    {
+     "clip": "02.5"
+    },
+    {
+     "clip": "02.6"
+    }
+   ],
+   "caption": "Bình định ẩn náu ở quê nội ít ngày, nhưng hỏi đường về nhà cụ Xá thì ai cũng biến sắc. Ông Bảy hàng xóm chỉ tay về cuối xóm: “Căn nhà cuối xóm có gốc mít cổ thụ ấy bỏ hoang hai mươi năm nay rồi cậu ơi, nhà ấy nặng âm khí…” Đứng trước cánh cổng sắt rỉ sét, một luồng khí lạnh thổi ra làm Bình rùng mình.",
+   "question": "Hàng xóm cảnh báo thế, bạn còn dám bước qua cổng không?",
+   "yt_title": "Hỏi đường về nhà ông nội, cả xóm biến sắc: nhà ấy có ma | Căn Nhà Âm Dương P2",
+   "tags": [
+    "#nhama",
+    "#gocmit"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "xe-ruoc-dau-luc-ba-gio-sang",
+   "title": "Xe rước dâu lật trước cổng lúc 3 giờ sáng",
+   "hook": "3 giờ sáng, xe rước dâu\nlật nhào: [6 NGƯỜI CHẾT]",
+   "segments": [
+    {
+     "clip": "03.4"
+    },
+    {
+     "clip": "03.5"
+    },
+    {
+     "clip": "03.6"
+    }
+   ],
+   "caption": "Nghe chồng bảo mai cho Bình sang nhà hoang ở, vợ ông Bảy tái mặt kéo chồng ra góc hiên. Mười ba năm trước, đúng ba giờ sáng, chiếc xe rước dâu lật nhào trước cổng làm sáu người chết thảm. “Những oan hồn chết oan khuất không tìm được đường về đã kéo cả vào căn nhà bỏ không ấy trú ngụ suốt bao năm.”",
+   "question": "Bạn có tin người chết oan sẽ ở lại nơi mình mất không?",
+   "yt_title": "13 năm trước, xe rước dâu lật trước cổng nhà hoang lúc 3 giờ sáng | Căn Nhà Âm Dương P3",
+   "tags": [
+    "#chuyenma",
+    "#oanhon"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "vet-bam-nam-ngon-tay",
+   "top": true,
+   "title": "Đêm đầu ngủ nhà hoang, sáng ra cổ tay hằn 5 ngón",
+   "hook": "Đêm đầu ở nhà hoang,\nsáng ra [VẾT BẦM 5 NGÓN]",
+   "segments": [
+    {
+     "clip": "05.2"
+    },
+    {
+     "clip": "05.3"
+    },
+    {
+     "clip": "05.4"
+    },
+    {
+     "clip": "05.5"
+    },
+    {
+     "clip": "05.6"
+    }
+   ],
+   "caption": "Đêm đầu tiên ngủ một mình, ngay bên ngoài lớp màn mỏng có bóng người cao gầy lặng lẽ đi quanh giường. Bình hét lên: “Ai đó?! Bỏ ngay cái bàn tay lạnh buốt ấy ra khỏi người tôi, cứu tôi với…” Trời hửng sáng, cổ tay cậu hằn vết bầm tím đen năm ngón tay… bước ra nắng thì biến mất sạch trơn, nhưng trong góc tối cái bóng đen vẫn dõi theo.",
+   "question": "Bạn đã bao giờ bị bóng đè như Bình chưa?",
+   "yt_title": "Đêm đầu ngủ nhà hoang, sáng ra cổ tay hằn vết bầm 5 ngón tay | Căn Nhà Âm Dương P4",
+   "tags": [
+    "#bongde",
+    "#nhama"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "bong-ma-xin-thuoc-la",
+   "title": "Mời thuốc dưới gốc mít, gặp mặt không có con ngươi",
+   "hook": "Mời thuốc dưới gốc mít,\nma [KHÔNG CÓ CON NGƯƠI]",
+   "segments": [
+    {
+     "clip": "06.3"
+    },
+    {
+     "clip": "06.4"
+    },
+    {
+     "clip": "06.5"
+    },
+    {
+     "clip": "06.6"
+    }
+   ],
+   "caption": "Bên bàn rượu quê, ông Bảy hạ giọng kể chuyện ông Tư gặp ma dưới gốc mít: “Đêm đó ông Tư đi về khuya bật lửa mời thuốc, hiện ra trước mặt ông là khuôn mặt trắng bệch không có con ngươi!” Thứ tà ma ấy nhoẻn miệng cười rồi tan vào thân cây, để lại bao thuốc lá trên rễ mít. Đêm khuya, Bình phải một mình bước qua đúng gốc mít ấy.",
+   "question": "Gặp cảnh này giữa đêm, bạn chạy hay đứng im?",
+   "yt_title": "Bật lửa mời thuốc dưới gốc mít, hiện ra khuôn mặt không có con ngươi | Căn Nhà Âm Dương P5",
+   "tags": [
+    "#gocmit",
+    "#chuyenma"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "hoi-tho-lanh-sau-gay",
+   "title": "Đèn tắt phụt, hơi thở lạnh buốt phả vào sau gáy",
+   "hook": "Đèn tắt phụt, có ai đó\n[THỞ SAU GÁY] mình…",
+   "segments": [
+    {
+     "clip": "07.2"
+    },
+    {
+     "clip": "07.3"
+    },
+    {
+     "clip": "07.4"
+    },
+    {
+     "clip": "07.5"
+    },
+    {
+     "clip": "07.6"
+    }
+   ],
+   "caption": "Đêm thứ ba, chiếc xoong nhôm rơi loảng xoảng dưới bếp, Bình tự trấn an: “Chắc chỉ là con chuột thôi mà.” Vừa chạm tay vào chiếc đinh, bóng đèn nổ lách tách rồi tắt phụt, một luồng hơi thở lạnh như băng phả thẳng vào sau gáy. Đèn sáng lại, ngoài cửa sổ một bóng trắng lướt vụt qua chấn song…",
+   "question": "Đến đây bạn còn tin là con chuột không?",
+   "yt_title": "Đèn tắt phụt, hơi thở lạnh buốt phả vào sau gáy giữa đêm | Căn Nhà Âm Dương P6",
+   "tags": [
+    "#kinhdi",
+    "#nhama"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "ban-tay-xam-thoc-qua-man",
+   "top": true,
+   "title": "2 giờ 45 sáng, bàn tay xám ngoét thò qua màn",
+   "hook": "2 giờ 45 sáng, bàn tay\nxác chết [THÒ QUA MÀN]",
+   "segments": [
+    {
+     "clip": "08.2"
+    },
+    {
+     "clip": "08.3"
+    },
+    {
+     "clip": "08.4"
+    },
+    {
+     "clip": "08.5"
+    },
+    {
+     "clip": "08.6"
+    }
+   ],
+   "caption": "Đúng hai giờ bốn mươi lăm phút sáng, Bình choàng tỉnh vì cảm giác có kẻ đang nhìn sát mặt mình. Đáp lại cậu chỉ là im lặng chết chóc, rồi một bàn tay xám ngoét năm móng đen thò xuyên qua màn: “Đi đi, mày hãy cút khỏi căn nhà này ngay lập tức…” Sáng ra, vết bầm năm ngón trên cổ tay đã tím đen, không tan nữa.",
+   "question": "Nếu là Bình, đêm mai bạn còn dám ở lại không?",
+   "yt_title": "2 giờ 45 sáng, bàn tay xác chết thò qua màn đuổi người sống | Căn Nhà Âm Dương P7",
+   "tags": [
+    "#bongde",
+    "#kinhdi"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "vong-ong-noi-hien-ve",
+   "top": true,
+   "title": "Bóng ma trong góc nhà hóa ra là ông nội",
+   "hook": "Bóng ma trong góc nhà\nhóa ra là [ÔNG NỘI]",
+   "segments": [
+    {
+     "clip": "10.2"
+    },
+    {
+     "clip": "10.3"
+    },
+    {
+     "clip": "10.4"
+    },
+    {
+     "clip": "10.5"
+    },
+    {
+     "clip": "10.6"
+    }
+   ],
+   "caption": "Một giờ sáng đêm thứ năm, hơi thở Bình phả ra khói trắng, từ góc gian thờ cũ một bóng già hiện lên: “Bình đấy ư, đứa cháu nội đích tôn của ông đấy ư, con đừng sợ ông.” Ông kể ngày ông mất, bố Bình quên lễ rước vong, để hồn ông bơ vơ lạnh lẽo… và chính ông đã sai vong gốc mít vào dọa cháu.",
+   "question": "Bạn có đoán ra ai sai con ma gốc mít từ đầu không?",
+   "yt_title": "Bóng ma hiện trong góc nhà hóa ra là ông nội, cú lật khó tin | Căn Nhà Âm Dương P8",
+   "tags": [
+    "#plottwist",
+    "#ongnoi"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "xin-bo-ngu-nha-ma",
+   "title": "Con xin bố về ngủ nhà ma, bố giơ tay định đánh",
+   "hook": "Con xin bố một điều:\n[NGỦ NHÀ MA] một đêm",
+   "segments": [
+    {
+     "clip": "11.2"
+    },
+    {
+     "clip": "11.3"
+    },
+    {
+     "clip": "11.4"
+    },
+    {
+     "clip": "11.5"
+    },
+    {
+     "clip": "11.6"
+    }
+   ],
+   "caption": "Bình gọi cho bố, ông Quân gầm lên: “Thằng nghịch tử kia! Mày phá gia chi tử nợ bốn trăm triệu rồi còn dám lôi vong hồn ông nội ra lừa bố hả?!” Ngay chiều ấy ông về tới cổng, giơ tay định đánh, nhưng bàn tay khựng lại khi con trai quỳ xin bố ngủ lại căn nhà ấy một đêm.",
+   "question": "Ông Quân có dám ngủ lại căn nhà ấy không?",
+   "yt_title": "Nợ 400 triệu, con xin bố về ngủ nhà ma một đêm, bố giơ tay định đánh | Căn Nhà Âm Dương P9",
+   "tags": [
+    "#chacon",
+    "#giadinh"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "nguoi-cha-khoc-trong-mo",
+   "title": "Ngủ một đêm ở nhà ma, người cha bật khóc trong mơ",
+   "hook": "Ngủ một đêm ở nhà ma,\nngười cha [BẬT KHÓC]",
+   "segments": [
+    {
+     "clip": "12.2"
+    },
+    {
+     "clip": "12.3"
+    },
+    {
+     "clip": "12.4"
+    },
+    {
+     "clip": "12.5"
+    }
+   ],
+   "caption": "Giữa đêm không ai biết ông Quân mơ thấy gì, chỉ thấy người đàn ông sắt đá ấy bật khóc trong giấc ngủ. Tờ mờ sáng, ông một mình quỳ gục trước mộ cha, rồi cùng Bình khiêng tủ thờ mới về đặt giữa nhà: “Bố ơi con bất hiếu quá, bao năm để hồn bố lạnh lẽo nơi quê nhà, hôm nay con xin rước bố về gian thờ tổ!”",
+   "question": "Bạn nghĩ đêm ấy ông Quân đã mơ thấy ai?",
+   "yt_title": "Ngủ một đêm ở nhà ma, người cha sắt đá bật khóc trong mơ | Căn Nhà Âm Dương P10",
+   "tags": [
+    "#chuhieu",
+    "#xucdong"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "loi-nhan-coi-am",
+   "title": "Đêm trăng cuối, vong ông nội mỉm cười tan vào trăng",
+   "hook": "Đêm trăng cuối cùng,\nvong ông nội [MỈM CƯỜI]",
+   "segments": [
+    {
+     "clip": "15.2"
+    },
+    {
+     "clip": "15.3"
+    },
+    {
+     "clip": "15.4"
+    },
+    {
+     "clip": "15.5"
+    },
+    {
+     "clip": "15.6"
+    }
+   ],
+   "caption": "Dưới ánh trăng rằm, vong hồn cụ Xá mỉm cười thanh thản rồi tan dần vào ánh trăng. “Sợi dây duy nhất có thể hóa giải mọi oán hờn giữa hai cõi âm dương, chính là chữ Hiếu và lòng thành kính từ tâm can.” Căn nhà ma năm nào giờ sáng ấm giữa cánh đồng quê, và đồng hồ đã điểm sang canh ba.",
+   "question": "Lần gần nhất bạn thắp nén nhang cho ông bà là khi nào?",
+   "yt_title": "Vong ông nội mỉm cười tan vào ánh trăng, lời nhắn từ cõi âm | Căn Nhà Âm Dương P11",
+   "tags": [
+    "#chuhieu",
+    "#amduong"
+   ]
+  }
+ ]
+}

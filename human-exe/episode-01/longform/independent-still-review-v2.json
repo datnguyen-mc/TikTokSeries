@@ -1,0 +1,104 @@
+{
+  "reviewer": {
+    "id": "review_longform",
+    "kind": "agent",
+    "independent_from_production_author": true
+  },
+  "scope": "Second independent still/source review. All 19 regenerated contact sheets inspected. No video/audio acceptance.",
+  "status": "confirmed prior defects largely repaired; one residual semantic prop issue reported",
+  "preserved_original_review": "independent-still-review.json",
+  "project_sha256_at_source_recheck": "608a3536bc95813f741578210ad193b33c30d3ea5d68c2a1a85cb5b2ac9d05cf",
+  "rechecked_repairs": [
+    {
+      "id": "S01",
+      "status": "corrected in stills",
+      "detail": "Shot 14 now shows A FAMILY OF FILES and multiple document versions, replacing the inappropriate steaming meal."
+    },
+    {
+      "id": "S02",
+      "status": "partially corrected",
+      "detail": "Shots 52–53 now say WAITING/NOTHING with a tray instead of MORE WORK. A hovering report.png remains alongside the tray, which still reads as an arriving item."
+    },
+    {
+      "id": "S03",
+      "status": "corrected in stills",
+      "detail": "Shot 102 shows cold unsteaming lunch on a fridge shelf with LUNCH CAN WAIT. AGAIN."
+    },
+    {
+      "id": "S04",
+      "status": "corrected in stills",
+      "detail": "Shot 118 shows NO WALK TODAY, crossed-out bench and Ben at the desk."
+    },
+    {
+      "id": "S05",
+      "status": "corrected in picture concept and current source",
+      "detail": "Shots 130–131 show two machine/work lanes rather than outside/phone. Current project source includes mara.png for Mara; low-resolution earlier concern about identity was retracted after source recheck."
+    },
+    {
+      "id": "S06",
+      "status": "corrected in stills",
+      "detail": "Shot 138 now shows calendar/question with LUNCH: TENTATIVE, not an actual enjoyed warm meal."
+    },
+    {
+      "id": "S07",
+      "status": "corrected in stills",
+      "detail": "Shot 178 now shows THE FIRST TEST and an incoming review/gate concept, without bowl."
+    },
+    {
+      "id": "C01",
+      "status": "corrected in stills",
+      "detail": "Outside Ben now stands on ground beside the bench, with foot baseline near bench ground rather than bench seat."
+    },
+    {
+      "id": "T01",
+      "status": "corrected in stills",
+      "detail": "Meeting Ben is lower below the title band; LET'S TALK no longer touches his hair."
+    },
+    {
+      "id": "R01",
+      "status": "materially improved in stills",
+      "detail": "Workflow sequence now differentiates experiment desk, dummy-data machine, message sorting, detail extraction, draft, review gate, human decision and transfer."
+    },
+    {
+      "id": "R02",
+      "status": "materially improved in stills",
+      "detail": "Timer run replaced by report-before-coffee, totals/magnifier, check marks, attachments, permission/question, waiting tray, quiet machine and quiet-head scenes."
+    },
+    {
+      "id": "R03",
+      "status": "materially improved in stills",
+      "detail": "Stack run now has same desk, unchanged salary card, bigger rectangle, calendar temporary question, workflow batch, department, longer queues and improvement check. Some earlier reward/factory shots still repeat layouts, but the cited long run is differentiated."
+    },
+    {
+      "id": "D01",
+      "status": "corrected in source",
+      "detail": "project.json and shot-ledger.json now both contain 218 entries."
+    }
+  ],
+  "remaining_findings": [
+    {
+      "priority": "medium",
+      "shots": [
+        52,
+        53
+      ],
+      "times_seconds": [
+        133.58,
+        135.24
+      ],
+      "observation": "An actual report floats above/to the right of the tray during WAITING and NOTHING, contradicting the empty-queue intent.",
+      "suggestion": "Remove report.png in these two shots; use the actor gaze or tray/question action if motion coverage is needed."
+    }
+  ],
+  "additional_observations": [
+    "No new confirmed title/caption clipping or overlap in revised defect areas.",
+    "One-line subtitles remain in their reserved lower band in inspected stills.",
+    "The original suspected shot 103 overlap remains retracted, not a defect."
+  ],
+  "limits": [
+    "Still review only; no actual continuous encoded playback reviewed.",
+    "No audio listening, mix intelligibility, caption synchronization or SFX timing review performed.",
+    "No B1 sample-equivalence or full creative acceptance inferred.",
+    "Repairs after this source/sheet snapshot require updated inspection."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "reviewer": {
+    "id": "review_longform",
+    "kind": "agent",
+    "independent_from_production_author": true
+  },
+  "scope": "Single decoded-frame local repair recheck only",
+  "time_seconds": 370,
+  "evidence": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/longform/encoded-checks/frame-370-v5.png",
+  "evidence_sha256": "0308678ddb08b4c35c774ff8725f97b5079464edb77aa3a520abda06cab35bd9",
+  "status": "local title/head clearance observed corrected in decoded v5 still",
+  "limits": [
+    "No full playback or listening performed.",
+    "No B1 equivalence, full-film acceptance or user approval inferred.",
+    "Prior review files preserved."
+  ],
+  "observation": "Ben's head is now visibly below THE NEXT CONVEYOR BELT, with clear near-white space between its upper hair strokes and the title. No title/head contact or caption clipping is visible in this frame.",
+  "residual_issue_in_this_frame": null
+}

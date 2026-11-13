@@ -1,0 +1,431 @@
+{
+ "series": "tieng-go-dem-ba-gio",
+ "film_title": "Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong",
+ "tag": "TIẾNG GÕ ĐÊM BA GIỜ",
+ "style": {
+  "tag_bg": "#2B1650",
+  "accent": "#3DF5D2"
+ },
+ "speaker_colors": {},
+ "match_script": true,
+ "fixes": {
+  "07.4": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "01.3": {
+   "crop": [
+    1052,
+    592,
+    114,
+    10
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bcô Úc\\b": "cô Út",
+  "\\bChu Sa\\b": "chu sa",
+  "\\bcọc Mà\\b": "cọc mà",
+  "^Mở chiếc phong bì": "mở chiếc phong bì",
+  "\\btờ tờ\\b": "tờ",
+  "^Và đôi mắt": "và đôi mắt",
+  "\\bÁc Linh\\b": "Ác linh",
+  "^Hả\\?$": "",
+  "^Rồi tà linh": "rồi tà linh",
+  "\\blên lên nắp\\b": "lên nắp"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 15 phút có trên kênh YouTube, tìm “Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong”",
+ "final_cta": "🎬 Xem trọn bộ 15 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [15 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#tienggodembagio",
+   "#phimma",
+   "#truyenma"
+  ],
+  "youtube": [
+   "#tienggodembagio",
+   "#phimma",
+   "#truyenma"
+  ],
+  "facebook": [
+   "#TiengGoDemBaGio",
+   "#PhimMa",
+   "#TruyenMa",
+   "#PhimNgan"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Tiếng Gõ Đêm Ba Giờ: Lời Nguyền Giếng Đá Ong — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **các cảnh hay nhất** của phim ma 15 phút, không phải cả phim: **11 phần dọc 9:16**, mỗi phần là một khoảnh khắc trọn vẹn dài 30–60 giây (bí ẩn, hù dọa, cú lật), mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger, đăng nối tiếp theo thứ tự truyện như một series.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn tím than “TIẾNG GÕ ĐÊM BA GIỜ • PHẦN N” và câu hook ở trên khung phim (cụm nhấn màu xanh ngọc); phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau, phần cuối đổi thành “XEM FULL PHIM”. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chính tả và tên riêng sửa theo kịch bản `PHAN_CANH_OMNI.json`. Câu Omni nói khác kịch bản thì phụ đề theo tiếng thật.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** mỗi đoạn dùng nguyên clip; khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm), câu Omni đọc lặp ở đuôi clip được cắt bỏ.",
+  "- **File:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; lịch đăng và caption TikTok, tiêu đề + mô tả YouTube, caption Facebook của mọi phần nằm trong `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py tieng-go-dem-ba-gio            # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py tieng-go-dem-ba-gio --only 2   # một phần",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py tieng-go-dem-ba-gio --captions # chỉ caption + README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = 3 phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Tiếng Gõ Đêm Ba Giờ”. Chọn ảnh bìa bằng khung hình có hook (giây đầu). Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả trong README này; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption; tắt “Tạo phụ đề tự động” vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00) từ 14/11, 3 nền tảng cùng giờ. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Ghi chú dựng",
+  "",
+  "- Các đoạn đang dùng nguyên clip, chưa có `from`/`to`: xem bản dựng rồi tinh chỉnh điểm cắt trong plan nếu cần.",
+  "- `subtitle_replace` và `fixes` đang trống: điền sau khi xem bản Whisper (tên riêng nghe sai, chữ hay logo Omni tự vẽ vào khung).",
+  "- Đã đối chiếu bản Whisper (`shorts/_whisper/`) của mọi clip trong plan với kịch bản: thoại khớp. Các clip 06.6, 08.2, 09.1, 09.2, 10.2, 13.5 đọc lặp cụm cuối câu; script tự cắt đoạn lặp ở đuôi clip.",
+  "- **03.5** (7,4 s): mất vế đầu “Khoảng không phía sau hoàn toàn trống rỗng”, câu bắt đầu từ “Nhưng mặt sàn gỗ khô…” (phần 3). **06.6**: nói vấp “kéo anh, kéo anh”, phụ đề tự gộp nhưng tiếng vẫn còn (phần 5). **13.5**: mất chữ “Tấm bia” ở đầu câu (phần 10)."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "ba-dieu-cam-ky",
+   "title": "Trông nhà cổ 3 đêm, bà quản gia dặn 3 điều cấm kỵ",
+   "hook": "Trông nhà cổ 3 đêm,\nnhớ [3 ĐIỀU CẤM KỴ]",
+   "segments": [
+    {
+     "clip": "01.3"
+    },
+    {
+     "clip": "01.4"
+    },
+    {
+     "clip": "01.5"
+    },
+    {
+     "clip": "01.6"
+    }
+   ],
+   "caption": "Đón Lâm nơi hiên nhà lạnh toát là bà Cầm mù một mắt, tay nắm chặt chùm chìa khóa đồng: “Đúng ba giờ sáng, dù dưới đáy giếng có tiếng khóc gọi tên, cậu tuyệt đối không được mở xích nhìn xuống!” Cấm soi gương đồng phủ lụa đen sau nửa đêm, hành lang hiện cửa thứ tư phải lùi ngay. Lâm điểm chỉ lên giấy… và cánh cổng sắt khép lại sau lưng anh.",
+   "question": "Ba điều cấm này, bạn giữ nổi điều nào?",
+   "yt_title": "Nhận trông nhà cổ 3 đêm, bà quản gia mù một mắt dặn 3 điều cấm kỵ | Tiếng Gõ Đêm Ba Giờ P1",
+   "tags": [
+    "#nhaco",
+    "#camky"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "tieng-go-duoi-day-gieng",
+   "top": true,
+   "title": "2 giờ 59 sáng, ba tiếng gõ dội lên từ đáy giếng",
+   "hook": "Đúng 2 giờ 59 sáng,\ndưới giếng [3 TIẾNG GÕ]",
+   "segments": [
+    {
+     "clip": "02.2"
+    },
+    {
+     "clip": "02.3"
+    },
+    {
+     "clip": "02.4"
+    },
+    {
+     "clip": "02.5"
+    },
+    {
+     "clip": "02.6"
+    }
+   ],
+   "caption": "Hai giờ năm mươi chín phút, đồng hồ quả lắc đứng khựng, nến bàn thờ phụt tắt. Từ đáy giếng đá ong, ba tiếng gõ trầm đục dội lên nắp đá, xích sắt tự giật căng, rồi năm ngón tay trắng bệch rớm máu thò lên bấu chặt thành giếng. Ngay khe cửa, một giọng con gái thì thầm: “Lâm ơi cứu em ra khỏi đáy giếng lạnh lẽo này với, ở dưới này tối tăm và ngột ngạt lắm Lâm ơi!”",
+   "question": "Nếu là Lâm, bạn có mở nắp giếng không?",
+   "yt_title": "2 giờ 59 sáng, ba tiếng gõ dội lên từ đáy giếng bị xích | Tiếng Gõ Đêm Ba Giờ P2",
+   "tags": [
+    "#gieng",
+    "#kinhdi"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "bong-ma-trong-guong-dong",
+   "title": "Lỡ nhìn vào gương đồng, thấy cô gái sát sau gáy",
+   "hook": "Lỡ nhìn vào gương đồng,\nthấy [AI ĐÓ SAU GÁY]",
+   "segments": [
+    {
+     "clip": "03.2"
+    },
+    {
+     "clip": "03.3"
+    },
+    {
+     "clip": "03.4"
+    },
+    {
+     "clip": "03.5"
+    },
+    {
+     "clip": "03.6"
+    }
+   ],
+   "caption": "Cúi nhặt tấm khăn lụa đen vừa rơi, Lâm vô tình nhìn thẳng vào gương đồng: ngay sát sau gáy anh là bóng cô gái áo dài trắng ướt đẫm bùn đen. Anh quay phắt lại: “Ai đó?! Kẻ nào vừa đứng ngay sát sau lưng tôi ở trong gian nhà thờ tối tăm này thế hả?!” Phía sau trống rỗng, chỉ có hai dấu chân bùn đen trên sàn gỗ khô… và bóng ma trong gương mỉm cười vươn bàn tay rớm máu ra ngoài.",
+   "question": "Bạn còn dám soi gương lúc nửa đêm không?",
+   "yt_title": "Lỡ nhìn vào gương đồng sau nửa đêm, thấy cô gái đứng sát sau gáy | Tiếng Gõ Đêm Ba Giờ P3",
+   "tags": [
+    "#guongdong",
+    "#kinhdi"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "bong-ma-trong-anh-chup",
+   "top": true,
+   "title": "Mỗi tấm ảnh, bóng ma lại tiến gần ống kính hơn",
+   "hook": "Mỗi tấm ảnh, bóng ma\nlại [TIẾN GẦN HƠN]",
+   "segments": [
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    },
+    {
+     "clip": "04.4"
+    },
+    {
+     "clip": "04.5"
+    }
+   ],
+   "caption": "Xem lại ảnh chụp gian nhà trống, Lâm thấy bóng áo trắng thấp thoáng nơi góc cột gỗ lim. Sang tấm thứ hai, thứ ba, sau mỗi lần chớp đèn cái bóng lại tiến gần thêm, đến tấm cuối thì khuôn mặt trắng bệch đã áp sát ống kính. “Đột nhiên đèn flash máy ảnh tự chớp sáng trắng xóa, cô gái áo trắng đang đứng ngay bên kia chiếc bàn gỗ!”",
+   "question": "Đến tấm ảnh thứ mấy thì bạn ném máy ảnh đi?",
+   "yt_title": "Mỗi tấm ảnh chụp, bóng ma áo trắng lại tiến gần ống kính hơn | Tiếng Gõ Đêm Ba Giờ P4",
+   "tags": [
+    "#anhma",
+    "#kinhdi"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "canh-cua-thu-tu",
+   "title": "Hành lang chỉ có 3 cửa, nửa đêm hiện cửa thứ tư",
+   "hook": "Hành lang chỉ có 3 cửa,\nbỗng hiện [CỬA THỨ TƯ]",
+   "segments": [
+    {
+     "clip": "06.3"
+    },
+    {
+     "clip": "06.4"
+    },
+    {
+     "clip": "06.5"
+    },
+    {
+     "clip": "06.6"
+    }
+   ],
+   "caption": "Nơi bức vách gỗ trống ban ngày, đêm thứ hai bỗng lù lù hiện ra cánh cửa buồng thứ tư đỏ sẫm như máu, sau cửa vang tiếng khung cửi lách cách hòa tiếng con gái khóc. “Lâm nhắm chặt mắt bước lùi, nhưng mới lùi được ba bước thì cánh cửa thứ tư bỗng tự bật chốt mở toang!” Một luồng lực vô hình níu dây máy ảnh, kéo anh vào buồng niêm phong.",
+   "question": "Sau cánh cửa thứ tư có gì, bạn đoán thử?",
+   "yt_title": "Hành lang chỉ có 3 cửa, nửa đêm hiện ra cánh cửa thứ tư đỏ như máu | Tiếng Gõ Đêm Ba Giờ P5",
+   "tags": [
+    "#cuathutu",
+    "#bian"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "nguc-ngam-duoi-gieng",
+   "title": "Buồng niêm phong 50 năm và nắp hầm thông xuống giếng",
+   "hook": "Buồng niêm phong 50 năm\ngiấu một [NGỤC NGẦM]",
+   "segments": [
+    {
+     "clip": "07.2"
+    },
+    {
+     "clip": "07.3"
+    },
+    {
+     "clip": "07.4"
+    },
+    {
+     "clip": "07.5"
+    },
+    {
+     "clip": "07.6"
+    }
+   ],
+   "caption": "Trong căn buồng niêm phong, di ảnh cô gái áo trắng bị ai cào nát hai mắt, dưới chiếu cói là nắp hầm chi chít vết móng tay cào thông thẳng xuống đáy giếng: một ngục ngầm dùng chôn sống người. Bóng cô gái trồi lên chỉ tay vào bức ảnh gia tộc, và cụ Từ giữ đền lao vào: “Cậu đừng sợ! Oán hồn cô ấy đang chỉ mặt kẻ thủ ác đã chôn sống mình năm mươi năm trước đấy!”",
+   "question": "Theo bạn, kẻ thủ ác trong bức ảnh là ai?",
+   "yt_title": "Buồng niêm phong 50 năm, nắp hầm thông xuống đáy giếng chôn người | Tiếng Gõ Đêm Ba Giờ P6",
+   "tags": [
+    "#bian",
+    "#oanhon"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "ba-quan-gia-da-chet",
+   "top": true,
+   "title": "Bà lão giao chìa khóa đã chết từ 3 năm trước",
+   "hook": "Bà lão đưa chìa khóa\nđã [CHẾT 3 NĂM TRƯỚC]",
+   "segments": [
+    {
+     "clip": "08.2"
+    },
+    {
+     "clip": "08.3"
+    },
+    {
+     "clip": "08.4"
+    },
+    {
+     "clip": "08.5"
+    },
+    {
+     "clip": "08.6"
+    }
+   ],
+   "caption": "Năm mươi năm trước, mụ quản gia tên Cầm vu oan cho cô Út, trói cô thả xuống giếng rồi khóa chặt bằng bia đá và xích sắt. Lâm sững người: “Khoan đã cụ ơi, vậy bà lão mặc áo đen đưa chìa khóa bắt cháu lăn tay chiều hôm qua là ai?!” Cụ Từ tái mặt: bà Cầm đã ngã gãy cổ chết dưới đáy giếng từ ba năm trước rồi.",
+   "question": "Bạn có đoán ra bà Cầm là ai từ phần đầu không?",
+   "yt_title": "Bà quản gia giao chìa khóa hóa ra đã chết từ 3 năm trước | Tiếng Gõ Đêm Ba Giờ P7",
+   "tags": [
+    "#plottwist",
+    "#bacam"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "tien-coc-hoa-vang-ma",
+   "title": "Mở phong bì tiền cọc, toàn là tiền vàng mã",
+   "hook": "Mở phong bì tiền cọc,\ntoàn là [TIỀN VÀNG MÃ]",
+   "segments": [
+    {
+     "clip": "09.1"
+    },
+    {
+     "clip": "09.2"
+    },
+    {
+     "clip": "09.3"
+    },
+    {
+     "clip": "09.4"
+    }
+   ],
+   "caption": "Lâm mở phong bì tiền cọc bà Cầm đưa chiều qua: chẳng có tờ tiền thật nào, chỉ toàn tiền vàng mã âm phủ tanh mùi bùn. Tờ giấy anh điểm chỉ hóa ra là Khế Ước Thế Mạng. Cụ Từ nói: “Bà Cầm lừa cậu lăn tay giữ nắp giếng ba đêm, để đúng giờ Dần lấy mạng cậu thế chỗ dưới đáy giếng!”",
+   "question": "Bạn đã bao giờ ký giấy mà không đọc kỹ chưa?",
+   "yt_title": "Mở phong bì tiền cọc toàn vàng mã, tờ giấy điểm chỉ là khế ước thế mạng | Tiếng Gõ Đêm Ba Giờ P8",
+   "tags": [
+    "#khecuoc",
+    "#vangma"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "ac-linh-co-gay-ngoai-hien",
+   "title": "Tiếng chìa khóa ngoài hiên, ác linh cổ gãy đòi mạng",
+   "hook": "Nửa đêm ngoài hiên\nvang [TIẾNG CHÌA KHÓA]",
+   "segments": [
+    {
+     "clip": "09.6"
+    },
+    {
+     "clip": "10.1"
+    },
+    {
+     "clip": "10.2"
+    },
+    {
+     "clip": "10.3"
+    },
+    {
+     "clip": "10.4"
+    }
+   ],
+   "caption": "Đúng lúc sự thật hé lộ, ngoài hiên vang lên tiếng chùm chìa khóa đồng khua trong mưa. Dưới ánh chớp, bà Cầm từ từ ngẩng lên với cái cổ gãy vẹo và đôi mắt trắng dã: “Mày đã điểm chỉ máu vào khế ước rồi con ạ, đêm mai đúng ba giờ sáng hồn mày phải thế chỗ tao!” Cụ Từ lập tức lao lên dán lá bùa Chu Sa vào cửa gỗ.",
+   "question": "Lá bùa của cụ Từ giữ được Lâm đến bao giờ?",
+   "yt_title": "Nửa đêm tiếng chìa khóa ngoài hiên, ác linh cổ gãy đến đòi mạng | Tiếng Gõ Đêm Ba Giờ P9",
+   "tags": [
+    "#aclinh",
+    "#bacam"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "nhat-bua-luc-2-gio-59",
+   "title": "Nhát búa lúc 2 giờ 59, đập vỡ bia trấn yểm",
+   "hook": "2 giờ 59, một nhát búa\n[ĐẬP VỠ BIA TRẤN YỂM]",
+   "segments": [
+    {
+     "clip": "13.1"
+    },
+    {
+     "clip": "13.2"
+    },
+    {
+     "clip": "13.3"
+    },
+    {
+     "clip": "13.4"
+    },
+    {
+     "clip": "13.5"
+    }
+   ],
+   "caption": "Lâm vung búa chặt đứt vòng xích thứ nhất, ác linh bà Cầm rú lên lao tới, nhưng bóng trắng cô Út đã kịp hiện ra chắn trước mặt. “Tấm bia trấn yểm này hãy vỡ toạc ra đi!! Trả lại ánh sáng tự do cho người bị chôn dưới đáy giếng sâu!!” Bia đá vỡ đôi, tờ khế ước tự bốc lửa xanh, và bà Cầm tan thành vũng bùn đen.",
+   "question": "Khoảnh khắc nào làm bạn nổi da gà nhất?",
+   "yt_title": "Nhát búa lúc 2 giờ 59 đập vỡ bia trấn yểm, ác linh tan thành bùn | Tiếng Gõ Đêm Ba Giờ P10",
+   "tags": [
+    "#tranyem",
+    "#giaioan"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "dau-tay-tren-guong-dong",
+   "title": "Quay lưng rời nhà cổ, gương đồng hiện dấu tay vẫy chào",
+   "hook": "Quay lưng rời nhà cổ,\ngương hiện [DẤU BÀN TAY]",
+   "segments": [
+    {
+     "clip": "15.3"
+    },
+    {
+     "clip": "15.4"
+    },
+    {
+     "clip": "15.5"
+    },
+    {
+     "clip": "15.6"
+    }
+   ],
+   "caption": "Trước khi về phố, Lâm quay lại gian chính thu dọn hành lý bên chiếc gương đồng nay đã sáng bóng nắng mai. Đúng lúc anh quay lưng, trên mặt gương phía sau hiện lên dấu bàn tay vẫy chào. “Hãy yên nghỉ thanh thản nơi chín suối nhé cô Út, tạm biệt cô, tôi trở về thành phố đây.”",
+   "question": "Cái kết này làm bạn sợ hay ấm lòng?",
+   "yt_title": "Quay lưng rời nhà cổ, gương đồng hiện dấu bàn tay vẫy chào | Tiếng Gõ Đêm Ba Giờ P11",
+   "tags": [
+    "#ketphim",
+    "#guongdong"
+   ]
+  }
+ ]
+}

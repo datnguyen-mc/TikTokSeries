@@ -1,0 +1,390 @@
+{
+ "series": "oan-thai-doi-me",
+ "film_title": "Oán Thai Đòi Mẹ: Búp Bê Đất Nung",
+ "tag": "OÁN THAI ĐÒI MẸ",
+ "style": {
+  "tag_bg": "#8E0E12",
+  "accent": "#E8FF3A"
+ },
+ "speaker_colors": {},
+ "match_script": false,
+ "fixes": {},
+ "subtitle_replace": {
+  "\\bchuyển tai nhau\\b": "truyền tai nhau",
+  "\\bviên gạch chấn\\b": "viên gạch trấn",
+  "\\blớp cho lạnh\\b": "lớp tro lạnh",
+  "\\b30 năm dòng\\b": "30 năm ròng",
+  "\\btrằng chịt\\b": "chằng chịt",
+  "\\bchói chặt\\b": "trói chặt",
+  "\\bgiấu vết\\b": "dấu vết",
+  "\\bđồ quái gì ấy\\b": "đồ quái gở ấy",
+  "\\bÔm ghi lấy\\b": "Ôm ghì lấy",
+  "\\bvề buồn ngủ\\b": "về buồng ngủ",
+  "\\blạnh bút\\b": "lạnh buốt",
+  "\\bmặt mũi hà\\b": "mặt mũi Hà",
+  "\\bgiật thoát\\b": "giật thót",
+  "\\bdạch mở\\b": "rạch mở",
+  "^con Rồi con về": "con. Rồi con về",
+  "^cho bếp\\b": "tro bếp",
+  "\\bđất xét\\b": "đất sét",
+  "\\bcon người thứ hai\\b": "con ngươi thứ hai",
+  "\\bvô chi\\b": "vô tri",
+  "^Ha!$": "Hà!",
+  "\\bco do\\b": "co ro",
+  "\\bgỗ liêm khóa kính\\b": "gỗ lim khóa kín",
+  "\\bbà lụa\\b": "bà Lụa",
+  "\\bvòng hồn\\b": "vong hồn",
+  "\\bChúng kế\\b": "Trúng kế",
+  "\\bQuá ướt hận\\b": "Quá uất hận",
+  "\\bvạt áo bách\\b": "vạt áo Bách",
+  "\\bem nhá Thầy$": "em nhé. Thầy",
+  "\\bcầm lặng\\b": "câm lặng"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 14 phút có trên kênh YouTube, tìm “Oán Thai Đòi Mẹ”",
+ "final_cta": "🎬 Xem trọn bộ 14 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [14 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#oanthaidoime",
+   "#phimkinhdi",
+   "#truyenma"
+  ],
+  "youtube": [
+   "#oanthaidoime",
+   "#phimkinhdi",
+   "#truyenma"
+  ],
+  "facebook": [
+   "#OanThaiDoiMe",
+   "#PhimKinhDi",
+   "#TruyenMa",
+   "#TamLinh"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Oán Thai Đòi Mẹ: Búp Bê Đất Nung — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **các cảnh hay nhất** của phim 14 phút: **10 phần dọc 9:16**, không phải cả phim. Mỗi phần là một khoảnh khắc rùng rợn, bí ẩn hoặc một cú lật, dài 30–60 giây (mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger), đăng nối tiếp theo thứ tự truyện.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn đỏ máu “OÁN THAI ĐÒI MẸ • PHẦN N” và câu hook ở trên khung phim; phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy nguyên từ tiếng thật trong clip (Whisper), không so kịch bản vì bản render dùng lời thoại cũ; chữ Whisper nghe nhầm sửa bằng `subtitle_replace`.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm); câu Omni nói lặp ở cuối clip bị cắt bỏ.",
+  "- **Kết quả:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; lịch đăng và caption TikTok / YouTube / Facebook của mọi phần nằm trong `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py oan-thai-doi-me            # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py oan-thai-doi-me --only 3   # một phần",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py oan-thai-doi-me --captions   # chỉ ghi lại README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Oán Thai Đòi Mẹ”. Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả ở phần caption bên dưới; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption; tắt phụ đề tự động vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00), 3 nền tảng cùng giờ, bắt đầu Thứ Bảy 14/11. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Ghi chú bản short",
+  "",
+  "- **Chọn cảnh:** 10 khoảnh khắc mạnh nhất (khoảng 6,7 phút clip thô trên 14 phút phim), chỉ dùng clip đã render và sạch khung hình.",
+  "- **Thoại trong clip là bản cũ:** tiếng thật trong 76 clip đã render khác câu chữ của `KICH_BAN_14_PHUT.md` và `canh-XX/clip-N.md` hiện tại (cùng diễn biến, khác lời). Phim không có `PHAN_CANH_OMNI.json` nên `match_script: false`: phụ đề theo tiếng thật (Whisper), caption trích đúng câu nghe được.",
+  "- **Chính tả phụ đề:** `subtitle_replace` còn trống; điền sau khi xem bản Whisper. Lỗi nghe nhầm thường gặp: “đất xét” → “đất sét”, “chấn” → “trấn”, “cho” → “tro”, “dạch” → “rạch”, “bà lụa” → “bà Lụa”, “bách” → “Bách”, “oán thai” → “Oán Thai”, “Chúng kế” → “Trúng kế”.",
+  "- **Clip chưa render:** 05.2, 05.6, 08.2, 10.6, 12.6, 13.5, 14.3, 14.4. Vì thiếu 14.3–14.4 (vết rạn đất nung trên tay Bách) nên chưa có phần kết phim.",
+  "- **Clip có chữ hoặc máy quay lọt khung, short không dùng** (bản FULL vẫn chứa, nên render lại): giờ in trên hình ở 03.2 (“23:45”), 04.6 (“2:00 AM” kèm chữ ở góc), 05.1 (“9:00 PM”), 09.2 (“2:15 AM”), 10.4; chữ “50mm AM” ở 07.4 và 08.5; chữ góc phải ở 07.5; chú thích tên “Thay Phong” ở 11.4; máy quay lọt khung ở 04.1, 10.1, 13.1 (13.1 còn phụ đề cháy vào hình).",
+  "- **Clip 01.1** (phần 1) nói lặp câu cuối “…kín cửa thì chẳng ai được đục mở”; script tự cắt đoạn lặp."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "lo-gom-bi-bit-kin",
+   "title": "Phá lò gốm bị bít kín, lôi ra tượng hài nhi đất nung",
+   "hook": "Phá lò gốm bị bít kín,\nlôi ra [TƯỢNG HÀI NHI]",
+   "segments": [
+    {
+     "clip": "01.1"
+    },
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    },
+    {
+     "clip": "01.4"
+    },
+    {
+     "clip": "01.5"
+    },
+    {
+     "clip": "01.6"
+    }
+   ],
+   "caption": "“Lò bầu nào đã xây gạch bít kín cửa thì chẳng ai được đục mở.” Vậy mà vì muốn kiếm tư liệu cho dự án 3D, Bách tự tay rút viên gạch trấn và lôi ra một pho tượng đất nung hình đứa trẻ sơ sinh, chưa kịp có mắt có miệng. Anh không hề biết thứ bị giam dưới đáy lò suốt ba thập kỷ đã lặng lẽ theo anh về tận nhà.",
+   "question": "Đồ trong lò bị bít kín, bạn có dám mang về nhà không?",
+   "yt_title": "Phá lò gốm bị bít kín, lôi ra tượng hài nhi không mắt không miệng | Oán Thai Đòi Mẹ P1",
+   "tags": [
+    "#gomco",
+    "#tamlinh"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "giot-mau-bi-hut-can",
+   "title": "Giọt máu mẹ bầu nhỏ xuống, tượng đất hút cạn sạch",
+   "hook": "Giọt máu mẹ bầu nhỏ xuống,\ntượng đất [HÚT CẠN SẠCH]",
+   "segments": [
+    {
+     "clip": "02.2"
+    },
+    {
+     "clip": "02.3"
+    },
+    {
+     "clip": "02.4"
+    },
+    {
+     "clip": "02.5"
+    },
+    {
+     "clip": "02.6"
+    }
+   ],
+   "caption": "Vừa mở tấm vải nâu, ánh mắt Hà khựng lại như có sợi dây vô hình trói tâm trí cô vào khối đất lạnh. Giọt máu từ đầu ngón tay cô nhỏ xuống pho tượng rồi rút cạn không còn dấu vết, đứa bé trong bụng đạp thốc lên như muốn kêu cứu. Hà ôm ghì lấy pho tượng: “Em nghe rõ mồn một tiếng nó đang khóc vì lạnh và tối lắm Bách ơi.”",
+   "question": "Hà đang nghe thấy tiếng khóc của ai?",
+   "yt_title": "Giọt máu mẹ bầu nhỏ xuống tượng đất nung, bị hút cạn không còn dấu vết | Oán Thai Đòi Mẹ P2",
+   "tags": [
+    "#mebau",
+    "#kinhdi"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "rach-mieng-tuong-dat",
+   "title": "Mẹ bầu cầm dao rạch miệng tượng đất giữa đêm",
+   "hook": "Mẹ bầu cầm dao\n[RẠCH MIỆNG] tượng đất",
+   "segments": [
+    {
+     "clip": "03.3"
+    },
+    {
+     "clip": "03.4"
+    },
+    {
+     "clip": "03.5"
+    },
+    {
+     "clip": "03.6"
+    }
+   ],
+   "caption": "Vừa miết kín nét chữ cuối cùng, một luồng gió lạnh buốt từ pho tượng sộc thẳng vào ngực Hà. Đôi tay cô như bị ai cầm lái, rút dao rạch mở cái miệng vốn đã bị phong kín của đứa trẻ đất nung: “Sắp xong rồi con ơi. Đêm nay mẹ trả lại mắt mũi cho con.” Ngay góc tối sau kệ gốm, bóng một người đàn bà lặng lẽ hiện ra, chắp đôi bàn tay nứt nẻ đầy tuyệt vọng.",
+   "question": "Người đàn bà sau kệ gốm là ai?",
+   "yt_title": "Mẹ bầu như bị nhập, cầm dao rạch miệng tượng đất nung giữa đêm | Oán Thai Đòi Mẹ P3",
+   "tags": [
+    "#kinhdi",
+    "#mebau"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "diem-mat-cho-tuong-dat",
+   "top": true,
+   "title": "2 giờ sáng, vợ bầu ngồi điểm mắt cho tượng đất",
+   "hook": "2 giờ sáng, vợ bầu ngồi\n[ĐIỂM MẮT] cho tượng đất",
+   "segments": [
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    },
+    {
+     "clip": "04.4"
+    },
+    {
+     "clip": "04.5"
+    }
+   ],
+   "caption": "Hai giờ sáng, Hà ngồi cầm cọ hát: “Búp bê đất sét chẳng có lông mày, chẳng có mắt.” Đầu cọ vừa chấm xong con ngươi thứ hai, pho tượng như có hồn, trợn đôi mắt đen nhánh. Bách gọi được vợ tỉnh lại, nhưng trên bàn, pho tượng đã mở to đôi mắt đen ngòm nhìn hai vợ chồng.",
+   "question": "Bạn có dám ở lại căn phòng đó đến sáng không?",
+   "yt_title": "2 giờ sáng, vợ bầu ngồi hát rồi điểm mắt cho tượng đất nung | Oán Thai Đòi Mẹ P4",
+   "tags": [
+    "#kinhdi",
+    "#nuadem"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "may-quet-thay-dua-tre",
+   "top": true,
+   "title": "Nôi trống trơn, máy quét 3D lại thấy đứa trẻ",
+   "hook": "Nôi trống trơn, nhưng\n[MÁY QUÉT] thấy đứa trẻ",
+   "segments": [
+    {
+     "clip": "05.3"
+    },
+    {
+     "clip": "05.4"
+    },
+    {
+     "clip": "05.5"
+    }
+   ],
+   "caption": "“Nhìn bằng mắt thường thì chiếc nôi trống không, ấy thế mà qua màn hình cảm biến, lại hiện lên một đứa trẻ đang nằm co ro bên trong lòng nôi.” Bách lao sang phòng phục chế: pho tượng trên bàn xoay đã biến mất, chỉ còn tiếng cào sột soạt dưới gầm bàn. Và người đang ôm khư khư pho tượng dưới đó là vợ anh.",
+   "question": "Máy quét thấy được ma, bạn tin không?",
+   "yt_title": "Nôi trống trơn, máy quét 3D lại thấy đứa trẻ nằm co ro bên trong | Oán Thai Đòi Mẹ P5",
+   "tags": [
+    "#bian",
+    "#tamlinh"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "hinh-nhan-trong-guong",
+   "title": "Soi gương, thấy hình nhân bùn đất bám chặt trước ngực",
+   "hook": "Soi gương, thấy [HÌNH NHÂN]\nbùn đất bám trên ngực",
+   "segments": [
+    {
+     "clip": "06.2"
+    },
+    {
+     "clip": "06.3"
+    },
+    {
+     "clip": "06.4"
+    },
+    {
+     "clip": "06.5"
+    }
+   ],
+   "caption": "Đêm soi vào gương tủ, Hà không còn thấy bóng mình, chỉ thấy một hình nhân phủ đất bùn đang bám chặt lấy ngực. Từ chiếc rương gỗ lim khóa kín, tiếng khóc oe oe nghẹt thở vọng ra: “Bách ơi, cứu lấy con mình với!” Chiếc khóa đồng tự bung chốt, và Bách hiểu chẳng thứ khoa học nào giải thích nổi tai họa trong ngôi nhà này nữa.",
+   "question": "Nếu là Bách, bạn sẽ làm gì tiếp theo?",
+   "yt_title": "Soi gương thấy hình nhân bùn đất, rương khóa kín vọng ra tiếng trẻ khóc | Oán Thai Đòi Mẹ P6",
+   "tags": [
+    "#kinhdi",
+    "#guongma"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "ke-dieu-ho-ly-son",
+   "top": true,
+   "title": "Mở túi ra mới biết tượng thật vẫn ở nhà với vợ",
+   "hook": "Mở túi ra mới biết\n[TƯỢNG THẬT] vẫn ở nhà",
+   "segments": [
+    {
+     "clip": "09.3"
+    },
+    {
+     "clip": "09.4"
+    },
+    {
+     "clip": "09.5"
+    }
+   ],
+   "caption": "Từ phía sau bộ hài cốt trong lò, vong hồn bà Lụa hiện lên, tuyệt vọng lắc đầu chỉ vào chiếc túi vải trên tay Bách. Mở túi ra, cả hai chết điếng: thứ mang tới lò chỉ là khối đất nặn giả đang tan thành bùn, còn pho tượng thật vẫn nằm ở nhà bên cạnh Hà. “Trúng kế điệu hổ ly sơn của nó rồi! Nó định ra tay đúng canh ba đêm nay đấy!”",
+   "question": "Ở nhà một mình với pho tượng thật, Hà sẽ ra sao?",
+   "yt_title": "Mang tượng về trấn lại lò, mở túi ra mới biết tượng thật vẫn ở nhà | Oán Thai Đòi Mẹ P7",
+   "tags": [
+    "#plottwist",
+    "#kinhdi"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "dap-vo-tuong-mat-ca-hai",
+   "title": "Đập vỡ tượng đất là mất cả hai mẹ con",
+   "hook": "Đập vỡ tượng đất là\n[MẤT CẢ HAI MẸ CON]",
+   "segments": [
+    {
+     "clip": "11.1"
+    },
+    {
+     "clip": "11.2"
+    },
+    {
+     "clip": "11.3"
+    }
+   ],
+   "caption": "Bách vớ chiếc búa gỗ định đập tan pho tượng, thầy Phong lao tới chụp chặt cổ tay anh: “Dừng tay lại ngay! Giọt máu của vợ cậu đã nối liền pho tượng với cái thai rồi.” Đập vỡ tượng là hại chết vợ con, mà để yên tới 3 giờ sáng thì đứa bé trong bụng sẽ bị Oán Thai cướp mất.",
+   "question": "Nếu là Bách, bạn sẽ chọn thế nào?",
+   "yt_title": "Định đập vỡ tượng đất cứu vợ, thầy pháp hét dừng tay: mất cả hai mẹ con | Oán Thai Đòi Mẹ P8",
+   "tags": [
+    "#plottwist",
+    "#tamlinh"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "nguoi-cha-nhan-thay",
+   "title": "Người cha xin nhận lời nguyền thay vợ con",
+   "hook": "Chữ Mẫu đổi thành chữ Phụ,\nngười cha [NHẬN THAY]",
+   "segments": [
+    {
+     "clip": "11.5"
+    },
+    {
+     "clip": "11.6"
+    },
+    {
+     "clip": "12.1"
+    },
+    {
+     "clip": "12.2"
+    },
+    {
+     "clip": "12.3"
+    }
+   ],
+   "caption": "“Thầy Phong, nếu không đập vỡ tượng được thì có cách nào chuyển sợi dây nối mạng từ vợ tôi sang người tôi không hả thầy?” Sợi chỉ đỏ được tháo khỏi cổ tay vợ, buộc sang cổ tay chồng, chữ Mẫu trong huyết ấn đổi thành chữ Phụ. Hà bừng tỉnh, níu chặt vạt áo Bách: “Đừng làm thế mà Bách ơi! Em van anh đừng nhận nó vào người.”",
+   "question": "Câu nói nào làm bạn rưng rưng nhất?",
+   "yt_title": "Người cha xin nhận lời nguyền thay vợ con, vợ níu áo van xin | Oán Thai Đòi Mẹ P9",
+   "tags": [
+    "#tinhcha",
+    "#camdong"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "dat-ten-con-la-binh-an",
+   "title": "“Sinh con ra nhớ đặt tên con là Bình An”",
+   "hook": "Ôm chặt tượng đất, anh dặn\n[ĐẶT TÊN CON] là Bình An",
+   "segments": [
+    {
+     "clip": "13.2"
+    },
+    {
+     "clip": "13.3"
+    },
+    {
+     "clip": "13.4"
+    }
+   ],
+   "caption": "Giữ chặt pho tượng trong tay, Bách dặn vợ: “Hà ơi, sinh con ra nhớ đặt tên con là Bình An em nhé!” Đúng lúc ấy, vong hồn bà Lụa lao tới ôm chầm lấy tượng đất, tự nguyện hút ngược tử khí về mình để chuộc lỗi. Người mẹ làm gốm năm xưa mỉm cười thanh thản, cùng đứa con tội lỗi hóa thành một khối đất câm lặng mãi mãi.",
+   "question": "Bà Lụa có xứng đáng được tha thứ không?",
+   "yt_title": "Giữ chặt tượng đất, người cha dặn vợ đặt tên con là Bình An | Oán Thai Đòi Mẹ P10",
+   "tags": [
+    "#camdong",
+    "#tinhcha"
+   ]
+  }
+ ]
+}

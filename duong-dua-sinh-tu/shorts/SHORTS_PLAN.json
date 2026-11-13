@@ -1,0 +1,515 @@
+{
+ "series": "duong-dua-sinh-tu",
+ "film_title": "Đường Đua Sinh Tử: 10 Giây Tự Do",
+ "tag": "ĐƯỜNG ĐUA SINH TỬ",
+ "style": {
+  "tag_bg": "#BF360C",
+  "accent": "#76FF03"
+ },
+ "speaker_colors": {},
+ "match_script": true,
+ "fixes": {
+  "15.2": {
+   "crop": [
+    996,
+    560,
+    142,
+    50
+   ]
+  },
+  "15.3": {
+   "crop": [
+    1052,
+    592,
+    114,
+    64
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bS[eé]vin\\b": "Cevin",
+  "\\bXevin\\b": "Cevin",
+  "\\bMikdo\\b": "Micdo",
+  "\\bNai Tran\\b": "Ny Tran",
+  "\\bNaitran\\b": "Ny Tran",
+  "\\bNitran\\b": "Ny Tran",
+  "\\bVernie\\b": "Verni",
+  "\\blắc giữ lắm\\b": "lắc dữ lắm",
+  "\\bthành sắc rồi\\b": "thành sắt rồi",
+  "\\bcăng hết có rồi\\b": "căng hết cỡ rồi",
+  "\\bNó định lắc đâu!": "Nó định lắc đấy!",
+  "\\bra Đửa chặt\\b": "ra! Giữ chặt",
+  "\\bhiên quan đã\\b": "hiên quán đã",
+  "\\bmột bước Ở địa bàn\\b": "một bước! Ở địa bàn",
+  "\\bhiếm có ai này ép\\b": "hiếm có ai ép",
+  "\\bthuộc về Anh\\b": "thuộc về anh",
+  "^Mạnh tới mức Tao vẫn": "mạnh tới mức tao vẫn",
+  "^Vươn lên chiếm": "vươn lên chiếm",
+  "\\bmáy tính Đủ$": "máy tính đủ",
+  "^Chiếc xe cam của Tom Đang": "chiếc xe cam của Tom đang",
+  "\\bQuá ra người anh em\\b": "Hóa ra người anh em",
+  "\\btàu quả\\b": "tàu hỏa",
+  "^Tắt để hai xe vọt qua": "chỉ một tích tắc để hai xe vọt qua",
+  "\\bmười giây chay tự do\\b": "mười giây tự do",
+  "\\bMicdo Đoàn xe của chú Ne$": "Micdo. Đoàn xe của chú Nese",
+  "\\bđi mic$": "đi Micdo!",
+  "^do Đừng ngoái": "Đừng ngoái",
+  "chú Nê\\s*-\\s*xe": "chú Nese",
+  "^Còn anh Micdo": "còn anh Micdo",
+  "\\btên tài xế Và cầm\\b": "tên tài xế và cầm",
+  "\\banh ngay Để giúp\\b": "anh ngay để giúp"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 40 phút có trên kênh YouTube, tìm “Đường Đua Sinh Tử: 10 Giây Tự Do”",
+ "final_cta": "🎬 Xem trọn bộ 40 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [40 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#duongduasinhtu",
+   "#phimhanhdong",
+   "#duaxe"
+  ],
+  "youtube": [
+   "#duongduasinhtu",
+   "#phimhanhdong",
+   "#duaxe"
+  ],
+  "facebook": [
+   "#DuongDuaSinhTu",
+   "#PhimHanhDong",
+   "#DuaXe",
+   "#PhimNgan"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Đường Đua Sinh Tử: 10 Giây Tự Do — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **12 khoảnh khắc hay nhất** của phim 40 phút, không phải cả phim: đột kích xa lộ, đua 1/4 dặm, rượt đuổi, đối đầu, cú lật thân phận và cái kết. Mỗi phần là một mạch liền 50–60 giây (5–6 clip liên tiếp), mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger, đăng nối tiếp theo thứ tự truyện.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn cam “ĐƯỜNG ĐUA SINH TỬ • PHẦN N” và câu hook ở trên khung phim (cụm nhấn màu xanh neon); phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau, phần cuối đổi thành “XEM FULL PHIM”. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chính tả và tên người nói sửa theo kịch bản `PHAN_CANH_V3.json`. Câu Omni nói khác kịch bản thì phụ đề theo tiếng thật.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm); clip có đuôi nói lặp thì cắt trước đoạn lặp.",
+  "- **Đầu ra:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; lịch đăng và caption TikTok / YouTube / Facebook của mọi phần nằm trong `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py duong-dua-sinh-tu            # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py duong-dua-sinh-tu --only 3   # một phần",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py duong-dua-sinh-tu --captions # chỉ ghi lại README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Đường Đua Sinh Tử”. Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả ở dưới; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption; tắt phụ đề tự động vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00), 3 nền tảng cùng giờ, bắt đầu 14/11. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Cần kiểm tra trước khi đăng",
+  "",
+  "- **Chưa duyệt bản Whisper:** `subtitle_replace` và `fixes` đang để trống. Sau lần dựng đầu, xem phụ đề và khung hình từng phần rồi bổ sung (tên riêng như Micdo, Ny Tran, Cevin, Seja, Verni dễ bị nghe sai; logo hay chữ Omni tự vẽ thì xoá bằng `fixes`).",
+  "- **Thoại có thể khác kịch bản:** lần sửa cuối của kịch bản V3 (03/11) đổi lời 19 clip; trong short có 02.3, 02.5 (phần 1) và 26.3 (phần 6). Phụ đề theo tiếng thật nên không sai; caption chỉ trích các câu không đổi.",
+  "- **Clip 9,5 giây:** 24.5 (phần 5), 33.5 (phần 9), 35.3 (phần 10), 40.2, 40.3, 40.6 (phần 12) ngắn hơn các clip 10 giây còn lại; xem lại có cụt thoại không.",
+  "- Hook, tiêu đề và caption không nhắc tên hãng xe thật; xe gọi theo màu (xe đỏ, xe xanh, xe cam, xe trắng) hoặc “xe cơ bắp 900 mã lực”."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "du-cap-thep-130-kmh",
+   "title": "Đu cáp thép sang cabin xe tải đang chạy 130 km/h",
+   "hook": "Đu cáp thép sang xe tải\nđang chạy [130 KM/H]",
+   "segments": [
+    {
+     "clip": "02.1"
+    },
+    {
+     "clip": "02.2"
+    },
+    {
+     "clip": "02.3"
+    },
+    {
+     "clip": "02.4"
+    },
+    {
+     "clip": "02.5"
+    }
+   ],
+   "caption": "Giữa đêm trên xa lộ mười, Cevin phóng mũi cáp thép từ chiếc xe đen sang cabin xe đầu kéo đang chạy: “Giữ cứng một trăm ba mươi cây số, để tao khóa mũi cáp vô cabin nó!” Anh ta đu người qua khung cửa, leo vào tận buồng lái và giành tay lái của tài xế Verni.",
+   "question": "Ở tốc độ đó, bạn có dám đu qua không?",
+   "yt_title": "Đu cáp thép sang cabin xe tải đang chạy 130 km/h | Đường Đua Sinh Tử P1",
+   "tags": [
+    "#xalo",
+    "#phimduaxe"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "toi-hau-thu-cua-micdo",
+   "title": "Thủ lĩnh Micdo ra tối hậu thư, Tom thách lại",
+   "hook": "Thủ lĩnh xuất hiện,\nra [TỐI HẬU THƯ] cho Tom",
+   "segments": [
+    {
+     "clip": "09.1"
+    },
+    {
+     "clip": "09.2"
+    },
+    {
+     "clip": "09.3"
+    },
+    {
+     "clip": "09.4"
+    },
+    {
+     "clip": "09.5"
+    },
+    {
+     "clip": "09.6"
+    }
+   ],
+   "caption": "Micdo bước xuống chiếc xe đỏ, chỉ một câu là Cevin lùi ngay về sau lưng. Anh cấm Tom, anh thợ máy của lão Ryh, bén mảng tới quán nhà Toto thêm lần nào nữa, nhưng Tom đáp lại: “Quán ăn là của anh, nhưng đường đua một phần tư dặm đêm nay không của riêng ai.”",
+   "question": "Tom liều thật hay đã tính trước?",
+   "yt_title": "Thủ lĩnh Micdo ra tối hậu thư, anh thợ máy thách lại một câu | Đường Đua Sinh Tử P2",
+   "tags": [
+    "#micdo",
+    "#doidau"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "xa-nos-bung-san-xe",
+   "top": true,
+   "title": "Xả bình NOS thứ hai, bung sàn xe, thua một thân xe",
+   "hook": "Xả bình NOS thứ hai,\n[BUNG SÀN XE] giữa đường đua",
+   "segments": [
+    {
+     "clip": "15.1"
+    },
+    {
+     "clip": "15.2"
+    },
+    {
+     "clip": "15.3"
+    },
+    {
+     "clip": "15.4"
+    },
+    {
+     "clip": "15.5"
+    },
+    {
+     "clip": "15.6"
+    }
+   ],
+   "caption": "Trăm thước cuối, Tom xả nốt bình NOS thứ hai: sàn phụ bung chốt tóe lửa, chiếc xe đỏ của Micdo về trước đúng một thân xe. Micdo đòi chìa khóa theo luật chơi, nhưng Tom chỉ tay ra đầu đường: “Xe thuộc về anh theo đúng luật chơi, nhưng nghe tiếng còi hú khóa bốn ngả đường kìa!”",
+   "question": "Bấm NOS sớm như Tom là liều hay dại?",
+   "yt_title": "Xả bình NOS thứ hai, bung sàn xe, thua đúng một thân xe | Đường Đua Sinh Tử P3",
+   "tags": [
+    "#nos",
+    "#duaxeduongpho"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "drift-180-do-giai-vay",
+   "title": "Xe bốc khói vẫn quay đầu drift 180 độ cứu Micdo",
+   "hook": "Xe bốc khói vẫn quay đầu,\n[DRIFT 180 ĐỘ] cứu người",
+   "segments": [
+    {
+     "clip": "17.1"
+    },
+    {
+     "clip": "17.2"
+    },
+    {
+     "clip": "17.3"
+    },
+    {
+     "clip": "17.5"
+    },
+    {
+     "clip": "17.6"
+    }
+   ],
+   "caption": "Cảnh sát khóa kín con hẻm, Tom lái chiếc xe xanh còn bốc khói quay ngược vào, drift 180 độ mở cửa đón Micdo: “Nhảy lên ghế phụ ngay đi Micdo, trừ khi anh muốn bị giữ lại đồn đêm nay!” Lách qua khe thùng gỗ, vọt qua dốc sắt, cắt đuôi tuần tra… thì mười ánh đèn mô tô hiện ra phía trước.",
+   "question": "Tom cứu Micdo vì nhiệm vụ hay vì thật lòng?",
+   "yt_title": "Xe bốc khói vẫn quay đầu drift 180 độ cứu đối thủ khỏi vòng vây | Đường Đua Sinh Tử P4",
+   "tags": [
+    "#drift",
+    "#ruotduoi"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "muoi-giay-tu-do",
+   "title": "Chiếc xe 900 mã lực của cha và 10 giây tự do",
+   "hook": "Xe 900 mã lực của cha,\nanh vẫn [CHƯA DÁM LÁI]",
+   "segments": [
+    {
+     "clip": "24.1"
+    },
+    {
+     "clip": "24.2"
+    },
+    {
+     "clip": "24.3"
+    },
+    {
+     "clip": "24.4"
+    },
+    {
+     "clip": "24.5"
+    },
+    {
+     "clip": "24.6"
+    }
+   ],
+   "caption": "Micdo dẫn Tom vào góc sâu gara, kéo tấm bạt phủ chiếc xe cơ bắp đời 1970 mà cha anh cùng anh dựng nên. Chín trăm mã lực, mạnh tới mức anh chưa từng dám cầm lái: “Bởi trong mười giây trên đường một phần tư dặm đó, con người ta mới thực sự tự do.”",
+   "question": "Với bạn, 10 giây tự do là gì?",
+   "yt_title": "Chiếc xe 900 mã lực của cha, đến giờ anh vẫn chưa dám lái | Đường Đua Sinh Tử P5",
+   "tags": [
+    "#xecobap",
+    "#muoigiaytudo"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "nhan-mat-qua-kinh-xe",
+   "title": "Trùm Ny Tran nhận ra mặt Tom sau kính xe chỉ huy",
+   "hook": "Kính xe chỉ huy hạ xuống,\nhắn [NHẬN RA MẶT] Tom",
+   "segments": [
+    {
+     "clip": "26.2"
+    },
+    {
+     "clip": "26.3"
+    },
+    {
+     "clip": "26.4"
+    },
+    {
+     "clip": "26.5"
+    },
+    {
+     "clip": "26.6"
+    }
+   ],
+   "caption": "Cảnh sát kiểm tra dinh thự Ny Tran lúc rạng đông. Cửa kính chiếc xe chỉ huy hạ xuống, Ny Tran nhìn thấy Tom ngồi bên trong và thề bắt cả nhóm Toto trả giá: “Nhớ kỹ ánh mắt tao hôm nay đi Tom, món nợ này cả nhóm Toto phải trả gấp mười!”",
+   "question": "Vỏ bọc của Tom còn giữ được bao lâu?",
+   "yt_title": "Trùm băng mô tô nhận ra mặt cảnh sát chìm qua kính xe | Đường Đua Sinh Tử P6",
+   "tags": [
+    "#nytran",
+    "#canhsatchim"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "nos-giau-duoi-ghe",
+   "title": "Dẫn trước cả đường đua, thua vì NOS giấu dưới ghế",
+   "hook": "Dẫn trước cả đường đua,\nthua vì [NOS GIẤU DƯỚI GHẾ]",
+   "segments": [
+    {
+     "clip": "29.1"
+    },
+    {
+     "clip": "29.2"
+    },
+    {
+     "clip": "29.3"
+    },
+    {
+     "clip": "29.4"
+    },
+    {
+     "clip": "29.5"
+    },
+    {
+     "clip": "29.6"
+    }
+   ],
+   "caption": "Seja lái chiếc xe trắng, kỷ vật của cha, dẫn trước suốt nửa đường đua giữa sa mạc. Tới những mét cuối, Ny Tran mở van hai bình khí giấu dưới ghế: “Tạm biệt kỷ vật của cha mày đi nhóc, hai bình khí ngầm dưới ghế tao mở van rồi!” Thua mất xe của cha, Seja hoảng loạn đạp ga bỏ chạy khỏi đường băng.",
+   "question": "Thua kiểu này, Seja có nên giao xe không?",
+   "yt_title": "Dẫn trước cả đường đua, thua ở mét cuối vì bình NOS giấu dưới ghế | Đường Đua Sinh Tử P7",
+   "tags": [
+    "#seja",
+    "#gianlan"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "thu-nhan-voi-ami",
+   "title": "Người yêu hỏi “anh là ai?”, anh thú nhận là cảnh sát chìm",
+   "hook": "Cô hỏi: rốt cuộc anh là ai?\nAnh là [CẢNH SÁT CHÌM]",
+   "segments": [
+    {
+     "clip": "31.2"
+    },
+    {
+     "clip": "31.3"
+    },
+    {
+     "clip": "31.4"
+    },
+    {
+     "clip": "31.5"
+    },
+    {
+     "clip": "31.6"
+    }
+   ],
+   "caption": "Ami đòi lao ra cao tốc giúp anh trai, Tom chặn lại và cảnh báo tài xế xe tải đã chuẩn bị chống trả. Nhìn chiếc bộ đàm trong tay anh, Ami chết lặng: “Sao anh biết rõ tên tài xế và cầm bộ đàm kia... rốt cuộc anh là ai hả Tom?” Tom thú nhận mình là cảnh sát chìm, rồi đưa cô lên chiếc xe cam đuổi theo.",
+   "question": "Là Ami, bạn có tha thứ cho Tom không?",
+   "yt_title": "Người yêu hỏi “anh là ai?”, anh thợ máy thú nhận là cảnh sát chìm | Đường Đua Sinh Tử P8",
+   "tags": [
+    "#thunhan",
+    "#tinhyeu"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "cat-cap-cuu-cevin",
+   "title": "Giao vô lăng cho người yêu, nhoài người cắt cáp cứu bạn",
+   "hook": "Giao vô lăng cho người yêu,\nnhoài ra [CẮT CÁP THÉP]",
+   "segments": [
+    {
+     "clip": "33.5"
+    },
+    {
+     "clip": "33.6"
+    },
+    {
+     "clip": "34.1"
+    },
+    {
+     "clip": "34.2"
+    },
+    {
+     "clip": "34.3"
+    },
+    {
+     "clip": "34.4"
+    }
+   ],
+   "caption": "Cevin bị kẹt trên sợi cáp thép bên hông chiếc xe đầu kéo đang lao trên xa lộ sa mạc. Chiếc xe cam của Tom xé gió lao tới, Ami cầm lái giữ thẳng sát bánh xe tải: “Bánh xe đầu kéo sát ngay cửa kính rồi Tom ơi, em đang gồng hết sức giữ thẳng lái!” Tom nhô người qua nóc xe, bấm đứt sợi cáp và đỡ Cevin về xe.",
+   "question": "Ami giữ lái như vậy có đáng nể không?",
+   "yt_title": "Giao vô lăng cho người yêu, nhoài người cắt cáp thép cứu bạn giữa xa lộ | Đường Đua Sinh Tử P9",
+   "tags": [
+    "#ami",
+    "#cuunguoi"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "ma-hieu-437",
+   "top": true,
+   "title": "Đọc mã 437 gọi cứu viện, lộ thân phận trước mặt Micdo",
+   "hook": "Cứu bạn bằng một mã số,\n[LỘ THÂN PHẬN] cảnh sát",
+   "segments": [
+    {
+     "clip": "35.2"
+    },
+    {
+     "clip": "35.3"
+    },
+    {
+     "clip": "35.4"
+    },
+    {
+     "clip": "35.5"
+    },
+    {
+     "clip": "35.6"
+    }
+   ],
+   "caption": "Giữa sa mạc, Cevin kiệt sức, xe cấp cứu đường bộ không thể tới kịp. Tom chọn cách duy nhất: cầm bộ đàm đọc mã sĩ quan gọi trực thăng y tế, ngay trước mặt Micdo. “Sĩ quan bốn ba bảy sao... hóa ra người anh em ngồi chung bàn với tao là cảnh sát chìm?”",
+   "question": "Nếu là Micdo, bạn sẽ làm gì với Tom?",
+   "yt_title": "Đọc mã 437 gọi trực thăng cứu bạn, lộ thân phận cảnh sát chìm | Đường Đua Sinh Tử P10",
+   "tags": [
+    "#plottwist",
+    "#canhsatchim"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "cat-dau-tau-hoa",
+   "top": true,
+   "title": "Mười giây tự do: đua cắt đầu tàu hỏa",
+   "hook": "Đua 1/4 dặm cuối,\n[CẮT ĐẦU TÀU HỎA]",
+   "segments": [
+    {
+     "clip": "39.1"
+    },
+    {
+     "clip": "39.2"
+    },
+    {
+     "clip": "39.3"
+    },
+    {
+     "clip": "39.4"
+    },
+    {
+     "clip": "39.5"
+    },
+    {
+     "clip": "39.6"
+    }
+   ],
+   "caption": "Một phần tư dặm cuối trước đường ray: chiếc xe cơ bắp 900 mã lực của Micdo bốc đầu, lao song song với chiếc xe cam của Tom, cả hai vọt qua đường ray chỉ một tích tắc trước mũi tàu. “Lướt qua mũi tàu hỏa trong một hơi thở, đây chính là mười giây tự do của đời tao!” Rồi một chiếc xe tải lao ra chắn ngang đường…",
+   "question": "Đua kiểu này, bạn đứng về Tom hay Micdo?",
+   "yt_title": "Đua 1/4 dặm cuối, cắt đầu tàu hỏa trong một tích tắc | Đường Đua Sinh Tử P11",
+   "tags": [
+    "#tauhoa",
+    "#muoigiaytudo"
+   ]
+  },
+  {
+   "n": 12,
+   "slug": "chia-khoa-con-xe-10-giay",
+   "title": "Cảnh sát chìm trao chìa khóa cho người mình phải bắt",
+   "hook": "Đáng lẽ phải bắt, anh lại\ntrao [CHÌA KHÓA XE]",
+   "segments": [
+    {
+     "clip": "40.2"
+    },
+    {
+     "clip": "40.3"
+    },
+    {
+     "clip": "40.4"
+    },
+    {
+     "clip": "40.5"
+    },
+    {
+     "clip": "40.6"
+    }
+   ],
+   "caption": "Tom dìu Micdo khỏi chiếc xe cơ bắp vừa xoay vòng bên lề, xe của trung sĩ Nese sắp tới đầu đường. Micdo chìa tay chờ bị đưa về đồn: “Cuộc đua khép lại rồi Sĩ quan Tom, đưa tôi về đồn hoàn thành nhiệm vụ của cậu đi.” Tom lại đặt vào tay anh chìa khóa chiếc xe cam để trả món nợ con xe mười giây, rồi một mình đứng lại.",
+   "question": "Cái kết này làm bạn thỏa mãn chưa?",
+   "yt_title": "Cảnh sát chìm trao chìa khóa xe cho người mình phải bắt | Đường Đua Sinh Tử P12",
+   "tags": [
+    "#ketphim",
+    "#anhem"
+   ]
+  }
+ ]
+}

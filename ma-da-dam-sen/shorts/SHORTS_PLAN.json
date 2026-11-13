@@ -1,0 +1,436 @@
+{
+ "series": "ma-da-dam-sen",
+ "film_title": "Ma Da Đầm Sen: Lời Nguyền Tháng Bảy",
+ "tag": "MA DA ĐẦM SEN",
+ "style": {
+  "tag_bg": "#2A1748",
+  "accent": "#3CF2D0"
+ },
+ "speaker_colors": {},
+ "match_script": true,
+ "fixes": {
+  "06.3": {
+   "crop": [
+    1184,
+    666,
+    48,
+    27
+   ]
+  },
+  "08.5": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "09.5": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bđêm nào Cậu\\b": "đêm nào cậu"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 15 phút có trên kênh YouTube, tìm “Ma Da Đầm Sen”",
+ "final_cta": "🎬 Xem trọn bộ 15 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [15 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#madadamsen",
+   "#truyenma",
+   "#phimma"
+  ],
+  "youtube": [
+   "#madadamsen",
+   "#truyenma",
+   "#phimma"
+  ],
+  "facebook": [
+   "#MaDaDamSen",
+   "#TruyenMa",
+   "#PhimMa",
+   "#TamLinh"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Ma Da Đầm Sen: Lời Nguyền Tháng Bảy — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **các cảnh hay nhất** của phim 15 phút: **11 phần dọc 9:16**, không phải cả phim. Mỗi phần là một khoảnh khắc rùng rợn, bí ẩn hoặc một cú lật, dài 30–60 giây (mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger), đăng nối tiếp theo thứ tự truyện.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn tím than “MA DA ĐẦM SEN • PHẦN N” và câu hook ở trên khung phim; phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chính tả và tên riêng sửa theo `PHAN_CANH_OMNI.json`. Câu Omni nói khác kịch bản thì phụ đề theo tiếng thật.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm); câu Omni nói lặp ở cuối clip bị cắt bỏ.",
+  "- **Kết quả:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; lịch đăng và caption TikTok / YouTube / Facebook của mọi phần nằm trong `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ma-da-dam-sen            # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ma-da-dam-sen --only 3   # một phần",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ma-da-dam-sen --captions   # chỉ ghi lại README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Ma Da Đầm Sen”. Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả ở phần caption bên dưới; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption; tắt phụ đề tự động vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00), 3 nền tảng cùng giờ, bắt đầu Thứ Bảy 14/11. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Ghi chú bản short",
+  "",
+  "- **Chọn cảnh:** 11 khoảnh khắc mạnh nhất (khoảng 8,7 phút clip thô trên 15 phút phim). Cuộc gặp ông Lý ở cảnh 5, Khôi mất tích giữa trưa, lời thú tội trước sân đình và lễ thả đèn hoa đăng chỉ có trong bản FULL.",
+  "- **Phụ đề:** đã nghe thử cả 90 clip bằng Whisper (13/11): thoại khớp `PHAN_CANH_OMNI.json`, nên phụ đề lấy chính tả và tên riêng theo kịch bản. `subtitle_replace` còn trống; điền sau khi xem bản Whisper nếu còn chữ nghe nhầm (Whisper hay nghe “ma da” thành “ma ra”, “trâm” thành “châm”).",
+  "- **Thoại bắt đầu muộn:** ở clip 11.3 (phần 9) và 15.3 (phần 11), lời thoại bắt đầu khoảng giây thứ 3. Whisper bản nhanh bịa câu chào kênh ở hai clip này, nên bản phụ đề trong `_whisper/` là bản nghe lại bằng faster-whisper có lọc VAD (đã đúng lời).",
+  "- **Logo đài truyền hình** Omni tự vẽ ở góc phải clip 05.4, từ khoảng giây 6,3 đến hết clip. Short không dùng clip này; **bản FULL vẫn còn logo** (khoảng 04:36–04:40), nên render lại hoặc xoá logo trước khi đăng phim dài."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "dam-sen-doi-mot-mang-nguoi",
+   "title": "Tháng bảy nào đầm sen cũng đòi một mạng người",
+   "hook": "Tháng bảy nào đầm sen\ncũng đòi [MỘT MẠNG NGƯỜI]",
+   "segments": [
+    {
+     "clip": "01.1"
+    },
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    },
+    {
+     "clip": "01.4"
+    },
+    {
+     "clip": "01.5"
+    },
+    {
+     "clip": "01.6"
+    }
+   ],
+   "caption": "“Làng Hạ Liên có đầm sen đẹp nhất vùng, nhưng cứ vào tháng bảy âm lịch, đầm lại đòi đúng một mạng người.” Ngân vừa về quê đã thấy một cô gái áo trắng đứng ngập nước giữa đầm sen, im lìm nhìn về phía mình. Chớp mắt, bóng trắng biến mất, chỉ còn một hàng dấu chân trần ướt sũng dẫn thẳng về làng.",
+   "question": "Nếu là Ngân, bạn có dám đi theo hàng dấu chân ấy không?",
+   "yt_title": "Tháng bảy nào đầm sen cũng đòi một mạng người, cô gái áo trắng giữa đầm là ai? | Ma Da Đầm Sen P1",
+   "tags": [
+    "#mada",
+    "#langque"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "vet-ngon-tay-o-co-chan",
+   "title": "Cổ chân em trai hằn vết ngón tay ai nắm chặt",
+   "hook": "Cổ chân em trai hằn\n[VẾT NGÓN TAY] ai nắm chặt",
+   "segments": [
+    {
+     "clip": "02.2"
+    },
+    {
+     "clip": "02.3"
+    },
+    {
+     "clip": "02.4"
+    },
+    {
+     "clip": "02.5"
+    },
+    {
+     "clip": "02.6"
+    }
+   ],
+   "caption": "Bà Hạnh dặn: “Nhớ lời bà, tháng bảy này tối đến tuyệt đối không được bén mảng ra gần đầm sen.” Khôi cười xòa bảo chuyện ma da chỉ để dọa trẻ con, nhưng cả tuần nay đêm nào cậu cũng mơ thấy mình đang chìm. Rồi Ngân thấy trên cổ chân em một vệt bầm tím, hằn rõ như vết ngón tay ai đó vừa nắm chặt.",
+   "question": "Bà Hạnh biết điều gì mà mặt cắt không còn giọt máu?",
+   "yt_title": "Em trai cười chuyện ma da, cổ chân lại hằn vết ngón tay lạ | Ma Da Đầm Sen P2",
+   "tags": [
+    "#tamlinh",
+    "#mada"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "giong-con-gai-goi-ten",
+   "top": true,
+   "title": "Nửa đêm, giọng con gái dưới đầm gọi tên em trai",
+   "hook": "Nửa đêm, dưới đầm có\n[GIỌNG CON GÁI] gọi tên",
+   "segments": [
+    {
+     "clip": "03.1"
+    },
+    {
+     "clip": "03.2"
+    },
+    {
+     "clip": "03.3"
+    },
+    {
+     "clip": "03.4"
+    },
+    {
+     "clip": "03.5"
+    },
+    {
+     "clip": "03.6"
+    }
+   ],
+   "caption": "Nửa đêm, Khôi choàng tỉnh vì giọng con gái ngoài đầm: “Khôi ơi, dưới đầm mát lắm, xuống đây với em đi.” Cậu bước ra như bị ai giật dây, mắt mở trừng trừng. Ngân kéo được em lại khi nước đã ngập đến đầu gối, nhưng ngay chỗ em vừa đứng, mặt nước nổi lên một nắm tóc dài đen nhánh.",
+   "question": "Nghe tiếng gọi tên lúc nửa đêm, bạn có dám trả lời không?",
+   "yt_title": "Nửa đêm, giọng con gái dưới đầm sen gọi em trai xuống nước | Ma Da Đầm Sen P3",
+   "tags": [
+    "#kinhdi",
+    "#nuadem"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "dau-chan-uot-vao-giuong",
+   "title": "Dấu chân ướt từ đầm vào tận giường em trai",
+   "hook": "Dấu chân ướt từ đầm\nvào tận [GIƯỜNG EM TRAI]",
+   "segments": [
+    {
+     "clip": "04.1"
+    },
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    },
+    {
+     "clip": "04.4"
+    }
+   ],
+   "caption": "Sáng hôm sau, từ mép đầm vào tận giường Khôi là một hàng dấu chân trần còn ướt, nhỏ nhắn như chân con gái. Trên gối là một chiếc lá sen đẫm nước, cuống lá quấn mấy sợi tóc dài không phải của ai trong nhà. Bà Hạnh nói: “Nó chọn thằng Khôi rồi con ạ. Ba mươi năm nay, tháng bảy nào nó cũng về đòi đúng một người.”",
+   "question": "Vì sao nó lại chọn Khôi?",
+   "yt_title": "Dấu chân con gái ướt sũng từ đầm vào tận giường, trên gối là lá sen quấn tóc | Ma Da Đầm Sen P4",
+   "tags": [
+    "#kinhdi",
+    "#langque"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "nen-tat-tu-mep-nuoc",
+   "top": true,
+   "title": "Mười hai ngọn nến tắt dần từ phía mép nước",
+   "hook": "Nến tắt dần từ mép nước,\nnhư có ai [BƯỚC LÊN BỜ]",
+   "segments": [
+    {
+     "clip": "06.2"
+    },
+    {
+     "clip": "06.3"
+    },
+    {
+     "clip": "06.4"
+    },
+    {
+     "clip": "06.5"
+    },
+    {
+     "clip": "06.6"
+    }
+   ],
+   "caption": "Ngân đếm được mười hai ngọn nến cháy đều quanh mâm cúng. Rồi từng ngọn tắt phụt, lần lượt từ phía gần nước nhất: “Bà ơi, đứng dậy đi bà! Có cái gì đang đi lên từ dưới nước kìa!” Bộ quần áo giấy trắng ướt sũng từ từ đứng thẳng lên, còn trong nhà, Khôi đang ngủ bỗng cười khúc khích bằng giọng một cô gái lạ.",
+   "question": "Khoảnh khắc nào làm bạn nổi da gà nhất?",
+   "yt_title": "Mười hai ngọn nến tắt dần từ mép nước, bộ áo giấy cúng tự đứng dậy | Ma Da Đầm Sen P5",
+   "tags": [
+    "#kinhdi",
+    "#tamlinh"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "ca-lang-dung-nhin",
+   "title": "Cả làng cầm đuốc đứng nhìn cô gái chìm xuống đầm",
+   "hook": "Cả làng cầm đuốc\n[ĐỨNG NHÌN] cô gái chìm",
+   "segments": [
+    {
+     "clip": "08.3"
+    },
+    {
+     "clip": "08.4"
+    },
+    {
+     "clip": "08.5"
+    },
+    {
+     "clip": "08.6"
+    }
+   ],
+   "caption": "Bà Hạnh kể lại: năm ấy hòm công đức mất sạch, ông Lý bảo chính mắt ông thấy Thắm lẻn vào đình. “Cả làng đuổi theo nó ra tận bờ đầm. Ông nhà bà cũng cầm đuốc đứng đó, nhìn nó khuất dưới đầm mà không ai giúp.” Ngân chợt hiểu: những người bị đầm bắt suốt ba mươi năm qua đều là con cháu của những kẻ đứng trên bờ đêm ấy.",
+   "question": "Đứng nhìn mà không cứu, có phải cũng là có tội?",
+   "yt_title": "Bí mật 30 năm: cả làng cầm đuốc đứng nhìn cô gái mồ côi chìm xuống đầm | Ma Da Đầm Sen P6",
+   "tags": [
+    "#plottwist",
+    "#oankhuat"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "dem-mua-ba-muoi-nam-truoc",
+   "title": "Đêm mưa ba mươi năm trước, không ai cứu Thắm",
+   "hook": "Cô gái mồ côi bị dồn\nxuống đầm, [KHÔNG AI CỨU]",
+   "segments": [
+    {
+     "clip": "09.1"
+    },
+    {
+     "clip": "09.2"
+    },
+    {
+     "clip": "09.3"
+    },
+    {
+     "clip": "09.4"
+    },
+    {
+     "clip": "09.5"
+    }
+   ],
+   "caption": "Ba mươi năm trước, Thắm chạy trối chết dọc bờ đầm, phía sau là cả một rừng đuốc: “Cháu không lấy! Cháu thề có trời đất, cháu không hề động vào hòm công đức của đình!” Không ai tin cô, và người hô to nhất chính là ông Lý thời trẻ. Một bàn tay nhô lên khỏi mặt nước như cầu cứu, nhưng hàng chục ngọn đuốc trên bờ không ai nhúc nhích.",
+   "question": "Nếu đứng trên bờ đêm ấy, bạn có dám lên tiếng không?",
+   "yt_title": "Bị vu trộm tiền công đức, cô gái mồ côi chìm giữa đầm sen không ai cứu | Ma Da Đầm Sen P7",
+   "tags": [
+    "#oankhuat",
+    "#tamlinh"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "dem-ram-chai-dau",
+   "top": true,
+   "title": "Đêm rằm, em trai chải đầu bằng trâm bạc như con gái",
+   "hook": "Đêm rằm, em trai ngồi\n[CHẢI ĐẦU NHƯ CON GÁI]",
+   "segments": [
+    {
+     "clip": "10.1"
+    },
+    {
+     "clip": "10.2"
+    },
+    {
+     "clip": "10.3"
+    },
+    {
+     "clip": "10.4"
+    }
+   ],
+   "caption": "Đêm rằm tháng bảy, Khôi bỗng hết sốt, ngồi dậy chải đầu bằng chiếc trâm bạc như một cô gái: “Chị ơi, cô ấy bảo đêm nay là đêm cuối cùng rồi. Em phải xuống trả lại cho cô ấy.” Cậu đi thẳng ra đầm, người nặng trịch và lạnh như khúc gỗ ngâm nước. Ngân hít một hơi thật sâu rồi lội xuống theo em.",
+   "question": "Khôi phải “trả lại” thứ gì cho cô ấy?",
+   "yt_title": "Đêm rằm tháng bảy, em trai chải đầu như con gái rồi đi thẳng xuống đầm | Ma Da Đầm Sen P8",
+   "tags": [
+    "#kinhdi",
+    "#ramthangbay"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "hop-trau-duoi-day-dam",
+   "title": "Ma da chỉ xuống bùn, dưới đó là hộp trầu nhà trưởng thôn",
+   "hook": "Ma da chỉ xuống bùn,\ndưới đó là [BÍ MẬT 30 NĂM]",
+   "segments": [
+    {
+     "clip": "10.5"
+    },
+    {
+     "clip": "10.6"
+    },
+    {
+     "clip": "11.1"
+    },
+    {
+     "clip": "11.2"
+    },
+    {
+     "clip": "11.3"
+    }
+   ],
+   "caption": "Dưới đáy đầm, Thắm lặng lẽ chỉ tay xuống lớp bùn, nơi Ngân chạm phải một chiếc hộp kim loại quấn chặt rễ sen và tóc dài. Trong hộp là bạc trắng của đình làng, nắp khắc hình con hạc, vật gia truyền nhà ông Lý. Ngân tìm đến tận nhà ông: “Hộp trầu nhà ông, tiền công đức của đình, nằm dưới đáy đầm ba mươi năm nay đấy!”",
+   "question": "Bạn đoán ra ai là kẻ trộm từ lúc nào?",
+   "yt_title": "Ma da chỉ xuống bùn, dưới đáy đầm là hộp trầu nhà ông trưởng thôn | Ma Da Đầm Sen P9",
+   "tags": [
+    "#plottwist",
+    "#bian"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "ong-ly-bi-goi-ten",
+   "title": "Ma da gọi đúng tên cúng cơm của ông trưởng thôn",
+   "hook": "Ma da gọi đúng\n[TÊN CÚNG CƠM] của ông Lý",
+   "segments": [
+    {
+     "clip": "12.1"
+    },
+    {
+     "clip": "12.2"
+    },
+    {
+     "clip": "12.3"
+    },
+    {
+     "clip": "12.4"
+    }
+   ],
+   "caption": "Đêm ấy, ngoài đầm có tiếng con gái gọi đúng tên cúng cơm của ông Lý, cái tên chẳng ai còn nhớ. Vệt nước loang từ cửa sổ vào tận đầu giường, rồi Thắm đứng lặng ngay cuối giường nhìn ông, không một lời oán trách. “Là tao lấy, Thắm ạ! Tao sợ quá nên mới đổ tội cho mày.”",
+   "question": "Thắm có nên tha cho ông Lý không?",
+   "yt_title": "Nửa đêm ma da về đứng cuối giường, ông trưởng thôn khai ra tội ác 30 năm | Ma Da Đầm Sen P10",
+   "tags": [
+    "#kinhdi",
+    "#thutoi"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "bong-nguoi-thu-hai",
+   "title": "Một năm sau, góc đầm lại có một bóng người khác",
+   "hook": "Một năm sau, góc đầm\nlại có [BÓNG NGƯỜI KHÁC]",
+   "segments": [
+    {
+     "clip": "15.3"
+    },
+    {
+     "clip": "15.4"
+    },
+    {
+     "clip": "15.5"
+    },
+    {
+     "clip": "15.6"
+    }
+   ],
+   "caption": "Một năm sau, Khôi đứng bên bờ đầm cùng chị: “Chị thấy không, năm nay ai cũng bảo đầm sen đẹp nhất từ trước tới giờ. Chắc cô ấy vui lắm.” Ngân ra bến xe, ngoảnh lại thấy mặt đầm phẳng lặng như gương. Nhưng ở góc đầm xa nhất, một bóng người khác đang đứng ngập trong nước.",
+   "question": "Bóng người thứ hai dưới đầm là ai?",
+   "yt_title": "Một năm sau lời nguyền, góc đầm sen lại có bóng người thứ hai | Ma Da Đầm Sen P11",
+   "tags": [
+    "#ketphim",
+    "#mada"
+   ]
+  }
+ ]
+}

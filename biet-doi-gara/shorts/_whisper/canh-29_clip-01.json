@@ -1,0 +1,16 @@
+{
+ "text": "Trơn quá",
+ "engine": "faster-whisper-large-v3-vad",
+ "words": [
+  {
+   "w": "Trơn",
+   "s": 5.26,
+   "e": 5.82
+  },
+  {
+   "w": "quá",
+   "s": 5.82,
+   "e": 6.0
+  }
+ ]
+}

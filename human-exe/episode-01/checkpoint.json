@@ -1,0 +1,50 @@
+{
+  "stage": "audible_preview_ready_for_user_review",
+  "user_authorization": {
+    "topic_and_channel_direction": "accepted in conversation",
+    "macos_voice_for_pace_preview": "explicitly selected by user",
+    "exact_preview_acceptance": "pending",
+    "full_film": "not rendered; awaiting exact sample approval",
+    "publishing": "not requested"
+  },
+  "script_words": 792,
+  "voice": {
+    "provider": "macOS",
+    "name": "Samantha",
+    "rate": "native default; unchanged"
+  },
+  "preview": {
+    "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/output/preview.mp4",
+    "sha256": "9cbe716b9e1d180360421f4658dd7312e0411c5e951b07fa352c12ec8b7f3e37",
+    "duration": 20.933333,
+    "resolution": "1280x720",
+    "shots": 9,
+    "captions": 11,
+    "full_decode": "pass"
+  },
+  "audio_measurement": {
+    "integrated_lufs": -16.44,
+    "true_peak_dbtp": -2.1,
+    "method": "FFmpeg loudnorm measurement of encoded preview; output was not normalized"
+  },
+  "review": {
+    "technical": "passed",
+    "still_frames": "Inspected contact sheet and full-size opening, boss and final frames; fixed title/subtitle overlap, coffee contact and head attachment.",
+    "continuous_playback_and_listening": "not performed by author; user review pending",
+    "independent_reference_comparison": "pending; no sample-equivalence claimed",
+    "caption_timing": "Observed natural phrase boundaries in actual continuous recording, using ffmpeg silencedetect; not word-level forced alignment."
+  },
+  "rights": {
+    "story_and_scene_art": "original project-authored fictional script and SVG-derived layered drawings",
+    "fonts": "bundled Caveat and Noto Sans; OFL licenses retained in upstream assets/fonts",
+    "effects": "upstream original procedural accents; no downloaded library audio",
+    "bed": "project-generated filtered pink noise; a designed bed, not a recorded real office"
+  },
+  "tooling": {
+    "upstream": "https://github.com/kaomei/stickman-video-director",
+    "installation": "workspace-local B1 subset with Git blob hashes verified; not global skill installation",
+    "doctor": "node, ffmpeg, ffprobe, canvas, sharp and fonts passed",
+    "word_alignment": "faster-whisper install failed in Python 3.15 due dependency compatibility; no model downloaded"
+  },
+  "next_step": "User watches/listens to this exact preview and requests changes or explicitly approves the sample and remaining film. Keep approved voice/art unchanged; produce and align full narration only after scope approval."
+}

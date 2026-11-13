@@ -1,0 +1,1755 @@
+{
+  "fingerprint": "8a58cfba1e9d40dd317c525c5e0dc8a8a7b2b0feb0e7caf0ec740a0e45089405",
+  "preview_seconds": 20.925458,
+  "output": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/output/preview.mp4",
+  "output_sha256": "9cbe716b9e1d180360421f4658dd7312e0411c5e951b07fa352c12ec8b7f3e37",
+  "original_voice_sha256": "13bf04c5494091b9011fb4737211754706227c4913afbea042e8eb2531a80ff6",
+  "original_voice_duration": 20.925458,
+  "voice_rate": "unchanged; leading/trailing padding only",
+  "frames": 628,
+  "duration": 20.933333,
+  "cache_hits": 2,
+  "shot_count": 9,
+  "full_decode": "pass",
+  "caption_count": 11,
+  "human_review": "required; technical checks are not acceptance",
+  "inputs": [
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+      "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+      "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+      "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+      "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+      "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+      "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/ben-body.png",
+      "sha256": "359e4d36f3679a0a24cdfb9f96d5ef4754c4525041606e8237fbd1e233ccd31f"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/calendar.png",
+      "sha256": "77215a7609592587fb24a57e416e5816a65211efcbd26a6520e206f593c45a84"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/desk.png",
+      "sha256": "8aea6f7e9b2657fb60e93d05e73d82e035db82b0932d9e1508e6a02e8c64f389"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/door.png",
+      "sha256": "c25ff8703e7ca1aa6102163ee4d3bf78e0319aed8c22a885c03b3196555f5dde"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/email.png",
+      "sha256": "3b1abb2637d447e745a72846fcc07fa58b782f625d9c68a5aca50b1cceef0c79"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/head-happy.png",
+      "sha256": "8281689d766600ac37a6017740610a060ebe27df1d8c463447cb5bd767752345"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/head-tired.png",
+      "sha256": "d93e0be2bd79ab6cb3fa8d2d3f3a32e025ba4d0b123d572ba8617e12a2252f29"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/head-worried.png",
+      "sha256": "cc2824c505bf2295c9ee87c3f89a7a0df0d4d6cde4917fe188ded1496434cd4b"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/laptop.png",
+      "sha256": "eab3cb5b721256ad2d51eb1f564a9ee0783fe88a37433a59075ab184d2feb695"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/mara.png",
+      "sha256": "203de7b4b5b7686ee97ef24dbbffc1ff04965cc0fd4454a47b16e9dc6e09a6bd"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/mug.png",
+      "sha256": "162ca42419dd5878cfa385ea249f4ac096deaa92ee0b9de1724a501a18a2e06b"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/needle.png",
+      "sha256": "0a6b5851bb053cde6adc8fef4f9a6cf5a99648474f5202f171dee647cfba0121"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/presentation.png",
+      "sha256": "0a32f2512e12465aa2fdaa799e9d42b040336167c1012e275c17c40784937a88"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/report.png",
+      "sha256": "b3c9687d679112dcd8881cb3c42080e694dd73c37d46b24f4658dd787c2c24cf"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/sheet.png",
+      "sha256": "1c5bc6b841ea70cbc5d1f4f240e3af815579cc57e70dc5cc0e122512f25d8c81"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/stack.png",
+      "sha256": "50d93c2addb083fb6f861af7c47ee27b9fe411fb5ac570acbb3ccf931a3aa598"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/timer.png",
+      "sha256": "2232630858edc47f53524a3235b4f36575818d7df5c367abb30d24f5f9538f99"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/typing-arm.png",
+      "sha256": "6fbcf8d97bf8483651700756119713343c02197407b7e7246a3b22748c0ef092"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/office-bed.wav",
+      "sha256": "73e97e2a6292961329cb7bab982b8c6662dd3917f778d2ace092670ae3e14234"
+    },
+    {
+      "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/preview-narration.wav",
+      "sha256": "13bf04c5494091b9011fb4737211754706227c4913afbea042e8eb2531a80ff6"
+    }
+  ],
+  "local_motion": {
+    "intervals": [
+      {
+        "id": "action-1",
+        "start": 0,
+        "end": 0.35,
+        "reason": "Ben presses the keyboard; his arm pivots from his shoulder",
+        "changed_pixels": 1433
+      },
+      {
+        "id": "action-1",
+        "start": 0.35,
+        "end": 0.65,
+        "reason": "Ben presses the keyboard; his arm pivots from his shoulder",
+        "changed_pixels": 1170
+      },
+      {
+        "id": "action-1",
+        "start": 0.65,
+        "end": 1.2,
+        "reason": "Ben presses the keyboard; his arm pivots from his shoulder",
+        "changed_pixels": 1292
+      },
+      {
+        "id": "action-1",
+        "start": 1.2,
+        "end": 1.5,
+        "reason": "Ben presses the keyboard; his arm pivots from his shoulder",
+        "changed_pixels": 1311
+      },
+      {
+        "id": "action-3",
+        "start": 1.92,
+        "end": 3.32,
+        "reason": "The stopwatch hand sweeps to show the short working day",
+        "changed_pixels": 967
+      },
+      {
+        "id": "action-3",
+        "start": 3.32,
+        "end": 4.27,
+        "reason": "The stopwatch hand sweeps to show the short working day",
+        "changed_pixels": 768
+      },
+      {
+        "id": "action-5",
+        "start": 4.768,
+        "end": 6.068,
+        "reason": "Mara enters through the doorway to inspect the work",
+        "changed_pixels": 6907
+      },
+      {
+        "id": "action-5",
+        "start": 6.068,
+        "end": 7.068,
+        "reason": "Mara enters through the doorway to inspect the work",
+        "changed_pixels": 6674
+      },
+      {
+        "id": "action-9",
+        "start": 7.808,
+        "end": 8.408,
+        "reason": "Ben looks away from his boss nervously",
+        "changed_pixels": 11976
+      },
+      {
+        "id": "action-9",
+        "start": 8.408,
+        "end": 9.008,
+        "reason": "Ben looks away from his boss nervously",
+        "changed_pixels": 12910
+      },
+      {
+        "id": "action-11",
+        "start": 9.098,
+        "end": 9.698,
+        "reason": "The calendar page turns back to establish the flashback",
+        "changed_pixels": 23720
+      },
+      {
+        "id": "action-11",
+        "start": 9.698,
+        "end": 10.298,
+        "reason": "The calendar page turns back to establish the flashback",
+        "changed_pixels": 17892
+      },
+      {
+        "id": "action-12",
+        "start": 10.413,
+        "end": 11.613,
+        "reason": "Ben reacts with a head turn to the current event",
+        "changed_pixels": 2462
+      },
+      {
+        "id": "action-12",
+        "start": 11.613,
+        "end": 12.813,
+        "reason": "Ben reacts with a head turn to the current event",
+        "changed_pixels": 2283
+      },
+      {
+        "id": "action-13",
+        "start": 12.013,
+        "end": 13.113,
+        "reason": "A heavy stack of paper settles on the desk as Ben slumps",
+        "changed_pixels": 4515
+      },
+      {
+        "id": "action-14",
+        "start": 13.684,
+        "end": 14.484,
+        "reason": "The source document moves along the information-transfer path",
+        "changed_pixels": 42383
+      },
+      {
+        "id": "action-14",
+        "start": 14.484,
+        "end": 14.934,
+        "reason": "The source document moves along the information-transfer path",
+        "changed_pixels": 13513
+      },
+      {
+        "id": "action-16",
+        "start": 15.711,
+        "end": 16.511,
+        "reason": "The source document moves along the information-transfer path",
+        "changed_pixels": 51116
+      },
+      {
+        "id": "action-16",
+        "start": 16.511,
+        "end": 16.961,
+        "reason": "The source document moves along the information-transfer path",
+        "changed_pixels": 8314
+      },
+      {
+        "id": "action-18",
+        "start": 17.671,
+        "end": 18.471,
+        "reason": "The source document moves along the information-transfer path",
+        "changed_pixels": 39032
+      },
+      {
+        "id": "action-18",
+        "start": 18.471,
+        "end": 18.921,
+        "reason": "The source document moves along the information-transfer path",
+        "changed_pixels": 15050
+      }
+    ],
+    "windows": [
+      {
+        "start": 0,
+        "end": 2.25,
+        "id": "action-1",
+        "changed_pixels": 1433
+      },
+      {
+        "start": 0.25,
+        "end": 2.5,
+        "id": "action-1",
+        "changed_pixels": 738
+      },
+      {
+        "start": 0.5,
+        "end": 2.75,
+        "id": "action-1",
+        "changed_pixels": 1170
+      },
+      {
+        "start": 0.75,
+        "end": 3,
+        "id": "action-1",
+        "changed_pixels": 1292
+      },
+      {
+        "start": 1,
+        "end": 3.25,
+        "id": "action-1",
+        "changed_pixels": 772
+      },
+      {
+        "start": 1.25,
+        "end": 3.5,
+        "id": "action-1",
+        "changed_pixels": 1311
+      },
+      {
+        "start": 1.5,
+        "end": 3.75,
+        "id": "action-3",
+        "changed_pixels": 967
+      },
+      {
+        "start": 1.75,
+        "end": 4,
+        "id": "action-3",
+        "changed_pixels": 967
+      },
+      {
+        "start": 2,
+        "end": 4.25,
+        "id": "action-3",
+        "changed_pixels": 961
+      },
+      {
+        "start": 2.25,
+        "end": 4.5,
+        "id": "action-3",
+        "changed_pixels": 965
+      },
+      {
+        "start": 2.5,
+        "end": 4.75,
+        "id": "action-3",
+        "changed_pixels": 930
+      },
+      {
+        "start": 2.75,
+        "end": 5,
+        "id": "action-3",
+        "changed_pixels": 916
+      },
+      {
+        "start": 3,
+        "end": 5.25,
+        "id": "action-3",
+        "changed_pixels": 954
+      },
+      {
+        "start": 3.25,
+        "end": 5.5,
+        "id": "action-3",
+        "changed_pixels": 264
+      },
+      {
+        "start": 3.5,
+        "end": 5.75,
+        "id": "action-3",
+        "changed_pixels": 768
+      },
+      {
+        "start": 3.75,
+        "end": 6,
+        "id": "action-3",
+        "changed_pixels": 728
+      },
+      {
+        "start": 4,
+        "end": 6.25,
+        "id": "action-3",
+        "changed_pixels": 527
+      },
+      {
+        "start": 4.25,
+        "end": 6.5,
+        "id": "action-5",
+        "changed_pixels": 6411
+      },
+      {
+        "start": 4.5,
+        "end": 6.75,
+        "id": "action-5",
+        "changed_pixels": 6411
+      },
+      {
+        "start": 4.75,
+        "end": 7,
+        "id": "action-5",
+        "changed_pixels": 6411
+      },
+      {
+        "start": 5,
+        "end": 7.25,
+        "id": "action-5",
+        "changed_pixels": 6598
+      },
+      {
+        "start": 5.25,
+        "end": 7.5,
+        "id": "action-5",
+        "changed_pixels": 6907
+      },
+      {
+        "start": 5.5,
+        "end": 7.75,
+        "id": "action-5",
+        "changed_pixels": 6848
+      },
+      {
+        "start": 5.75,
+        "end": 8,
+        "id": "action-5",
+        "changed_pixels": 6493
+      },
+      {
+        "start": 6,
+        "end": 8.25,
+        "id": "action-5",
+        "changed_pixels": 2857
+      },
+      {
+        "start": 6.25,
+        "end": 8.5,
+        "id": "action-5",
+        "changed_pixels": 6674
+      },
+      {
+        "start": 6.5,
+        "end": 8.75,
+        "id": "action-5",
+        "changed_pixels": 6493
+      },
+      {
+        "start": 6.75,
+        "end": 9,
+        "id": "action-5",
+        "changed_pixels": 6108
+      },
+      {
+        "start": 7,
+        "end": 9.25,
+        "id": "action-5",
+        "changed_pixels": 1980
+      },
+      {
+        "start": 7.25,
+        "end": 9.5,
+        "id": "action-9",
+        "changed_pixels": 11976
+      },
+      {
+        "start": 7.5,
+        "end": 9.75,
+        "id": "action-9",
+        "changed_pixels": 11976
+      },
+      {
+        "start": 7.75,
+        "end": 10,
+        "id": "action-9",
+        "changed_pixels": 11976
+      },
+      {
+        "start": 8,
+        "end": 10.25,
+        "id": "action-9",
+        "changed_pixels": 10800
+      },
+      {
+        "start": 8.25,
+        "end": 10.5,
+        "id": "action-9",
+        "changed_pixels": 5501
+      },
+      {
+        "start": 8.5,
+        "end": 10.75,
+        "id": "action-9",
+        "changed_pixels": 12910
+      },
+      {
+        "start": 8.75,
+        "end": 11,
+        "id": "action-9",
+        "changed_pixels": 9097
+      },
+      {
+        "start": 9,
+        "end": 11.25,
+        "id": "action-11",
+        "changed_pixels": 23720
+      },
+      {
+        "start": 9.25,
+        "end": 11.5,
+        "id": "action-11",
+        "changed_pixels": 22345
+      },
+      {
+        "start": 9.5,
+        "end": 11.75,
+        "id": "action-11",
+        "changed_pixels": 16963
+      },
+      {
+        "start": 9.75,
+        "end": 12,
+        "id": "action-11",
+        "changed_pixels": 17892
+      },
+      {
+        "start": 10,
+        "end": 12.25,
+        "id": "action-11",
+        "changed_pixels": 14329
+      },
+      {
+        "start": 10.25,
+        "end": 12.5,
+        "id": "action-11",
+        "changed_pixels": 3365
+      },
+      {
+        "start": 10.5,
+        "end": 12.75,
+        "id": "action-12",
+        "changed_pixels": 2462
+      },
+      {
+        "start": 10.75,
+        "end": 13,
+        "id": "action-12",
+        "changed_pixels": 2323
+      },
+      {
+        "start": 11,
+        "end": 13.25,
+        "id": "action-12",
+        "changed_pixels": 2022
+      },
+      {
+        "start": 11.25,
+        "end": 13.5,
+        "id": "action-12",
+        "changed_pixels": 1362
+      },
+      {
+        "start": 11.5,
+        "end": 13.75,
+        "id": "action-12",
+        "changed_pixels": 494
+      },
+      {
+        "start": 11.75,
+        "end": 14,
+        "id": "action-12",
+        "changed_pixels": 2283
+      },
+      {
+        "start": 12,
+        "end": 14.25,
+        "id": "action-12",
+        "changed_pixels": 2139
+      },
+      {
+        "start": 12.25,
+        "end": 14.5,
+        "id": "action-12",
+        "changed_pixels": 1747
+      },
+      {
+        "start": 12.5,
+        "end": 14.75,
+        "id": "action-12",
+        "changed_pixels": 1097
+      },
+      {
+        "start": 12.75,
+        "end": 15,
+        "id": "action-12",
+        "changed_pixels": 95
+      },
+      {
+        "start": 13,
+        "end": 15.25,
+        "id": "action-13",
+        "changed_pixels": 4515
+      },
+      {
+        "start": 13.25,
+        "end": 15.5,
+        "id": "action-14",
+        "changed_pixels": 42383
+      },
+      {
+        "start": 13.5,
+        "end": 15.75,
+        "id": "action-14",
+        "changed_pixels": 42383
+      },
+      {
+        "start": 13.75,
+        "end": 16,
+        "id": "action-14",
+        "changed_pixels": 41490
+      },
+      {
+        "start": 14,
+        "end": 16.25,
+        "id": "action-14",
+        "changed_pixels": 29893
+      },
+      {
+        "start": 14.25,
+        "end": 16.5,
+        "id": "action-14",
+        "changed_pixels": 12493
+      },
+      {
+        "start": 14.5,
+        "end": 16.75,
+        "id": "action-14",
+        "changed_pixels": 13513
+      },
+      {
+        "start": 14.75,
+        "end": 17,
+        "id": "action-14",
+        "changed_pixels": 7495
+      },
+      {
+        "start": 15,
+        "end": 17.25,
+        "id": "action-16",
+        "changed_pixels": 51116
+      },
+      {
+        "start": 15.25,
+        "end": 17.5,
+        "id": "action-16",
+        "changed_pixels": 51116
+      },
+      {
+        "start": 15.5,
+        "end": 17.75,
+        "id": "action-16",
+        "changed_pixels": 51116
+      },
+      {
+        "start": 15.75,
+        "end": 18,
+        "id": "action-16",
+        "changed_pixels": 50813
+      },
+      {
+        "start": 16,
+        "end": 18.25,
+        "id": "action-16",
+        "changed_pixels": 36818
+      },
+      {
+        "start": 16.25,
+        "end": 18.5,
+        "id": "action-16",
+        "changed_pixels": 15332
+      },
+      {
+        "start": 16.5,
+        "end": 18.75,
+        "id": "action-16",
+        "changed_pixels": 561
+      },
+      {
+        "start": 16.75,
+        "end": 19,
+        "id": "action-16",
+        "changed_pixels": 8314
+      },
+      {
+        "start": 17,
+        "end": 19.25,
+        "id": "action-18",
+        "changed_pixels": 38872
+      },
+      {
+        "start": 17.25,
+        "end": 19.5,
+        "id": "action-18",
+        "changed_pixels": 38872
+      },
+      {
+        "start": 17.5,
+        "end": 19.75,
+        "id": "action-18",
+        "changed_pixels": 38872
+      },
+      {
+        "start": 17.75,
+        "end": 20,
+        "id": "action-18",
+        "changed_pixels": 39032
+      },
+      {
+        "start": 18,
+        "end": 20.25,
+        "id": "action-18",
+        "changed_pixels": 35764
+      },
+      {
+        "start": 18.25,
+        "end": 20.5,
+        "id": "action-18",
+        "changed_pixels": 12474
+      },
+      {
+        "start": 18.5,
+        "end": 20.75,
+        "id": "action-18",
+        "changed_pixels": 15050
+      },
+      {
+        "start": 18.675458,
+        "end": 20.925458,
+        "id": "action-18",
+        "changed_pixels": 9548
+      }
+    ],
+    "sample_step": 0.25,
+    "max_window": 2.25,
+    "limits": "Bounded isolated-layer pixel change, with text/shadows excluded and ancestors frozen; geometry is conservative. Causal action, final visibility/occlusion, semantic captions and sound still require playback review"
+  },
+  "audio_tracks": {
+    "ambience": 1,
+    "dialogue": 0,
+    "file_sfx": 0,
+    "cuts": 0
+  },
+  "reference_review": {
+    "schema": 1,
+    "status": "pending_independent_review",
+    "style": "B1",
+    "output": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/output/preview.mp4",
+    "output_sha256": "9cbe716b9e1d180360421f4658dd7312e0411c5e951b07fa352c12ec8b7f3e37",
+    "project_fingerprint": "8a58cfba1e9d40dd317c525c5e0dc8a8a7b2b0feb0e7caf0ec740a0e45089405",
+    "project_inputs": {
+      "file": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/project.json",
+      "inputs": [
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+          "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+          "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+          "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+          "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+          "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+          "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/fonts/Caveat.ttf",
+          "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/fonts/NotoSans.ttf",
+          "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/ben-body.png",
+          "sha256": "359e4d36f3679a0a24cdfb9f96d5ef4754c4525041606e8237fbd1e233ccd31f"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/calendar.png",
+          "sha256": "77215a7609592587fb24a57e416e5816a65211efcbd26a6520e206f593c45a84"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/desk.png",
+          "sha256": "8aea6f7e9b2657fb60e93d05e73d82e035db82b0932d9e1508e6a02e8c64f389"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/door.png",
+          "sha256": "c25ff8703e7ca1aa6102163ee4d3bf78e0319aed8c22a885c03b3196555f5dde"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/email.png",
+          "sha256": "3b1abb2637d447e745a72846fcc07fa58b782f625d9c68a5aca50b1cceef0c79"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/head-happy.png",
+          "sha256": "8281689d766600ac37a6017740610a060ebe27df1d8c463447cb5bd767752345"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/head-tired.png",
+          "sha256": "d93e0be2bd79ab6cb3fa8d2d3f3a32e025ba4d0b123d572ba8617e12a2252f29"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/head-worried.png",
+          "sha256": "cc2824c505bf2295c9ee87c3f89a7a0df0d4d6cde4917fe188ded1496434cd4b"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/laptop.png",
+          "sha256": "eab3cb5b721256ad2d51eb1f564a9ee0783fe88a37433a59075ab184d2feb695"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/mara.png",
+          "sha256": "203de7b4b5b7686ee97ef24dbbffc1ff04965cc0fd4454a47b16e9dc6e09a6bd"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/mug.png",
+          "sha256": "162ca42419dd5878cfa385ea249f4ac096deaa92ee0b9de1724a501a18a2e06b"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/needle.png",
+          "sha256": "0a6b5851bb053cde6adc8fef4f9a6cf5a99648474f5202f171dee647cfba0121"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/presentation.png",
+          "sha256": "0a32f2512e12465aa2fdaa799e9d42b040336167c1012e275c17c40784937a88"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/report.png",
+          "sha256": "b3c9687d679112dcd8881cb3c42080e694dd73c37d46b24f4658dd787c2c24cf"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/sheet.png",
+          "sha256": "1c5bc6b841ea70cbc5d1f4f240e3af815579cc57e70dc5cc0e122512f25d8c81"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/stack.png",
+          "sha256": "50d93c2addb083fb6f861af7c47ee27b9fe411fb5ac570acbb3ccf931a3aa598"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/timer.png",
+          "sha256": "2232630858edc47f53524a3235b4f36575818d7df5c367abb30d24f5f9538f99"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/art/typing-arm.png",
+          "sha256": "6fbcf8d97bf8483651700756119713343c02197407b7e7246a3b22748c0ef092"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/office-bed.wav",
+          "sha256": "73e97e2a6292961329cb7bab982b8c6662dd3917f778d2ace092670ae3e14234"
+        },
+        {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/preview-narration.wav",
+          "sha256": "13bf04c5494091b9011fb4737211754706227c4913afbea042e8eb2531a80ff6"
+        }
+      ]
+    },
+    "plan_sha256": "cadcc9916bc10d70a345161f1951def4dcb9f1fefb0892ada6c27c38bd1ae6e5",
+    "scope": {
+      "start": 0,
+      "end": 20.925458
+    },
+    "metadata": {
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "average_fps": 30.000933050515354,
+      "duration": 20.932682,
+      "frames": 628,
+      "frame_timing_sha256": "93f22912270fe6172c36ea01537867c47810bdc0dd9c14b59bf54f4afcffeb22",
+      "max_step_error": 0.0006503333333346475,
+      "video_codec": "h264",
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": 24000,
+          "channels": 1
+        }
+      ]
+    },
+    "plan": {
+      "schema": 1,
+      "style": "B1",
+      "author_id": "codex-production",
+      "capability": {
+        "mode": "limited",
+        "environment": "Codex desktop, upstream B1 manifest renderer, original SVG-derived layered art, macOS Samantha",
+        "limitations": [
+          {
+            "capability": "narration",
+            "observed": "User selected the installed macOS voice for the pace preview.",
+            "impact": "Temporary OS voice; not the Gemini sample voice."
+          },
+          {
+            "capability": "reference playback/listening",
+            "observed": "Reference stills inspected; normal-speed audible baseline comparison not performed.",
+            "impact": "No sample-equivalence or final creative acceptance claimed."
+          }
+        ]
+      },
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "scope_start": 0,
+      "scope_end": 20.925458,
+      "frame_count": 628,
+      "shots": [
+        {
+          "id": "shot-0",
+          "index": 0,
+          "source_id": null,
+          "start": 0,
+          "end": 1.92,
+          "start_frame": 0,
+          "end_frame": 58,
+          "phases": {
+            "start": 0,
+            "mid": 28,
+            "end": 57
+          },
+          "shot_sha256": "881f7c2eeab1de458d84f13b13c91b12674493d694655aa825b6890d19a32c14"
+        },
+        {
+          "id": "shot-1",
+          "index": 1,
+          "source_id": null,
+          "start": 1.92,
+          "end": 4.768,
+          "start_frame": 58,
+          "end_frame": 144,
+          "phases": {
+            "start": 58,
+            "mid": 100,
+            "end": 143
+          },
+          "shot_sha256": "e76be1803943b17e41a5bfbb8a5496daa627d69bd18c0db1d9fc5666a93243f9"
+        },
+        {
+          "id": "shot-2",
+          "index": 2,
+          "source_id": null,
+          "start": 4.768,
+          "end": 7.808,
+          "start_frame": 144,
+          "end_frame": 235,
+          "phases": {
+            "start": 144,
+            "mid": 189,
+            "end": 234
+          },
+          "shot_sha256": "be0642660365c8dcae1a03d90bf2a4dc6f252ad8d4bcfa1314f8404734fc7c83"
+        },
+        {
+          "id": "shot-3",
+          "index": 3,
+          "source_id": null,
+          "start": 7.808,
+          "end": 9.098,
+          "start_frame": 235,
+          "end_frame": 273,
+          "phases": {
+            "start": 235,
+            "mid": 253,
+            "end": 272
+          },
+          "shot_sha256": "6b806038637904e69555eb99409f45c5661ae5bc05c0e9da833d7a1af8cde6f7"
+        },
+        {
+          "id": "shot-4",
+          "index": 4,
+          "source_id": null,
+          "start": 9.098,
+          "end": 10.413,
+          "start_frame": 273,
+          "end_frame": 313,
+          "phases": {
+            "start": 273,
+            "mid": 292,
+            "end": 312
+          },
+          "shot_sha256": "25d3b73ae6bb70bee1e84582e7755813a8a95bad5c61ebae867b5afab983bc12"
+        },
+        {
+          "id": "shot-5",
+          "index": 5,
+          "source_id": null,
+          "start": 10.413,
+          "end": 13.684,
+          "start_frame": 313,
+          "end_frame": 411,
+          "phases": {
+            "start": 313,
+            "mid": 361,
+            "end": 410
+          },
+          "shot_sha256": "23fcb123f702684bf22d502f69927ac201ae73891ff633dfab7ba921dd60f664"
+        },
+        {
+          "id": "shot-6",
+          "index": 6,
+          "source_id": null,
+          "start": 13.684,
+          "end": 15.711,
+          "start_frame": 411,
+          "end_frame": 472,
+          "phases": {
+            "start": 411,
+            "mid": 441,
+            "end": 471
+          },
+          "shot_sha256": "9fb301e22212ace37ef7adc3462bcd525156f5fa897a1d4e9ae0ab9b5890770e"
+        },
+        {
+          "id": "shot-7",
+          "index": 7,
+          "source_id": null,
+          "start": 15.711,
+          "end": 17.671,
+          "start_frame": 472,
+          "end_frame": 531,
+          "phases": {
+            "start": 472,
+            "mid": 501,
+            "end": 530
+          },
+          "shot_sha256": "2907a00c009d651cb46bd5e468330b4b4f171b1515a3a29d9b4db065e025449a"
+        },
+        {
+          "id": "shot-8",
+          "index": 8,
+          "source_id": null,
+          "start": 17.671,
+          "end": 20.925458,
+          "start_frame": 531,
+          "end_frame": 628,
+          "phases": {
+            "start": 531,
+            "mid": 579,
+            "end": 627
+          },
+          "shot_sha256": "4981bd97354d192286bb4fc21aa89a89ba0b2edc0addb527f569962e1eaea329"
+        }
+      ],
+      "caption_sha256": "7e661fcee2c61d69f5a5cddc08e590ad5b5bc1d77322d8d2b6b57a3a4657334f",
+      "reference_ids": [
+        "b1-ryan-v4",
+        "b1-ryan-contact-sheet",
+        "b1-ryan-motion-sheet",
+        "b1-full-v4-contact-sheet"
+      ],
+      "checks": [
+        "drawing_character",
+        "semantic_acting",
+        "contact_continuity",
+        "composition_evidence",
+        "typography_captions",
+        "timing_pacing",
+        "sound"
+      ],
+      "limits": [
+        "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+        "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+        "Independent agent review does not imply human approval or user acceptance.",
+        "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+        "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+        "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+      ]
+    },
+    "references": [
+      {
+        "id": "b1-ryan-v4",
+        "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23.mp4",
+        "sha256": "111c241a836a0c26b27df2cbff3ba5697b97460dbb873b68dd2f6eda2383b3fc",
+        "kind": "video",
+        "role": "approved_baseline",
+        "duration": 21.3,
+        "has_audio": true,
+        "required_comparison": true,
+        "limitations": []
+      },
+      {
+        "id": "b1-ryan-contact-sheet",
+        "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23-contact-sheet.png",
+        "sha256": "0bc85b4c8ca938b01d346fcca9af06e608ea56e6d82ea993860647166b7b530e",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-ryan-motion-sheet",
+        "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-23-motion-sheet.png",
+        "sha256": "7bb8664e837e44604387f258522fd2251bac5ddf7347ed02297f211dc45ced73",
+        "kind": "image",
+        "role": "approved_baseline",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Static sheet cannot demonstrate continuous motion, subtitle timing or listening."
+        ]
+      },
+      {
+        "id": "b1-full-v4-contact-sheet",
+        "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-2026-10-24-longform-contact-sheet.jpg",
+        "sha256": "18690bd4a1d94cdc611bced722899cd0cae3f3e114120cedc79e0ab717b4c99e",
+        "kind": "image",
+        "role": "approved_longform_sampled_sheet",
+        "duration": null,
+        "has_audio": false,
+        "required_comparison": false,
+        "limitations": [
+          "Full V4 film is not bundled. This sampled sheet cannot establish continuous long-form motion or audio."
+        ]
+      }
+    ],
+    "reference_manifests": [
+      {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-baseline.json",
+        "sha256": "71a45ae39cfde9e90eefdf32676ad9be7082bfb5e0a85589face9967eca37e73"
+      },
+      {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/.production-skills/directing-stickman-videos/assets/b1/approved-production-standard.json",
+        "sha256": "1208febb532b602ebf2cd54543461f90c171eab263d68ee4021a195ae27cd8b5"
+      }
+    ],
+    "artifacts": [
+      {
+        "id": "shot-0-start",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 0,
+        "source_time": 0,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-start.png",
+        "sha256": "1bc8c033a765d958b52bca905abbf6464cd8a98c0164f5845a6b5ac82e2332ec"
+      },
+      {
+        "id": "shot-0-mid",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 28,
+        "source_time": 0.933333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-mid.png",
+        "sha256": "0a2bcf4731e5f401652976a5e6937550e4e44c73fa0fc5446fda7baea278b280"
+      },
+      {
+        "id": "shot-0-end",
+        "shot": "shot-0",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 57,
+        "source_time": 1.9,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-0-end.png",
+        "sha256": "55405195c63050077d1ee8935fd8efd28024af31a81004378fbdb26eda53ecff"
+      },
+      {
+        "id": "shot-0-continuous",
+        "shot": "shot-0",
+        "type": "clip",
+        "start_frame": 0,
+        "end_frame": 58,
+        "source_start": 0,
+        "source_end": 1.933333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-0-continuous.mp4",
+        "sha256": "7d30b44c44e34b0f2172c0f613e1aa154fc25543db0dc0aeb75821770a317bda"
+      },
+      {
+        "id": "shot-1-start",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 58,
+        "source_time": 1.933333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-start.png",
+        "sha256": "b0e4d3afb04715db8ec8388a484e4f2e57af92a03d37759fd915f3e5dcff8743"
+      },
+      {
+        "id": "shot-1-mid",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 100,
+        "source_time": 3.333333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-mid.png",
+        "sha256": "1b9eed19b03649303dee84cf8cda9faaa4d92c3ba3c30f17dfcab6cd3427e275"
+      },
+      {
+        "id": "shot-1-end",
+        "shot": "shot-1",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 143,
+        "source_time": 4.766667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-1-end.png",
+        "sha256": "b8e50a152eceb0b534bcf684d37d2846084dc8494023c2618cf6aa2e63ca6a8c"
+      },
+      {
+        "id": "shot-1-continuous",
+        "shot": "shot-1",
+        "type": "clip",
+        "start_frame": 58,
+        "end_frame": 144,
+        "source_start": 1.933333,
+        "source_end": 4.8,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-1-continuous.mp4",
+        "sha256": "f9d50b77a6fea598514ee83a19a7d134f9ac3b27db1f4478fc5b1aa3f4c4a152"
+      },
+      {
+        "id": "shot-2-start",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 144,
+        "source_time": 4.8,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-start.png",
+        "sha256": "43820f56738a84ee31b10a27b979f4c17fa29bd8fc6a3286de5515445f035703"
+      },
+      {
+        "id": "shot-2-mid",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 189,
+        "source_time": 6.3,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-mid.png",
+        "sha256": "cde62f3eb3131890f0a972a7ccd8c0fa18c1151ff91ff0a52cdf80c5eb987098"
+      },
+      {
+        "id": "shot-2-end",
+        "shot": "shot-2",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 234,
+        "source_time": 7.8,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-2-end.png",
+        "sha256": "6230b8067f66f8295ac512b53e1c890384594555ab9020dfcfbea059da054c54"
+      },
+      {
+        "id": "shot-2-continuous",
+        "shot": "shot-2",
+        "type": "clip",
+        "start_frame": 144,
+        "end_frame": 235,
+        "source_start": 4.8,
+        "source_end": 7.833333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-2-continuous.mp4",
+        "sha256": "64f03106b4711d08d23147d99def7df0319e876a82e6f956c024ac91e8ec5303"
+      },
+      {
+        "id": "shot-3-start",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 235,
+        "source_time": 7.833333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-start.png",
+        "sha256": "241f72dc4862b9d81b258d5dbcb0404a83319f6758f2c8e82d0504f023075cc8"
+      },
+      {
+        "id": "shot-3-mid",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 253,
+        "source_time": 8.433333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-mid.png",
+        "sha256": "9448ee46859ba83646ea3e16beb82bbdcc5aadf41fe4ac00478b8f88caeda818"
+      },
+      {
+        "id": "shot-3-end",
+        "shot": "shot-3",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 272,
+        "source_time": 9.066667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-3-end.png",
+        "sha256": "18c394d2d2a515d27f85c3fd78ef9aafe92dcb16c6116b0223874e1abf073918"
+      },
+      {
+        "id": "shot-3-continuous",
+        "shot": "shot-3",
+        "type": "clip",
+        "start_frame": 235,
+        "end_frame": 273,
+        "source_start": 7.833333,
+        "source_end": 9.1,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-3-continuous.mp4",
+        "sha256": "79c4913238169034e59ba470d0f37e252711b338213082a506c996630e97e2bf"
+      },
+      {
+        "id": "shot-4-start",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 273,
+        "source_time": 9.1,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-start.png",
+        "sha256": "0cbe06143cf4438b2cb5a6f4ee9340c4c106b44b96e30363658933b16afae169"
+      },
+      {
+        "id": "shot-4-mid",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 292,
+        "source_time": 9.733333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-mid.png",
+        "sha256": "51dd3ee53f66cda6000a37a0f1de1605e2bb141026db7d929333f1dccbe3c9a7"
+      },
+      {
+        "id": "shot-4-end",
+        "shot": "shot-4",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 312,
+        "source_time": 10.4,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-4-end.png",
+        "sha256": "07ba645a624b96d8bf9ba847c029b22361b87b86442bedad4c5e45ffe3da43c8"
+      },
+      {
+        "id": "shot-4-continuous",
+        "shot": "shot-4",
+        "type": "clip",
+        "start_frame": 273,
+        "end_frame": 313,
+        "source_start": 9.1,
+        "source_end": 10.433333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-4-continuous.mp4",
+        "sha256": "6f9841b1845c7cca97adc861fff43834806da64e0c60e4a443b6e073ae920bc4"
+      },
+      {
+        "id": "shot-5-start",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 313,
+        "source_time": 10.433333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-start.png",
+        "sha256": "f705cefb170a791420fc50a379bc9d92f90c28e14bb93117484bc43610e12ddc"
+      },
+      {
+        "id": "shot-5-mid",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 361,
+        "source_time": 12.033333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-mid.png",
+        "sha256": "4bcbece176456749bd581a11bf53ff7636642083097772c300d7268eadc2f0e5"
+      },
+      {
+        "id": "shot-5-end",
+        "shot": "shot-5",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 410,
+        "source_time": 13.666667,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-5-end.png",
+        "sha256": "58992e7978aef17580e11858c10598c07efc0bd3c0d12359318a5edb6577cd5c"
+      },
+      {
+        "id": "shot-5-continuous",
+        "shot": "shot-5",
+        "type": "clip",
+        "start_frame": 313,
+        "end_frame": 411,
+        "source_start": 10.433333,
+        "source_end": 13.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-5-continuous.mp4",
+        "sha256": "90f74d7f995ca29f1aba2f3fdc41fb57110b9d86bc98048ea05b2d5297866f8d"
+      },
+      {
+        "id": "shot-6-start",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 411,
+        "source_time": 13.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-start.png",
+        "sha256": "fb368c99d982343a6ee367c2e44a414a043fcf75571e1981aedbc8036acfb971"
+      },
+      {
+        "id": "shot-6-mid",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 441,
+        "source_time": 14.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-mid.png",
+        "sha256": "891f671325307fc61681b5467d46c0e0e84bfbd0bc612085dc3ad7c580e7cafb"
+      },
+      {
+        "id": "shot-6-end",
+        "shot": "shot-6",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 471,
+        "source_time": 15.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-6-end.png",
+        "sha256": "8caad64594bfde9955e6055b47dcdd71c52329af7bc036187f2becb68f159e59"
+      },
+      {
+        "id": "shot-6-continuous",
+        "shot": "shot-6",
+        "type": "clip",
+        "start_frame": 411,
+        "end_frame": 472,
+        "source_start": 13.7,
+        "source_end": 15.733333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-6-continuous.mp4",
+        "sha256": "31876eec774f17a011faf7c0f57b1fafacd882644eab4aa868e8eef03c78afdf"
+      },
+      {
+        "id": "shot-7-start",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 472,
+        "source_time": 15.733333,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-start.png",
+        "sha256": "248d1b2b673567baa893f25b1107eec62848999bed383210e1cf0ce8b5495668"
+      },
+      {
+        "id": "shot-7-mid",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 501,
+        "source_time": 16.7,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-mid.png",
+        "sha256": "93f4a92f1e5c6049479ad44a9292e187bebeb7aa5b26c0c70f428c9940b1b163"
+      },
+      {
+        "id": "shot-7-end",
+        "shot": "shot-7",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 530,
+        "source_time": 17.666016,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-7-end.png",
+        "sha256": "04dc6e8d6525a146e88c683188d7127e13871f716049fa96d1cd6a9bf43f1bb9"
+      },
+      {
+        "id": "shot-7-continuous",
+        "shot": "shot-7",
+        "type": "clip",
+        "start_frame": 472,
+        "end_frame": 531,
+        "source_start": 15.733333,
+        "source_end": 17.699349,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-7-continuous.mp4",
+        "sha256": "052895d40dbfabfe447029747d0a539f7eb3cf640a344829bcbd7a35bf00a50b"
+      },
+      {
+        "id": "shot-8-start",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "start",
+        "frame_index": 531,
+        "source_time": 17.699349,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-start.png",
+        "sha256": "ced0050124cf62b8996d936f7d5019c6113aadce8deb3ed6d4c42bda40586489"
+      },
+      {
+        "id": "shot-8-mid",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "mid",
+        "frame_index": 579,
+        "source_time": 19.299349,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-mid.png",
+        "sha256": "7f2aa64effba4bbd4a8ff9136fae859f68416f761a584a28b225172b17ca0692"
+      },
+      {
+        "id": "shot-8-end",
+        "shot": "shot-8",
+        "type": "png",
+        "phase": "end",
+        "frame_index": 627,
+        "source_time": 20.899349,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "shot-8-end.png",
+        "sha256": "58a4b6e6859b20462df01610ea2689c3dccddba80b10af487f83134e17c505a9"
+      },
+      {
+        "id": "shot-8-continuous",
+        "shot": "shot-8",
+        "type": "clip",
+        "start_frame": 531,
+        "end_frame": 628,
+        "source_start": 17.699349,
+        "source_end": 20.932682,
+        "crop": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "audio": "source",
+        "file": "shot-8-continuous.mp4",
+        "sha256": "a240de08aa77786252223fd16d0e937a830bf0ed69b5bf067a8a5556f25978d1"
+      }
+    ],
+    "evidence_dir": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/output/preview-reference",
+    "ledger_file": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/output/preview-reference/evidence.json",
+    "template_file": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/output/preview-reference/review-template.json",
+    "limits": [
+      "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+      "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+      "Independent agent review does not imply human approval or user acceptance.",
+      "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+      "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+      "The complete approved Full V4 film is unavailable in this bundle; only sampled long-form compositions are comparable."
+    ]
+  },
+  "visual_acceptance": "pending_independent_review",
+  "delivery_ready": false
+}

@@ -1,0 +1,130 @@
+{
+  "reviewer": {
+    "id": "review_longform",
+    "kind": "agent",
+    "independent_from_production_author": true
+  },
+  "scope": "Spot inspection of actual decoded MP4 stills supplied under encoded-checks; 11 frames, no continuous playback or listening",
+  "video": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/longform/output/film.mp4",
+  "video_sha256": "64994b6f35a441202cb14f4c1b8bc313461356ce7cfd1b145f6ee243bd5d2270",
+  "status": "encoded-still findings; not an acceptance/pass record",
+  "inspected_frames": [
+    {
+      "time_seconds": 0.8,
+      "file": "encoded-checks/frame-0.8.png",
+      "sha256": "96a90dce500b0a54d84cbc7899bc1b6e5511e6b972abc4a63b887c74cfc17056"
+    },
+    {
+      "time_seconds": 41,
+      "file": "encoded-checks/frame-41.png",
+      "sha256": "04449bab8a343b0b176a609b47fe4ea9810e2d8faaa2c3d6681d027036b91ad7"
+    },
+    {
+      "time_seconds": 135,
+      "file": "encoded-checks/frame-135.png",
+      "sha256": "87e86ceca780677f744f0e243ffea176df5107a2ef2438d2c68218a587830efe"
+    },
+    {
+      "time_seconds": 137,
+      "file": "encoded-checks/frame-137.png",
+      "sha256": "237154bae354bf29fde4daf9652dd34bbf98ec4600c46509f0c59e22c900ff0b"
+    },
+    {
+      "time_seconds": 287,
+      "file": "encoded-checks/frame-287.png",
+      "sha256": "267a2ed17b24c29593ee748e01740463cf16181decff2e8d522edc04ca9371f3"
+    },
+    {
+      "time_seconds": 333,
+      "file": "encoded-checks/frame-333.png",
+      "sha256": "67d28b476e4208b23107a329475ecf9c95089f31ded369d905c5bb4a3ec78c8f"
+    },
+    {
+      "time_seconds": 370,
+      "file": "encoded-checks/frame-370.png",
+      "sha256": "ccb5751eec148990b78dd8cec8b45af979fc1602dceb1318127bcb258ccd8388"
+    },
+    {
+      "time_seconds": 430,
+      "file": "encoded-checks/frame-430.png",
+      "sha256": "75ecdc2b22af14cb56586c2dbdb3371759cb7f5e8f4ba6577f9ead5acbaa3d6c"
+    },
+    {
+      "time_seconds": 494,
+      "file": "encoded-checks/frame-494.png",
+      "sha256": "a2e3428ad7063d6857f4b48f146049ee709c4bb73281120a6d5f25a03722201a"
+    },
+    {
+      "time_seconds": 594,
+      "file": "encoded-checks/frame-594.png",
+      "sha256": "e7df2b1b7f2cdf7b073883036504d72d0d3ce0c93265bd4bba54e7b7204e4393"
+    },
+    {
+      "time_seconds": 602,
+      "file": "encoded-checks/frame-602.png",
+      "sha256": "03c4e4547af72b919a1cb2794dcfd0aa57a87cb1a1496283c6a2155a41a3dee6"
+    }
+  ],
+  "confirmed_corrections": [
+    {
+      "time_seconds": 135,
+      "observation": "NOTHING scene now contains an actually empty tray; hovering report removed."
+    },
+    {
+      "time_seconds": 137,
+      "observation": "Quiet machine and completion check are legible; no report wrongly enters waiting tray."
+    },
+    {
+      "time_seconds": 287,
+      "observation": "Cold unsteaming lunch appears at refrigerator shelf; subtitle matches story context."
+    },
+    {
+      "time_seconds": 333,
+      "observation": "NO WALK TODAY shows crossed-out outside plan with Ben at desk, correctly preserving negation."
+    },
+    {
+      "time_seconds": 430,
+      "observation": "Meeting character now below LET'S TALK title band; no hair/title contact in this decoded frame."
+    },
+    {
+      "time_seconds": 494,
+      "observation": "First-test/request scene replaces inappropriate warm lunch image."
+    },
+    {
+      "time_seconds": 602,
+      "observation": "Outdoor Ben stands on ground beside bench, with readable final one-line question."
+    },
+    {
+      "time_seconds": 41,
+      "observation": "Stopwatch needle attaches at dial center in decoded still; no moving-pivot claim inferred."
+    },
+    {
+      "time_seconds": 370,
+      "observation": "Mara bob/earring identity is visible on the right machine lane, distinct from Ben head on left."
+    }
+  ],
+  "remaining_findings": [
+    {
+      "priority": "medium",
+      "time_seconds": 370,
+      "actual_shot_interval": [
+        369.58,
+        371.7
+      ],
+      "category": "heading/character clearance",
+      "observation": "Floating left Ben head is placed at x230,y175,w95,h99. Its hair/top approaches or partly merges with the lower THE NEXT CONVEYOR BELT lettering (main title y135,size64), crowding the title band.",
+      "evidence": "encoded-checks/frame-370.png",
+      "repair": "Move the Ben head down approximately 35–45 px, leaving a visible title gap, then rerender affected shot and recheck actual decoded frame."
+    }
+  ],
+  "other_observations": [
+    "No other confirmed text clipping, caption crop, or scene overlap in inspected spot frames.",
+    "Frame594 is a meeting/conversation frame; frame602 supplies the final outdoor grounding check."
+  ],
+  "limits": [
+    "Eleven decoded stills do not establish full-film playback, motion quality, temporal contact, semantic timing or editing rhythm.",
+    "No voice, SFX, mix, intelligibility or normal-speed listening reviewed.",
+    "No B1 reference-equivalence or human/user approval inferred.",
+    "A new film hash after correction invalidates this snapshot as evidence of the revised file."
+  ]
+}

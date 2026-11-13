@@ -1,0 +1,21 @@
+{
+ "text": "Cho trẻ con",
+ "engine": "faster-whisper-large-v3-vad",
+ "words": [
+  {
+   "w": "Cho",
+   "s": 4.43,
+   "e": 4.87
+  },
+  {
+   "w": "trẻ",
+   "s": 4.87,
+   "e": 5.23
+  },
+  {
+   "w": "con",
+   "s": 5.23,
+   "e": 5.45
+  }
+ ]
+}

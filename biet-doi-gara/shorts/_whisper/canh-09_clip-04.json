@@ -1,0 +1,21 @@
+{
+ "text": "Nhìn anh này",
+ "engine": "faster-whisper-large-v3-vad",
+ "words": [
+  {
+   "w": "Nhìn",
+   "s": 5.52,
+   "e": 5.96
+  },
+  {
+   "w": "anh",
+   "s": 5.96,
+   "e": 6.08
+  },
+  {
+   "w": "này",
+   "s": 6.08,
+   "e": 6.22
+  }
+ ]
+}

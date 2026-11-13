@@ -1,0 +1,1060 @@
+{
+  "version": 1,
+  "style": "B1",
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "voice": {
+    "path": "preview-narration.wav",
+    "lead": 0,
+    "tail": 0
+  },
+  "captions": [
+    {
+      "start": 0,
+      "end": 1.85,
+      "text": "Ben automated his entire job."
+    },
+    {
+      "start": 1.92,
+      "end": 2.72,
+      "text": "By Monday,"
+    },
+    {
+      "start": 2.775,
+      "end": 4.7,
+      "text": "he was working twelve minutes a day."
+    },
+    {
+      "start": 4.768,
+      "end": 5.68,
+      "text": "By Friday,"
+    },
+    {
+      "start": 5.734,
+      "end": 7.76,
+      "text": "his boss wanted to know his secret."
+    },
+    {
+      "start": 7.808,
+      "end": 9.04,
+      "text": "That was the problem."
+    },
+    {
+      "start": 9.098,
+      "end": 10.36,
+      "text": "Three weeks earlier,"
+    },
+    {
+      "start": 10.413,
+      "end": 13.62,
+      "text": "Ben's job had been moving information between rectangles."
+    },
+    {
+      "start": 13.684,
+      "end": 15.65,
+      "text": "An email became a spreadsheet."
+    },
+    {
+      "start": 15.711,
+      "end": 17.61,
+      "text": "The spreadsheet became a report."
+    },
+    {
+      "start": 17.671,
+      "end": 20.925,
+      "text": "The report became a presentation explaining the spreadsheet."
+    }
+  ],
+  "shots": [
+    {
+      "start": 0,
+      "end": 1.92,
+      "layers": [
+        {
+          "type": "text",
+          "text": "ONE CLICK.",
+          "x": 90,
+          "y": 160,
+          "size": 87,
+          "bold": true,
+          "color": "#202521",
+          "w": 580
+        },
+        {
+          "type": "text",
+          "text": "A whole job.",
+          "x": 95,
+          "y": 250,
+          "size": 43,
+          "bold": true,
+          "color": "#6a786c",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/ben-body.png",
+          "x": 730,
+          "y": 243,
+          "w": 320,
+          "h": 300
+        },
+        {
+          "type": "image",
+          "path": "art/head-happy.png",
+          "x": 730,
+          "y": 142,
+          "w": 110,
+          "h": 115
+        },
+        {
+          "type": "image",
+          "path": "art/typing-arm.png",
+          "x": 789,
+          "y": 267,
+          "w": 165,
+          "h": 100,
+          "id": "action-1",
+          "keys": [
+            {
+              "t": 0,
+              "angle": 0
+            },
+            {
+              "t": 0.35,
+              "angle": 0.05
+            },
+            {
+              "t": 0.65,
+              "angle": 0
+            },
+            {
+              "t": 1.2,
+              "angle": 0.035
+            },
+            {
+              "t": 1.5,
+              "angle": 0
+            }
+          ],
+          "motion": {
+            "role": "actor",
+            "reason": "Ben presses the keyboard; his arm pivots from his shoulder"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/desk.png",
+          "x": 850,
+          "y": 200,
+          "w": 410,
+          "h": 310
+        },
+        {
+          "type": "image",
+          "path": "art/mug.png",
+          "x": 911,
+          "y": 306,
+          "w": 38,
+          "h": 44
+        },
+        {
+          "type": "image",
+          "path": "art/report.png",
+          "x": 1090,
+          "y": 310,
+          "w": 85,
+          "h": 103,
+          "id": "action-2",
+          "keys": [
+            {
+              "t": 0,
+              "x": 1090,
+              "y": 310
+            },
+            {
+              "t": 0.75,
+              "x": 1075,
+              "y": 220
+            },
+            {
+              "t": 1.3,
+              "x": 1115,
+              "y": 200
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The completed report ejects after Ben presses the key"
+          }
+        }
+      ]
+    },
+    {
+      "start": 1.92,
+      "end": 4.768,
+      "layers": [
+        {
+          "type": "text",
+          "text": "12 MINUTES.",
+          "x": 75,
+          "y": 126,
+          "size": 80,
+          "bold": true,
+          "color": "#202521",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/timer.png",
+          "x": 142,
+          "y": 235,
+          "w": 240,
+          "h": 270
+        },
+        {
+          "type": "image",
+          "path": "art/needle.png",
+          "x": 182,
+          "y": 285,
+          "w": 160,
+          "h": 190,
+          "id": "action-3",
+          "keys": [
+            {
+              "t": 0,
+              "angle": -1.8,
+              "x": 182.79140448762746,
+              "y": 485.62801993956435
+            },
+            {
+              "t": 1.4,
+              "angle": 0.1,
+              "x": 192.38300844244077,
+              "y": 277.51291014045114
+            },
+            {
+              "t": 2.35,
+              "angle": 0.6,
+              "x": 252.4373981467293,
+              "y": 257.29504063742934
+            }
+          ],
+          "motion": {
+            "role": "information",
+            "reason": "The stopwatch hand sweeps to show the short working day"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/ben-body.png",
+          "x": 730,
+          "y": 243,
+          "w": 320,
+          "h": 300
+        },
+        {
+          "type": "image",
+          "path": "art/head-happy.png",
+          "x": 730,
+          "y": 142,
+          "w": 110,
+          "h": 115,
+          "id": "action-4",
+          "keys": [
+            {
+              "t": 0,
+              "angle": 0,
+              "x": 730,
+              "y": 142
+            },
+            {
+              "t": 1,
+              "angle": -0.08,
+              "x": 721.3948846978391,
+              "y": 146.98686455692388
+            },
+            {
+              "t": 2,
+              "angle": 0,
+              "x": 730,
+              "y": 142
+            }
+          ],
+          "motion": {
+            "role": "actor",
+            "reason": "Ben reacts with a head turn to the current event"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/typing-arm.png",
+          "x": 789,
+          "y": 267,
+          "w": 165,
+          "h": 100
+        },
+        {
+          "type": "image",
+          "path": "art/desk.png",
+          "x": 850,
+          "y": 200,
+          "w": 410,
+          "h": 310
+        },
+        {
+          "type": "image",
+          "path": "art/mug.png",
+          "x": 911,
+          "y": 306,
+          "w": 38,
+          "h": 44
+        }
+      ]
+    },
+    {
+      "start": 4.768,
+      "end": 7.808,
+      "layers": [
+        {
+          "type": "text",
+          "text": "HIS BOSS",
+          "x": 80,
+          "y": 150,
+          "size": 79,
+          "bold": true,
+          "color": "#202521",
+          "w": 580
+        },
+        {
+          "type": "text",
+          "text": "NOTICED.",
+          "x": 80,
+          "y": 245,
+          "size": 79,
+          "bold": true,
+          "color": "#e55c4d",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/door.png",
+          "x": 1090,
+          "y": 40,
+          "w": 150,
+          "h": 430
+        },
+        {
+          "type": "image",
+          "path": "art/mara.png",
+          "x": 1180,
+          "y": 75,
+          "w": 150,
+          "h": 344,
+          "id": "action-5",
+          "keys": [
+            {
+              "t": 0,
+              "x": 1180
+            },
+            {
+              "t": 1.3,
+              "x": 1080
+            },
+            {
+              "t": 2.3,
+              "x": 1055
+            }
+          ],
+          "motion": {
+            "role": "actor",
+            "reason": "Mara enters through the doorway to inspect the work"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/ben-body.png",
+          "x": 730,
+          "y": 243,
+          "w": 320,
+          "h": 300
+        },
+        {
+          "type": "image",
+          "path": "art/head-worried.png",
+          "x": 730,
+          "y": 142,
+          "w": 110,
+          "h": 115,
+          "id": "action-6",
+          "keys": [
+            {
+              "t": 0,
+              "angle": -0.05,
+              "x": 724.5747762773174,
+              "y": 145.03626317425304
+            },
+            {
+              "t": 0.65,
+              "angle": 0.09,
+              "x": 740.1213818970855,
+              "y": 137.232243515196
+            },
+            {
+              "t": 1.5,
+              "angle": 0.02,
+              "x": 732.2114529496051,
+              "y": 140.86207659846315
+            }
+          ],
+          "motion": {
+            "role": "actor",
+            "reason": "Ben reacts with a head turn to the current event"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/typing-arm.png",
+          "x": 789,
+          "y": 267,
+          "w": 165,
+          "h": 100,
+          "id": "action-7",
+          "keys": [
+            {
+              "t": 0,
+              "angle": 0
+            },
+            {
+              "t": 1.1,
+              "angle": 0.7
+            },
+            {
+              "t": 1.7,
+              "angle": 0.7
+            }
+          ],
+          "motion": {
+            "role": "actor",
+            "reason": "Ben lowers the coffee toward his lap, keeping his hand on the handle"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/desk.png",
+          "x": 850,
+          "y": 200,
+          "w": 410,
+          "h": 310
+        },
+        {
+          "type": "image",
+          "path": "art/mug.png",
+          "x": 911,
+          "y": 315,
+          "w": 38,
+          "h": 44,
+          "id": "action-8",
+          "keys": [
+            {
+              "t": 0,
+              "x": 911,
+              "y": 315
+            },
+            {
+              "t": 1.1,
+              "x": 826,
+              "y": 394
+            },
+            {
+              "t": 1.7,
+              "x": 826,
+              "y": 394
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The coffee follows Ben’s hand down to his lap"
+          }
+        }
+      ]
+    },
+    {
+      "start": 7.808,
+      "end": 9.098,
+      "layers": [
+        {
+          "type": "text",
+          "text": "THAT WAS",
+          "x": 80,
+          "y": 170,
+          "size": 75,
+          "bold": true,
+          "color": "#202521",
+          "w": 580
+        },
+        {
+          "type": "text",
+          "text": "THE PROBLEM.",
+          "x": 80,
+          "y": 265,
+          "size": 75,
+          "bold": true,
+          "color": "#e55c4d",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/head-worried.png",
+          "x": 785,
+          "y": 98,
+          "w": 235,
+          "h": 246,
+          "id": "action-9",
+          "keys": [
+            {
+              "t": 0,
+              "angle": 0,
+              "x": 785,
+              "y": 98
+            },
+            {
+              "t": 0.6,
+              "angle": -0.075,
+              "x": 767.7981679609378,
+              "y": 107.49952201992704
+            },
+            {
+              "t": 1.2,
+              "angle": 0.025,
+              "x": 790.8862637235098,
+              "y": 95.12342847354955
+            }
+          ],
+          "motion": {
+            "role": "actor",
+            "reason": "Ben looks away from his boss nervously"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/laptop.png",
+          "x": 712,
+          "y": 350,
+          "w": 370,
+          "h": 250,
+          "id": "action-10",
+          "keys": [
+            {
+              "t": 0,
+              "y": 365
+            },
+            {
+              "t": 0.7,
+              "y": 335
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "Ben raises the laptop to conceal his coffee"
+          }
+        }
+      ]
+    },
+    {
+      "start": 9.098,
+      "end": 10.413,
+      "layers": [
+        {
+          "type": "text",
+          "text": "3 WEEKS",
+          "x": 95,
+          "y": 180,
+          "size": 82,
+          "bold": true,
+          "color": "#202521",
+          "w": 580
+        },
+        {
+          "type": "text",
+          "text": "EARLIER...",
+          "x": 95,
+          "y": 270,
+          "size": 76,
+          "bold": true,
+          "color": "#657467",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/calendar.png",
+          "x": 800,
+          "y": 175,
+          "w": 235,
+          "h": 240,
+          "id": "action-11",
+          "keys": [
+            {
+              "t": 0,
+              "angle": 0.1,
+              "x": 850
+            },
+            {
+              "t": 0.6,
+              "angle": -0.08,
+              "x": 790
+            },
+            {
+              "t": 1.2,
+              "angle": 0,
+              "x": 800
+            }
+          ],
+          "motion": {
+            "role": "information",
+            "reason": "The calendar page turns back to establish the flashback"
+          }
+        }
+      ]
+    },
+    {
+      "start": 10.413,
+      "end": 13.684,
+      "layers": [
+        {
+          "type": "text",
+          "text": "MOVING DATA.",
+          "x": 70,
+          "y": 165,
+          "size": 72,
+          "bold": true,
+          "color": "#202521",
+          "w": 580
+        },
+        {
+          "type": "text",
+          "text": "ALL DAY.",
+          "x": 75,
+          "y": 255,
+          "size": 74,
+          "bold": true,
+          "color": "#4285ab",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/ben-body.png",
+          "x": 730,
+          "y": 243,
+          "w": 320,
+          "h": 300
+        },
+        {
+          "type": "image",
+          "path": "art/head-tired.png",
+          "x": 730,
+          "y": 142,
+          "w": 110,
+          "h": 115,
+          "id": "action-12",
+          "keys": [
+            {
+              "t": 0,
+              "angle": 0,
+              "x": 730,
+              "y": 142
+            },
+            {
+              "t": 1.2,
+              "angle": 0.11,
+              "x": 742.4261594106008,
+              "y": 136.29768777620723
+            },
+            {
+              "t": 2.4,
+              "angle": 0.02,
+              "x": 732.2114529496051,
+              "y": 140.86207659846315
+            }
+          ],
+          "motion": {
+            "role": "actor",
+            "reason": "Ben reacts with a head turn to the current event"
+          }
+        },
+        {
+          "type": "image",
+          "path": "art/desk.png",
+          "x": 850,
+          "y": 200,
+          "w": 410,
+          "h": 310
+        },
+        {
+          "type": "image",
+          "path": "art/stack.png",
+          "x": 990,
+          "y": 170,
+          "w": 240,
+          "h": 210,
+          "id": "action-13",
+          "keys": [
+            {
+              "t": 0,
+              "y": 100
+            },
+            {
+              "t": 0.8,
+              "y": 153
+            },
+            {
+              "t": 1.6,
+              "y": 170
+            },
+            {
+              "t": 2.7,
+              "y": 185
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "A heavy stack of paper settles on the desk as Ben slumps"
+          }
+        }
+      ]
+    },
+    {
+      "start": 13.684,
+      "end": 15.711,
+      "layers": [
+        {
+          "type": "text",
+          "text": "EMAIL TO SPREADSHEET",
+          "x": 80,
+          "y": 105,
+          "size": 62,
+          "bold": true,
+          "color": "#202521",
+          "w": 1120
+        },
+        {
+          "type": "text",
+          "text": "Same information.",
+          "x": 85,
+          "y": 200,
+          "size": 39,
+          "bold": true,
+          "color": "#6a786c",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/email.png",
+          "x": 180,
+          "y": 310,
+          "w": 190,
+          "h": 175,
+          "id": "action-14",
+          "keys": [
+            {
+              "t": 0,
+              "x": 180
+            },
+            {
+              "t": 0.8,
+              "x": 350
+            },
+            {
+              "t": 1.25,
+              "x": 390
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The source document moves along the information-transfer path"
+          }
+        },
+        {
+          "type": "arrow",
+          "x": 600,
+          "y": 385,
+          "w": 170,
+          "color": "#7c8e80"
+        },
+        {
+          "type": "image",
+          "path": "art/sheet.png",
+          "x": 850,
+          "y": 310,
+          "w": 190,
+          "h": 175,
+          "id": "action-15",
+          "keys": [
+            {
+              "t": 0,
+              "y": 355
+            },
+            {
+              "t": 0.75,
+              "y": 310
+            },
+            {
+              "t": 1.25,
+              "y": 295
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The next document arrives at the output of the information transfer"
+          }
+        }
+      ]
+    },
+    {
+      "start": 15.711,
+      "end": 17.671,
+      "layers": [
+        {
+          "type": "text",
+          "text": "SPREADSHEET TO REPORT",
+          "x": 80,
+          "y": 105,
+          "size": 62,
+          "bold": true,
+          "color": "#202521",
+          "w": 1120
+        },
+        {
+          "type": "text",
+          "text": "Another rectangle.",
+          "x": 85,
+          "y": 200,
+          "size": 39,
+          "bold": true,
+          "color": "#6a786c",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/sheet.png",
+          "x": 180,
+          "y": 310,
+          "w": 190,
+          "h": 175,
+          "id": "action-16",
+          "keys": [
+            {
+              "t": 0,
+              "x": 180
+            },
+            {
+              "t": 0.8,
+              "x": 350
+            },
+            {
+              "t": 1.25,
+              "x": 390
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The source document moves along the information-transfer path"
+          }
+        },
+        {
+          "type": "arrow",
+          "x": 600,
+          "y": 385,
+          "w": 170,
+          "color": "#7c8e80"
+        },
+        {
+          "type": "image",
+          "path": "art/report.png",
+          "x": 850,
+          "y": 310,
+          "w": 190,
+          "h": 175,
+          "id": "action-17",
+          "keys": [
+            {
+              "t": 0,
+              "y": 355
+            },
+            {
+              "t": 0.75,
+              "y": 310
+            },
+            {
+              "t": 1.25,
+              "y": 295
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The next document arrives at the output of the information transfer"
+          }
+        }
+      ]
+    },
+    {
+      "start": 17.671,
+      "end": 20.925458,
+      "layers": [
+        {
+          "type": "text",
+          "text": "REPORT TO PRESENTATION",
+          "x": 80,
+          "y": 105,
+          "size": 62,
+          "bold": true,
+          "color": "#202521",
+          "w": 1120
+        },
+        {
+          "type": "text",
+          "text": "Explaining the spreadsheet.",
+          "x": 85,
+          "y": 200,
+          "size": 39,
+          "bold": true,
+          "color": "#6a786c",
+          "w": 580
+        },
+        {
+          "type": "image",
+          "path": "art/report.png",
+          "x": 180,
+          "y": 310,
+          "w": 190,
+          "h": 175,
+          "id": "action-18",
+          "keys": [
+            {
+              "t": 0,
+              "x": 180
+            },
+            {
+              "t": 0.8,
+              "x": 350
+            },
+            {
+              "t": 1.25,
+              "x": 390
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The source document moves along the information-transfer path"
+          }
+        },
+        {
+          "type": "arrow",
+          "x": 600,
+          "y": 385,
+          "w": 170,
+          "color": "#7c8e80"
+        },
+        {
+          "type": "image",
+          "path": "art/presentation.png",
+          "x": 850,
+          "y": 310,
+          "w": 260,
+          "h": 208,
+          "id": "action-19",
+          "keys": [
+            {
+              "t": 0,
+              "y": 355
+            },
+            {
+              "t": 0.75,
+              "y": 310
+            },
+            {
+              "t": 1.25,
+              "y": 295
+            }
+          ],
+          "motion": {
+            "role": "prop",
+            "reason": "The next document arrives at the output of the information transfer"
+          }
+        }
+      ]
+    }
+  ],
+  "sfx": [
+    {
+      "time": 0.45,
+      "kind": "tap",
+      "gain": 0.03
+    },
+    {
+      "time": 1,
+      "kind": "chime",
+      "gain": 0.018
+    },
+    {
+      "time": 5.8,
+      "kind": "tap",
+      "gain": 0.025
+    },
+    {
+      "time": 10,
+      "kind": "paper",
+      "gain": 0.025
+    },
+    {
+      "time": 12.2,
+      "kind": "paper",
+      "gain": 0.025
+    },
+    {
+      "time": 14.35,
+      "kind": "paper",
+      "gain": 0.022
+    },
+    {
+      "time": 16.4,
+      "kind": "paper",
+      "gain": 0.022
+    },
+    {
+      "time": 18.4,
+      "kind": "paper",
+      "gain": 0.022
+    }
+  ],
+  "ambience": [
+    {
+      "path": "office-bed.wav",
+      "start": 0,
+      "end": 20.925458,
+      "gain": 0.07,
+      "loop": true,
+      "fadeIn": 0.05,
+      "fadeOut": 0.2
+    }
+  ],
+  "reference_review": {
+    "author_id": "codex-production",
+    "capability": {
+      "mode": "limited",
+      "environment": "Codex desktop, upstream B1 manifest renderer, original SVG-derived layered art, macOS Samantha",
+      "limitations": [
+        {
+          "capability": "narration",
+          "observed": "User selected the installed macOS voice for the pace preview.",
+          "impact": "Temporary OS voice; not the Gemini sample voice."
+        },
+        {
+          "capability": "reference playback/listening",
+          "observed": "Reference stills inspected; normal-speed audible baseline comparison not performed.",
+          "impact": "No sample-equivalence or final creative acceptance claimed."
+        }
+      ]
+    }
+  }
+}

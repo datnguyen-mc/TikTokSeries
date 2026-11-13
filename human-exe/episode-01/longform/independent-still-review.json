@@ -1,0 +1,260 @@
+{
+  "reviewer": {
+    "id": "review_longform",
+    "kind": "agent",
+    "independent_from_production_author": true
+  },
+  "scope": "Independent still/source review only, prior to parent repairs. All 19 contact sheets (218 actual project shot midframes) inspected, plus four full-size frames.",
+  "reviewed_project_sha256": "e4341f37f56996ba3d0c155d6942cffb88c8d68cffbe3a4421b39e679950730c",
+  "status": "findings_reported_for_repair; not an acceptance record",
+  "inspected_files": [
+    "review-stills/page-01.png",
+    "review-stills/page-02.png",
+    "review-stills/page-03.png",
+    "review-stills/page-04.png",
+    "review-stills/page-05.png",
+    "review-stills/page-06.png",
+    "review-stills/page-07.png",
+    "review-stills/page-08.png",
+    "review-stills/page-09.png",
+    "review-stills/page-10.png",
+    "review-stills/page-11.png",
+    "review-stills/page-12.png",
+    "review-stills/page-13.png",
+    "review-stills/page-14.png",
+    "review-stills/page-15.png",
+    "review-stills/page-16.png",
+    "review-stills/page-17.png",
+    "review-stills/page-18.png",
+    "review-stills/page-19.png",
+    "project.json",
+    "shot-ledger.json",
+    "../story-10min.json",
+    "review-stills/independent-96.png",
+    "review-stills/independent-148.73.png",
+    "review-stills/independent-430.24.png",
+    "review-stills/independent-602.13.png"
+  ],
+  "findings": [
+    {
+      "id": "S01",
+      "priority": "high",
+      "category": "semantic contradiction",
+      "shot": 14,
+      "time_seconds": 35.51,
+      "observation": "Narration says By lunch, he had created a small family of documents, but the pictured subject is a steaming bowl with A REAL BREAK. The lunch keyword is temporal, not an eating event.",
+      "evidence": "review-stills/page-02.png",
+      "repair": "Route this sentence to document-family or version-file imagery."
+    },
+    {
+      "id": "S02",
+      "priority": "high",
+      "category": "semantic contradiction",
+      "shot": 52,
+      "time_seconds": 133.58,
+      "observation": "Ben waits for another task and nothing has yet happened, but picture shows MORE WORK and a new stack.",
+      "evidence": "review-stills/page-05.png",
+      "repair": "Show empty incoming tray or paused task queue, with expectant rather than overloaded acting."
+    },
+    {
+      "id": "S03",
+      "priority": "high",
+      "category": "semantic contradiction",
+      "shot": 102,
+      "time_seconds": 287.24,
+      "observation": "Cold lunch returned to fridge is represented as steaming bowl and A REAL BREAK.",
+      "evidence": "review-stills/page-09.png",
+      "repair": "Remove steam, show cold bowl/fridge or lowered lunch tray; avoid positive break headline."
+    },
+    {
+      "id": "S04",
+      "priority": "medium",
+      "category": "semantic contradiction",
+      "shot": 118,
+      "time_seconds": 332.84,
+      "observation": "Narration says Ben stopped taking his walk, but image shows him happily outside under AFTER WORK.",
+      "evidence": "review-stills/page-10.png",
+      "repair": "Show interrupted/crossed-out walking plan or Ben remaining at desk."
+    },
+    {
+      "id": "S05",
+      "priority": "medium",
+      "category": "semantic mismatch",
+      "shot": 130,
+      "time_seconds": 368.33,
+      "observation": "Mara was not standing outside the machine is a metaphor about the workplace hierarchy; generic outside/phone scene does not show Mara or that relationship.",
+      "evidence": "review-stills/page-11.png",
+      "repair": "Show Mara on a second work belt or in her own overloaded office."
+    },
+    {
+      "id": "S06",
+      "priority": "medium",
+      "category": "semantic mismatch",
+      "shot": 138,
+      "time_seconds": 389.92,
+      "observation": "A lunch break marked tentative is shown as an actual steaming meal with A REAL BREAK.",
+      "evidence": "review-stills/page-12.png",
+      "repair": "Use calendar lunch block labelled tentative instead of an actual enjoyed meal."
+    },
+    {
+      "id": "S07",
+      "priority": "medium",
+      "category": "semantic mismatch",
+      "shot": 178,
+      "time_seconds": 494.44,
+      "observation": "The first test arrived before lunch is shown as A REAL BREAK with bowl, omitting the arriving test/request.",
+      "evidence": "review-stills/page-15.png",
+      "repair": "Show incoming request and existing queue; lunch is only a time reference."
+    },
+    {
+      "id": "C01",
+      "priority": "high",
+      "category": "grounding/contact",
+      "shots": [
+        58,
+        118,
+        209,
+        212,
+        215,
+        216,
+        218
+      ],
+      "time_ranges_seconds": [
+        [
+          148,
+          150
+        ],
+        [
+          331,
+          335
+        ],
+        [
+          582,
+          604
+        ]
+      ],
+      "observation": "Outside STAND pose visibly plants Ben feet on bench seat, making him stand on the bench rather than beside it. Full-size frames confirm the contact.",
+      "evidence": [
+        "review-stills/independent-148.73.png",
+        "review-stills/independent-602.13.png"
+      ],
+      "repair": "Place actor on ground beside the bench or author a seated pose."
+    },
+    {
+      "id": "T01",
+      "priority": "medium",
+      "category": "heading/character interference",
+      "shots": [
+        34,
+        155
+      ],
+      "time_seconds": [
+        96,
+        430.24
+      ],
+      "observation": "LET'S TALK heading end touches/merges with Ben hair/top of head in meeting layout.",
+      "evidence": [
+        "review-stills/independent-96.png",
+        "review-stills/independent-430.24.png"
+      ],
+      "repair": "Reserve heading band; move actor right or down, or change title width/placement."
+    },
+    {
+      "id": "R01",
+      "priority": "high",
+      "category": "repeated composition",
+      "shots": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "time_ranges_seconds": [
+        [
+          58,
+          79
+        ]
+      ],
+      "observation": "Small experiment sequence mostly repeats the same complete pipeline for sample sorting, extraction, report, and human check; key causal steps do not have distinguishable pictured states in the midframes.",
+      "evidence": [
+        "review-stills/page-02.png",
+        "review-stills/page-03.png"
+      ],
+      "repair": "Use story-specific source, extraction, draft and human-review states; inspect continuous motion before claiming progression."
+    },
+    {
+      "id": "R02",
+      "priority": "high",
+      "category": "repeated composition",
+      "shot_range": [
+        45,
+        55
+      ],
+      "time_ranges_seconds": [
+        [
+          121,
+          141
+        ]
+      ],
+      "observation": "Totals checked, attachments checked, permission to feel happy, waiting, quiet factory and quiet head reuse stopwatch + same upright Ben. Picture does not communicate these different meanings.",
+      "evidence": [
+        "review-stills/page-04.png",
+        "review-stills/page-05.png"
+      ],
+      "repair": "Vary to checklist/contact inspection, uncertain reaction, empty inbox, settled output and relieved head/body."
+    },
+    {
+      "id": "R03",
+      "priority": "medium",
+      "category": "repeated composition",
+      "shot_range": [
+        74,
+        89
+      ],
+      "time_ranges_seconds": [
+        [
+          200,
+          246
+        ]
+      ],
+      "observation": "Large run of same desk/stack composition; repeated body/head pose with headline changes provides little visual escalation across more departments, queues and obligations.",
+      "evidence": [
+        "review-stills/page-07.png",
+        "review-stills/page-08.png"
+      ],
+      "repair": "Differentiate incoming sources, increasing queues, department requests and action/consequence shots."
+    },
+    {
+      "id": "D01",
+      "priority": "medium",
+      "category": "review traceability",
+      "observation": "Final project has 218 shots but shot-ledger has 217 pre-opening-replacement sentence entries, so actual shot numbering diverges after opening insertion.",
+      "repair": "Rebuild ledger from final project shot timeline with associated original sentence IDs."
+    }
+  ],
+  "retracted_suspicions": [
+    {
+      "shot": 103,
+      "time_seconds": 289.55,
+      "initial_suspicion": "Doubled heading in contact sheet",
+      "status": "Unconfirmed/retracted; likely neighboring cell text, not an actual per-frame overlap."
+    }
+  ],
+  "positive_observations": [
+    "Near-white faint-grid background and limited accent colors retained.",
+    "Characters are slender and heads/limbs generally coherent in the inspected stills.",
+    "One-line captions appear within the bottom band and are generally legible in inspected sheets/full-size frames.",
+    "Original story conflict and ending are clear in source text."
+  ],
+  "limits": [
+    "No actual continuous encoded film playback reviewed.",
+    "No soundtrack listening or voice intelligibility comparison performed.",
+    "Stills cannot establish motion, contact through action, pacing, caption synchronization, SFX timing or audio quality.",
+    "No sample-equivalence or full-film acceptance asserted.",
+    "Any parent repairs made after this snapshot require fresh inspection."
+  ]
+}

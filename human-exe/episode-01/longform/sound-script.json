@@ -1,0 +1,546 @@
+[
+  {
+    "beat": 1,
+    "exact_text": "Ben automated his entire job. By Monday, he was working twelve minutes a day. By Friday, his boss wanted to know his secret. That was the problem. Three weeks earlier, Ben's job had been moving information between rectangles. An email became a spreadsheet. The spreadsheet became a report. The report became a presentation explaining the spreadsheet.",
+    "scene": "desk",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 0.45,
+        "kind": "tap",
+        "gain": 0.03
+      },
+      {
+        "time": 1,
+        "kind": "chime",
+        "gain": 0.018
+      },
+      {
+        "time": 5.8,
+        "kind": "tap",
+        "gain": 0.025
+      },
+      {
+        "time": 10,
+        "kind": "paper",
+        "gain": 0.025
+      },
+      {
+        "time": 12.2,
+        "kind": "paper",
+        "gain": 0.025
+      },
+      {
+        "time": 14.35,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 16.4,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 18.4,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 2,
+    "exact_text": "Every Thursday, someone asked for the same information in a slightly different rectangle. Ben changed the font, moved a column, and called the file final. Then final two. Then actually final. By lunch, he had created a small family of documents that disagreed about what day it was.",
+    "scene": "printer",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 21.700000000000003,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 33.36,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 3,
+    "exact_text": "His work wasn't difficult every minute. But it occupied every minute. A report took twenty minutes to prepare and forty minutes to explain. Whenever Ben finished early, he kept a spreadsheet open. Apparently, an open spreadsheet looked like effort. A closed spreadsheet looked like a dangerous amount of available capacity.",
+    "scene": "clock",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 42.72,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 4,
+    "exact_text": "One evening, he tried a small experiment. Using company approved tools and dummy data, he built a workflow to handle the repetitive steps. Sort the sample messages. Extract the relevant information. Draft the report. Then stop for a human check. He wasn't trying to replace every decision. He wanted to stop spending his best hours moving the same information between boxes.",
+    "scene": "workflow",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 60.06,
+        "kind": "tap",
+        "gain": 0.022
+      },
+      {
+        "time": 69.28,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 5,
+    "exact_text": "The first version put a sandwich under business expenses. The second invented a customer called Customer. The third produced a beautiful chart showing that Tuesday had increased by twelve percent. Ben stared at it for a long time. The computer had made the report faster. It had also made nonsense look ready for a meeting. Those were two separate achievements.",
+    "scene": "error",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 92.89999999999999,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 6,
+    "exact_text": "So he added checks. Missing information went into a separate tray. Strange totals triggered a review. Unusual requests stayed with him. Ben still needed to understand the numbers. The machine could move a mistake very quickly. That wasn't the same as making the mistake disappear. After several evenings of testing, the boring part finally became shorter. Much shorter.",
+    "scene": "check",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 7,
+    "exact_text": "On Monday morning, the usual reports were ready before his coffee cooled. Ben checked the totals. Correct. Checked the attachments. Correct. Checked whether he was allowed to feel happy. Unclear. He waited for another task to arrive. Nothing happened. The tiny factory on his screen was quiet. For the first time in months, so was his head.",
+    "scene": "timer",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 121.47999999999999,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 126.702,
+        "kind": "chime",
+        "gain": 0.014
+      },
+      {
+        "time": 128.888,
+        "kind": "chime",
+        "gain": 0.014
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 8,
+    "exact_text": "He took a real lunch break. He called his mother without simultaneously formatting a table. He walked outside and discovered that daylight was available on weekdays. At five, he still had enough energy to cook something that required more than adding water.",
+    "scene": "lunch",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 9,
+    "exact_text": "He used some of the extra time to fix an old problem nobody had scheduled. Two departments were counting the same customer differently. Ben spoke to both of them, found the mismatch, and corrected the instructions. There was no dramatic button to press. Just a conversation and a careful decision. It prevented tomorrow's mistake, which unfortunately looked less impressive than today's colorful dashboard.",
+    "scene": "calendar",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 163.98,
+        "kind": "chime",
+        "gain": 0.014
+      },
+      {
+        "time": 168.46,
+        "kind": "tap",
+        "gain": 0.022
+      },
+      {
+        "time": 173.4,
+        "kind": "tap",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 10,
+    "exact_text": "On Thursday, Mara stopped at his desk. She had noticed that his reports were arriving early and contained fewer corrections. Ben considered explaining that he had discovered vitamins. Instead, he showed her the workflow. Mara watched a pile of routine paperwork turn into a short review. She smiled. Ben smiled. Somewhere, a very small alarm went off in Ben's brain.",
+    "scene": "boss",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 182.07999999999998,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 189.07999999999998,
+        "kind": "tap",
+        "gain": 0.022
+      },
+      {
+        "time": 191.85999999999999,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 11,
+    "exact_text": "Mara said this could help the whole team. Ben imagined teaching everyone, reducing the backlog, and finally having fewer urgent Fridays. Mara imagined the same things. Unfortunately, neither of them said what should happen to the time afterward. That blank space in the conversation would soon become the busiest place in the office. The next morning, Ben received three people's paperwork.",
+    "scene": "reward",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 220.07999999999998,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 12,
+    "exact_text": "Same desk. Same salary. Bigger rectangle. Ben assumed it was temporary. He adjusted the workflow and finished the new batch. Then another department appeared. Apparently, the reward for finding a shorter queue was being introduced to several longer queues. He made another improvement. More work arrived. His inbox had become a vending machine that accepted efficiency and dispensed obligations.",
+    "scene": "stack",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 225.35999999999999,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 228.62,
+        "kind": "tap",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 13,
+    "exact_text": "Soon, Ben was supervising a tiny digital factory while answering messages about why the factory wasn't faster. Last month's miracle became this month's minimum. A green number on the dashboard kept climbing. So did the number of exceptions waiting for him. He was producing more reports than ever. He was also spending more time wondering whether any of them should have been reports.",
+    "scene": "factory",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 261.08000000000004,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 263.32000000000005,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 14,
+    "exact_text": "Then an unusual request arrived. The figures were technically valid, but the conclusion made no sense. Ben stopped the workflow and called the person who had asked for it. They needed a different question answered. While he was explaining that, a message appeared asking why the workflow had stopped. Apparently, thinking was now a delay. Ben put his cold lunch back in the fridge.",
+    "scene": "exception",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 273.94,
+        "kind": "tap",
+        "gain": 0.022
+      },
+      {
+        "time": 279.46000000000004,
+        "kind": "tap",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 15,
+    "exact_text": "The dashboard measured completed items. It didn't measure whether an item was useful. It didn't count the mistake Ben prevented, the confusing request he clarified, or the coworker he helped. Those activities took time away from the green number. The number wasn't evil. It was just very confident about describing a small part of reality as the whole thing.",
+    "scene": "chart",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 16,
+    "exact_text": "A coworker named Jo had a suggestion. Make the workflow slower. Add a progress bar. Maybe an important looking loading message. Ben could tell people the system was processing. Jo called this managing expectations. Ben called it building a very expensive curtain. Neither of them liked the idea. But a workplace that rewarded visible struggle was making invisible efficiency feel suspicious.",
+    "scene": "coworker",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 311.524,
+        "kind": "tap",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 17,
+    "exact_text": "By Friday, Ben had stopped taking his walk. His mother received a message saying he would call later. Later became tomorrow. Tomorrow became a weekend he spent recovering from the week. The tool still saved hours on individual tasks. But every saved hour immediately attracted another task. He had made each trip shorter while someone kept moving the finish line.",
+    "scene": "battery",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 18,
+    "exact_text": "That evening, Mara invited him into a meeting. Ben expected a warning about the delayed request. Instead, Mara closed the door and turned her laptop around. She had automated her own weekly reports. Her boss had responded by giving her two more teams. Mara wasn't standing outside the machine. She was on the next conveyor belt. They stared at each other.",
+    "scene": "meeting",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 358.44,
+        "kind": "tap",
+        "gain": 0.022
+      },
+      {
+        "time": 362.08000000000004,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 19,
+    "exact_text": "Two people who had saved time, both too busy to enjoy it. Mara said she had wanted to reduce the team's backlog. Then the lower backlog had become evidence that the team could handle more. Ben said he had wanted a quiet afternoon. They looked at their calendars. The only quiet rectangle left was a lunch break marked as a tentative event.",
+    "scene": "doublebelt",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 386.716,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 388.38,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 20,
+    "exact_text": "They could hide the tools. They could pretend everything still took eight hours. Or they could ask a more uncomfortable question. When a task gets faster, what are we actually trying to improve? They wrote down three possibilities. More output. Better quality. More time back. All three sounded reasonable. But only one was happening automatically. The other two needed an agreement.",
+    "scene": "choices",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 21,
+    "exact_text": "More output wasn't always a bad choice. Sometimes the team really needed to clear a backlog. Time back meant deciding that every empty space didn't need filling. The problem wasn't choosing one of these. The problem was pretending there had never been a choice.",
+    "scene": "balance",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 414.82000000000005,
+        "kind": "chime",
+        "gain": 0.014
+      },
+      {
+        "time": 426.14000000000004,
+        "kind": "chime",
+        "gain": 0.014
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 22,
+    "exact_text": "On Monday, Ben and Mara brought a proposal to the team meeting. Keep the checks. Agree on a realistic workload. Use some saved time to prevent recurring mistakes. Protect a little of it from being instantly filled. The first response was a request for more output. Ben had prepared a slide about wellbeing. Mara quietly moved it aside and opened the error log.",
+    "scene": "proposal",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 429.1,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 444.32000000000005,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 23,
+    "exact_text": "They showed the green dashboard next to the work it couldn't see. The corrected customer records. The unusual request that needed a conversation. The duplicate reports that nobody actually used. Jo admitted receiving the same update in three different formats. Someone else admitted never opening any of them. For a moment, the most productive thing in the room was an awkward silence.",
+    "scene": "evidence",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 452.87600000000003,
+        "kind": "chime",
+        "gain": 0.014
+      },
+      {
+        "time": 457.78000000000003,
+        "kind": "paper",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 24,
+    "exact_text": "They agreed to a one month trial. One shared report would replace the duplicates. Routine work would keep its review checks. New requests would go through a visible queue instead of landing on whoever looked free. The team would track corrections as well as completions. Every week, they would discuss where the saved time went. It was less exciting than a revolution. It was also something they could actually try.",
+    "scene": "trial",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 471.308,
+        "kind": "chime",
+        "gain": 0.014
+      },
+      {
+        "time": 473.28000000000003,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 482.74,
+        "kind": "chime",
+        "gain": 0.014
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 25,
+    "exact_text": "The first test arrived before lunch. A new urgent request appeared while Ben was helping Jo understand an exception. This time, Mara didn't simply add it to his pile. She asked which existing task should move. The person requesting it had to choose. The request turned out to be less urgent than its subject line. Ben returned to helping Jo. The factory kept working. The sky remained in place.",
+    "scene": "boundary",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 26,
+    "exact_text": "Ben documented the workflow so he wasn't the only person who understood it. Jo learned to inspect the strange cases. Another coworker improved the instructions. Ben stopped being the secret keeper of a magic button and became part of a team that could question its own process. The machine still made mistakes. Now, more people knew where to look when it did.",
+    "scene": "team",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 517,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 526.12,
+        "kind": "tap",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 27,
+    "exact_text": "At the end of the month, they reviewed the trial. Some tasks were faster. Some tasks had disappeared because nobody needed them. The unusual work still took time, and the plan finally admitted that. They hadn't solved every problem. Busy weeks still happened. But being efficient no longer automatically meant volunteering for an unlimited amount of work. Ben's lunch was warm more often.",
+    "scene": "results",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 557.124,
+        "kind": "chime",
+        "gain": 0.014
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 28,
+    "exact_text": "The tool hadn't decided how Ben's time would be used. People had. That didn't make changing the agreement easy. It did make the agreement worth noticing. A faster workflow can help. It can also make an impossible workload look temporarily possible. If every improvement only raises the minimum, the system eventually runs out of something the dashboard never measured. People with enough energy to care.",
+    "scene": "reflection",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 567.792,
+        "kind": "tap",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  },
+  {
+    "beat": 29,
+    "exact_text": "On Friday, Ben closed his laptop at five. Then his phone lit up. Could you automate our meetings? He looked at Mara. Mara looked at the calendar. For once, they scheduled a conversation before building another machine. Ben went outside while it was still light. The upgrade wasn't just the button. It was the agreement around the button. If you saved ten hours at work, who would get them?",
+    "scene": "ending",
+    "bed": "Quiet designed office bed; outdoor scenes use a subtle neutral bed, not a real field recording",
+    "events": [
+      {
+        "time": 582.0600000000001,
+        "kind": "tap",
+        "gain": 0.022
+      },
+      {
+        "time": 588.866,
+        "kind": "paper",
+        "gain": 0.022
+      },
+      {
+        "time": 597.214,
+        "kind": "tap",
+        "gain": 0.022
+      },
+      {
+        "time": 599.098,
+        "kind": "tap",
+        "gain": 0.022
+      }
+    ],
+    "rights": "Original project drawings; upstream original procedural effects; generated noise bed",
+    "voice": "macOS Samantha; native rate unchanged"
+  }
+]

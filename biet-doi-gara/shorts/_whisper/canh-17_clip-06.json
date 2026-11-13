@@ -1,0 +1,26 @@
+{
+ "text": "Vào trong thôi anh",
+ "engine": "faster-whisper-large-v3-vad",
+ "words": [
+  {
+   "w": "Vào",
+   "s": 5.55,
+   "e": 6.01
+  },
+  {
+   "w": "trong",
+   "s": 6.01,
+   "e": 6.17
+  },
+  {
+   "w": "thôi",
+   "s": 6.17,
+   "e": 6.31
+  },
+  {
+   "w": "anh",
+   "s": 6.31,
+   "e": 6.47
+  }
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "series": "bay-ngay-sinh-ton",
+ "film_title": "Bảy Ngày Sinh Tồn",
+ "tag": "BẢY NGÀY SINH TỒN",
+ "style": {
+  "tag_bg": "#1E6B3A",
+  "accent": "#FFA62B"
+ },
+ "speaker_colors": {},
+ "match_script": true,
+ "fixes": {
+  "03.2": {
+   "crop": [
+    1052,
+    592,
+    114,
+    64
+   ]
+  },
+  "03.3": {
+   "crop": [
+    1052,
+    592,
+    114,
+    64
+   ]
+  },
+  "06.1": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "04.3": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "08.4": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "09.3": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "17.2": {
+   "delogo": [
+    995,
+    570,
+    135,
+    100
+   ],
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "17.3": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "17.4": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "24.4": {
+   "crop": [
+    960,
+    540,
+    170,
+    70
+   ]
+  },
+  "18.2": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bMassage massage\\b": "Ma sát, ma sát,",
+  "\\bThợ săng\\b": "Thợ săn",
+  "^Ông, đưa tay đây": "Ốc, đưa tay đây"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 24 phút có trên kênh YouTube, tìm “Bảy Ngày Sinh Tồn”",
+ "final_cta": "🎬 Xem trọn bộ 24 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [24 PHÚT]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#bayngaysinhton",
+   "#sinhton",
+   "#phimngan"
+  ],
+  "youtube": [
+   "#bayngaysinhton",
+   "#sinhton",
+   "#phimngan"
+  ],
+  "facebook": [
+   "#BayNgaySinhTon",
+   "#SinhTon",
+   "#PhimNgan",
+   "#ThoiDoDa"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Bảy Ngày Sinh Tồn — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **các cảnh hay nhất** của phim 24 phút, gồm **11 phần dọc 9:16**, không phải cả phim. Mỗi phần là một khoảnh khắc trọn vẹn dài 30–60 giây (mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger), xếp theo thứ tự truyện và đăng nối tiếp như một series.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn xanh rừng “BẢY NGÀY SINH TỒN • PHẦN N” và câu hook ở trên khung phim (cụm nhấn màu cam lửa); phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau, phần cuối đổi thành “XEM FULL PHIM”. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chính tả và tên nhân vật sửa theo kịch bản `PHAN_CANH_OMNI.json`. Câu Omni nói khác kịch bản thì phụ đề theo tiếng thật.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm); clip nào Omni nói lặp lại mấy chữ cuối thì cắt trước đoạn lặp.",
+  "- **File:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; caption TikTok, tiêu đề + mô tả YouTube và caption Facebook của mọi phần nằm ở cuối `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py bay-ngay-sinh-ton              # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py bay-ngay-sinh-ton --only 4     # một phần",
+  "./flowkit/venv/bin/python flowkit/scripts/make_shorts.py bay-ngay-sinh-ton --captions   # chỉ ghi lại README (lịch + caption)",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Bảy Ngày Sinh Tồn”. Chọn ảnh bìa bằng khung hình có hook (giây đầu). Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả ở phần caption bên dưới; khi phim full đã lên kênh, điền link vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về phim full.",
+  "- **Facebook Reels:** dán caption; tắt “Tạo phụ đề tự động” vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00), 3 nền tảng cùng giờ, bắt đầu 14/11/2026. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Kiểm tra trước khi đăng",
+  "",
+  "- `subtitle_replace` đang để trống: xem phụ đề Whisper rồi thêm cặp sửa chữ khi cần (tên Suối, Gầm, Ốc, Bin hay bị nghe sai), dựng lại phần đó bằng `--only`.",
+  "- `output_videos/` còn vài file phẳng kiểu `canh-01_clip-1.mp4` và một bản tiếng Anh `canh-01_clip-1_EN.mp4`; script luôn lấy bản trong `output_videos/canh-XX/`, nên các file phẳng không lọt vào short.",
+  "",
+  "## Lỗi hình thấy trong clip đã chọn (chưa xử lý)",
+  "",
+  "Plan chưa có `from`/`to` hay `fixes`; xem lại rồi render lại clip, hoặc cắt bằng `from` / `fixes` trước khi đăng.",
+  "",
+  "- **03.2, 03.3** (phần 2): Omni vẽ khung máy quay giả (“24 fps”, “REC”, pin, “08.18m”, “35mm”) suốt cả clip.",
+  "- **06.1** (phần 4): viền khung phim đen bo góc khoảng 0–4 s, đúng giây mở đầu của phần.",
+  "- **17.2** (phần 8): viền khung phim kèm chữ “Snail @Snail” in trên hình khoảng 0–5 s.",
+  "- **24.4** (phần 11): giao diện quay điện thoại có chữ “Khang, 29” và đồng hồ đếm giờ khoảng 0–4 s.",
+  "- **Viền đen một lúc:** 04.3 (0–1,8 s), 08.4 (0–4 s), 09.3 (0–6 s), 17.3 (0–5 s và 9–13 s), 17.4 (0–2,8 s). Script chỉ tự cắt viền đen có suốt cả clip, nên các đoạn này vẫn hiện viền."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "vlogger-sinh-ton-an-sau",
+   "top": true,
+   "title": "Vlogger sinh tồn diễn ăn sâu, ai ngờ là sâu thật",
+   "hook": "Chuyên gia sinh tồn 3 năm\n[CHƯA NHÓM NỔI LỬA]",
+   "segments": [
+    {
+     "clip": "01.1"
+    },
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    }
+   ],
+   "caption": "Vlogger sinh tồn Khang diễn cảnh đói lả giữa rừng: “Không còn cách nào khác, tôi phải ăn con sâu này để sống sót!” Tiếc là kẹo dẻo hình sâu đã hết, con trên tay là sâu thật. Lửa trong video là Bin châm hộ bằng bật lửa suốt ba năm, còn sau lưng “rừng sâu” là xe điện chở khách đang vẫy tay.",
+   "question": "Bạn từng xem vlog sinh tồn nào “diễn” lộ liễu thế này chưa?",
+   "yt_title": "Vlogger sinh tồn diễn ăn sâu, ai ngờ là sâu thật | Bảy Ngày Sinh Tồn P1",
+   "tags": [
+    "#haihuoc",
+    "#vlogger"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "dau-tay-than-lua",
+   "title": "Ướm tay vào dấu tay thần lửa, sét đánh xuống hang",
+   "hook": "Tay thần lửa trên vách đá\n[VỪA KHÍT] tay anh ta",
+   "segments": [
+    {
+     "clip": "03.2"
+    },
+    {
+     "clip": "03.3"
+    },
+    {
+     "clip": "03.4"
+    }
+   ],
+   "caption": "Một mình trong hang Bàn Tay giữa đêm giông, Khang ướm tay vào dấu tay đỏ to nhất trên vách, thứ dân quanh đó bảo là tay thần lửa: “Ơ... vừa khít. Tay thần bằng tay tôi à?” Sét đánh ngay trên đầu, bàn tay dính chặt vào đá nóng dần như than. Anh tỉnh dậy bên bờ suối, gọi mãi mà Bin không thấy đâu.",
+   "question": "Bạn có dám đặt tay vào vách đá đó không?",
+   "yt_title": "Ướm tay vào dấu tay thần lửa, sét đánh ngay giữa hang | Bảy Ngày Sinh Tồn P2",
+   "tags": [
+    "#bian",
+    "#xuyenkhong"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "te-giac-tuyet-chung",
+   "title": "Tỉnh dậy giữa rừng, gặp tê giác đã tuyệt chủng",
+   "hook": "Tỉnh dậy giữa rừng, gặp\n[TÊ GIÁC] đã tuyệt chủng",
+   "segments": [
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    },
+    {
+     "clip": "04.4"
+    }
+   ],
+   "caption": "Dấu chân to bằng cái mâm, ba ngón tròn, mà ở Cúc Phương giờ chẳng còn con gì to thế. Sau bụi lau là một con tê giác thật: “Tê giác tuyệt chủng ở Việt Nam từ năm hai nghìn không trăm mười một! Bin không thuê nổi con này!” Không đường, không rác, không một tiếng xe máy, Khang bắt đầu nghĩ tia sét đã đưa anh về thời chưa có con đường nào.",
+   "question": "Gặp tê giác cách 30 mét, bạn chạy hay nằm im?",
+   "yt_title": "Tỉnh dậy giữa rừng, gặp tê giác đã tuyệt chủng từ 2011 | Bảy Ngày Sinh Tồn P3",
+   "tags": [
+    "#tegiac",
+    "#xuyenkhong"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "duoi-ho-bang-chan-bac",
+   "top": true,
+   "title": "Đuổi hổ cứu cậu bé tiền sử bằng tấm chăn 300 nghìn",
+   "hook": "Đuổi hổ cứu cậu bé tiền sử\nbằng [CHĂN 300 NGHÌN]",
+   "segments": [
+    {
+     "clip": "06.1"
+    },
+    {
+     "clip": "06.2"
+    },
+    {
+     "clip": "06.3"
+    },
+    {
+     "clip": "06.4"
+    }
+   ],
+   "caption": "Cậu bé Ốc kẹt trên tảng đá giữa suối, con hổ rình từ trưa. Khang giương tấm chăn bạc cứu hộ, thổi còi, hét thật to: “Làm mình to ra, làm ồn, không bao giờ quay lưng bỏ chạy!” Hổ lùi thật, Ốc tưởng anh có da bạc, còn chị của Ốc thì chĩa giáo đá vào người lạ.",
+   "question": "Gặp hổ ngoài đời, bạn có nhớ mẹo này không?",
+   "yt_title": "Đuổi hổ cứu cậu bé tiền sử bằng tấm chăn bạc 300 nghìn | Bảy Ngày Sinh Tồn P4",
+   "tags": [
+    "#meosinhton",
+    "#thoidoda"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "mi-tom-sau-kho",
+   "title": "Người tiền sử lần đầu ăn mì tôm",
+   "hook": "Người tiền sử ăn mì tôm:\n[“SÂU KHÔ NGON QUÁ!”]",
+   "segments": [
+    {
+     "clip": "08.2"
+    },
+    {
+     "clip": "08.3"
+    },
+    {
+     "clip": "08.4"
+    }
+   ],
+   "caption": "Suối bảo Khang thôi đuổi cá, lật đá lên mà bắt ốc: “Ốc không biết chạy. Hợp với anh.” Anh xé gói mì tôm cuối cùng chia cho lũ trẻ, cậu bé Ốc nhai rộp rộp rồi chạy đi khoe cả hang: “Sâu khô ngon quá!” Bà trưởng hang chỉ nói một câu: “Người biết chia không phải ma.”",
+   "question": "Nếu là người tiền sử, bạn sẽ gọi gói mì tôm là gì?",
+   "yt_title": "Người tiền sử lần đầu ăn mì tôm: “Sâu khô ngon quá!” | Bảy Ngày Sinh Tồn P5",
+   "tags": [
+    "#haihuoc",
+    "#mitom"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "cua-tre-ra-lua",
+   "title": "Lửa của cả hang tắt, anh cưa tre ra lửa",
+   "hook": "Lửa cả hang đã chết,\nanh [CƯA TRE RA LỬA]",
+   "segments": [
+    {
+     "clip": "09.2"
+    },
+    {
+     "clip": "09.3"
+    },
+    {
+     "clip": "09.4"
+    }
+   ],
+   "caption": "Đêm mưa, lửa của cả hang tắt ngấm, Gầm đổ tội cho người lạ mang xui tới. Khang nhớ lại cụ người Mường cưa tre ra lửa mà ngày trước anh tưởng là diễn, cùng Suối cưa đến khi mùn tre thành than rồi bùng cháy. Bà trưởng hang đặt tên anh là Người Làm Lửa, còn anh rưng rưng: “Hai mươi chín tuổi, đây là ngọn lửa đầu tiên của tôi.”",
+   "question": "Bạn có biết cách cưa tre ra lửa không?",
+   "yt_title": "Lửa của cả hang đã chết, vlogger cưa tre ra ngọn lửa đầu tiên | Bảy Ngày Sinh Tồn P6",
+   "tags": [
+    "#meosinhton",
+    "#lamlua"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "cuu-nguoi-duoi-ho-sut",
+   "title": "Cứu kẻ muốn đuổi mình khỏi hố sụt",
+   "hook": "Cứu kẻ muốn đuổi mình,\nnhận lại [MỘT ANH EM]",
+   "segments": [
+    {
+     "clip": "14.2"
+    },
+    {
+     "clip": "14.3"
+    },
+    {
+     "clip": "14.4"
+    }
+   ],
+   "caption": "Gầm, thợ săn ghét người lạ nhất hang, trẹo chân dưới đáy hố sụt. Khang nẹp chân, buộc dây leo kéo anh lên dù Gầm hỏi thẳng: “Sao cứu tôi? Tôi muốn anh rời khỏi hang.” Lên tới bờ, Gầm chìa tay: “Từ hôm nay, anh là anh em của tôi.”",
+   "question": "Bạn có cứu người từng muốn đuổi mình đi không?",
+   "yt_title": "Cứu kẻ muốn đuổi mình khỏi hố sụt, nhận lại một người anh em | Bảy Ngày Sinh Tồn P7",
+   "tags": [
+    "#anhem",
+    "#cuunguoi"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "lu-dem-cuu-ong-lua",
+   "title": "Lũ đêm ập về, cậu bé quay lại cứu ngọn lửa",
+   "hook": "Lũ đêm ập về, cậu bé\nquay lại [CỨU NGỌN LỬA]",
+   "segments": [
+    {
+     "clip": "17.1"
+    },
+    {
+     "clip": "17.2"
+    },
+    {
+     "clip": "17.3"
+    },
+    {
+     "clip": "17.4"
+    }
+   ],
+   "caption": "Cả hang lên vách núi tránh lũ thì thiếu một người: cậu bé Ốc đã quay xuống hang dưới tìm ống lửa. “Lửa nhỏ ơi, lần này tao không để mày chết đâu!” Gầm ngồi tựa đá giữ dây, Khang lội xuống dòng nước bùn, cõng Ốc lên vai chạy về phía tảng đá lớn.",
+   "question": "Ốc dũng cảm hay liều mạng?",
+   "yt_title": "Lũ đêm ập về, cậu bé tiền sử quay lại cứu ống lửa của cả hang | Bảy Ngày Sinh Tồn P8",
+   "tags": [
+    "#luquet",
+    "#cuunguoi"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "ba-trieu-nguoi-xem",
+   "top": true,
+   "title": "Bỏ máy quay giữa lũ để giữ dây cứu cậu bé",
+   "hook": "Ba triệu người xem\nkhông bằng [MỘT ĐỨA TRẺ]",
+   "segments": [
+    {
+     "clip": "18.2"
+    },
+    {
+     "clip": "18.3"
+    },
+    {
+     "clip": "18.4"
+    }
+   ],
+   "caption": "Dây buộc đá được ném xuống, Khang buộc Ốc bằng nút ghế cho cả hang kéo lên. Đúng lúc ấy đai máy quay bung, bảy ngày hình ảnh duy nhất nằm trong tay anh, và anh buông nó xuống dòng lũ: “Ba triệu người xem không đáng bằng một đứa trẻ ôm ống lửa.” Bà trưởng hang nói: “Lửa còn, người còn.”",
+   "question": "Là bạn, bạn có buông máy quay không?",
+   "yt_title": "Bỏ máy quay giữa lũ để giữ dây cứu cậu bé | Bảy Ngày Sinh Tồn P9",
+   "tags": [
+    "#xucdong",
+    "#luquet"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "ban-tay-tren-vach",
+   "title": "Dấu tay thần lửa trên vách hang hoá ra là của anh",
+   "hook": "Dấu tay thần lửa\nhoá ra là [TAY CỦA ANH]",
+   "segments": [
+    {
+     "clip": "19.2"
+    },
+    {
+     "clip": "19.3"
+    },
+    {
+     "clip": "19.4"
+    }
+   ],
+   "caption": "Sáng ngày thứ bảy, bà trưởng hang mở tục mới: ai cứu được hang thì để bàn tay lên vách, tay Khang đặt chính giữa. Anh lặng người: “Bàn tay to ở giữa... là tay tôi. Từ đầu đã vậy.” Suối đặt tay mình ngay cạnh: “Anh có đi, bàn tay anh vẫn ở lại.”",
+   "question": "Bạn đoán ra bí mật bàn tay từ phần nào?",
+   "yt_title": "Dấu tay thần lửa trên vách hang hoá ra là tay của anh | Bảy Ngày Sinh Tồn P10",
+   "tags": [
+    "#plottwist",
+    "#xuyenkhong"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "co-gai-ten-suoi",
+   "title": "Bàn tay nhỏ bên cạnh là của cô gái tên Suối",
+   "hook": "Bàn tay nhỏ bên cạnh\nlà của [CÔ GÁI TÊN SUỐI]",
+   "segments": [
+    {
+     "clip": "24.2"
+    },
+    {
+     "clip": "24.3"
+    },
+    {
+     "clip": "24.4"
+    }
+   ],
+   "caption": "Trở lại hang Bàn Tay ngày nay, Khang chạm vào dấu tay nhỏ bên cạnh tay mình: “Còn bàn tay nhỏ hơn, ngay bên cạnh. Là của cô gái tên Suối.” Bin không tin, sấm lại rền, Khang chỉ cười: bên đó giờ họ có lửa rồi. Hơn một vạn năm trước, cậu bé Ốc đang dạy cả hang cưa tre ra lửa, bằng đúng câu cửa miệng của chú Lửa.",
+   "question": "Cái kết này bạn chấm mấy điểm?",
+   "yt_title": "Bàn tay nhỏ bên cạnh là của cô gái tên Suối | Bảy Ngày Sinh Tồn P11",
+   "tags": [
+    "#ketphim",
+    "#tinhyeu"
+   ]
+  }
+ ]
+}

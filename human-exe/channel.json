@@ -1,0 +1,24 @@
+{
+  "name": "Human.exe",
+  "name_availability": "not checked; working title",
+  "tagline": "Modern life. Explained by a very confused stickman.",
+  "language": "en",
+  "initial_audience": "International English-speaking students and working adults aged 18–35",
+  "promise": "Funny fictional stories about being human in a world of AI, apps and impossible expectations.",
+  "about": "Being human is getting complicated. Human.exe turns AI, work, money and internet life into funny animated stories about one very confused stickman. New stories explore the strange rules of modern life—and what happens when someone finally questions them. Fictional stories. Familiar problems.",
+  "format": {"style": "B1 Minimal Line Art", "ratio": "16:9", "target_minutes": [5, 7]},
+  "series": ["Human vs AI", "Your Brain vs The Internet", "Modern Life Is Weird"],
+  "editorial_rules": [
+    "Tell original stories; label fictional scenarios clearly.",
+    "Use plain international English and visual comedy.",
+    "Keep one clear conflict and a consequential ending in each episode.",
+    "Verify factual claims before adding them; fictional figures are not industry statistics.",
+    "Do not promise earnings, virality or guaranteed outcomes."
+  ],
+  "launch_episodes": [
+    "He Automated His Job. Then His Boss Found Out.",
+    "What If Everything Had a Subscription?",
+    "He Let AI Make Every Decision for a Week.",
+    "He Tried Every Productivity Hack. Nothing Got Done."
+  ]
+}

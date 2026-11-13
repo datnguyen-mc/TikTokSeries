@@ -1,0 +1,17 @@
+{
+  "stage": "complete_encoded_review_candidate",
+  "user_request": "làm bản 10 phut đi",
+  "duration_seconds": 604,
+  "voice": "macOS Samantha, native speed unchanged",
+  "video": "/Users/iseul-a/Documents/TikTokSeries/human-exe/episode-01/Human-exe-Episode-01-10min.mp4",
+  "video_sha256": "78c5e1d55e64c01b4a680eefeac39d04d1def08bd3b3edd5a8ddd818d9367b10",
+  "words": 1733,
+  "shots": 218,
+  "caption_cues": 264,
+  "caption_source_coverage": "exact word-for-word source coverage; acoustic timestamps with recorded local token corrections",
+  "technical_decode": "pass",
+  "independent_still_review": "See independent-still-review.json and independent-still-review-v2.json; fixes recorded separately",
+  "continuous_picture_and_listening_review": "not claimed; final user review pending",
+  "sample_equivalence": "not claimed",
+  "publication": "not performed"
+}

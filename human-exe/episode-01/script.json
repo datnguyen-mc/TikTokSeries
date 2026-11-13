@@ -1,0 +1,129 @@
+{
+  "title": "He Automated His Job. Then His Boss Found Out.",
+  "version": 1,
+  "language": "en",
+  "genre": "Original fictional workplace comedy",
+  "status": "draft for script review; no narration generated",
+  "timing": "Target 5–7 minutes. All final timing must follow actual narration at native speed.",
+  "cast": {
+    "Ben": "Slender black-line stick figure, modest round head, three short hair strokes, small oval hands and feet. Blue watch strap as a recurring identity prop; no filled torso.",
+    "Mara": "Same drawing grammar, short bob contour, one small yellow earring; composed posture that becomes visibly tired in the reveal.",
+    "coworkers": "Distinct hair silhouettes; same fine-line proportions."
+  },
+  "voice": {
+    "provider": "macOS Speech Synthesis",
+    "model": "installed OS voice",
+    "voice_id": "Samantha",
+    "status": "preview generated; selected by user for pace review",
+    "direction": "Native service defaults, no speech-rate changes; continuous narration."
+  },
+  "beats": [
+    {
+      "id": "01",
+      "label": "The secret",
+      "narration": "Ben automated his entire job. By Monday, he was working twelve minutes a day. By Friday, his boss wanted to know his secret. That was the problem.",
+      "picture": "Open on Ben pressing one key. His workload cards flow through a small AI machine into a completed tray. Cut to an actual twelve-minute timer prop and Ben reclining. A boss silhouette enters the doorway; Ben plants both feet and hides his coffee behind the monitor.",
+      "scene_text": [
+        "12 MINUTES",
+        "THE SECRET"
+      ],
+      "sound": "Quiet office air continues. Key contact, designed completion chime, chair creak. Door latch interrupts the relaxed moment; leave the final sentence clear."
+    },
+    {
+      "id": "02",
+      "label": "Before the button",
+      "narration": "Three weeks earlier, Ben's job had been moving information between rectangles. An email became a spreadsheet. The spreadsheet became a report. The report became a presentation explaining the spreadsheet. Every Thursday, someone asked for the same information in a slightly different rectangle. Ben had a university degree and a favorite copy-and-paste shortcut. Only one of them came up every day.",
+      "picture": "Rewind using the same completed report. Establish Ben hunched at a desk. Closeups show his hand physically carrying a paper rectangle through four increasingly elaborate frames. Reveal a fifth frame marked Thursday; his shoulders drop. Degree hangs behind him while his fingers operate the keyboard.",
+      "scene_text": [
+        "SAME DATA. NEW RECTANGLE."
+      ],
+      "sound": "Office air, distinct keyboard taps and paper contacts. A single paper drop supports the Thursday reveal; no continuous cartoon effects."
+    },
+    {
+      "id": "03",
+      "label": "A cautious experiment",
+      "narration": "So Ben tried something. He built a little AI workflow using company-approved tools and dummy data. It sorted a sample inbox, drafted a summary, and filled a practice report. Then Ben checked it. The first version confidently put a sandwich under business expenses. The second invented a customer called Customer. Ben fixed the workflow, added checks, and kept a human review at the end. He still handled the unusual requests. He still had to understand the numbers. The machine could move a mistake very quickly, which was different from making the mistake disappear. Eventually, the boring part got shorter. Much shorter.",
+      "picture": "Use deliberately illustrated generic software, no fake product recording. Ben tests a small conveyor: envelope, draft, report, review gate. Sandwich reaches wrong tray; he catches it. A name card reading Customer gets a skeptical raised brow. He installs a clear review lever and actively inspects the output before releasing it.",
+      "scene_text": [
+        "TEST → CHECK → FIX",
+        "HUMAN REVIEW"
+      ],
+      "sound": "Bed continues; dry paper slide, soft error cue at sandwich, lever contact. No fabricated real-product sound."
+    },
+    {
+      "id": "04",
+      "label": "What time was for",
+      "narration": "On Monday, the usual reports were finished before his coffee cooled. Ben checked the numbers. Correct. Checked the attachments. Correct. Checked whether he was allowed to feel happy. Unclear. He took a real lunch break. He called his mother. He went outside and discovered that daylight was available on weekdays. For the first time in months, he finished work with enough energy to have a life after it.",
+      "picture": "Return to opening desk with visible check marks authored as fictional report contents. Coffee still steaming. Ben's grin hesitates under a thought-sized question mark. Match cut from coffee to lunch bowl; then phone and an outdoor bench. Finish with him leaving the desk upright instead of folded over.",
+      "scene_text": [
+        "TIME BACK"
+      ],
+      "sound": "Office air transitions to quiet outdoor air on the outdoor cut. Cup contact and bench movement only when visible. A small warm designed cue supports the release."
+    },
+    {
+      "id": "05",
+      "label": "The reward",
+      "narration": "Then his boss, Mara, noticed. She asked how he had become so productive. Ben considered saying vitamins. Instead, he showed her the workflow. Mara watched a day's paperwork turn into a short review. She smiled. Ben smiled. Somewhere, a very small alarm went off in Ben's brain. The next morning, he received the work of three people. Same desk. Same salary. Bigger rectangle.",
+      "picture": "Mara leans in, watching his actual demonstration. Ben almost lifts a vitamin bottle, then pushes it aside and explains. Their smiles contrast in split composition. Next morning three distinct incoming trays converge on his desk; his chair compresses under the stack. Do not depict an alarm as a real workplace warning.",
+      "scene_text": [
+        "GREAT WORK!",
+        "MORE WORK."
+      ],
+      "sound": "Office air returns. Small subjective warning tone clearly used as comedy. Three material paper thumps build the next-morning reveal without masking narration."
+    },
+    {
+      "id": "06",
+      "label": "The new normal",
+      "narration": "Ben made the workflow faster. The workload grew again. He removed another repetitive step. Another department appeared. Soon, Ben wasn't doing less work. He was supervising a tiny digital factory while answering messages about why the factory wasn't faster. Last month's miracle became this month's minimum. His dashboard turned green. His lunch went cold. Then an unusual request arrived. It needed a decision the workflow couldn't make. Ben had to stop the belt and think. A message appeared asking why the belt had stopped. Apparently, thinking was now a delay. The button had saved him hours. Somehow, those hours already belonged to someone else.",
+      "picture": "Conveyor grows in stages on corresponding phrases, with Ben operating controls and checking outputs. New department trolley enters from the side. Closeup of notifications competes with a review task; Ben consciously switches attention. Green fictional dashboard is followed by a cold bowl and a calendar page physically pulled away.",
+      "scene_text": [
+        "YESTERDAY'S MIRACLE",
+        "TODAY'S MINIMUM"
+      ],
+      "sound": "Build a restrained designed mechanical rhythm as the metaphor grows; retain separate paper contacts. Remove that rhythm on the cold-lunch closeup, keeping room air."
+    },
+    {
+      "id": "07",
+      "label": "The other secret",
+      "narration": "On Friday evening, Mara called him into a meeting. Ben expected a warning. Instead, she closed the door and turned her laptop around. She had automated her reports too. Her boss had responded by giving her two more teams. Mara wasn't standing outside the machine. She was on the next conveyor belt. They stared at each other. Two people who had saved time, both too busy to enjoy it.",
+      "picture": "Echo opening doorway with a new meaning. Mara sits tired, rubs her eye, and rotates the supported laptop toward Ben. Reveal her own tiny conveyor and two team folders. Pull out to show their two belts connected to the same structure; both brace against it. Hold their shared look with a meaningful posture change.",
+      "scene_text": [
+        "SAME TRAP. NEXT LEVEL."
+      ],
+      "sound": "Small meeting-room air, closed-door latch, laptop base sliding on table. The earlier completion chime recurs softly with ironic meaning; no horror riser."
+    },
+    {
+      "id": "08",
+      "label": "A different question",
+      "narration": "They could hide the tools. They could pretend everything still took eight hours. Or they could ask a more uncomfortable question: when a task gets faster, what are we actually trying to improve? They wrote down three possibilities. More output. Better quality. More time back. All three sounded good. But the calendar had room for only one by default. So they decided to make the choice visible.",
+      "picture": "Ben moves a cover over the machine then stops; Mara sets a fake clock aside. Together they place three distinct cards on a table, revealing each only when spoken. Calendar initially pulls only output card. Their hands stop it and put all three cards into the meeting agenda.",
+      "scene_text": [
+        "MORE OUTPUT",
+        "BETTER QUALITY",
+        "TIME BACK"
+      ],
+      "sound": "Meeting bed continues; paper contact distinguishes the three choices. No effect for every word; a restrained pencil stroke supports the deliberate decision."
+    },
+    {
+      "id": "09",
+      "label": "A small agreement",
+      "narration": "On Monday, they proposed a small trial. Keep the review checks. Agree on a realistic amount of work. Use some saved time to fix recurring mistakes. Protect a little of it from being instantly filled. The first response was another request for more output. Mara put the error log beside the green dashboard. Ben showed the requests that still needed human judgment. They weren't asking everyone to stop working. They were asking the plan to include the work the dashboard couldn't see. It wasn't a dramatic speech. It was a very ordinary meeting with a very unusual slide: time saved should lead to a decision, not an automatic increase in workload. The team agreed to try it for a month, then review both the results and the workload. Nobody got a private island. Ben got a warm lunch.",
+      "picture": "Wider team meeting, each person distinct. Ben sets a review gate, Mara adjusts a bounded workload line, coworker repairs a recurring paper-loop error. A protected calendar square remains visible while requests arrive. Show a clearly fictional trial agreement, then cut to warm lunch in a tactile visual callback.",
+      "scene_text": [
+        "A ONE-MONTH TRIAL",
+        "MAKE THE CHOICE"
+      ],
+      "sound": "Broader office room tone without intelligible borrowed voices. Pencil, calendar card placement, warm cup contact. Leave the warm-lunch punchline space within natural speech timing."
+    },
+    {
+      "id": "10",
+      "label": "The actual upgrade",
+      "narration": "The tool hadn't decided how Ben's time would be used. People had. And that meant people could decide differently. A faster workflow can help. It can also make an impossible workload look temporarily possible. The upgrade is not just the button. It's the agreement around the button. On Friday, Ben closed his laptop at five. Then his phone lit up. Could you automate our meetings? He looked at Mara. Mara looked at the calendar. For once, they scheduled a conversation before building another machine. If you saved ten hours at work, who would get them?",
+      "picture": "Return to original button; pull out to reveal the people choosing a calendar arrangement around it. Split a bounded healthy conveyor from an overloaded one as a conceptual illustration. Ben closes laptop; phone shows a short fictional meeting request. Shared look, then Mara physically places a small discussion card before the machine. Finish on the question with Ben turning the ten-hour calendar card toward the viewer.",
+      "scene_text": [
+        "WHO GETS THE TIME?"
+      ],
+      "sound": "Bed resolves to calm office air. Laptop close, one notification, paper agenda contact. Keep last question fully audible; no loud end sting or subscribe interruption."
+    }
+  ]
+}

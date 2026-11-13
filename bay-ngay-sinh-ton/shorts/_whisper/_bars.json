@@ -1,0 +1,107 @@
+{
+ "canh-01_clip-01": {
+  "mtime": 1794575476.2066703,
+  "crop": null
+ },
+ "canh-01_clip-02": {
+  "mtime": 1794575475.6743066,
+  "crop": null
+ },
+ "canh-01_clip-03": {
+  "mtime": 1794575476.3544955,
+  "crop": null
+ },
+ "canh-03_clip-04": {
+  "mtime": 1794575478.2509315,
+  "crop": null
+ },
+ "canh-04_clip-02": {
+  "mtime": 1794575478.498955,
+  "crop": null
+ },
+ "canh-04_clip-04": {
+  "mtime": 1794575479.416578,
+  "crop": null
+ },
+ "canh-06_clip-02": {
+  "mtime": 1794575481.1935012,
+  "crop": null
+ },
+ "canh-06_clip-03": {
+  "mtime": 1794575482.2702174,
+  "crop": null
+ },
+ "canh-06_clip-04": {
+  "mtime": 1794575482.2284062,
+  "crop": null
+ },
+ "canh-08_clip-02": {
+  "mtime": 1794575490.5227442,
+  "crop": null
+ },
+ "canh-08_clip-03": {
+  "mtime": 1794575483.6947632,
+  "crop": null
+ },
+ "canh-09_clip-02": {
+  "mtime": 1794575484.5083315,
+  "crop": null
+ },
+ "canh-09_clip-04": {
+  "mtime": 1794575485.528578,
+  "crop": null
+ },
+ "canh-14_clip-02": {
+  "mtime": 1794575490.8473284,
+  "crop": null
+ },
+ "canh-14_clip-03": {
+  "mtime": 1794575491.5132945,
+  "crop": null
+ },
+ "canh-14_clip-04": {
+  "mtime": 1794575492.7055974,
+  "crop": null
+ },
+ "canh-17_clip-01": {
+  "mtime": 1794575494.2584715,
+  "crop": null
+ },
+ "canh-18_clip-02": {
+  "mtime": 1794575495.887257,
+  "crop": [
+   1280,
+   694,
+   0,
+   14
+  ]
+ },
+ "canh-18_clip-03": {
+  "mtime": 1794575495.7413578,
+  "crop": null
+ },
+ "canh-18_clip-04": {
+  "mtime": 1794575496.4701786,
+  "crop": null
+ },
+ "canh-19_clip-02": {
+  "mtime": 1794575496.5122688,
+  "crop": null
+ },
+ "canh-19_clip-03": {
+  "mtime": 1794575496.7000787,
+  "crop": null
+ },
+ "canh-19_clip-04": {
+  "mtime": 1794575496.9174666,
+  "crop": null
+ },
+ "canh-24_clip-02": {
+  "mtime": 1794575502.5419207,
+  "crop": null
+ },
+ "canh-24_clip-03": {
+  "mtime": 1794575502.7794726,
+  "crop": null
+ }
+}

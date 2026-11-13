@@ -1,0 +1,230 @@
+{
+ "canh-01_clip-01": {
+  "mtime": 1794118870.0768054,
+  "crop": null
+ },
+ "canh-01_clip-02": {
+  "mtime": 1794118932.435968,
+  "crop": null
+ },
+ "canh-01_clip-03": {
+  "mtime": 1794139150.9072995,
+  "crop": [
+   1280,
+   584,
+   0,
+   68
+  ]
+ },
+ "canh-01_clip-04": {
+  "mtime": 1794139208.6907425,
+  "crop": null
+ },
+ "canh-01_clip-05": {
+  "mtime": 1794119139.1176765,
+  "crop": null
+ },
+ "canh-01_clip-06": {
+  "mtime": 1794119220.1758077,
+  "crop": null
+ },
+ "canh-02_clip-02": {
+  "mtime": 1794139301.7533553,
+  "crop": null
+ },
+ "canh-02_clip-03": {
+  "mtime": 1794119415.1891344,
+  "crop": null
+ },
+ "canh-02_clip-04": {
+  "mtime": 1794119490.2170327,
+  "crop": null
+ },
+ "canh-02_clip-05": {
+  "mtime": 1794139435.8629732,
+  "crop": null
+ },
+ "canh-02_clip-06": {
+  "mtime": 1794119707.7072296,
+  "crop": null
+ },
+ "canh-03_clip-01": {
+  "mtime": 1794119766.1230474,
+  "crop": null
+ },
+ "canh-03_clip-02": {
+  "mtime": 1794141250.4102862,
+  "crop": null
+ },
+ "canh-03_clip-03": {
+  "mtime": 1794119901.4064548,
+  "crop": null
+ },
+ "canh-03_clip-04": {
+  "mtime": 1794119967.3300004,
+  "crop": [
+   1280,
+   572,
+   0,
+   74
+  ]
+ },
+ "canh-03_clip-05": {
+  "mtime": 1794139577.2069814,
+  "crop": null
+ },
+ "canh-03_clip-06": {
+  "mtime": 1794138739.8862457,
+  "crop": null
+ },
+ "canh-04_clip-01": {
+  "mtime": 1794120429.942857,
+  "crop": null
+ },
+ "canh-04_clip-02": {
+  "mtime": 1794120499.8192902,
+  "crop": null
+ },
+ "canh-04_clip-03": {
+  "mtime": 1794120559.7705002,
+  "crop": null
+ },
+ "canh-04_clip-04": {
+  "mtime": 1794120627.776627,
+  "crop": null
+ },
+ "canh-06_clip-02": {
+  "mtime": 1794139939.0357463,
+  "crop": null
+ },
+ "canh-06_clip-03": {
+  "mtime": 1794129358.8572083,
+  "crop": null
+ },
+ "canh-06_clip-04": {
+  "mtime": 1794121560.826502,
+  "crop": null
+ },
+ "canh-06_clip-05": {
+  "mtime": 1794129510.9837286,
+  "crop": null
+ },
+ "canh-06_clip-06": {
+  "mtime": 1794139999.269992,
+  "crop": [
+   1280,
+   584,
+   0,
+   68
+  ]
+ },
+ "canh-08_clip-03": {
+  "mtime": 1794140111.2612534,
+  "crop": null
+ },
+ "canh-08_clip-04": {
+  "mtime": 1794129585.037027,
+  "crop": null
+ },
+ "canh-08_clip-05": {
+  "mtime": 1794129645.2404797,
+  "crop": null
+ },
+ "canh-08_clip-06": {
+  "mtime": 1794129712.8879921,
+  "crop": null
+ },
+ "canh-09_clip-01": {
+  "mtime": 1794140182.1010096,
+  "crop": null
+ },
+ "canh-09_clip-02": {
+  "mtime": 1794140247.2136877,
+  "crop": null
+ },
+ "canh-09_clip-03": {
+  "mtime": 1794129908.172286,
+  "crop": null
+ },
+ "canh-09_clip-04": {
+  "mtime": 1794141455.448929,
+  "crop": null
+ },
+ "canh-09_clip-05": {
+  "mtime": 1794133535.1628942,
+  "crop": null
+ },
+ "canh-10_clip-01": {
+  "mtime": 1794140381.037031,
+  "crop": null
+ },
+ "canh-10_clip-02": {
+  "mtime": 1794140436.3856037,
+  "crop": null
+ },
+ "canh-10_clip-03": {
+  "mtime": 1794130923.6627264,
+  "crop": null
+ },
+ "canh-10_clip-04": {
+  "mtime": 1794131000.2234015,
+  "crop": null
+ },
+ "canh-10_clip-05": {
+  "mtime": 1794140497.7399116,
+  "crop": null
+ },
+ "canh-10_clip-06": {
+  "mtime": 1794131228.5486646,
+  "crop": null
+ },
+ "canh-11_clip-01": {
+  "mtime": 1794131295.7247384,
+  "crop": null
+ },
+ "canh-11_clip-02": {
+  "mtime": 1794131364.73303,
+  "crop": null
+ },
+ "canh-11_clip-03": {
+  "mtime": 1794131426.8857272,
+  "crop": null
+ },
+ "canh-12_clip-01": {
+  "mtime": 1794131716.0353348,
+  "crop": [
+   1280,
+   568,
+   0,
+   76
+  ]
+ },
+ "canh-12_clip-02": {
+  "mtime": 1794140560.2540042,
+  "crop": null
+ },
+ "canh-12_clip-03": {
+  "mtime": 1794141524.7573683,
+  "crop": null
+ },
+ "canh-12_clip-04": {
+  "mtime": 1794132004.2758217,
+  "crop": null
+ },
+ "canh-15_clip-03": {
+  "mtime": 1794133104.9262853,
+  "crop": null
+ },
+ "canh-15_clip-04": {
+  "mtime": 1794141086.179513,
+  "crop": null
+ },
+ "canh-15_clip-05": {
+  "mtime": 1794138762.7661328,
+  "crop": null
+ },
+ "canh-15_clip-06": {
+  "mtime": 1794133291.5467954,
+  "crop": null
+ }
+}

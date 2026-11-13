@@ -146,8 +146,11 @@ class Film:
         return f"canh-{s:02d}_clip-{c:02d}"
 
     def clip_path(self, cid):
-        s, _ = self.split_id(cid)
-        return self.dir / "output_videos" / f"canh-{s:02d}" / f"{self.clip_name(cid)}.mp4"
+        s, c = self.split_id(cid)
+        nested = self.dir / "output_videos" / f"canh-{s:02d}" / f"{self.clip_name(cid)}.mp4"
+        # Some runners download flat into output_videos/ (canh-01_clip-1.mp4, e.g. bay-ngay-sinh-ton).
+        flat = self.dir / "output_videos" / f"canh-{s:02d}_clip-{c}.mp4"
+        return flat if not nested.exists() and flat.exists() else nested
 
     def whisper_path(self, cid):
         return self.whisper_dir / f"{self.clip_name(cid)}.json"
@@ -174,9 +177,10 @@ class Film:
 
     def rendered_ids(self):
         ids = []
-        for p in sorted((self.dir / "output_videos").glob("canh-*/canh-*_clip-*.mp4")):
+        out = self.dir / "output_videos"
+        for p in sorted(list(out.glob("canh-*/canh-*_clip-*.mp4")) + list(out.glob("canh-*_clip-*.mp4"))):
             m = re.match(r"canh-(\d+)_clip-(\d+)$", p.stem)
-            if m:
+            if m and f"{int(m[1]):02d}.{int(m[2])}" not in ids:
                 ids.append(f"{int(m[1]):02d}.{int(m[2])}")
         return ids
 

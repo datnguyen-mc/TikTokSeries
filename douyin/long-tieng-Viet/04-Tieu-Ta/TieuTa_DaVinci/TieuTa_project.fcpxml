@@ -7,8 +7,8 @@
 <effect id="r23" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
 <effect id="r24" name="Audio Crossfade" uid="FFAudioTransition"/>
 <effect id="r25" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
-<asset id="rH" name="XiaoXie" start="0s" duration="18941/30s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/%E5%B0%8F%E8%B0%A2%20%E7%A9%B7%E4%B9%A6%E7%94%9F%E8%AF%AF%E5%85%A5%E8%8D%92%E5%AE%85.mp4"/></asset>
-<asset id="rA" name="TieuTa_audio" start="0s" duration="29472000/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/Tieu-Ta/TieuTa_DaVinci/TieuTa_audio.wav"/></asset>
+<asset id="rH" name="XiaoXie" start="0s" duration="18941/30s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/04-%E5%B0%8F%E8%B0%A2%20%E7%A9%B7%E4%B9%A6%E7%94%9F%E8%AF%AF%E5%85%A5%E8%8D%92%E5%AE%85.mp4"/></asset>
+<asset id="rA" name="TieuTa_audio" start="0s" duration="29472000/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/04-Tieu-Ta/TieuTa_DaVinci/TieuTa_audio.wav"/></asset>
 </resources>
 <library><event name="MakeMyClip"><project name="project"><sequence format="r1" duration="3665/6s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
 <asset-clip ref="rH" offset="0s" name="XiaoXie" start="1095/30s" duration="11/6s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/><asset-clip ref="rA" lane="-1" offset="1095/30s" name="TieuTa_audio" start="0s" duration="29472000/48000s" audioRole="dialogue"/></asset-clip>

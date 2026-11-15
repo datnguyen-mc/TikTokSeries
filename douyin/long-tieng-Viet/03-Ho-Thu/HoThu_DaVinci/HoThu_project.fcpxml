@@ -7,8 +7,8 @@
 <effect id="r71" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
 <effect id="r72" name="Audio Crossfade" uid="FFAudioTransition"/>
 <effect id="r73" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
-<asset id="rH" name="holy" start="0s" duration="51233/24s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/holy.mp4"/></asset>
-<asset id="rA" name="HoThu_audio" start="0s" duration="75647040/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/Ho-Thu/HoThu_DaVinci/HoThu_audio.wav"/></asset>
+<asset id="rH" name="holy" start="0s" duration="51233/24s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/03-holy.mp4"/></asset>
+<asset id="rA" name="HoThu_audio" start="0s" duration="75647040/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/03-Ho-Thu/HoThu_DaVinci/HoThu_audio.wav"/></asset>
 </resources>
 <library><event name="MakeMyClip"><project name="HoThu_project"><sequence format="r1" duration="37757/24s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
 <asset-clip ref="rH" offset="0s" name="holy" start="31/24s" duration="17/8s" format="r2"><adjust-transform scale="1.151 1.151" position="0 -7.51"/><asset-clip ref="rA" lane="-1" offset="31/24s" name="HoThu_audio" start="0s" duration="78799/50s" audioRole="dialogue"/></asset-clip>

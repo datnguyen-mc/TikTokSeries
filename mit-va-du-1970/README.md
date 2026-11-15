@@ -33,3 +33,4 @@
 - [Tập 25 — Đôi dép đứt quai của Nở & Màn hất chảo đội nón bánh xèo củ hủ dừa của ba Mit](tap-25/README.md)
 - [Tập 26 — Ốc bươu đồng hấp sả chấm mắm gừng & Chiếc đèn dầu hột vịt ba Mit thức khuya đan cặp giỏ lát cho Nở](tap-26/README.md)
 - [Tập 27 — Con bù nhìn rơm giống ba & Bầy chim sẻ phá ruộng lúa chín](tap-27/README.md)
+- [Tập 32 — Ba Mit tập bưng mâm quả & Cái bánh phu thê để dành cho má](tap-32/README.md)

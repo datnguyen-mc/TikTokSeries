@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1280" height="720"/>
+<format id="r2" frameDuration="1/30s" width="1280" height="720"/>
+<effect id="r23" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r24" name="Audio Crossfade" uid="FFAudioTransition"/>
+<effect id="r25" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
+<asset id="rH" name="7683572280718298431" start="0s" duration="18452/30s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/06-7683572280718298431.mp4"/></asset>
+<asset id="rA" name="SaLang_audio" start="0s" duration="27309600/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/06-Sa-Lang-khach-diem/SaLang_DaVinci/SaLang_audio.wav"/></asset>
+</resources>
+<library><event name="MakeMyClip"><project name="project"><sequence format="r1" duration="2829/5s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="rH" offset="0s" name="7683572280718298431" start="438/30s" duration="67/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/><asset-clip ref="rA" lane="-1" offset="438/30s" name="SaLang_audio" start="0s" duration="27309600/48000s" audioRole="dialogue"/></asset-clip>
+<transition name="Cross Dissolve" offset="61/30s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="67/30s" name="7683572280718298431" start="786/30s" duration="49/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="11/3s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="58/15s" name="7683572280718298431" start="5364/30s" duration="61/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="57/10s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="59/10s" name="7683572280718298431" start="6966/30s" duration="32/15s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="47/6s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="241/30s" name="7683572280718298431" start="7206/30s" duration="32/15s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="299/30s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="61/6s" name="7683572280718298431" start="8436/30s" duration="32/15s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="121/10s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="123/10s" name="7683572280718298431" start="12954/30s" duration="61/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="212/15s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="43/3s" name="7683572280718298431" start="14916/30s" duration="47/15s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="259/15s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="r11" offset="262/15s" name="src_0542.500_0546.000" start="1/5s" duration="47/15s" format="r2"><title ref="r25" lane="1" offset="47/15s" name="SA LĂNG KHÁCH ĐIẾM" start="3600s" duration="7/2s"><param name="Position" key="9999/999166631/999166633/1/100/101" value="0 0"/><param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/><text><text-style ref="ts1">SA LĂNG KHÁCH ĐIẾM</text-style></text><text-style-def id="ts1"><text-style font="Helvetica" fontSize="80" fontColor="1 1 1 1" alignment="center"/></text-style-def><adjust-blend><param name="amount"><fadeIn type="linear" duration="11/30s"/><fadeOut type="linear" duration="3/5s"/></param></adjust-blend></title></asset-clip>
+<transition name="Cross Dissolve" offset="102/5s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="103/5s" name="7683572280718298431" start="17256/30s" duration="3s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="233/10s" duration="3/5s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<gap name="Black" offset="118/5s" duration="37/10s" start="3600s"></gap>
+<asset-clip ref="rH" offset="273/10s" name="7683572280718298431" start="0/30s" duration="2123/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="489/5s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="1471/15s" name="7683572280718298431" start="2228/30s" duration="25/2s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="1103/10s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="3317/30s" name="7683572280718298431" start="2619/30s" duration="4429/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="3869/15s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="1291/5s" name="7683572280718298431" start="7341/30s" duration="238/15s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="1369/5s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="4111/15s" name="7683572280718298431" start="8313/30s" duration="294/5s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="1663/5s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="4993/15s" name="7683572280718298431" start="10233/30s" duration="679/10s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="801/2s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="12023/30s" name="7683572280718298431" start="12461/30s" duration="671/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="6343/15s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="6347/15s" name="7683572280718298431" start="13514/30s" duration="91/5s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="6616/15s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="1324/3s" name="7683572280718298431" start="14168/30s" duration="321/5s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+<transition name="Cross Dissolve" offset="7579/15s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="7583/15s" name="7683572280718298431" start="16207/30s" duration="904/15s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/></asset-clip>
+</spine></sequence></project></event></library>
+</fcpxml>

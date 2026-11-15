@@ -1,0 +1,415 @@
+{
+  "schema": 1,
+  "style": "B2",
+  "author_id": "antigravity-producer-main",
+  "capability": {
+    "environment": "Local Antigravity macOS studio (Node 20 + @napi-rs/canvas + FFmpeg + 2x supersampled B2 gouache generator + Edge-TTS Vietnamese voice)",
+    "limitations": [],
+    "mode": "sample_target"
+  },
+  "reviewer": {
+    "id": "",
+    "kind": "agent",
+    "method": "",
+    "independent": false
+  },
+  "video_sha256": "c569adfab42529fa7f39dfb578f2bf0e786f22d6b9f4818899acf505e27d1791",
+  "evidence_sha256": "c0d72033aa8a70996e4d14a6c657bf103ac53883c23fb6ab2aac064131c0633b",
+  "full_playback": {
+    "status": "unknown",
+    "viewed_ranges": [],
+    "observations": []
+  },
+  "baseline_comparisons": [
+    {
+      "reference_id": "b2-colorful-sleep",
+      "start": null,
+      "end": null,
+      "observations": []
+    },
+    {
+      "reference_id": "b2-colorful-phone-weather",
+      "start": null,
+      "end": null,
+      "observations": []
+    },
+    {
+      "reference_id": "b2-native-portrait-2026-11-13",
+      "start": null,
+      "end": null,
+      "observations": []
+    }
+  ],
+  "portrait_viewing": {
+    "status": "unknown",
+    "display_width": null,
+    "display_height": null,
+    "playback_speed": null,
+    "platform": "",
+    "real_device": {
+      "checked": null,
+      "limitation": ""
+    },
+    "viewed_ranges": [],
+    "observations": []
+  },
+  "shots": [
+    {
+      "id": "shot-0",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_motion_states": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_progression": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "unknown",
+          "observations": []
+        },
+        "caption_readability": {
+          "status": "unknown",
+          "observations": []
+        },
+        "action_visibility": {
+          "status": "unknown",
+          "observations": []
+        },
+        "platform_safe_area": {
+          "status": "unknown",
+          "observations": []
+        }
+      }
+    },
+    {
+      "id": "shot-1",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_motion_states": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_progression": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "unknown",
+          "observations": []
+        },
+        "caption_readability": {
+          "status": "unknown",
+          "observations": []
+        },
+        "action_visibility": {
+          "status": "unknown",
+          "observations": []
+        },
+        "platform_safe_area": {
+          "status": "unknown",
+          "observations": []
+        }
+      }
+    },
+    {
+      "id": "shot-2",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_motion_states": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_progression": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "unknown",
+          "observations": []
+        },
+        "caption_readability": {
+          "status": "unknown",
+          "observations": []
+        },
+        "action_visibility": {
+          "status": "unknown",
+          "observations": []
+        },
+        "platform_safe_area": {
+          "status": "unknown",
+          "observations": []
+        }
+      }
+    },
+    {
+      "id": "shot-3",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_motion_states": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_progression": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "unknown",
+          "observations": []
+        },
+        "caption_readability": {
+          "status": "unknown",
+          "observations": []
+        },
+        "action_visibility": {
+          "status": "unknown",
+          "observations": []
+        },
+        "platform_safe_area": {
+          "status": "unknown",
+          "observations": []
+        }
+      }
+    },
+    {
+      "id": "shot-4",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_motion_states": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_progression": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "unknown",
+          "observations": []
+        },
+        "caption_readability": {
+          "status": "unknown",
+          "observations": []
+        },
+        "action_visibility": {
+          "status": "unknown",
+          "observations": []
+        },
+        "platform_safe_area": {
+          "status": "unknown",
+          "observations": []
+        }
+      }
+    },
+    {
+      "id": "shot-5",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "semantic_motion_states": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "contact_continuity": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "composition_progression": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "typography_captions": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "unknown",
+          "observations": [],
+          "comparisons": []
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "unknown",
+          "observations": []
+        },
+        "caption_readability": {
+          "status": "unknown",
+          "observations": []
+        },
+        "action_visibility": {
+          "status": "unknown",
+          "observations": []
+        },
+        "platform_safe_area": {
+          "status": "unknown",
+          "observations": []
+        }
+      }
+    }
+  ],
+  "blocking_issues": [],
+  "limits": [
+    "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+    "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+    "Independent agent review does not imply human approval or user acceptance.",
+    "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+    "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+    "The accepted B2 board contains sampled stills, not motion or sound evidence. Both bundled full public implementations are the available effect targets, not mandatory stories, characters or scene sequences."
+  ]
+}

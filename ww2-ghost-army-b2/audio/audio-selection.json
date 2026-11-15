@@ -1,0 +1,1332 @@
+{
+  "schema_version": 1,
+  "purpose": "project_selected_audio",
+  "catalog_sha256": "1d2e391b5042c92b9b989e7df2de2f4c0bbe53265fe3ee89d567da17780e3660",
+  "assets": [
+    {
+      "id": "bgm-marty-gots-a-plan",
+      "title": "Marty Gots a Plan",
+      "kind": "music",
+      "category": "caper",
+      "tags": [
+        "caper",
+        "comedy",
+        "pizzicato"
+      ],
+      "recommended_use_zh": "小聪明计划、铺垫到揭晓的动作喜剧",
+      "author": "Kevin MacLeod",
+      "source_id": "bgm-marty-gots-a-plan",
+      "source_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500015",
+      "path": "audio/music/bgm-marty-gots-a-plan.mp3",
+      "sha256": "948e7a1253da8af51dc30b71b3c1c08deebaaf5454547367a23736d3df6a2667",
+      "original_sha256": "948e7a1253da8af51dc30b71b3c1c08deebaaf5454547367a23736d3df6a2667",
+      "original_filename": "Marty Gots a Plan.mp3",
+      "bytes": 5380559,
+      "duration": 168.071844,
+      "sample_rate": 44100,
+      "channels": 2,
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "evidence_paths": [
+          "licenses/CC-BY-4.0.txt",
+          "evidence/incompetech/licenses.html.txt",
+          "evidence/bgm-marty-gots-a-plan/source.html.txt",
+          "evidence/bgm-marty-gots-a-plan/official-record.json",
+          "evidence/bgm-marty-gots-a-plan/acquisition.json"
+        ],
+        "attribution_required": true,
+        "attribution": "\"Marty Gots a Plan\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/\nSource: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500015\nLibrary copy: original MP3 unchanged. In a finished video, disclose actual edits/synchronization.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "official_metadata": {
+        "length": "00:02:48",
+        "bpm": "140",
+        "instruments": "Cello, Viola, Violin, English Horn, Alto Flute, Percussion, Marimba",
+        "feel": "Humorous, Bouncy, Mysterious",
+        "uploaded": "2015-02-11"
+      },
+      "roles": [
+        "caper-bed",
+        "comic-bed"
+      ],
+      "style_hints": [
+        "B5",
+        "B6"
+      ]
+    },
+    {
+      "id": "kresiek-amb-outside-amb-outdoor1-loop",
+      "title": "Amb Outdoor1 Loop",
+      "kind": "sfx",
+      "category": "ambience",
+      "tags": [
+        "environment",
+        "loop-candidate",
+        "outdoor",
+        "室外",
+        "环境"
+      ],
+      "author": "Kresiek The Furry",
+      "source_id": "kresiek-amb-outside",
+      "source_url": "https://opengameart.org/content/amb-outside-1",
+      "path": "audio/kresiek-amb-outside/amb_outdoor1_loop.ogg",
+      "sha256": "5af2486b996457462cebb0f50beeb7014a9ca973b00605171c05b11671124fc6",
+      "original_sha256": "5af2486b996457462cebb0f50beeb7014a9ca973b00605171c05b11671124fc6",
+      "original_filename": "amb_outdoor1_loop.ogg",
+      "canonical_pcm_sha256": "eb1d4875453d40f07fb82e1878072164922b791089ad335376b09495e9c7d152",
+      "duration": 29.868413,
+      "sample_rate": 44100,
+      "channels": 1,
+      "bytes": 289001,
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/kresiek-amb-outside/source.html.txt",
+          "evidence/kresiek-amb-outside/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "AMB Outside 1 — Kresiek The Furry (CC0 1.0)",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass",
+        "peak_dbfs": -0.32,
+        "rms_dbfs": -18.8,
+        "near_full_scale_samples": 0
+      },
+      "roles": [
+        "environment-bed"
+      ],
+      "style_hints": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B8"
+      ]
+    },
+    {
+      "id": "antoine-nature-nature-sounds-pack-ambient-ambientnatureoutside",
+      "title": "AmbientNatureOutside",
+      "kind": "sfx",
+      "category": "nature-ambience",
+      "tags": [
+        "nature-ambience",
+        "ambience-bed"
+      ],
+      "author": "Antoine Goumain (Antoinemax)",
+      "source_id": "antoine-nature",
+      "source_url": "https://opengameart.org/content/nature-sounds-pack",
+      "original_filename": "Nature Sounds Pack/Ambient/AmbientNatureOutside.wav",
+      "original_sha256": "947c9971d1d833e0dd36ac16e56248d82c440807695d4367d2caf92949192091",
+      "sha256": "947c9971d1d833e0dd36ac16e56248d82c440807695d4367d2caf92949192091",
+      "canonical_pcm_sha256": "bc6dde1cd162c562c908660ffe36a1183432434adb9f5ea53b56ab76ab139bc6",
+      "duration": 10,
+      "sample_rate": 44100,
+      "channels": 2,
+      "bytes": 1764736,
+      "path": "audio/antoine-nature/Nature Sounds Pack/Ambient/AmbientNatureOutside.wav",
+      "roles": [
+        "environment-bed"
+      ],
+      "loopable_from_source": false,
+      "source_role": "ambience-bed",
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "review_note": "Source-description and source-filename category only; no invented detailed action labels. Level and timing must be auditioned in the destination shot.",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "evidence_paths": [
+          "licenses/CC-BY-4.0.txt",
+          "evidence/antoine-nature/source.html.txt",
+          "evidence/antoine-nature/acquisition.json"
+        ],
+        "attribution_required": true,
+        "attribution": "Nature Sounds Pack - Antoine Goumain (Antoinemax) (https://opengameart.org/content/nature-sounds-pack), CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Original audio unchanged.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "style_hints": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B8"
+      ]
+    },
+    {
+      "id": "rubberduck-general-100-2-sfx100v2-loop-water-01",
+      "title": "sfx100v2 loop water 01",
+      "kind": "sfx",
+      "category": "water-ambience",
+      "tags": [
+        "water-ambience",
+        "ambience-loop"
+      ],
+      "author": "rubberduck",
+      "source_id": "rubberduck-general-100-2",
+      "source_url": "https://opengameart.org/content/100-cc0-sfx-2",
+      "original_filename": "sfx100v2_loop_water_01.ogg",
+      "original_sha256": "955a367cf87f150f7868e2ecf5745ef13cec2c78a29304eda27e74f1fea06c57",
+      "sha256": "955a367cf87f150f7868e2ecf5745ef13cec2c78a29304eda27e74f1fea06c57",
+      "canonical_pcm_sha256": "81e6cea3954932f7ff89d98a3eb195953a85d3867363c119dbfc5becaa4090de",
+      "duration": 6.367208,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bytes": 72644,
+      "path": "audio/rubberduck-general-100-2/sfx100v2_loop_water_01.ogg",
+      "roles": [
+        "environment-bed",
+        "water-action"
+      ],
+      "loopable_from_source": true,
+      "source_role": "ambience-loop",
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "review_note": "Source-description and source-filename category only; no invented detailed action labels. Level and timing must be auditioned in the destination shot.",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/rubberduck-general-100-2/source.html.txt",
+          "evidence/rubberduck-general-100-2/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "100 CC0 SFX #2 - rubberduck (https://opengameart.org/content/100-cc0-sfx-2), CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Original audio unchanged.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "style_hints": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B8"
+      ]
+    },
+    {
+      "id": "bart-squeak-toys-squeak-toy-squeak-toy-squeak1",
+      "title": "squeak toy   squeak1",
+      "kind": "sfx",
+      "category": "comedy-squeak",
+      "tags": [
+        "comedy-squeak",
+        "one-shot"
+      ],
+      "author": "bart",
+      "source_id": "bart-squeak-toys",
+      "source_url": "https://opengameart.org/content/squeak-toy-sounds",
+      "original_filename": "squeak toy/squeak toy - squeak1.wav",
+      "original_sha256": "a89853f355ce7c6c60ee9695f5e725250c6a74f4a177b549afa0a30ff98ff362",
+      "sha256": "a89853f355ce7c6c60ee9695f5e725250c6a74f4a177b549afa0a30ff98ff362",
+      "canonical_pcm_sha256": "824e767d3f71a18599dd2856a13aef3088ccf294d914f840cd126e9758bd040b",
+      "duration": 0.768231,
+      "sample_rate": 44100,
+      "channels": 2,
+      "bytes": 271388,
+      "path": "audio/bart-squeak-toys/squeak toy/squeak toy - squeak1.wav",
+      "roles": [
+        "comic-reaction"
+      ],
+      "loopable_from_source": false,
+      "source_role": "one-shot",
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "review_note": "Source-description and source-filename category only; no invented detailed action labels. Level and timing must be auditioned in the destination shot.",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/bart-squeak-toys/source.html.txt",
+          "evidence/bart-squeak-toys/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "Squeak toy sounds - bart (https://opengameart.org/content/squeak-toy-sounds), CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Original audio unchanged.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "style_hints": [
+        "B5",
+        "B6",
+        "B7"
+      ]
+    },
+    {
+      "id": "kenney-rpg-cloth2",
+      "title": "Cloth2",
+      "kind": "sfx",
+      "category": "cloth-leather",
+      "tags": [
+        "cloth",
+        "leather",
+        "皮革",
+        "衣料"
+      ],
+      "author": "Kenney",
+      "source_id": "kenney-rpg",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "path": "audio/kenney-rpg/cloth2.ogg",
+      "sha256": "8a7451193c38bc05483aec25dd193e163a15d44cf7fff04ac7912573231b0201",
+      "original_sha256": "8a7451193c38bc05483aec25dd193e163a15d44cf7fff04ac7912573231b0201",
+      "original_filename": "cloth2.ogg",
+      "canonical_pcm_sha256": "48b32f667553b142b9af8a780f6291a20433f41081c1e873ec6a6509d93b4943",
+      "duration": 0.415063,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bytes": 11787,
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/kenney-rpg/source.html.txt",
+          "evidence/kenney-rpg/original-license-1.txt",
+          "evidence/kenney-rpg/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "RPG Audio — Kenney (CC0 1.0)",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass",
+        "peak_dbfs": -7.41,
+        "rms_dbfs": -26.6,
+        "near_full_scale_samples": 0
+      },
+      "roles": [
+        "cloth-contact",
+        "prop-contact"
+      ],
+      "style_hints": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B8"
+      ]
+    },
+    {
+      "id": "kenney-rpg-book-open",
+      "title": "Book Open",
+      "kind": "sfx",
+      "category": "paper-book",
+      "tags": [
+        "book",
+        "page",
+        "paper",
+        "纸张",
+        "翻书"
+      ],
+      "author": "Kenney",
+      "source_id": "kenney-rpg",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "path": "audio/kenney-rpg/bookOpen.ogg",
+      "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+      "original_sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+      "original_filename": "bookOpen.ogg",
+      "canonical_pcm_sha256": "9e89dcee72c1d60dd6c0f2e4da7e3fa3047562a18cd83a019ef7c96ad365a101",
+      "duration": 0.153729,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bytes": 8273,
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/kenney-rpg/source.html.txt",
+          "evidence/kenney-rpg/original-license-1.txt",
+          "evidence/kenney-rpg/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "RPG Audio — Kenney (CC0 1.0)",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass",
+        "peak_dbfs": -10.49,
+        "rms_dbfs": -31.22,
+        "near_full_scale_samples": 0
+      },
+      "roles": [
+        "paper-contact",
+        "prop-contact"
+      ],
+      "style_hints": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B8",
+        "B9"
+      ]
+    },
+    {
+      "id": "rubberduck-general-100-2-sfx100v2-air-01",
+      "title": "sfx100v2 air 01",
+      "kind": "sfx",
+      "category": "air-movement",
+      "tags": [
+        "air-movement",
+        "one-shot"
+      ],
+      "author": "rubberduck",
+      "source_id": "rubberduck-general-100-2",
+      "source_url": "https://opengameart.org/content/100-cc0-sfx-2",
+      "original_filename": "sfx100v2_air_01.ogg",
+      "original_sha256": "bb292a9fc082557e65199d01abe124459d910519b39c913ecb6c6f2207576d6f",
+      "sha256": "bb292a9fc082557e65199d01abe124459d910519b39c913ecb6c6f2207576d6f",
+      "canonical_pcm_sha256": "9721695a54db9476b5a9c9a91ce15b504adcf188a76a8e9b20b772db457c69fe",
+      "duration": 2.637583,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bytes": 35391,
+      "path": "audio/rubberduck-general-100-2/sfx100v2_air_01.ogg",
+      "roles": [],
+      "loopable_from_source": false,
+      "source_role": "one-shot",
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "review_note": "Source-description and source-filename category only; no invented detailed action labels. Level and timing must be auditioned in the destination shot.",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/rubberduck-general-100-2/source.html.txt",
+          "evidence/rubberduck-general-100-2/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "100 CC0 SFX #2 - rubberduck (https://opengameart.org/content/100-cc0-sfx-2), CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Original audio unchanged.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "style_hints": []
+    },
+    {
+      "id": "kenney-interface-switch-002",
+      "title": "Switch 002",
+      "kind": "sfx",
+      "category": "ui-feedback",
+      "tags": [
+        "diagram",
+        "interface",
+        "switch",
+        "反馈",
+        "提示音"
+      ],
+      "author": "Kenney",
+      "source_id": "kenney-interface",
+      "source_url": "https://kenney.nl/assets/interface-sounds",
+      "path": "audio/kenney-interface/switch_002.ogg",
+      "sha256": "6fc395be2ad1f99ce318a5d28f98fb76dbeb676d83a0b28239d8c1fb90736180",
+      "original_sha256": "6fc395be2ad1f99ce318a5d28f98fb76dbeb676d83a0b28239d8c1fb90736180",
+      "original_filename": "switch_002.ogg",
+      "canonical_pcm_sha256": "3fc3a138be45ead778ba6a309d926a2fd3f2f9edbaaf2685cfe2377874d276bc",
+      "duration": 0.610952,
+      "sample_rate": 44100,
+      "channels": 2,
+      "bytes": 7097,
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/kenney-interface/source.html.txt",
+          "evidence/kenney-interface/original-license-1.txt",
+          "evidence/kenney-interface/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "Interface Sounds — Kenney (CC0 1.0)",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass",
+        "peak_dbfs": 2.12,
+        "rms_dbfs": -22.03,
+        "near_full_scale_samples": 25
+      },
+      "roles": [
+        "diagram-feedback"
+      ],
+      "style_hints": [
+        "B1",
+        "B3",
+        "B7",
+        "B9"
+      ]
+    },
+    {
+      "id": "looneybits-engine-start-generic-car-startengine",
+      "title": "generic car startengine",
+      "kind": "sfx",
+      "category": "vehicle-engine",
+      "tags": [
+        "vehicle-engine",
+        "one-shot"
+      ],
+      "author": "looneybits",
+      "source_id": "looneybits-engine-start",
+      "source_url": "https://opengameart.org/content/car-engine-start-01",
+      "original_filename": "generic_car_startengine.wav",
+      "original_sha256": "fa9c199daf6b06a53267f32d764fb19522fc364304ad009bf8b6e392adbe5654",
+      "sha256": "fa9c199daf6b06a53267f32d764fb19522fc364304ad009bf8b6e392adbe5654",
+      "canonical_pcm_sha256": "625c4462b753f02466bf3ac8c0fd699ed7d5dbacf5f74895f4651d64bb268257",
+      "duration": 1.647143,
+      "sample_rate": 44100,
+      "channels": 2,
+      "bytes": 291074,
+      "path": "audio/looneybits-engine-start/generic_car_startengine.wav",
+      "roles": [
+        "traffic"
+      ],
+      "loopable_from_source": false,
+      "source_role": "one-shot",
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "review_note": "Source-description and source-filename category only; no invented detailed action labels. Level and timing must be auditioned in the destination shot.",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/looneybits-engine-start/source.html.txt",
+          "evidence/looneybits-engine-start/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "Car engine start 01 - looneybits (https://opengameart.org/content/car-engine-start-01), CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Original audio unchanged.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "style_hints": []
+    },
+    {
+      "id": "kenney-rpg-book-flip1",
+      "title": "Book Flip1",
+      "kind": "sfx",
+      "category": "paper-book",
+      "tags": [
+        "book",
+        "page",
+        "paper",
+        "纸张",
+        "翻书"
+      ],
+      "author": "Kenney",
+      "source_id": "kenney-rpg",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "path": "audio/kenney-rpg/bookFlip1.ogg",
+      "sha256": "fa81ac2fedc8c641661b87e349630a36c9800e795e0c800e029214efdbe26a7d",
+      "original_sha256": "fa81ac2fedc8c641661b87e349630a36c9800e795e0c800e029214efdbe26a7d",
+      "original_filename": "bookFlip1.ogg",
+      "canonical_pcm_sha256": "2a6087442ad7e21c426eaa57da125d7187eb51ae4a25beb920e7ca69f15db8a8",
+      "duration": 0.768646,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bytes": 18248,
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/kenney-rpg/source.html.txt",
+          "evidence/kenney-rpg/original-license-1.txt",
+          "evidence/kenney-rpg/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "RPG Audio — Kenney (CC0 1.0)",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass",
+        "peak_dbfs": 3.28,
+        "rms_dbfs": -26.99,
+        "near_full_scale_samples": 23
+      },
+      "roles": [
+        "paper-contact",
+        "prop-contact"
+      ],
+      "style_hints": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B8",
+        "B9"
+      ]
+    },
+    {
+      "id": "yaroslav-car-pass-car1",
+      "title": "car1",
+      "kind": "sfx",
+      "category": "vehicle-passby",
+      "tags": [
+        "vehicle-passby",
+        "one-shot"
+      ],
+      "author": "Yaroslav_Novikov",
+      "source_id": "yaroslav-car-pass",
+      "source_url": "https://opengameart.org/content/car-1-1",
+      "original_filename": "car1.wav",
+      "original_sha256": "85d1ca20f95244c558b57e2be465c8efcf2f7425bb54049e9eddcbec7f1739af",
+      "sha256": "85d1ca20f95244c558b57e2be465c8efcf2f7425bb54049e9eddcbec7f1739af",
+      "canonical_pcm_sha256": "e7edebcd6b9cf16409ce240c556da0767df6ff258509e756af0921543a515635",
+      "duration": 14.845438,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bytes": 2850368,
+      "path": "audio/yaroslav-car-pass/car1.wav",
+      "roles": [
+        "traffic"
+      ],
+      "loopable_from_source": false,
+      "source_role": "one-shot",
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "review_note": "Source-description and source-filename category only; no invented detailed action labels. Level and timing must be auditioned in the destination shot.",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/yaroslav-car-pass/source.html.txt",
+          "evidence/yaroslav-car-pass/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "Car 1 - Yaroslav_Novikov (https://opengameart.org/content/car-1-1), CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Original audio unchanged.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "style_hints": []
+    },
+    {
+      "id": "rubberduck-water-40-splash-02",
+      "title": "splash 02",
+      "kind": "sfx",
+      "category": "water-splash",
+      "tags": [
+        "water-splash",
+        "one-shot"
+      ],
+      "author": "rubberduck",
+      "source_id": "rubberduck-water-40",
+      "source_url": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+      "original_filename": "splash_02.ogg",
+      "original_sha256": "eab0bb4bc01386528ba1e6244c6fd8940ee8d3c91ddb9e9cfea186e8560e04de",
+      "sha256": "eab0bb4bc01386528ba1e6244c6fd8940ee8d3c91ddb9e9cfea186e8560e04de",
+      "canonical_pcm_sha256": "a7423375a04c3eec372946b99b0e976568d8ca4bf4f810b6ecbc5b28962853c0",
+      "duration": 0.717854,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bytes": 37895,
+      "path": "audio/rubberduck-water-40/splash_02.ogg",
+      "roles": [
+        "water-action"
+      ],
+      "loopable_from_source": false,
+      "source_role": "one-shot",
+      "modifications": [],
+      "verified_at": "2026-11-14",
+      "qa": {
+        "decode": "pass"
+      },
+      "review_note": "Source-description and source-filename category only; no invented detailed action labels. Level and timing must be auditioned in the destination shot.",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "evidence_paths": [
+          "licenses/CC0-1.0-legalcode.html.txt",
+          "evidence/rubberduck-water-40/source.html.txt",
+          "evidence/rubberduck-water-40/acquisition.json"
+        ],
+        "attribution_required": false,
+        "attribution": "40 CC0 water / splash / slime SFX - rubberduck (https://opengameart.org/content/40-cc0-water-splash-slime-sfx), CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Original audio unchanged.",
+        "commercial_use": true,
+        "redistribution": true,
+        "modifications_allowed": true
+      },
+      "style_hints": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "bgm-marty-gots-a-plan",
+      "title": "Marty Gots a Plan",
+      "author": "Kevin MacLeod",
+      "source_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500015",
+      "download_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Marty%20Gots%20a%20Plan.mp3",
+      "license_id": "CC-BY-4.0",
+      "evidence_paths": [
+        "licenses/CC-BY-4.0.txt",
+        "evidence/incompetech/licenses.html.txt",
+        "evidence/bgm-marty-gots-a-plan/source.html.txt",
+        "evidence/bgm-marty-gots-a-plan/official-record.json",
+        "evidence/bgm-marty-gots-a-plan/acquisition.json"
+      ]
+    },
+    {
+      "id": "kresiek-amb-outside",
+      "title": "AMB Outside 1",
+      "author": "Kresiek The Furry",
+      "source_url": "https://opengameart.org/content/amb-outside-1",
+      "download_url": "https://opengameart.org/sites/default/files/amb_outdoor1_loop.ogg",
+      "license_spdx": "CC0-1.0",
+      "verified_at": "2026-11-14",
+      "archive_sha256": "5af2486b996457462cebb0f50beeb7014a9ca973b00605171c05b11671124fc6",
+      "archive_bytes": 289001,
+      "source_page_sha256": "d197dd359074a0b3ac1f9a84c29c1a960ca99e9467b4c07d69716a588fc8d8db",
+      "note": "Download signatures may expire; use the source page. Original audio bytes retained. Web snapshots are inert text.",
+      "license_id": "CC0-1.0",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/kresiek-amb-outside/source.html.txt",
+        "evidence/kresiek-amb-outside/acquisition.json"
+      ]
+    },
+    {
+      "id": "antoine-nature",
+      "title": "Nature Sounds Pack",
+      "author": "Antoine Goumain (Antoinemax)",
+      "source_url": "https://opengameart.org/content/nature-sounds-pack",
+      "license_id": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_declaration_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "retrieved_at": "2026-11-14T07:06:32.223340+00:00",
+      "description": "Hi, my name is Antoine. I'm a French Sound Designer. I've created a Sound pack with the theme of nature. Ambient sound (5 sounds) Foliage (6 sounds) Footstep (9 sounds) Stream (3 sounds) Here is my portfolio : https://antoinegoumain.fr/ Here is my LinkedIn : https://www.linkedin.com/in/antoinegoumain/ Here is my Patreon page if you like my work and you want to help me : https://www.patreon.com/antoinegoumain",
+      "attribution_notice": "Copyright/Attribution Notice: Share — copy and redistribute the material in any medium or format Adapt — remix, transform, and build upon the material for any purpose, even commercially. It would be nice if you can credit.",
+      "license_declaration": "License(s): CC-BY 4.0",
+      "downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/nature_sounds_pack.7z",
+          "filename": "nature_sounds_pack.7z",
+          "sha256": "b308acf3848d57fa27b4cb8f5dc644595fb0792ef979c7157032532781da178f",
+          "bytes": 8044155
+        }
+      ],
+      "download_url": "https://opengameart.org/sites/default/files/nature_sounds_pack.7z",
+      "source_page_sha256": "3a9653dac49983eec2a82dd1126df3fa3a939afc0fd03c4c2a85694c0188d2d5",
+      "evidence_paths": [
+        "licenses/CC-BY-4.0.txt",
+        "evidence/antoine-nature/source.html.txt",
+        "evidence/antoine-nature/acquisition.json"
+      ]
+    },
+    {
+      "id": "rubberduck-general-100-2",
+      "title": "100 CC0 SFX #2",
+      "author": "rubberduck",
+      "source_url": "https://opengameart.org/content/100-cc0-sfx-2",
+      "license_id": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_declaration_urls": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "retrieved_at": "2026-11-14T07:07:36.173537+00:00",
+      "description": "another pack with 100 CC0 sfx Note: the preview does not contain all sounds, it also contains loopable sfx which are shorter in the preview. Included are: air flowing, door, various footstep, glass, hit, item, loops (ambient, machine, construction site, highway / street, flowing water), metal / metal hit, misc, stones, switch, thunder and wood / wood hit - sounds",
+      "attribution_notice": "",
+      "license_declaration": "License(s): CC0",
+      "downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_100_v2.zip",
+          "filename": "sfx_100_v2.zip",
+          "sha256": "0fc61b4494e2e893c0c015ced4877b3f689c7d84a48cb61daecd7ddb52db797b",
+          "bytes": 2367871
+        }
+      ],
+      "download_url": "https://opengameart.org/sites/default/files/sfx_100_v2.zip",
+      "source_page_sha256": "15a1e167aa334a903c7f973234de3848cd5641b189e9dae215ad8eb0f93ddf47",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/rubberduck-general-100-2/source.html.txt",
+        "evidence/rubberduck-general-100-2/acquisition.json"
+      ]
+    },
+    {
+      "id": "bart-squeak-toys",
+      "title": "Squeak toy sounds",
+      "author": "bart",
+      "source_url": "https://opengameart.org/content/squeak-toy-sounds",
+      "license_id": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_declaration_urls": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "retrieved_at": "2026-11-14T07:06:34.684955+00:00",
+      "description": "Attribution appreciated. :)",
+      "attribution_notice": "",
+      "license_declaration": "License(s): CC0",
+      "downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/squeak_toy.zip",
+          "filename": "squeak_toy.zip",
+          "sha256": "3ba6419b05ebf8e0b7dd4395b3c10f26811c037e357143f10a159acdb2dabfb8",
+          "bytes": 898071
+        }
+      ],
+      "download_url": "https://opengameart.org/sites/default/files/squeak_toy.zip",
+      "source_page_sha256": "0cefb876520ae87a904b4551a2890935163f52c9832263474c85d7b9ecae62cf",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/bart-squeak-toys/source.html.txt",
+        "evidence/bart-squeak-toys/acquisition.json"
+      ]
+    },
+    {
+      "id": "kenney-rpg",
+      "title": "RPG Audio",
+      "author": "Kenney",
+      "source_url": "https://kenney.nl/assets/rpg-audio",
+      "download_url": "https://kenney.nl/download/6173736574732f7270672d617564696f/078b3986e98a32f978d652ae77c61e7662e5630299251160188db11db33e5eff?expires=1794639049",
+      "license_spdx": "CC0-1.0",
+      "verified_at": "2026-11-14",
+      "archive_sha256": "6dbeaf8544da958d8f2adcb4a4a4b76c1ade34a05f8ab9edccd327da7375f38b",
+      "archive_bytes": 964837,
+      "source_page_sha256": "f7dab478d045be8d5083c514d63860e9dd3c37db08d3a99baf1114381cd87ecf",
+      "note": "Download signatures may expire; use the source page. Original audio bytes retained. Web snapshots are inert text.",
+      "license_id": "CC0-1.0",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/kenney-rpg/source.html.txt",
+        "evidence/kenney-rpg/original-license-1.txt",
+        "evidence/kenney-rpg/acquisition.json"
+      ]
+    },
+    {
+      "id": "kenney-interface",
+      "title": "Interface Sounds",
+      "author": "Kenney",
+      "source_url": "https://kenney.nl/assets/interface-sounds",
+      "download_url": "https://kenney.nl/download/6173736574732f696e746572666163652d736f756e6473/84873ce76aebba253661deaa156b7d1c3a7b035fece19a90c4eaab0f0e8e5b47?expires=1794639049",
+      "license_spdx": "CC0-1.0",
+      "verified_at": "2026-11-14",
+      "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+      "archive_bytes": 834536,
+      "source_page_sha256": "e7cc3dfbaa28b3d2563a4ce9c24e862a959015905ae24b3e5cc1c4c08ed54382",
+      "note": "Download signatures may expire; use the source page. Original audio bytes retained. Web snapshots are inert text.",
+      "license_id": "CC0-1.0",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/kenney-interface/source.html.txt",
+        "evidence/kenney-interface/original-license-1.txt",
+        "evidence/kenney-interface/acquisition.json"
+      ]
+    },
+    {
+      "id": "looneybits-engine-start",
+      "title": "Car engine start 01",
+      "author": "looneybits",
+      "source_url": "https://opengameart.org/content/car-engine-start-01",
+      "license_id": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_declaration_urls": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "retrieved_at": "2026-11-14T07:06:38.272423+00:00",
+      "description": "Car engine start sound effect meant to be used in your motor games. Site | YouTube | itch.io | Twitter If that was useful for you, please consider a donation",
+      "attribution_notice": "",
+      "license_declaration": "License(s): CC0",
+      "downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/generic_car_startengine.wav",
+          "filename": "generic_car_startengine.wav",
+          "sha256": "fa9c199daf6b06a53267f32d764fb19522fc364304ad009bf8b6e392adbe5654",
+          "bytes": 291074
+        },
+        {
+          "url": "https://opengameart.org/sites/default/files/generic_car_startengine_1.wav",
+          "filename": "generic_car_startengine_1.wav",
+          "sha256": "1f50e855d5924221017093117407274ec1c929e83ec0f1940b1d6cdd941fc8ff",
+          "bytes": 177842
+        }
+      ],
+      "download_url": "https://opengameart.org/sites/default/files/generic_car_startengine.wav",
+      "source_page_sha256": "47187aeedbb3968b3fe4b81966d2e84c4b76720bf26c640387ed06b1d8051ff7",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/looneybits-engine-start/source.html.txt",
+        "evidence/looneybits-engine-start/acquisition.json"
+      ]
+    },
+    {
+      "id": "yaroslav-car-pass",
+      "title": "Car 1",
+      "author": "Yaroslav_Novikov",
+      "source_url": "https://opengameart.org/content/car-1-1",
+      "license_id": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_declaration_urls": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "retrieved_at": "2026-11-14T07:06:38.760818+00:00",
+      "description": "Moving car sound",
+      "attribution_notice": "",
+      "license_declaration": "License(s): CC0",
+      "downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/car1.wav",
+          "filename": "car1.wav",
+          "sha256": "85d1ca20f95244c558b57e2be465c8efcf2f7425bb54049e9eddcbec7f1739af",
+          "bytes": 2850368
+        }
+      ],
+      "download_url": "https://opengameart.org/sites/default/files/car1.wav",
+      "source_page_sha256": "a0c27b14a9db801754c0e3839e21061fa37be844b759919b42494f4a8dc1b06a",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/yaroslav-car-pass/source.html.txt",
+        "evidence/yaroslav-car-pass/acquisition.json"
+      ]
+    },
+    {
+      "id": "rubberduck-water-40",
+      "title": "40 CC0 water / splash / slime SFX",
+      "author": "rubberduck",
+      "source_url": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+      "license_id": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_declaration_urls": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "retrieved_at": "2026-11-14T07:06:32.243062+00:00",
+      "description": "I created some water, splash and slime sounds: 3x bubble 6x loop sounds (bubbles, rain, water) 16x slime (partly recorded from real slime) 15x splash The loop sounds are also a bit longer as in the preview.",
+      "attribution_notice": "",
+      "license_declaration": "License(s): CC0",
+      "downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/water-splash-slime-sfx.zip",
+          "filename": "water-splash-slime-sfx.zip",
+          "sha256": "7cd39abb49d4362a37ba18dc0e454c7dc1d08029d4e5b683149046bc237b2eba",
+          "bytes": 2259262
+        }
+      ],
+      "download_url": "https://opengameart.org/sites/default/files/water-splash-slime-sfx.zip",
+      "source_page_sha256": "2e7e47024f8a944abc40417e8a1ac7b51bf5660a401e2e0ea260a1354cf0ad63",
+      "evidence_paths": [
+        "licenses/CC0-1.0-legalcode.html.txt",
+        "evidence/rubberduck-water-40/source.html.txt",
+        "evidence/rubberduck-water-40/acquisition.json"
+      ]
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "licenses/CC-BY-4.0.txt",
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+    },
+    {
+      "path": "evidence/incompetech/licenses.html.txt",
+      "sha256": "479019ed42fd8384c63c04bd95dc6d0e0e0da505ddd6f567a13018c724f8416d"
+    },
+    {
+      "path": "evidence/bgm-marty-gots-a-plan/source.html.txt",
+      "sha256": "0aaccc3d496fc4ae189e27e3fe2d4f5216266e3bcccf2e0ba77fb1b57a28fa94"
+    },
+    {
+      "path": "evidence/bgm-marty-gots-a-plan/official-record.json",
+      "sha256": "5f00278a0a5aaf9b2ac83d7dfa9a1e9c1ed5758bc88fc94e0e8941fd2f597e6c"
+    },
+    {
+      "path": "evidence/bgm-marty-gots-a-plan/acquisition.json",
+      "sha256": "c85b17c5ed53c4795b310cb3fb1a022efe2ab275e6519c00ef517a3d92da45ea"
+    },
+    {
+      "path": "licenses/CC0-1.0-legalcode.html.txt",
+      "sha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726"
+    },
+    {
+      "path": "evidence/kresiek-amb-outside/source.html.txt",
+      "sha256": "d197dd359074a0b3ac1f9a84c29c1a960ca99e9467b4c07d69716a588fc8d8db"
+    },
+    {
+      "path": "evidence/kresiek-amb-outside/acquisition.json",
+      "sha256": "f5537e46bc76545e9af758c9339dcc5a7d46d7311bcba6f036c3a5ff37340cd3"
+    },
+    {
+      "path": "evidence/antoine-nature/source.html.txt",
+      "sha256": "3a9653dac49983eec2a82dd1126df3fa3a939afc0fd03c4c2a85694c0188d2d5"
+    },
+    {
+      "path": "evidence/antoine-nature/acquisition.json",
+      "sha256": "da08b95a43906345342bade97db745630188c899ed8310c145e3745b1b5b9399"
+    },
+    {
+      "path": "evidence/rubberduck-general-100-2/source.html.txt",
+      "sha256": "15a1e167aa334a903c7f973234de3848cd5641b189e9dae215ad8eb0f93ddf47"
+    },
+    {
+      "path": "evidence/rubberduck-general-100-2/acquisition.json",
+      "sha256": "d43b1df356a81be0b8437da6ee4c40f6e6fd8aed8a06b5940c39a4c1e2912b3f"
+    },
+    {
+      "path": "evidence/bart-squeak-toys/source.html.txt",
+      "sha256": "0cefb876520ae87a904b4551a2890935163f52c9832263474c85d7b9ecae62cf"
+    },
+    {
+      "path": "evidence/bart-squeak-toys/acquisition.json",
+      "sha256": "5bc75a892a5d2fd7fff2b33391ed233b960f17422811a0bc6c46bdda6390a0a6"
+    },
+    {
+      "path": "evidence/kenney-rpg/source.html.txt",
+      "sha256": "f7dab478d045be8d5083c514d63860e9dd3c37db08d3a99baf1114381cd87ecf"
+    },
+    {
+      "path": "evidence/kenney-rpg/original-license-1.txt",
+      "sha256": "5735dfd72cb64cbbceda4ebc00c380c41ca680edb82ff153aa7c9ab97614c539"
+    },
+    {
+      "path": "evidence/kenney-rpg/acquisition.json",
+      "sha256": "df97ca5836684f7dd9fc1274aecfde86bb158f409969e21a9a0f644c29bef6f2"
+    },
+    {
+      "path": "evidence/kenney-interface/source.html.txt",
+      "sha256": "e7cc3dfbaa28b3d2563a4ce9c24e862a959015905ae24b3e5cc1c4c08ed54382"
+    },
+    {
+      "path": "evidence/kenney-interface/original-license-1.txt",
+      "sha256": "f7966c773bbed0eca6a9c75081c44a178b38eae112724dbb5fdfbd4192d118a9"
+    },
+    {
+      "path": "evidence/kenney-interface/acquisition.json",
+      "sha256": "8d194a2b1223cd00c62b564861a31fb92594bd9437b7f070d16237ffdbb41499"
+    },
+    {
+      "path": "evidence/looneybits-engine-start/source.html.txt",
+      "sha256": "47187aeedbb3968b3fe4b81966d2e84c4b76720bf26c640387ed06b1d8051ff7"
+    },
+    {
+      "path": "evidence/looneybits-engine-start/acquisition.json",
+      "sha256": "0ed2bd284094c1aab804ef61bb0078f5ce9a8da0fc3d19a25122fc5616f9f43c"
+    },
+    {
+      "path": "evidence/yaroslav-car-pass/source.html.txt",
+      "sha256": "a0c27b14a9db801754c0e3839e21061fa37be844b759919b42494f4a8dc1b06a"
+    },
+    {
+      "path": "evidence/yaroslav-car-pass/acquisition.json",
+      "sha256": "44f8c562e3a77ed212828fa3b320f7f32908fb62e9f832edf66c71fc27d6bbac"
+    },
+    {
+      "path": "evidence/rubberduck-water-40/source.html.txt",
+      "sha256": "2e7e47024f8a944abc40417e8a1ac7b51bf5660a401e2e0ea260a1354cf0ad63"
+    },
+    {
+      "path": "evidence/rubberduck-water-40/acquisition.json",
+      "sha256": "17882f53f501f988f58ccbd5f74db47228185bf99a8b443b6cc0ba76b6f3e312"
+    }
+  ],
+  "required_credits_path": "CREDITS.md",
+  "files": [
+    {
+      "path": "audio/music/bgm-marty-gots-a-plan.mp3",
+      "sha256": "948e7a1253da8af51dc30b71b3c1c08deebaaf5454547367a23736d3df6a2667",
+      "bytes": 5380559,
+      "role": "audio"
+    },
+    {
+      "path": "licenses/CC-BY-4.0.txt",
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "bytes": 18657,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/incompetech/licenses.html.txt",
+      "sha256": "479019ed42fd8384c63c04bd95dc6d0e0e0da505ddd6f567a13018c724f8416d",
+      "bytes": 12146,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/bgm-marty-gots-a-plan/source.html.txt",
+      "sha256": "0aaccc3d496fc4ae189e27e3fe2d4f5216266e3bcccf2e0ba77fb1b57a28fa94",
+      "bytes": 26826,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/bgm-marty-gots-a-plan/official-record.json",
+      "sha256": "5f00278a0a5aaf9b2ac83d7dfa9a1e9c1ed5758bc88fc94e0e8941fd2f597e6c",
+      "bytes": 780,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/bgm-marty-gots-a-plan/acquisition.json",
+      "sha256": "c85b17c5ed53c4795b310cb3fb1a022efe2ab275e6519c00ef517a3d92da45ea",
+      "bytes": 1161,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/kresiek-amb-outside/amb_outdoor1_loop.ogg",
+      "sha256": "5af2486b996457462cebb0f50beeb7014a9ca973b00605171c05b11671124fc6",
+      "bytes": 289001,
+      "role": "audio"
+    },
+    {
+      "path": "licenses/CC0-1.0-legalcode.html.txt",
+      "sha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+      "bytes": 32223,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/kresiek-amb-outside/source.html.txt",
+      "sha256": "d197dd359074a0b3ac1f9a84c29c1a960ca99e9467b4c07d69716a588fc8d8db",
+      "bytes": 22234,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/kresiek-amb-outside/acquisition.json",
+      "sha256": "f5537e46bc76545e9af758c9339dcc5a7d46d7311bcba6f036c3a5ff37340cd3",
+      "bytes": 641,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/antoine-nature/Nature Sounds Pack/Ambient/AmbientNatureOutside.wav",
+      "sha256": "947c9971d1d833e0dd36ac16e56248d82c440807695d4367d2caf92949192091",
+      "bytes": 1764736,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/antoine-nature/source.html.txt",
+      "sha256": "3a9653dac49983eec2a82dd1126df3fa3a939afc0fd03c4c2a85694c0188d2d5",
+      "bytes": 33291,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/antoine-nature/acquisition.json",
+      "sha256": "da08b95a43906345342bade97db745630188c899ed8310c145e3745b1b5b9399",
+      "bytes": 1593,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/rubberduck-general-100-2/sfx100v2_loop_water_01.ogg",
+      "sha256": "955a367cf87f150f7868e2ecf5745ef13cec2c78a29304eda27e74f1fea06c57",
+      "bytes": 72644,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/rubberduck-general-100-2/source.html.txt",
+      "sha256": "15a1e167aa334a903c7f973234de3848cd5641b189e9dae215ad8eb0f93ddf47",
+      "bytes": 37829,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/rubberduck-general-100-2/acquisition.json",
+      "sha256": "d43b1df356a81be0b8437da6ee4c40f6e6fd8aed8a06b5940c39a4c1e2912b3f",
+      "bytes": 1286,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/bart-squeak-toys/squeak toy/squeak toy - squeak1.wav",
+      "sha256": "a89853f355ce7c6c60ee9695f5e725250c6a74f4a177b549afa0a30ff98ff362",
+      "bytes": 271388,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/bart-squeak-toys/source.html.txt",
+      "sha256": "0cefb876520ae87a904b4551a2890935163f52c9832263474c85d7b9ecae62cf",
+      "bytes": 22583,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/bart-squeak-toys/acquisition.json",
+      "sha256": "5bc75a892a5d2fd7fff2b33391ed233b960f17422811a0bc6c46bdda6390a0a6",
+      "bytes": 940,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/kenney-rpg/cloth2.ogg",
+      "sha256": "8a7451193c38bc05483aec25dd193e163a15d44cf7fff04ac7912573231b0201",
+      "bytes": 11787,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/kenney-rpg/source.html.txt",
+      "sha256": "f7dab478d045be8d5083c514d63860e9dd3c37db08d3a99baf1114381cd87ecf",
+      "bytes": 17864,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/kenney-rpg/original-license-1.txt",
+      "sha256": "5735dfd72cb64cbbceda4ebc00c380c41ca680edb82ff153aa7c9ab97614c539",
+      "bytes": 478,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/kenney-rpg/acquisition.json",
+      "sha256": "df97ca5836684f7dd9fc1274aecfde86bb158f409969e21a9a0f644c29bef6f2",
+      "bytes": 684,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/kenney-rpg/bookOpen.ogg",
+      "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+      "bytes": 8273,
+      "role": "audio"
+    },
+    {
+      "path": "audio/rubberduck-general-100-2/sfx100v2_air_01.ogg",
+      "sha256": "bb292a9fc082557e65199d01abe124459d910519b39c913ecb6c6f2207576d6f",
+      "bytes": 35391,
+      "role": "audio"
+    },
+    {
+      "path": "audio/kenney-interface/switch_002.ogg",
+      "sha256": "6fc395be2ad1f99ce318a5d28f98fb76dbeb676d83a0b28239d8c1fb90736180",
+      "bytes": 7097,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/kenney-interface/source.html.txt",
+      "sha256": "e7cc3dfbaa28b3d2563a4ce9c24e862a959015905ae24b3e5cc1c4c08ed54382",
+      "bytes": 18690,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/kenney-interface/original-license-1.txt",
+      "sha256": "f7966c773bbed0eca6a9c75081c44a178b38eae112724dbb5fdfbd4192d118a9",
+      "bytes": 574,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/kenney-interface/acquisition.json",
+      "sha256": "8d194a2b1223cd00c62b564861a31fb92594bd9437b7f070d16237ffdbb41499",
+      "bytes": 718,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/looneybits-engine-start/generic_car_startengine.wav",
+      "sha256": "fa9c199daf6b06a53267f32d764fb19522fc364304ad009bf8b6e392adbe5654",
+      "bytes": 291074,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/looneybits-engine-start/source.html.txt",
+      "sha256": "47187aeedbb3968b3fe4b81966d2e84c4b76720bf26c640387ed06b1d8051ff7",
+      "bytes": 25268,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/looneybits-engine-start/acquisition.json",
+      "sha256": "0ed2bd284094c1aab804ef61bb0078f5ce9a8da0fc3d19a25122fc5616f9f43c",
+      "bytes": 1386,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/kenney-rpg/bookFlip1.ogg",
+      "sha256": "fa81ac2fedc8c641661b87e349630a36c9800e795e0c800e029214efdbe26a7d",
+      "bytes": 18248,
+      "role": "audio"
+    },
+    {
+      "path": "audio/yaroslav-car-pass/car1.wav",
+      "sha256": "85d1ca20f95244c558b57e2be465c8efcf2f7425bb54049e9eddcbec7f1739af",
+      "bytes": 2850368,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/yaroslav-car-pass/source.html.txt",
+      "sha256": "a0c27b14a9db801754c0e3839e21061fa37be844b759919b42494f4a8dc1b06a",
+      "bytes": 21076,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/yaroslav-car-pass/acquisition.json",
+      "sha256": "44f8c562e3a77ed212828fa3b320f7f32908fb62e9f832edf66c71fc27d6bbac",
+      "bytes": 903,
+      "role": "license_evidence"
+    },
+    {
+      "path": "audio/rubberduck-water-40/splash_02.ogg",
+      "sha256": "eab0bb4bc01386528ba1e6244c6fd8940ee8d3c91ddb9e9cfea186e8560e04de",
+      "bytes": 37895,
+      "role": "audio"
+    },
+    {
+      "path": "evidence/rubberduck-water-40/source.html.txt",
+      "sha256": "2e7e47024f8a944abc40417e8a1ac7b51bf5660a401e2e0ea260a1354cf0ad63",
+      "bytes": 31049,
+      "role": "license_evidence"
+    },
+    {
+      "path": "evidence/rubberduck-water-40/acquisition.json",
+      "sha256": "17882f53f501f988f58ccbd5f74db47228185bf99a8b443b6cc0ba76b6f3e312",
+      "bytes": 1193,
+      "role": "license_evidence"
+    },
+    {
+      "path": "CREDITS.md",
+      "sha256": "cbbf2822d4471e5d2dfba5a368ba07a31b6693c6cb7847e3258d3b0f071f3eb8",
+      "bytes": 3885,
+      "role": "credits"
+    }
+  ]
+}

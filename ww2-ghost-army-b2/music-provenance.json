@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "project": "ww2-ghost-army-b2",
+  "tracks": [
+    {
+      "id": "bgm-marty-gots-a-plan",
+      "title": "Marty Gots a Plan",
+      "creator": "Kevin MacLeod",
+      "source_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500015",
+      "local_path": "audio/audio/music/bgm-marty-gots-a-plan.mp3",
+      "selection_manifest": "audio/audio-selection.json",
+      "license_name": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "commercial_use_permitted": true,
+      "derivative_sync_permitted": true,
+      "attribution_required": true,
+      "attribution_text": "\"Marty Gots a Plan\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 License (http://creativecommons.org/licenses/by/4.0/)",
+      "modifications": "Looped/trimmed to 29.80s runtime and mixed underneath Vietnamese narration at gain 0.055."
+    }
+  ]
+}

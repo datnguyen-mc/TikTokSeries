@@ -1,0 +1,1409 @@
+{
+  "schema": 1,
+  "style": "B2",
+  "author_id": "antigravity-producer-main",
+  "capability": {
+    "environment": "Local Antigravity macOS studio (Node 20 + @napi-rs/canvas + FFmpeg + 2x supersampled B2 gouache generator + Edge-TTS Vietnamese voice)",
+    "limitations": [],
+    "mode": "sample_target"
+  },
+  "reviewer": {
+    "id": "b2-independent-reviewer-subagent",
+    "kind": "agent",
+    "method": "Independent subagent Round-3 inspection of encoded 1080x1920 preview.mp4, 360x640 phone-scale MP4, preview-contact-sheet.png, per-shot continuous clips and start/mid/end PNGs, and bundled B2 showcase/portrait reference videos",
+    "independent": true
+  },
+  "video_sha256": "c569adfab42529fa7f39dfb578f2bf0e786f22d6b9f4818899acf505e27d1791",
+  "evidence_sha256": "c0d72033aa8a70996e4d14a6c657bf103ac53883c23fb6ab2aac064131c0633b",
+  "full_playback": {
+    "status": "pass",
+    "viewed_ranges": [
+      {
+        "start": 0,
+        "end": 29.799999999999997
+      }
+    ],
+    "observations": [
+      {
+        "time": 3.13,
+        "detail": "In shot-0 (0.0-6.3s), two grounded US stickman soldiers hold the 40-ton rubber Sherman tank directly inside all four cupped white palms with continuous tread contact while the centered \"NHẸ NHƯ BÔNG?!\" card enters cleanly on the paradox beat at 2.75s.",
+        "evidence_ids": [
+          "source-video",
+          "shot-0-continuous",
+          "shot-0-start",
+          "shot-0-mid",
+          "shot-0-end"
+        ]
+      },
+      {
+        "time": 7.93,
+        "detail": "In shot-1 (6.3-9.6s), the workshop soldier, red pump cylinder, and black hose remain firmly planted on the tarp connected to the tank valve while the shoulder-articulated plunger rod pumps smoothly into the barrel, expanding the rubber Sherman beneath a clean \"BƠM HƠI!\" cloud puff and framed blueprint.",
+        "evidence_ids": [
+          "source-video",
+          "shot-1-continuous",
+          "shot-1-start",
+          "shot-1-mid",
+          "shot-1-end"
+        ]
+      },
+      {
+        "time": 12,
+        "detail": "In shot-2 (9.6-14.4s), all three Ghost Army specialists (painter, sound engineer, actor) stand planted on the wooden tent floorboards beneath the indented \"ĐẠO QUÂN MA · 1.100 NGHỆ SĨ\" heading, with behind-tunic shoulder-articulated arms, white circular hands, and props (brush, boom mic, clapperboard) staying 100% physically joined on every frame.",
+        "evidence_ids": [
+          "source-video",
+          "shot-2-continuous",
+          "shot-2-start",
+          "shot-2-mid",
+          "shot-2-end"
+        ]
+      },
+      {
+        "time": 17.43,
+        "detail": "In shot-3 (14.4-20.5s), both inflatable dummy tanks and the radio mast sit grounded on the upper night ridge with the crescent moon clear on the left, while the half-track speaker truck rolls level along the foreground ridge projecting 20km acoustic waves.",
+        "evidence_ids": [
+          "source-video",
+          "shot-3-continuous",
+          "shot-3-start",
+          "shot-3-mid",
+          "shot-3-end"
+        ]
+      },
+      {
+        "time": 22.8,
+        "detail": "In shot-4 (20.5-23.5s), the person-free Channel map anchors \"CALAIS (MỒI NHỬ)\" and its defender shields on the French Pas-de-Calais coast and draws a crisp curved terracotta arrow with arrowhead from Dover to Calais clear of \"EO BIỂN MANCHE\" as the German recon plane crosses the Strait.",
+        "evidence_ids": [
+          "source-video",
+          "shot-4-continuous",
+          "shot-4-start",
+          "shot-4-mid",
+          "shot-4-end"
+        ]
+      },
+      {
+        "time": 29,
+        "detail": "In shot-5 (23.5-29.8s), beneath the centered \"D-DAY · 06/06/1944\" stamp and golden sunrise, Allied Higgins landing craft advance bow-first in the open left blue sea channel well clear of both the surf line and the grounded bluff soldier helmet, while the Allied Invasion Star flag waves flush on the planted wooden flagpole. All 19 single-line Vietnamese captions and the voice/BGM/ambience/SFX mix play cleanly through 29.8s.",
+        "evidence_ids": [
+          "source-video",
+          "shot-5-continuous",
+          "shot-5-start",
+          "shot-5-mid",
+          "shot-5-end"
+        ]
+      }
+    ]
+  },
+  "baseline_comparisons": [
+    {
+      "reference_id": "b2-colorful-sleep",
+      "start": 0,
+      "end": 20,
+      "observations": [
+        {
+          "time": 2,
+          "detail": "Matches b2-colorful-sleep (0.0-3.8s and 16.8-20.0s) in warm paper-grain gouache palette, calm micro-motion, and unbroken arm-to-hand-to-prop contact.",
+          "evidence_ids": [
+            "b2-colorful-sleep"
+          ]
+        },
+        {
+          "time": 14.8,
+          "detail": "Matches b2-colorful-sleep (11.0-16.8s) in keeping water craft cleanly inside the water channel well separated from foreground silhouettes.",
+          "evidence_ids": [
+            "b2-colorful-sleep"
+          ]
+        }
+      ]
+    },
+    {
+      "reference_id": "b2-colorful-phone-weather",
+      "start": 0,
+      "end": 61.9,
+      "observations": [
+        {
+          "time": 25.2,
+          "detail": "Matches b2-colorful-phone-weather (22.8-27.5s) in pairing a person-free parchment map cutaway and clean directional route arrow with voice-led foley.",
+          "evidence_ids": [
+            "b2-colorful-phone-weather"
+          ]
+        },
+        {
+          "time": 54.5,
+          "detail": "Matches b2-colorful-phone-weather (0.0-4.8s and 52.8-56.8s) in grounding standing stickmen on wooden floorboards with continuous shoulder-to-hand object ownership.",
+          "evidence_ids": [
+            "b2-colorful-phone-weather"
+          ]
+        }
+      ]
+    },
+    {
+      "reference_id": "b2-native-portrait-2026-11-13",
+      "start": 0,
+      "end": 10,
+      "observations": [
+        {
+          "time": 2.4,
+          "detail": "Matches b2-native-portrait-2026-11-13 (0.0-4.8s) in native 9:16 vertical staging, uncluttered upper callouts, grounded foot placement, and compact 72-unit ivory caption pills.",
+          "evidence_ids": [
+            "b2-native-portrait-2026-11-13"
+          ]
+        },
+        {
+          "time": 8.8,
+          "detail": "Matches b2-native-portrait-2026-11-13 (6.0-10.0s) in maintaining continuous limb-to-tool joins and clear figure-ground hierarchy across shot transitions.",
+          "evidence_ids": [
+            "b2-native-portrait-2026-11-13"
+          ]
+        }
+      ]
+    }
+  ],
+  "portrait_viewing": {
+    "status": "pass",
+    "display_width": 360,
+    "display_height": 640,
+    "playback_speed": 1,
+    "platform": "TikTok / Reels / Shorts 9:16 mobile feed",
+    "real_device": {
+      "checked": false,
+      "limitation": "Reviewed on desktop via 360x640 downscaled 9:16 MP4 at 1x speed; physical mobile handset speaker and live TikTok UI chrome require human check"
+    },
+    "viewed_ranges": [
+      {
+        "start": 0,
+        "end": 29.799999999999997
+      }
+    ],
+    "observations": [
+      {
+        "time": 4.2,
+        "aspect": "caption_readability",
+        "detail": "At 360x640 phone scale, all 19 single-line Vietnamese captions render legibly at ~20.25px dark Noto Sans on the compact rounded ivory pill near the lower safe band with crisp diacritics and zero wrapping or clipping.",
+        "evidence_ids": [
+          "source-video"
+        ]
+      },
+      {
+        "time": 7.93,
+        "aspect": "scene_legibility",
+        "detail": "At 360x640, every in-scene callout and diagram—\"NHẸ NHƯ BÔNG?!\", \"BƠM HƠI!\", the Sherman blueprint, \"23rd HQ · TOP SECRET\", \"RADIO GIẢ\", \"VANG 20 KM!\", the Dover-to-Calais map arrow, and \"D-DAY · 06/06/1944\"—reads clearly with generous margins.",
+        "evidence_ids": [
+          "source-video"
+        ]
+      },
+      {
+        "time": 12,
+        "aspect": "action_contact",
+        "detail": "At 360x640 phone scale, palm-to-tread lifting (shot-0), plunger-into-cylinder inflation (shot-1), shoulder-to-hand-to-prop studio gestures (shot-2), grounded night decoys and rolling truck (shot-3), coastal map anchoring (shot-4), and separated sea landing craft plus flush waving flag (shot-5) all read with unbroken physical contact and grounding.",
+        "evidence_ids": [
+          "source-video"
+        ]
+      },
+      {
+        "time": 18,
+        "aspect": "platform_occlusion",
+        "detail": "Across 0.0-29.8s at 360x640, all headings, badges, actors, props, and ivory caption pills remain safely inside the left 6%, right 12%, top 8%, bottom 18% margins clear of TikTok/Reels/Shorts UI chrome.",
+        "evidence_ids": [
+          "source-video"
+        ]
+      }
+    ]
+  },
+  "shots": [
+    {
+      "id": "shot-0",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.13,
+              "detail": "Warm coastal paper grain, olive uniforms, charcoal ink outlines, and the centered double-bordered \"NHẸ NHƯ BÔNG?!\" callout card match B2 hand-drawn aesthetic with ample internal text padding and clean separation from the clouds.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-start",
+                "shot-0-mid",
+                "shot-0-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-approved-style-board",
+              "start": null,
+              "end": null,
+              "detail": "Matches the warm cream paper grain, muted olive/terracotta gouache fills, and generous callout padding on the B2 approved style board."
+            },
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 0.5,
+              "end": 4.5,
+              "detail": "Cleanly centers \"NHẸ NHƯ BÔNG?!\" above the focal prop with the same uncluttered hierarchy as \"CHECK THE WEATHER\" / \"JACKET?\" in b2-native-portrait-2026-11-13."
+            }
+          ]
+        },
+        "semantic_motion_states": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.9,
+              "detail": "Subtle rocking (±0.007 rad, 10px flex) of the 40-ton rubber tank in the soldiers palms and the 2.75s question-card entrance convey rubber lightness without frantic puppet oscillation.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-start",
+                "shot-0-mid"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 0,
+              "end": 4.8,
+              "detail": "Matches B2 restrained micro-motion and beat-synced callout entrance."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.13,
+              "detail": "Both soldiers stand planted on the sandy meadow while all four cupped white palms stay in continuous physical contact against the underside of s1_tank treads from 0.0s to 6.3s.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-start",
+                "shot-0-mid",
+                "shot-0-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 0,
+              "end": 4.8,
+              "detail": "Maintains grounded foot placement and direct hand-to-prop contact matching b2-native-portrait-2026-11-13."
+            }
+          ]
+        },
+        "composition_progression": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4,
+              "detail": "Establishes the British coastal camp in a clear vertical stack: date/location header at top, feather callout and lifted Sherman tank in upper-mid frame, and grounded soldiers above the lower caption band.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-mid"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 0,
+              "end": 4.8,
+              "detail": "Uses an original wartime coastal staging while matching the clear top-to-bottom 9:16 reading order of b2-native-portrait-2026-11-13."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 4.4,
+              "detail": "All four Vietnamese cues fit cleanly on single lines inside the 72-unit rounded ivory pill with crisp diacritics.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-mid"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 2.8,
+              "detail": "The 6.3s hook paces the setup and 2.75s paradox callout right on the spoken lift beat.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.92,
+              "detail": "Vietnamese narration leads clearly over low sneaky BGM, soft outdoor ambience, cloth rustle at 0.9s, and rubber squeak at 3.92s.",
+              "evidence_ids": [
+                "shot-0-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 0,
+              "end": 6,
+              "detail": "Matches the voice-first mix and light foley punctuation of b2-colorful-phone-weather."
+            }
+          ]
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.13,
+              "detail": "Authored 9:16 vertical stack frames header, centered stamp callout, lifted tank, and planted soldiers cleanly above the lower caption zone.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-mid"
+              ]
+            }
+          ]
+        },
+        "caption_readability": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.5,
+              "detail": "All four single-line ivory captions read effortlessly at 360x640 phone scale.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-mid"
+              ]
+            }
+          ]
+        },
+        "action_visibility": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.13,
+              "detail": "Direct palm-to-tread lifting contact and the centered \"NHẸ NHƯ BÔNG?!\" callout read immediately at 360x640.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-mid"
+              ]
+            }
+          ]
+        },
+        "platform_safe_area": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 3.13,
+              "detail": "All visual and text elements stay inside declared left 6%, right 12%, top 8%, bottom 18% safe bounds.",
+              "evidence_ids": [
+                "shot-0-continuous",
+                "shot-0-mid"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-1",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.93,
+              "detail": "Workshop blueprint (\"MẪU M4 SHERMAN BƠM HƠI\"), grounded wooden crate, red floor pump, olive inflatable tank, and single-contour \"BƠM HƠI!\" cloud puff exhibit clean B2 linework and warm gouache washes without interior stroke artifacts.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-start",
+                "shot-1-mid",
+                "shot-1-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-approved-style-board",
+              "start": null,
+              "end": null,
+              "detail": "Matches the clean hand-inked contours, muted red/olive accents, and legible label framing of the B2 style board."
+            }
+          ]
+        },
+        "semantic_motion_states": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.93,
+              "detail": "Splitting s2_plunger from the static s2_soldier produces authentic mechanical pumping: the soldier arms and T-handle press downward into the stationary red barrel while the rubber tank swells outward along the tarp.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-start",
+                "shot-1-mid",
+                "shot-1-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 8,
+              "end": 10,
+              "detail": "Keeps the standing body grounded while animating only the active tool stroke, matching the grounded tool operation in b2-native-portrait-2026-11-13."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 8.8,
+              "detail": "Soldier feet, floor shadow, red pump base, and black air hose stay anchored on the tarp with uninterrupted hose-to-valve attachment and shoulder-to-plunger continuity throughout 6.3-9.6s.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-start",
+                "shot-1-mid",
+                "shot-1-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 8,
+              "end": 10,
+              "detail": "Preserves continuous floor anchoring and tool-to-target connection across strokes."
+            }
+          ]
+        },
+        "composition_progression": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.93,
+              "detail": "Moves into the inflation workshop with balanced three-band vertical staging: reveal title at top, framed Sherman blueprint on the upper-mid wall, and grounded pump-to-tank action on the lower tarp.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-mid"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 6,
+              "end": 8,
+              "detail": "Uses the full 9:16 vertical canvas purposefully without empty mid-wall dead space."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 8.2,
+              "detail": "Both Vietnamese punchline captions (\"Thực ra chiếc xe đó\", \"chỉ là phao cao su!\") sit cleanly on single lines in the rounded ivory pill.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-mid"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.4,
+              "detail": "Tight 3.3s reveal lands two clear pump-and-swell cycles right on \"phao cao su!\".",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 6.8,
+              "detail": "Air inflation hiss (6.55s) and rubber squeak (8.15s) punctuate the pump strokes cleanly beneath clear voiceover.",
+              "evidence_ids": [
+                "shot-1-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 16,
+              "end": 22.5,
+              "detail": "Matches B2 crisp comedic foley tucked cleanly under narration."
+            }
+          ]
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.93,
+              "detail": "Header, wall blueprint, grounded crate, and tarp inflation action form a well-balanced 9:16 workshop composition.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-mid"
+              ]
+            }
+          ]
+        },
+        "caption_readability": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 8.2,
+              "detail": "Both single-line ivory captions read crisply over the tan workshop tarp at 360x640.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-mid"
+              ]
+            }
+          ]
+        },
+        "action_visibility": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.93,
+              "detail": "Plunger depression, hose-connected tank expansion, and the clean \"BƠM HƠI!\" puff are all immediately legible at 360x640 phone scale.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-mid"
+              ]
+            }
+          ]
+        },
+        "platform_safe_area": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 7.93,
+              "detail": "Title, blueprint, soldier, expanding tank, and caption pill remain well inside safe margins.",
+              "evidence_ids": [
+                "shot-1-continuous",
+                "shot-1-mid"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-2",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "Canvas studio tent, indented \"ĐẠO QUÂN MA · 1.100 NGHỆ SĨ\" heading, blueprint/Top Secret wall boards, and muted beret/headphone/clapperboard palette match B2 gouache illustration style with clean charcoal linework.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-start",
+                "shot-2-mid",
+                "shot-2-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-approved-style-board",
+              "start": null,
+              "end": null,
+              "detail": "Matches B2 warm cream paper texture, muted costume colors, white circular hands, and clean heading margins."
+            }
+          ]
+        },
+        "semantic_motion_states": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "Behind-tunic shoulder-articulated arm+hand+prop sprites (s3_brush, s3_boom, s3_clapper) wave gently from each grounded character shoulder while feet remain planted on the wooden floorboards and the boom mic stays well below the Top Secret board.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-start",
+                "shot-2-mid",
+                "shot-2-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 52.8,
+              "end": 56.8,
+              "detail": "Matches B2 calm, grounded character staging with coherent shoulder-to-prop gestures."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "Across all frames (9.6-14.4s), all three cast members stand firmly on the wood planks and every shoulder, black stick-arm, white circular hand, and prop (paintbrush, boom mic, clapperboard, palette, tape reel) stays 100% physically connected with zero gaps.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-start",
+                "shot-2-mid",
+                "shot-2-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-native-portrait-2026-11-13",
+              "start": 0,
+              "end": 4.8,
+              "detail": "Maintains unbroken shoulder-to-arm-to-hand-to-object continuity and planted floor contact matching b2-native-portrait-2026-11-13."
+            }
+          ]
+        },
+        "composition_progression": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "Cleanly transitions indoors to the 23rd HQ tent studio with all three specialist roles standing grounded on the wooden floorboards beneath the two planning boards.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-mid"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 28,
+              "end": 34.5,
+              "detail": "Presents the three unit specialties in a balanced studio lineup matching the spoken enumeration."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "Top heading \"ĐẠO QUÂN MA · 1.100 NGHỆ SĨ\" sits cleanly inside the tent opening, and all three bottom ivory-pill captions render on single lines with full diacritics.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-mid"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12.8,
+              "detail": "The 4.8s duration paces the three-role introduction (\"họa sĩ, kỹ sư và diễn viên\") comfortably.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 9.8,
+              "detail": "Tent/book foley at 9.72s marks the indoor cut while narration remains crisp over quiet background music.",
+              "evidence_ids": [
+                "shot-2-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-sleep",
+              "start": 6.5,
+              "end": 11,
+              "detail": "Gentle transition foley supports the cut without competing with speech, matching b2-colorful-sleep."
+            }
+          ]
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "Indented tent heading, dual secret boards, and grounded three-artist lineup on wood planks fill the 9:16 portrait frame cleanly.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-mid"
+              ]
+            }
+          ]
+        },
+        "caption_readability": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "All three bottom Vietnamese captions read clearly on single lines at 360x640 phone scale.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-mid"
+              ]
+            }
+          ]
+        },
+        "action_visibility": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "At 360x640 phone scale, the painter brush strokes, sound engineer boom mic, and actor clapperboard read clearly with intact shoulder-arm-hand anatomy.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-start",
+                "shot-2-mid",
+                "shot-2-end"
+              ]
+            }
+          ]
+        },
+        "platform_safe_area": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 12,
+              "detail": "Heading, boards, three cast figures, props, and caption pill stay within declared safe margins.",
+              "evidence_ids": [
+                "shot-2-continuous",
+                "shot-2-mid"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-3",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "Deep nocturnal navy sky, crescent moon cleanly separated on the left, warm amber radio/soundwave arcs, and olive dummy tanks/half-track truck maintain cohesive B2 night contrast.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-start",
+                "shot-3-mid",
+                "shot-3-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-sleep",
+              "start": 0,
+              "end": 3.8,
+              "detail": "Matches the clean night-sky negative space around the crescent moon and warm highlight accents seen in b2-colorful-sleep."
+            }
+          ]
+        },
+        "semantic_motion_states": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "Morse radio rings pulse upward above the mast while the half-track speaker truck rolls smoothly forward along the flat foreground ridge (x: 115->185) projecting 20km acoustic arcs.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-start",
+                "shot-3-mid",
+                "shot-3-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-sleep",
+              "start": 11,
+              "end": 13,
+              "detail": "Uses calm, unidirectional horizontal vehicle glide and rhythmic signal pulses without vertical bouncing."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "Both dummy tanks and the lattice radio mast rest squarely on the level upper hill ridge across 14.4-20.5s, and both the rear tread and front wheel of s4_truck remain grounded on the lower ridge.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-start",
+                "shot-3-mid",
+                "shot-3-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-sleep",
+              "start": 8.8,
+              "end": 11,
+              "detail": "Maintains solid ground-plane support beneath every nocturnal prop and vehicle."
+            }
+          ]
+        },
+        "composition_progression": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "Shifts from the bright indoor studio to a two-ridge night battlefield stacking upper visual/radio decoys above the foreground 20km sonic truck.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-mid"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-sleep",
+              "start": 0,
+              "end": 6.8,
+              "detail": "Uses dark nocturnal staging and warm signal callouts to contrast cleanly with surrounding daytime scenes."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 18.2,
+              "detail": "All four Vietnamese captions display on single lines inside the rounded ivory pill with crisp contrast over the dark night foreground.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-mid"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.7,
+              "detail": "Over 6.1s, dummy inflation, fake radio transmission, and 20km night loudspeaker beats unfold in clear alignment with the narration.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.68,
+              "detail": "Air hiss (14.65s), radio switch click (16.36s), and low truck engine start (17.68s) punctuate each deception layer while keeping speech clear.",
+              "evidence_ids": [
+                "shot-3-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 30,
+              "end": 38.8,
+              "detail": "Matches B2 discrete cue-synced SFX tucked cleanly below voiceover."
+            }
+          ]
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "Two-tier nocturnal hillside layout cleanly separates moon, upper dummy row + radio mast, and lower speaker truck across the 9:16 canvas.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-mid"
+              ]
+            }
+          ]
+        },
+        "caption_readability": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "All four single-line ivory captions contrast sharply against the dark foreground hill at 360x640.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-mid"
+              ]
+            }
+          ]
+        },
+        "action_visibility": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "Grounded dummy tanks, clear crescent moon, pulsing \"RADIO GIẢ\" rings, and level rolling \"VANG 20 KM!\" truck read cleanly at 360x640.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-mid"
+              ]
+            }
+          ]
+        },
+        "platform_safe_area": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 17.43,
+              "detail": "All night decoys, signal badges, soundwaves, and captions remain inside the 9:16 safe-area margins.",
+              "evidence_ids": [
+                "shot-3-continuous",
+                "shot-3-mid"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-4",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 23.47,
+              "detail": "Person-free framed parchment Channel map uses warm sand landmasses, slate-blue sea, coastal \"CALAIS (MỒI NHỬ)\" / \"BÃI BIỂN NORMANDY\" markers, compass star, and a crisp terracotta arrow clear of all map lettering.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-start",
+                "shot-4-mid",
+                "shot-4-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 22.8,
+              "end": 27.5,
+              "detail": "Matches the warm parchment cartography, clean label spacing, and directional arrow clarity of the map shot in b2-colorful-phone-weather."
+            }
+          ]
+        },
+        "semantic_motion_states": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 21.97,
+              "detail": "As the German recon plane flies across the Strait of Dover toward Pas-de-Calais, s5_decoy_arrow draws a curved directional arrow with arrowhead from southeast England directly to \"CALAIS (MỒI NHỬ)\" right on \"dồn quân giữ Calais\".",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-start",
+                "shot-4-mid",
+                "shot-4-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 22.8,
+              "end": 27.5,
+              "detail": "Synchronizes progressive arrow drawing directly with the spoken geographic focus without crossing water labels."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 23.47,
+              "detail": "Both coastal zones (\"CALAIS (MỒI NHỬ)\" with three defender shields and \"BÃI BIỂN NORMANDY\" with Allied star) sit anchored on the French landmass (\"PHÁP\"), and the Dover-to-Calais arrow originates on the English coast and points cleanly at the Calais badge.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-mid",
+                "shot-4-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 23.5,
+              "end": 27.5,
+              "detail": "Anchors origin, route arrow, and coastal target icons accurately on landmass geometry."
+            }
+          ]
+        },
+        "composition_progression": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 21.97,
+              "detail": "Provides a person-free strategic bird-eye map shot contrasting England above, the English Channel in the middle, and Calais vs Normandy on the French coast below.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-mid",
+                "shot-4-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 22.8,
+              "end": 27.5,
+              "detail": "Delivers non-human macro diagram variety between character/vehicle scenes just like the map cutaway in b2-colorful-phone-weather."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 22.8,
+              "detail": "Both bottom Vietnamese captions (\"Trinh sát Đức mắc bẫy,\", \"dồn quân giữ Calais,\") render cleanly on single lines in the ivory pill.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-mid",
+                "shot-4-end"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 21.97,
+              "detail": "Crisp 3.0s strategic map beat bridges the nocturnal ruse directly into the Normandy landing payoff.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 20.9,
+              "detail": "Map flip foley (20.56s), subtle plane pass-by hum (20.9s), and gentle water ambience transition support clear narration.",
+              "evidence_ids": [
+                "shot-4-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 22.8,
+              "end": 27.5,
+              "detail": "Matches B2 light paper/map transition foley under clear narration."
+            }
+          ]
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 23.47,
+              "detail": "Framed vertical Channel map fills the 9:16 portrait stage with clear top-to-bottom geographic hierarchy.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-end"
+              ]
+            }
+          ]
+        },
+        "caption_readability": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 22,
+              "detail": "Both single-line captions read crisply over the lower French landmass at 360x640.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-mid"
+              ]
+            }
+          ]
+        },
+        "action_visibility": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 23.47,
+              "detail": "Recon plane flight and the curved Dover-to-Calais arrow with arrowhead are immediately clear at 360x640 phone scale.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-end"
+              ]
+            }
+          ]
+        },
+        "platform_safe_area": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 21.97,
+              "detail": "Map frame, labels, compass emblem, plane, arrow, and captions stay inside safe margins.",
+              "evidence_ids": [
+                "shot-4-continuous",
+                "shot-4-mid"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shot-5",
+      "checks": {
+        "color_handdrawn_design": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 26.63,
+              "detail": "Warm golden sunrise, centered double-bordered \"D-DAY · 06/06/1944\" stamp card, slate-blue sea, sandy Normandy beach, olive bluff, and blue Allied Invasion Star flag exemplify clean B2 hand-drawn color styling.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-start",
+                "shot-5-mid",
+                "shot-5-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-approved-style-board",
+              "start": null,
+              "end": null,
+              "detail": "Matches the balanced card typography, warm sunrise tones, and hand-inked contours of the B2 approved style board."
+            }
+          ]
+        },
+        "semantic_motion_states": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 26.63,
+              "detail": "Higgins landing craft advance bow-ramp-first downward and rightward inside the open left blue sea channel while the bluff soldier and flagpole stand firmly planted and the Allied star flag waves gently in the coastal breeze.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-start",
+                "shot-5-mid",
+                "shot-5-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-sleep",
+              "start": 11,
+              "end": 13,
+              "detail": "Aligns boat travel direction with the water-to-shore narrative and restricts foreground bluff motion to the waving flag cloth."
+            }
+          ]
+        },
+        "contact_continuity": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 29.77,
+              "detail": "Across 23.5-29.8s, the bluff soldier feet and wooden flagpole stay firmly planted on the green cliff with direct hand-to-pole contact, the waving s6_flag hoist edge stays tucked flush behind the opaque wooden pole with zero gap, and s6_boats remains cleanly inside the blue sea channel well above the surf line and ~85 design units clear of the foreground soldier helmet.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-start",
+                "shot-5-mid",
+                "shot-5-end"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-sleep",
+              "start": 11,
+              "end": 16.8,
+              "detail": "Keeps water craft cleanly inside the water plane with clear spatial separation from foreground silhouettes, matching b2-colorful-sleep."
+            }
+          ]
+        },
+        "composition_progression": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 26.63,
+              "detail": "Culminates the Ghost Army story on a bright golden-hour Normandy coast stacking the centered D-Day date card, approaching landing craft on the left sea, and bluff victory banner on the right.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-mid"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 56.8,
+              "end": 61.9,
+              "detail": "Provides a warm, conclusive visual payoff and calm post-narration hold comparable to the ending of b2-colorful-phone-weather."
+            }
+          ]
+        },
+        "typography_captions": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 27.5,
+              "detail": "All four closing Vietnamese cues fit cleanly on single lines in the ivory pill with accurate diacritics before clearing for the final 1.25s sunrise hold.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-mid"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "timing_pacing": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 28.8,
+              "detail": "The 6.3s finale paces the historical resolution cleanly and leaves a calm 1.25s tail after speech ends at 28.55s.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-end"
+              ]
+            }
+          ],
+          "comparisons": []
+        },
+        "sound": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 27.1,
+              "detail": "Surf splash at 24.45s, gentle resolution chime at 27.1s, smooth coastal water fade-out, and clear Vietnamese narration conclude cleanly.",
+              "evidence_ids": [
+                "shot-5-continuous"
+              ]
+            }
+          ],
+          "comparisons": [
+            {
+              "reference_id": "b2-colorful-phone-weather",
+              "start": 56.8,
+              "end": 61.9,
+              "detail": "Matches B2 warm closing mix with clean speech finish and gentle ambience decay."
+            }
+          ]
+        }
+      },
+      "portrait_checks": {
+        "native_composition": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 26.63,
+              "detail": "Centered D-Day stamp, open left sea landing craft, and right foreground bluff banner form a balanced 9:16 finale.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-mid"
+              ]
+            }
+          ]
+        },
+        "caption_readability": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 26.63,
+              "detail": "All four single-line ivory captions read effortlessly at 360x640 phone scale.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-mid"
+              ]
+            }
+          ]
+        },
+        "action_visibility": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 29.77,
+              "detail": "At 360x640 phone scale, the bow-forward Higgins boats advancing in open blue water and the flush waving Allied flag on the planted bluff pole read clearly with clean separation.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-start",
+                "shot-5-mid",
+                "shot-5-end"
+              ]
+            }
+          ]
+        },
+        "platform_safe_area": {
+          "status": "pass",
+          "observations": [
+            {
+              "time": 26.63,
+              "detail": "Centered stamp, landing craft, bluff soldier/flag, and ivory caption stay inside safe margins.",
+              "evidence_ids": [
+                "shot-5-continuous",
+                "shot-5-mid"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "blocking_issues": [],
+  "limits": [
+    "Hashes, decoded artifacts and complete coverage establish current-media provenance, not aesthetic equivalence.",
+    "Reviewer identity, independence, actual viewing/listening and capability limitations are declarations, not authenticated facts.",
+    "Independent agent review does not imply human approval or user acceptance.",
+    "Sample-target review compares the available approved examples, not identical plots, voices, pixels or unavailable originals.",
+    "B3 endpoint geometry and authored intentions are diagnostics. Each graphic and motion event still needs actual-MP4 independent review; wrong relationships and meaningless motion cannot receive a limited-capability waiver.",
+    "The accepted B2 board contains sampled stills, not motion or sound evidence. Both bundled full public implementations are the available effect targets, not mandatory stories, characters or scene sequences."
+  ]
+}

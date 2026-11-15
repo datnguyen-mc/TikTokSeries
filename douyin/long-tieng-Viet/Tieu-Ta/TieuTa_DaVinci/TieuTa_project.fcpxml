@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1920" height="1080"/>
+<format id="r2" frameDuration="1/30s" width="1920" height="1080"/>
+<effect id="r23" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r24" name="Audio Crossfade" uid="FFAudioTransition"/>
+<effect id="r25" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
+<asset id="rH" name="XiaoXie" start="0s" duration="18941/30s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/%E5%B0%8F%E8%B0%A2%20%E7%A9%B7%E4%B9%A6%E7%94%9F%E8%AF%AF%E5%85%A5%E8%8D%92%E5%AE%85.mp4"/></asset>
+<asset id="rA" name="TieuTa_audio" start="0s" duration="29472000/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/Tieu-Ta/TieuTa_DaVinci/TieuTa_audio.wav"/></asset>
+</resources>
+<library><event name="MakeMyClip"><project name="project"><sequence format="r1" duration="3665/6s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="rH" offset="0s" name="XiaoXie" start="1095/30s" duration="11/6s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/><asset-clip ref="rA" lane="-1" offset="1095/30s" name="TieuTa_audio" start="0s" duration="29472000/48000s" audioRole="dialogue"/></asset-clip>
+<transition name="Cross Dissolve" offset="49/30s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="11/6s" name="XiaoXie" start="1776/30s" duration="11/6s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="52/15s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="11/3s" name="XiaoXie" start="2466/30s" duration="49/30s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="51/10s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="53/10s" name="XiaoXie" start="5991/30s" duration="49/30s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="101/15s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="104/15s" name="XiaoXie" start="8151/30s" duration="49/30s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="251/30s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="257/30s" name="XiaoXie" start="9756/30s" duration="32/15s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="21/2s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="107/10s" name="XiaoXie" start="10356/30s" duration="49/30s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="182/15s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="37/3s" name="XiaoXie" start="10581/30s" duration="32/15s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="214/15s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="217/15s" name="XiaoXie" start="12276/30s" duration="49/30s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="159/10s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="r12" offset="161/10s" name="src_0451.500_0453.500" start="1/5s" duration="49/30s" format="r2"><title ref="r25" lane="1" offset="3/5s" name="TIỂU TẠ" start="3600s" duration="97/30s"><param name="Position" key="9999/999166631/999166633/1/100/101" value="0 0"/><param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/><text><text-style ref="ts1">TIỂU TẠ</text-style></text><text-style-def id="ts1"><text-style font="Helvetica" fontSize="140" fontColor="1 1 1 1" alignment="center"/></text-style-def><adjust-blend><param name="amount"><fadeOut type="linear" duration="3/10s"/></param></adjust-blend></title></asset-clip>
+<transition name="Cross Dissolve" offset="263/15s" duration="11/30s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="266/15s" name="XiaoXie" start="13821/30s" duration="2s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="583/30s" duration="3/5s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<gap name="Black" offset="296/15s" duration="37/10s" start="3600s"></gap>
+<asset-clip ref="rH" offset="703/30s" name="XiaoXie" start="1/30s" duration="739/30s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="239/5s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="721/15s" name="XiaoXie" start="921/30s" duration="261/2s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="1783/10s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="5357/30s" name="XiaoXie" start="4966/30s" duration="793/15s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="1387/6s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="6943/30s" name="XiaoXie" start="6658/30s" duration="37/2s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="749/3s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="3749/15s" name="XiaoXie" start="7229/30s" duration="112/5s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="4081/15s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="817/3s" name="XiaoXie" start="8082/30s" duration="1427/30s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="9589/30s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="3199/10s" name="XiaoXie" start="9682/30s" duration="363/5s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="11767/30s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="785/2s" name="XiaoXie" start="12188/30s" duration="250/3s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+<transition name="Cross Dissolve" offset="14267/30s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rH" offset="2855/6s" name="XiaoXie" start="14880/30s" duration="135s" format="r2"><adjust-transform scale="1.2 1.2" position="0 -10"/></asset-clip>
+</spine></sequence></project></event></library>
+</fcpxml>

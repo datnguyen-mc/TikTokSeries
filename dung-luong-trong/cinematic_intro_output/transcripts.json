@@ -1,0 +1,1071 @@
+{
+ "note": "Transcript lấy từ kịch bản lời thoại (khung thời gian thiết kế trong prompt), KHÔNG phải nhận dạng giọng nói tự động — model ASR không tải được do mạng bị chặn. Đã đối chiếu thô bằng phân tích khoảng lặng (audio.tsv).",
+ "clips": {
+  "canh-01_clip-1.mp4": [],
+  "canh-01_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 6.5,
+    "speaker": "Nova",
+    "text": "Chào buổi sáng anh Khải. Phiên thuê não đêm nay đã hoàn tất. Bốn trăm tám mươi nghìn đã về ví của anh."
+   },
+   {
+    "start": 7.0,
+    "end": 10.2,
+    "speaker": "Khai",
+    "text": "Nova, đêm qua tôi có dậy không? Ai vào phòng tôi? Ai viết lên tường?"
+   },
+   {
+    "start": 10.7,
+    "end": 14.0,
+    "speaker": "Nova",
+    "text": "Anh đã ngủ rất ngon. Chúc anh một ngày tốt lành."
+   }
+  ],
+  "canh-01_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.4,
+    "speaker": "Khai",
+    "text": "Không, cô trả lời tôi đi. Tay tôi cầm bút, trên tường có chữ, mà tôi không nhớ gì cả."
+   },
+   {
+    "start": 5.9,
+    "end": 10.7,
+    "speaker": "Nova",
+    "text": "Hệ thống không ghi nhận bất thường nào. Có thể anh mộng du do làm việc quá sức."
+   },
+   {
+    "start": 11.2,
+    "end": 13.7,
+    "speaker": "Khai",
+    "text": "Mộng du mà viết được cả địa chỉ nhà người khác à?"
+   }
+  ],
+  "canh-01_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.4,
+    "speaker": "Nova",
+    "text": "Anh Khải ơi, anh nên ngủ thêm một chút nữa. Thiết bị sẽ giúp anh thư giãn."
+   },
+   {
+    "start": 5.9,
+    "end": 9.3,
+    "speaker": "Khai",
+    "text": "Thôi, tắt đi! Tôi không ngủ nữa. Tối nay tôi không dán cái miếng này nữa."
+   },
+   {
+    "start": 9.8,
+    "end": 13.5,
+    "speaker": "Nova",
+    "text": "Vâng. Em sẽ nhắc anh lúc mười giờ tối nay. Chúc anh ngủ ngon."
+   }
+  ],
+  "canh-03_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.6,
+    "speaker": "Khai",
+    "text": "Tự học cái đầu mày ấy. Năm nay thi đại học, nghỉ ôn là anh cốc cho mấy cái đấy."
+   },
+   {
+    "start": 5.1,
+    "end": 9.1,
+    "speaker": "Linh",
+    "text": "Nhưng anh lấy đâu ra tiền? Em nghe hết rồi, ông Hùng lại đến đòi nợ."
+   },
+   {
+    "start": 9.6,
+    "end": 12.7,
+    "speaker": "Khai",
+    "text": "Chuyện người lớn, em không phải lo. Anh lo được hết."
+   }
+  ],
+  "canh-03_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.4,
+    "speaker": "Linh",
+    "text": "Anh lúc nào cũng nói thế. Rồi tối nào anh cũng chạy xe đến tận ba giờ sáng mới về."
+   },
+   {
+    "start": 5.9,
+    "end": 8.9,
+    "speaker": "Khai",
+    "text": "Thì anh khỏe mà. Thôi, học đi, mai còn kiểm tra Toán đúng không?"
+   },
+   {
+    "start": 9.4,
+    "end": 12.8,
+    "speaker": "Linh",
+    "text": "Vâng. Nhưng anh hứa là không vay thêm ông ấy nữa nhé."
+   }
+  ],
+  "canh-03_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.4,
+    "speaker": "Nova",
+    "text": "Bạn có biết não người chỉ dùng mười phần trăm? Chín mươi phần trăm còn lại đang để trống."
+   },
+   {
+    "start": 5.9,
+    "end": 10.6,
+    "speaker": "Nova",
+    "text": "Hãy cho NeuroRent thuê khi bạn ngủ. Thức dậy là có tiền. Đăng ký hôm nay, thưởng ngay năm trăm nghìn!"
+   },
+   {
+    "start": 11.1,
+    "end": 13.1,
+    "speaker": "Khai",
+    "text": "Ngủ thôi mà cũng ra tiền à?"
+   }
+  ],
+  "canh-04_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.4,
+    "speaker": "Khai",
+    "text": "Bà Tư ơi, cái miếng dán sau gáy bà là cái NeuroRent đúng không hả bà?"
+   },
+   {
+    "start": 4.9,
+    "end": 9.3,
+    "speaker": "BaTu",
+    "text": "Ừ, cái này đấy con. Bà dán nó mười năm nay rồi con ạ."
+   },
+   {
+    "start": 9.8,
+    "end": 13.2,
+    "speaker": "Khai",
+    "text": "Mười năm ạ? Thế có đau không bà? Có làm sao không ạ? Cháu hơi sợ."
+   }
+  ],
+  "canh-04_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.7,
+    "speaker": "BaTu",
+    "text": "Đau gì mà đau. Hồi ông nhà bà mất đi, bà lấy tiền đâu ra mà sống hả con."
+   },
+   {
+    "start": 6.2,
+    "end": 8.7,
+    "speaker": "Khai",
+    "text": "Thế mỗi đêm bà được bao nhiêu tiền hả bà?"
+   },
+   {
+    "start": 9.2,
+    "end": 14.2,
+    "speaker": "BaTu",
+    "text": "Đủ tiền chợ, tiền điện. Ngủ một giấc, sáng ra là có tiền rồi, sướng lắm con ạ."
+   }
+  ],
+  "canh-04_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.9,
+    "speaker": "Khai",
+    "text": "Bà ơi, thế dạo này bà thấy trong người thế nào? Có thấy gì khác lạ không ạ?"
+   },
+   {
+    "start": 5.4,
+    "end": 10.7,
+    "speaker": "BaTu",
+    "text": "Khác à... Ngủ ngon hơn con ạ. Chỉ có điều... dạo này bà hay quên lắm cơ."
+   },
+   {
+    "start": 11.2,
+    "end": 13.5,
+    "speaker": "Khai",
+    "text": "Quên gì hả bà? Bà hay quên những chuyện gì ạ?"
+   }
+  ],
+  "canh-04_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.7,
+    "speaker": "BaTu",
+    "text": "Quên tên người này người kia. Có hôm bà quên cả mình đang nấu cơm cho ai."
+   },
+   {
+    "start": 6.2,
+    "end": 10.0,
+    "speaker": "Khai",
+    "text": "Chắc tại bà có tuổi thôi bà ạ. Người già ai mà chẳng hay quên."
+   },
+   {
+    "start": 10.5,
+    "end": 14.4,
+    "speaker": "BaTu",
+    "text": "Ừ, chắc là thế. Con mà dán thì nhớ ngủ cho đủ giấc nhé."
+   }
+  ],
+  "canh-05_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.9,
+    "speaker": "Nova",
+    "text": "Chào mừng anh đến với NeuroRent. Dung lượng trống của anh là tám mươi bảy phần trăm."
+   },
+   {
+    "start": 5.4,
+    "end": 8.4,
+    "speaker": "Khai",
+    "text": "Tám mươi bảy phần trăm cơ á? Thế một đêm được bao nhiêu tiền?"
+   },
+   {
+    "start": 8.9,
+    "end": 12.9,
+    "speaker": "Nova",
+    "text": "Sáu mươi nghìn mỗi giờ ngủ. Tám tiếng là bốn trăm tám mươi nghìn ạ."
+   }
+  ],
+  "canh-05_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.2,
+    "speaker": "Khai",
+    "text": "Điều khoản sử dụng... bốn mươi tám trang à? Thôi, tóm tắt cho tôi đi."
+   },
+   {
+    "start": 4.7,
+    "end": 10.5,
+    "speaker": "Nova",
+    "text": "Anh chỉ cần ngủ thôi ạ. Chúng tôi chỉ sử dụng phần dung lượng anh không dùng đến. Hoàn toàn an toàn."
+   },
+   {
+    "start": 11.0,
+    "end": 12.9,
+    "speaker": "Khai",
+    "text": "Được rồi. Đồng ý. Bấm luôn, khỏi đọc nữa."
+   }
+  ],
+  "canh-05_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.4,
+    "speaker": "Nova",
+    "text": "Cảm ơn anh Khải. Vui lòng dán thiết bị phía sau gáy, rồi nằm xuống thư giãn."
+   },
+   {
+    "start": 5.9,
+    "end": 8.9,
+    "speaker": "Khai",
+    "text": "Ối, lạnh thế. Cái này có chích kim vào đầu tôi không đấy hả?"
+   },
+   {
+    "start": 9.4,
+    "end": 13.8,
+    "speaker": "Nova",
+    "text": "Không đau đâu ạ. Anh cứ nhắm mắt lại nhé. Chúc anh ngủ thật ngon."
+   }
+  ],
+  "canh-06_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.2,
+    "speaker": "Khai",
+    "text": "Đây, bánh mì pa tê thịt nguội, đầy đủ hết, thêm cả trứng. Ăn đi rồi đi học."
+   },
+   {
+    "start": 4.7,
+    "end": 8.5,
+    "speaker": "Linh",
+    "text": "Hôm nay anh trúng số à? Mọi hôm anh toàn mua cho em xôi trắng."
+   },
+   {
+    "start": 9.0,
+    "end": 12.5,
+    "speaker": "Khai",
+    "text": "Anh được thưởng. Từ giờ ngày nào cũng có bánh mì đầy đủ nhé."
+   }
+  ],
+  "canh-06_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 3.8,
+    "speaker": "Linh",
+    "text": "Anh ơi! Cô bảo nhà mình đóng tiền ôn thi rồi! Anh đóng lúc nào thế?"
+   },
+   {
+    "start": 4.3,
+    "end": 8.6,
+    "speaker": "Khai",
+    "text": "Sáng nay. Giờ thì cứ yên tâm mà học đi, đỗ đại học cho anh nhờ nhé."
+   },
+   {
+    "start": 9.1,
+    "end": 12.8,
+    "speaker": "Linh",
+    "text": "Em thương anh lắm. Anh đừng làm việc vất vả quá nữa nhé."
+   }
+  ],
+  "canh-07_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.4,
+    "speaker": "Linh",
+    "text": "Anh hát bài gì thế? Nghe lạ lạ. Hình như là tiếng Nhật đúng không anh?"
+   },
+   {
+    "start": 4.9,
+    "end": 8.1,
+    "speaker": "Khai",
+    "text": "Hả? Anh hát gì đâu. Anh biết tiếng Nhật bao giờ, em nghe nhầm đấy."
+   },
+   {
+    "start": 8.6,
+    "end": 12.6,
+    "speaker": "Linh",
+    "text": "Thôi đi, anh hát rõ ràng thế cơ mà, lại còn đúng giai điệu nữa cơ."
+   }
+  ],
+  "canh-07_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.2,
+    "speaker": "Khai",
+    "text": "Đúng giai điệu... Lạ thật. Anh cứ như đã nghe bài này cả nghìn lần rồi ấy."
+   },
+   {
+    "start": 5.7,
+    "end": 9.1,
+    "speaker": "Linh",
+    "text": "Chắc anh xem phim hoạt hình Nhật lúc chạy xe chứ gì. Em đi học đây!"
+   },
+   {
+    "start": 9.6,
+    "end": 12.9,
+    "speaker": "Khai",
+    "text": "Ừ, đi cẩn thận nhé. Nhớ ăn hết cái bánh mì đấy nhé."
+   }
+  ],
+  "canh-07_clip-3.mp4": [],
+  "canh-07_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.7,
+    "speaker": "Khai",
+    "text": "Nova, cho tôi hỏi. Thuê não thì có làm người ta biết thêm những thứ lạ không?"
+   },
+   {
+    "start": 5.2,
+    "end": 9.9,
+    "speaker": "Nova",
+    "text": "Dữ liệu của khách hàng được mã hóa tuyệt đối. Anh không thể tiếp cận chúng."
+   },
+   {
+    "start": 10.4,
+    "end": 13.2,
+    "speaker": "Khai",
+    "text": "Dữ liệu gì cơ? Cô bảo chỉ thuê phần trống thôi cơ mà?"
+   }
+  ],
+  "canh-08_clip-1.mp4": [],
+  "canh-08_clip-2.mp4": [],
+  "canh-08_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.1,
+    "speaker": "Huy",
+    "text": "Tôi là Trịnh Huy. NeuroRent trao giá trị cho từng giấc ngủ của bạn. Ngủ ngon, sống khỏe."
+   },
+   {
+    "start": 5.6,
+    "end": 9.8,
+    "speaker": "Khai",
+    "text": "Cái mặt này... Mình đã nhìn thấy cái mặt này ở đâu rồi thì phải."
+   },
+   {
+    "start": 10.3,
+    "end": 13.1,
+    "speaker": "Huy",
+    "text": "Hơn ba triệu người Việt đã tin dùng. Còn bạn thì sao nào?"
+   }
+  ],
+  "canh-08_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 3.9,
+    "speaker": "Huy",
+    "text": "Cô im đi! Cô không được nói với ai hết, nghe chưa? Cô có hiểu không?"
+   },
+   {
+    "start": 4.4,
+    "end": 8.9,
+    "speaker": "Khai",
+    "text": "Không... Hắn đang hét vào mặt ai thế? Sao mình lại thấy sợ đến thế này?"
+   },
+   {
+    "start": 9.4,
+    "end": 13.0,
+    "speaker": "Huy",
+    "text": "Vy, nghe anh nói này. Chuyện tối nay chưa từng xảy ra, rõ chưa?"
+   }
+  ],
+  "canh-09_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 2.9,
+    "speaker": "Khai",
+    "text": "Anh nói mớ á? Anh nói những gì thế?"
+   },
+   {
+    "start": 3.4,
+    "end": 7.9,
+    "speaker": "Linh",
+    "text": "Em không hiểu hết. Chỉ có một cái tên. Anh cứ gọi mãi... Vy, Vy ơi, anh ạ."
+   },
+   {
+    "start": 8.4,
+    "end": 12.4,
+    "speaker": "Khai",
+    "text": "Vy á? Anh không quen ai tên là Vy cả. Thôi, em ngủ đi, đừng nghĩ linh tinh nữa."
+   }
+  ],
+  "canh-10_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.8,
+    "speaker": "Huy",
+    "text": "Đó là cái giá rất nhỏ cho một công nghệ lớn. Anh đừng làm chuyện ngu ngốc."
+   },
+   {
+    "start": 5.3,
+    "end": 8.9,
+    "speaker": "Lam",
+    "text": "Tôi sẽ công bố hết. Toàn bộ dữ liệu, toàn bộ danh sách. Ngay sáng mai."
+   },
+   {
+    "start": 9.4,
+    "end": 13.2,
+    "speaker": "Huy",
+    "text": "Anh Lâm. Anh đã nghĩ thật kỹ chưa? Anh còn vợ con đấy."
+   }
+  ],
+  "canh-10_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.6,
+    "speaker": "Lam",
+    "text": "Tránh ra! Tôi nghĩ kỹ rồi. Tôi sẽ đi thẳng đến công an, anh không cản được tôi đâu!"
+   },
+   {
+    "start": 5.1,
+    "end": 9.3,
+    "speaker": "Huy",
+    "text": "Đứng lại! Anh Lâm, anh đứng lại cho tôi! Anh không được ra khỏi cửa này!"
+   },
+   {
+    "start": 9.8,
+    "end": 12.3,
+    "speaker": "Lam",
+    "text": "Buông tôi ra! Anh định làm cái gì thế hả anh..."
+   }
+  ],
+  "canh-10_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.0,
+    "speaker": "Huy",
+    "text": "Vy. Nghe anh. Em không thấy gì hết. Em hiểu không? Em chưa từng ở đây."
+   },
+   {
+    "start": 5.5,
+    "end": 8.9,
+    "speaker": "Khai",
+    "text": "Ông ấy ngã rồi! Ông ấy... Không, không phải mình! Mình đang ở đâu thế này?"
+   },
+   {
+    "start": 9.4,
+    "end": 13.3,
+    "speaker": "Khai",
+    "text": "Đừng ngủ... Và ngay dưới này còn có một chữ ký nhỏ. Chữ V."
+   }
+  ],
+  "canh-11_clip-1.mp4": [],
+  "canh-11_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 3.8,
+    "speaker": "Vy",
+    "text": "Đứng im. Quay lại từ từ. Ai cho anh lên đây? Ai gửi anh đến đây?"
+   },
+   {
+    "start": 4.3,
+    "end": 8.3,
+    "speaker": "Khai",
+    "text": "Không ai cả! Tôi thề! Có người viết địa chỉ này lên tường nhà tôi lúc ba giờ sáng!"
+   },
+   {
+    "start": 8.8,
+    "end": 12.7,
+    "speaker": "Vy",
+    "text": "Viết lên tường... bằng nét chữ nghiêng nghiêng, ký một chữ V, đúng không?"
+   }
+  ],
+  "canh-11_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.4,
+    "speaker": "Vy",
+    "text": "Anh có tự nhiên thuộc một bài hát ru tiếng Nhật không? Trả lời thật đi."
+   },
+   {
+    "start": 4.9,
+    "end": 8.7,
+    "speaker": "Khai",
+    "text": "Có! Sao cô biết? Mấy hôm nay tôi ngân nó suốt, mà tôi không hiểu một chữ nào."
+   },
+   {
+    "start": 9.2,
+    "end": 13.7,
+    "speaker": "Vy",
+    "text": "Đó là bài mẹ tôi hát ru tôi. Ngoài tôi ra, không ai biết bài đó."
+   }
+  ],
+  "canh-12_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.4,
+    "speaker": "Vy",
+    "text": "NeuroRent nói với các anh là não người còn dư dung lượng, họ thuê để chạy máy tính. Đúng không?"
+   },
+   {
+    "start": 5.9,
+    "end": 9.3,
+    "speaker": "Khai",
+    "text": "Đúng thế. Quảng cáo nói thế, cái trợ lý ảo trên điện thoại cũng nói thế."
+   },
+   {
+    "start": 9.8,
+    "end": 12.9,
+    "speaker": "Vy",
+    "text": "Sai hết. Não người không phải là ổ cứng đâu anh."
+   }
+  ],
+  "canh-12_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 6.2,
+    "speaker": "Vy",
+    "text": "Thứ duy nhất não người lưu giữ được là ký ức. Và ký ức thì không xóa được, chỉ chuyển đi được thôi."
+   },
+   {
+    "start": 6.7,
+    "end": 8.8,
+    "speaker": "Khai",
+    "text": "Chuyển đi đâu? Ý cô là chuyển vào đâu cơ?"
+   },
+   {
+    "start": 9.3,
+    "end": 13.0,
+    "speaker": "Vy",
+    "text": "Vào đầu những người nghèo. Ban đêm. Trong lúc họ đang ngủ say."
+   }
+  ],
+  "canh-12_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 3.5,
+    "speaker": "Khai",
+    "text": "Vậy những gì tôi thấy... là ký ức của người khác?"
+   },
+   {
+    "start": 4.0,
+    "end": 9.5,
+    "speaker": "Vy",
+    "text": "Người giàu muốn quên một vụ tai nạn, một vụ hối lộ, một tội ác. Họ trả tiền để gửi nó đi."
+   },
+   {
+    "start": 10.0,
+    "end": 12.8,
+    "speaker": "Khai",
+    "text": "Gửi vào đầu những người như tôi, như bà Tư nhà tôi à?"
+   }
+  ],
+  "canh-12_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.7,
+    "speaker": "Vy",
+    "text": "Bà cụ nào dán chip lâu năm, ký ức của chính bà sẽ bị đè lên, mòn dần đi."
+   },
+   {
+    "start": 6.2,
+    "end": 9.4,
+    "speaker": "Khai",
+    "text": "Thảo nào bà Tư cứ quên trước quên sau. Bà ấy dán mười năm rồi!"
+   },
+   {
+    "start": 9.9,
+    "end": 13.4,
+    "speaker": "Vy",
+    "text": "Mười năm. Chắc bà ấy chẳng còn nhớ nhiều thứ của mình nữa đâu."
+   }
+  ],
+  "canh-13_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.2,
+    "speaker": "Khai",
+    "text": "Còn ông già đeo kính mà tôi nhìn thấy trong mơ... Ông ấy là ai?"
+   },
+   {
+    "start": 4.7,
+    "end": 8.6,
+    "speaker": "Vy",
+    "text": "Thầy Lâm. Kỹ sư trưởng của NeuroRent. Người đã dạy cho tôi mọi thứ."
+   },
+   {
+    "start": 9.1,
+    "end": 12.7,
+    "speaker": "Khai",
+    "text": "Và người đàn ông mặc vest đó... là Trịnh Huy, ông chủ trên tấm biển quảng cáo?"
+   }
+  ],
+  "canh-13_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.7,
+    "speaker": "Vy",
+    "text": "Đúng. Thầy định công bố hết. Huy đẩy thầy ngã vào góc bàn đó. Tôi đứng ngay chỗ anh đang đứng."
+   },
+   {
+    "start": 6.2,
+    "end": 7.1,
+    "speaker": "Khai",
+    "text": "Ngay chỗ này..."
+   },
+   {
+    "start": 7.6,
+    "end": 12.2,
+    "speaker": "Vy",
+    "text": "Đêm đó Huy đưa tôi vào máy, gỡ ký ức đó ra khỏi đầu tôi, để tôi không làm nhân chứng được."
+   }
+  ],
+  "canh-13_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 1.9,
+    "speaker": "Khai",
+    "text": "Nhưng cô vẫn nhớ hết đấy thôi?"
+   },
+   {
+    "start": 2.4,
+    "end": 7.9,
+    "speaker": "Vy",
+    "text": "Tôi biết là có chuyện đó, nhưng hình ảnh thì mất hết rồi. Mà tôi là người viết ra hệ thống này."
+   },
+   {
+    "start": 8.4,
+    "end": 13.4,
+    "speaker": "Vy",
+    "text": "Nên tôi đã đổi địa chỉ đích. Ký ức đó không vào kho xóa... mà vào đầu anh."
+   }
+  ],
+  "canh-13_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.2,
+    "speaker": "Khai",
+    "text": "Cô lấy đầu tôi làm két sắt à? Cô có biết tôi còn một đứa em gái không?"
+   },
+   {
+    "start": 4.7,
+    "end": 10.7,
+    "speaker": "Vy",
+    "text": "Đầu anh đã là két sắt của họ từ cái đêm anh bấm đồng ý. Tôi chỉ bỏ vào đó một thứ họ sợ."
+   },
+   {
+    "start": 11.2,
+    "end": 12.6,
+    "speaker": "Khai",
+    "text": "Tôi... tôi không cãi được."
+   }
+  ],
+  "canh-15_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.6,
+    "speaker": "BaTu",
+    "text": "Khải về đấy à con? Lại đây, xem giúp bà cái ảnh này một tí."
+   },
+   {
+    "start": 5.1,
+    "end": 8.8,
+    "speaker": "Khai",
+    "text": "Vâng, bà. Ảnh cũ quá bà nhỉ. Hồ Gươm ngày xưa đây mà."
+   },
+   {
+    "start": 9.3,
+    "end": 14.3,
+    "speaker": "BaTu",
+    "text": "Con bé bà đang bế đây là ai nhỉ? Bà thấy quen quen mà nghĩ mãi không ra."
+   }
+  ],
+  "canh-15_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.2,
+    "speaker": "Khai",
+    "text": "Đằng sau có ghi đây ạ... Mẹ và bé Hạnh, năm hai nghìn không trăm mười tám."
+   },
+   {
+    "start": 5.7,
+    "end": 9.9,
+    "speaker": "BaTu",
+    "text": "Hạnh à? Bà làm gì có con gái nào tên Hạnh. Con đọc nhầm rồi."
+   },
+   {
+    "start": 10.4,
+    "end": 14.2,
+    "speaker": "Khai",
+    "text": "Bà ơi, cháu nghĩ là con gái bà đấy. Bà nhìn kỹ lại xem nào."
+   }
+  ],
+  "canh-15_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.2,
+    "speaker": "BaTu",
+    "text": "Bà làm gì có con... Hạnh... Hạnh... Sao cái tên này nghe đau thế này hả con?"
+   },
+   {
+    "start": 5.7,
+    "end": 9.7,
+    "speaker": "Khai",
+    "text": "Bà ơi, bà có sao không? Bà ngồi xuống đây đã, bà thở từ từ thôi."
+   },
+   {
+    "start": 10.2,
+    "end": 14.3,
+    "speaker": "BaTu",
+    "text": "Bà không nhớ. Sao bà lại không nhớ nổi con bé hả con?"
+   }
+  ],
+  "canh-15_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.1,
+    "speaker": "Khai",
+    "text": "Không sao đâu bà. Cháu sẽ giúp bà nhớ lại. Cháu hứa đấy."
+   },
+   {
+    "start": 4.6,
+    "end": 10.2,
+    "speaker": "BaTu",
+    "text": "Cái miếng dán này... từ hôm dán nó, bà ngủ ngon lắm. Mà hình như bà mất nhiều thứ quá."
+   },
+   {
+    "start": 10.7,
+    "end": 13.7,
+    "speaker": "Khai",
+    "text": "Bà Tư, tối nay bà đừng dán nó nữa nhé. Cháu xin bà đấy."
+   }
+  ],
+  "canh-16_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 6.2,
+    "speaker": "Vy",
+    "text": "Nếu anh gỡ chip ra, anh giữ được ký ức. Nhưng họ sẽ đòi lại tiền, và họ biết nhà anh ở đâu."
+   },
+   {
+    "start": 6.7,
+    "end": 9.5,
+    "speaker": "Khai",
+    "text": "Còn nếu tôi ngủ, tôi quên hết, lấy tiền, trả nợ, yên ổn."
+   },
+   {
+    "start": 10.0,
+    "end": 13.4,
+    "speaker": "Vy",
+    "text": "Ừ. Và thầy Lâm sẽ chết như chưa từng chết bao giờ."
+   }
+  ],
+  "canh-16_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 6.2,
+    "speaker": "Khai",
+    "text": "Mà kể cả tôi giữ được, một thằng giao hàng đi tố cáo ông chủ tập đoàn bằng một giấc mơ. Ai tin?"
+   },
+   {
+    "start": 6.7,
+    "end": 11.2,
+    "speaker": "Vy",
+    "text": "Không ai tin đâu. Tôi đã thử. Tôi mất việc, mất nhà, mất luôn bạn bè."
+   },
+   {
+    "start": 11.7,
+    "end": 14.2,
+    "speaker": "Khai",
+    "text": "Em gái tôi đang ngủ ngay trên kia kìa..."
+   }
+  ],
+  "canh-16_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.9,
+    "speaker": "Khai",
+    "text": "Bà Tư không còn nhớ con gái mình nữa. Bà ấy dán cái này mười năm."
+   },
+   {
+    "start": 5.4,
+    "end": 8.9,
+    "speaker": "Vy",
+    "text": "Có hàng triệu người như bà ấy. Họ không biết mình đang mất gì."
+   },
+   {
+    "start": 9.4,
+    "end": 13.2,
+    "speaker": "Khai",
+    "text": "Không ai tin một giấc mơ. Nhưng người ta sẽ tin cái người ta tận mắt nhìn thấy."
+   }
+  ],
+  "canh-16_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 2.2,
+    "speaker": "Vy",
+    "text": "Thế anh định làm gì bây giờ?"
+   },
+   {
+    "start": 2.7,
+    "end": 7.7,
+    "speaker": "Khai",
+    "text": "Phát trực tiếp. Kể hết những gì tôi còn nhớ, trước khi họ xóa nó đi. Cô có danh sách tài khoản đúng không?"
+   },
+   {
+    "start": 8.2,
+    "end": 12.4,
+    "speaker": "Vy",
+    "text": "Có. Tôi mang theo đủ cả. Mười một giờ bốn mươi bảy, ta bắt đầu."
+   }
+  ],
+  "canh-17_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.7,
+    "speaker": "Khai",
+    "text": "Tôi tên là Khải. Tôi là người giao hàng. Bảy ngày trước, tôi cho NeuroRent thuê não."
+   },
+   {
+    "start": 5.2,
+    "end": 9.4,
+    "speaker": "Khai",
+    "text": "Mười ba phút nữa, họ sẽ xóa thứ trong đầu tôi. Nên tôi kể ra đây, trước khi tôi quên."
+   },
+   {
+    "start": 9.9,
+    "end": 12.4,
+    "speaker": "Vy",
+    "text": "Có người vào xem rồi đấy. Bốn mươi người."
+   }
+  ],
+  "canh-17_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.6,
+    "speaker": "Vy",
+    "text": "Mỗi dòng là một người đang bị cất ký ức của người khác vào đầu. Hơn ba triệu tài khoản."
+   },
+   {
+    "start": 5.1,
+    "end": 8.9,
+    "speaker": "Khai",
+    "text": "Mọi người bình luận... Bà ngoại tôi cũng dán cái này. Mẹ tôi cũng dán."
+   },
+   {
+    "start": 9.4,
+    "end": 12.8,
+    "speaker": "Vy",
+    "text": "Tám nghìn người đang xem rồi. Họ đang chia sẻ khắp nơi."
+   }
+  ],
+  "canh-17_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.7,
+    "speaker": "Khai",
+    "text": "Người đẩy ông Lâm ngã vào góc bàn là Trịnh Huy. Chính là ông chủ của NeuroRent."
+   },
+   {
+    "start": 5.2,
+    "end": 8.4,
+    "speaker": "Vy",
+    "text": "Anh Khải, chip của anh đang nháy đỏ kìa. Họ bắt đầu sớm hơn rồi!"
+   },
+   {
+    "start": 8.9,
+    "end": 12.8,
+    "speaker": "Khai",
+    "text": "Không sao. Tôi vẫn còn nhớ. Tôi còn nhớ được... Cố lên nào, Khải."
+   }
+  ],
+  "canh-18_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.8,
+    "speaker": "Nova",
+    "text": "Anh Khải. Vui lòng kết thúc phát sóng ngay. Đây là cảnh báo cuối cùng."
+   },
+   {
+    "start": 5.3,
+    "end": 8.9,
+    "speaker": "Khai",
+    "text": "Không! Mọi người nghe tôi. Ngày sáu tháng mười một, lúc ba giờ mười bảy phút sáng."
+   },
+   {
+    "start": 9.4,
+    "end": 13.1,
+    "speaker": "Nova",
+    "text": "Phiên thu hồi bắt đầu sớm hơn. Anh sẽ không cảm thấy đau đâu."
+   }
+  ],
+  "canh-18_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.8,
+    "speaker": "Khai",
+    "text": "Ông Lâm định đi báo công an. Huy chặn cửa. Huy đẩy ông ấy. Ông ấy đập đầu vào góc bàn."
+   },
+   {
+    "start": 5.3,
+    "end": 8.3,
+    "speaker": "Vy",
+    "text": "Đủ rồi, anh Khải! Từng ấy là đủ rồi! Gỡ ra đi!"
+   },
+   {
+    "start": 8.8,
+    "end": 13.6,
+    "speaker": "Khai",
+    "text": "Chưa đủ. Còn chiếc kính... chiếc kính văng vào gầm bàn. Cảnh sát sẽ tìm thấy nó."
+   }
+  ],
+  "canh-19_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.7,
+    "speaker": "Khai",
+    "text": "Sao mắt em sưng thế? Đêm qua có chuyện gì à? Anh chẳng nhớ gì cả đấy."
+   },
+   {
+    "start": 5.2,
+    "end": 8.8,
+    "speaker": "Linh",
+    "text": "Anh xem đi này. Bốn triệu lượt xem. Sáng nay người ta bắt ông chủ NeuroRent rồi."
+   },
+   {
+    "start": 9.3,
+    "end": 12.7,
+    "speaker": "Khai",
+    "text": "Người đang nói trong cái video này... là anh thật đấy à?"
+   }
+  ],
+  "canh-19_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.9,
+    "speaker": "Vy",
+    "text": "Chào anh. Tôi đến để cảm ơn anh. Và để trả lại cho anh cái này."
+   },
+   {
+    "start": 5.4,
+    "end": 9.9,
+    "speaker": "Khai",
+    "text": "Chào chị ạ. Xin lỗi chị... chị là ai nhỉ? Mình đã gặp nhau bao giờ chưa ạ?"
+   },
+   {
+    "start": 10.4,
+    "end": 13.8,
+    "speaker": "Vy",
+    "text": "Chưa đâu. Coi như là chưa bao giờ. Tôi tên là Vy."
+   }
+  ],
+  "canh-19_clip-4.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.4,
+    "speaker": "Khai",
+    "text": "Vy... Cái tên nghe quen lắm. Hình như đã có ai đó hay gọi tên này."
+   },
+   {
+    "start": 4.9,
+    "end": 9.9,
+    "speaker": "Vy",
+    "text": "Anh giữ lấy nhé. Trong này là đoạn ghi âm của chính anh. Anh đã tự kể lại mọi thứ."
+   },
+   {
+    "start": 10.4,
+    "end": 13.5,
+    "speaker": "Khai",
+    "text": "Tôi đã kể những gì? Tôi có làm gì sai không?"
+   }
+  ],
+  "canh-20_clip-1.mp4": [
+   {
+    "start": 0.4,
+    "end": 5.3,
+    "speaker": "BaTu",
+    "text": "Khải ơi! Bà nhớ ra rồi! Hạnh là con gái bà! Nó đi làm ở Đà Nẵng, sáu năm nay rồi!"
+   },
+   {
+    "start": 5.8,
+    "end": 8.1,
+    "speaker": "Khai",
+    "text": "Bà nhớ ra thật rồi ạ? Thật không bà?"
+   },
+   {
+    "start": 8.6,
+    "end": 13.6,
+    "speaker": "BaTu",
+    "text": "Bà bỏ cái miếng dán đi rồi. Sáng nay tỉnh dậy, bà nhớ ra giọng nó."
+   }
+  ],
+  "canh-20_clip-2.mp4": [
+   {
+    "start": 0.4,
+    "end": 6.3,
+    "speaker": "BaTu",
+    "text": "Con cho bà mượn điện thoại. Bà phải gọi cho con bé ngay. Sáu năm bà chưa gọi nó lần nào."
+   },
+   {
+    "start": 6.8,
+    "end": 10.0,
+    "speaker": "Khai",
+    "text": "Đây ạ, bà cứ gọi đi. Số của chị Hạnh bà có còn nhớ không?"
+   },
+   {
+    "start": 10.5,
+    "end": 13.6,
+    "speaker": "BaTu",
+    "text": "Nhớ chứ. Bà nhớ hết. Không sót một số nào."
+   }
+  ],
+  "canh-20_clip-3.mp4": [
+   {
+    "start": 0.4,
+    "end": 4.9,
+    "speaker": "Linh",
+    "text": "Anh, em đi học đây. Hôm nay em sẽ làm bài thật tốt, anh cứ chờ mà xem."
+   },
+   {
+    "start": 5.4,
+    "end": 9.2,
+    "speaker": "Khai",
+    "text": "Ừ, đi đi. Học giỏi vào, sau này đừng có để ai thuê cái đầu của mình nhé."
+   },
+   {
+    "start": 9.7,
+    "end": 12.5,
+    "speaker": "Linh",
+    "text": "Vâng ạ. Cái đầu của em, em tự dùng hết."
+   }
+  ],
+  "canh-20_clip-4.mp4": []
+ }
+}

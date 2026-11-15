@@ -1,0 +1,444 @@
+{
+ "series": "dung-luong-trong",
+ "film_title": "Dung Lượng Trống",
+ "tag": "DUNG LƯỢNG TRỐNG",
+ "style": {
+  "tag_bg": "#5B2A86",
+  "accent": "#4DE8FF"
+ },
+ "speaker_colors": {},
+ "match_script": true,
+ "fixes": {
+  "11.4": {
+   "crop": [
+    1052,
+    592,
+    114,
+    10
+   ]
+  },
+  "07.3": {
+   "crop": [
+    967,
+    544,
+    156,
+    88
+   ]
+  },
+  "08.1": {
+   "crop": [
+    999,
+    562,
+    140,
+    79
+   ]
+  },
+  "10.4": {
+   "crop": [
+    1031,
+    580,
+    125,
+    70
+   ]
+  },
+  "18.4": {
+   "crop": [
+    1198,
+    674,
+    41,
+    23
+   ]
+  },
+  "11.2": {
+   "crop": [
+    1141,
+    642,
+    70,
+    39
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bMộng Du\\b": "mộng du",
+  "\\bDung lượng chống\\b": "Dung lượng trống",
+  "\\bCon mà rán\\b": "Con mà dán",
+  "\\bđủ rất$": "đủ giấc",
+  "\\bVi\\b": "Vy",
+  "\\bDèm\\b": "Rèm",
+  "\\bdèm\\b": "rèm",
+  "\\bhát du\\b": "hát ru",
+  "\\bNeuroren\\b": "NeuroRent",
+  "\\bNew Roren\\b": "NeuroRent",
+  "\\bgiớ ha\\s*": "",
+  "\\bThì đỗ đại học\\b": "Thi đỗ đại học",
+  "Viết lên tường cái tường mốt\\s*": "",
+  "\\bchạy xe ấy gì\\b": "chạy xe chứ gì",
+  "^mộng du\\b": "Mộng du",
+  "^Cơ á\\?": "Tám mươi bảy phần trăm cơ á?",
+  "^Đâu\\. Mở mắt": "Không được ngủ đâu. Mở mắt",
+  "\\bKhông, phải mình!": "Không, không phải mình!",
+  ", như bà Tư nhà tội à\\?": ", một tội ác.",
+  "^Cố không có gì.*$": "Cố lên nào, Khải.",
+  "Mười, chín, tám, bảy, sáu, năm, bốn, ba, hai, một\\.?": "Mười, chín, tám, bảy, sáu, năm…"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 20 phút có trên kênh YouTube, tìm “Dung Lượng Trống”",
+ "final_cta": "🎬 Khải có quên hết không? Xem trọn bộ 20 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Khải có quên hết không?\nXem trọn bộ [20 PHÚT]",
+ "hashtags": {
+  "tiktok": [
+   "#dungluongtrong",
+   "#phimngan",
+   "#khoahocvientuong"
+  ],
+  "youtube": [
+   "#dungluongtrong",
+   "#phimngan",
+   "#vientuong"
+  ],
+  "facebook": [
+   "#DungLuongTrong",
+   "#PhimNgan",
+   "#KhoaHocVienTuong",
+   "#PhimViet"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-16",
+  "per_day": 2,
+  "times": [
+   "12:00",
+   "20:00"
+  ]
+ },
+ "readme_intro": [
+  "# Dung Lượng Trống — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Phim 20 phút (20 cảnh × 4 clip × 15 s) được cắt thành **12 phần dọc 9:16 từ những cảnh hay nhất**, theo đúng thứ tự truyện: dòng chữ lạ lúc 3 giờ 17, app thuê não, ký ức của người khác, vụ án, livestream và mười giây đếm ngược. Phần cuối dừng trước đoạn kết (cảnh 19–20) để người xem tìm phim full.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 ở giữa, nền là chính cảnh đó làm mờ.",
+  "- **Chữ trên video:** nhãn tím “DUNG LƯỢNG TRỐNG • PHẦN N”, câu hook phía trên khung phim, phụ đề khớp tiếng phía dưới. 2,5 giây cuối hook đổi thành “CÒN TIẾP » PHẦN N+1”.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chính tả sửa theo `PHAN_CANH_OMNI.json`.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS.",
+  "- **File:** video `NN-<slug>.mp4` nằm ngay trong `shorts/`; caption của mọi phần ở cuối README này.",
+  "",
+  "Dựng lại:",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py dung-luong-trong",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py dung-luong-trong --only 4",
+  "```"
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Dung Lượng Trống”. Mỗi caption có đúng 5 hashtag.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả; khi phim full đã lên kênh, điền link vào `full_movie_url` rồi chạy lại với `--captions`.",
+  "- **Facebook Reels:** dán caption (phụ đề đã in sẵn trên video).",
+  "",
+  "## Ghi chú biên tập",
+  "",
+  "- 8 clip chưa render nên không dùng: 02.2, 02.3, 02.4, 03.1, 06.1, 06.3, 14.1, 14.2.",
+  "- 6 clip có tiếng thoại không rõ chữ (Whisper không khớp kịch bản), không dùng và nên render lại trong phim full: 02.1, 03.3, 03.4, 05.3, 08.4, 19.2.",
+  "- Clip 11.4 có logo “VTVgo” ở góc dưới phải (đã cắt bỏ trong shorts); clip 16.4 có logo VTV màu ở góc trên phải (không dùng). Cả hai vẫn còn trong phim full, nên render lại."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "3-gio-17-sang-chu-tren-tuong",
+   "title": "3 giờ 17 sáng, trên tường có chữ ai đó viết",
+   "hook": "3 giờ 17 sáng, trên tường\ncó [CHỮ AI ĐÓ VIẾT]",
+   "segments": [
+    {
+     "clip": "01.1"
+    },
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    }
+   ],
+   "caption": "3 giờ 17 sáng, Khải tỉnh dậy với cây bút trong tay và một địa chỉ lạ trên tường nhà mình: “Khu tập thể Kim Liên, nhà C, phòng 704. Đừng ngủ!” Nét chữ nghiêng nghiêng, không phải của anh. Còn trợ lý ảo Nova chỉ bảo anh đã ngủ rất ngon.",
+   "question": "Bạn nghĩ ai đã viết dòng chữ đó lên tường?",
+   "yt_title": "3 giờ 17 sáng tỉnh dậy, trên tường có chữ không phải của mình | Dung Lượng Trống P1",
+   "tags": [
+    "#bian",
+    "#vientuong"
+   ],
+   "top": true
+  },
+  {
+   "n": 2,
+   "slug": "ba-tu-cho-thue-nao-10-nam",
+   "title": "Cho thuê não 10 năm, bà Tư quên dần mọi thứ",
+   "hook": "Cho thuê não 10 năm,\nbà [QUÊN DẦN MỌI THỨ]",
+   "segments": [
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    },
+    {
+     "clip": "04.4"
+    }
+   ],
+   "caption": "Bà Tư dán miếng NeuroRent sau gáy suốt mười năm: “Ngủ một giấc, sáng ra là có tiền rồi, sướng lắm con ạ.” Chỉ có điều dạo này bà hay quên: quên tên người này người kia, có hôm quên cả mình đang nấu cơm cho ai.",
+   "question": "Bạn có dám đổi giấc ngủ lấy tiền không?",
+   "yt_title": "Cho công ty thuê não 10 năm, bà cụ quên dần mọi thứ | Dung Lượng Trống P2",
+   "tags": [
+    "#neurorent",
+    "#camdong"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "bam-dong-y-khoi-doc",
+   "title": "Ngủ 8 tiếng được 480 nghìn, chỉ cần bấm đồng ý",
+   "hook": "Ngủ 8 tiếng 480 nghìn,\nchỉ cần [BẤM ĐỒNG Ý]",
+   "segments": [
+    {
+     "clip": "05.1"
+    },
+    {
+     "clip": "05.2"
+    },
+    {
+     "clip": "05.4"
+    }
+   ],
+   "caption": "“Dung lượng trống của anh là 87%. 60 nghìn mỗi giờ ngủ.” Điều khoản dài 48 trang, Khải bấm đồng ý luôn, khỏi đọc. Đêm đó em gái hỏi: “Cái gì sau gáy anh mà sáng tím thế?”",
+   "question": "Bạn có bao giờ đọc hết điều khoản trước khi bấm đồng ý không?",
+   "yt_title": "Ngủ 8 tiếng được 480 nghìn, chỉ cần bấm đồng ý | Dung Lượng Trống P3",
+   "tags": [
+    "#neurorent",
+    "#congnghe"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "bai-hat-tieng-nhat-la",
+   "title": "Tự nhiên thuộc lòng một bài hát tiếng Nhật",
+   "hook": "Tự nhiên thuộc lòng\nbài hát [TIẾNG NHẬT]",
+   "segments": [
+    {
+     "clip": "07.1"
+    },
+    {
+     "clip": "07.2"
+    },
+    {
+     "clip": "07.3"
+    }
+   ],
+   "caption": "Khải ngân nga một bài hát ru tiếng Nhật mà anh chưa từng học, đúng từng giai điệu. Mẹ anh không biết tiếng Nhật, anh cũng chưa nghe bài này bao giờ. “Thế mà sao mình lại thuộc lòng từng chữ một thế này?”",
+   "question": "Bạn nghĩ bài hát đó từ đâu ra?",
+   "yt_title": "Tự nhiên thuộc lòng một bài hát tiếng Nhật chưa từng nghe | Dung Lượng Trống P4",
+   "tags": [
+    "#bian",
+    "#kyuc"
+   ],
+   "top": true
+  },
+  {
+   "n": 5,
+   "slug": "tay-tu-bam-ma-cua",
+   "title": "Tay tự bấm mã cửa tòa nhà chưa từng đến",
+   "hook": "Tay tự bấm mã cửa\ntòa nhà [CHƯA TỪNG ĐẾN]",
+   "segments": [
+    {
+     "clip": "08.1"
+    },
+    {
+     "clip": "08.2"
+    },
+    {
+     "clip": "08.3"
+    }
+   ],
+   "caption": "Giao hàng tới một tòa nhà lạ, tay Khải tự bấm đúng mã cửa. Trong đầu anh hiện lên bàn tay một người con gái, móng cắt ngắn, run run. Rồi gương mặt ông chủ NeuroRent trên biển quảng cáo… hình như anh đã thấy ở đâu rồi.",
+   "question": "Nếu tay bạn tự làm một việc bạn chưa từng học, bạn sẽ làm gì?",
+   "yt_title": "Tay tự bấm đúng mã cửa của tòa nhà chưa từng đến | Dung Lượng Trống P5",
+   "tags": [
+    "#bian",
+    "#kyuc"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "noi-mo-goi-ten-vy",
+   "title": "Đêm nào cũng nói mớ gọi tên một cô gái lạ",
+   "hook": "Đêm nào cũng nói mớ\ngọi [TÊN MỘT CÔ GÁI]",
+   "segments": [
+    {
+     "clip": "09.2"
+    },
+    {
+     "clip": "09.3"
+    },
+    {
+     "clip": "09.4"
+    }
+   ],
+   "caption": "Khải không dám ngủ nữa. Em gái kể đêm nào anh cũng nói mớ bằng thứ tiếng nó không hiểu, và gọi mãi một cái tên: “Vy, Vy ơi.” Ba giờ sáng, anh cố mở mắt… “Chỉ nhắm mắt một chút thôi.”",
+   "question": "Bạn có từng nói mớ một cái tên lạ không?",
+   "yt_title": "Đêm nào cũng nói mớ gọi tên một cô gái không quen | Dung Lượng Trống P6",
+   "tags": [
+    "#bian",
+    "#kyuc"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "ky-uc-vu-an",
+   "title": "Trong giấc mơ là ký ức về một vụ án",
+   "hook": "Trong giấc mơ, anh thấy\n[MỘT VỤ ÁN MẠNG]",
+   "segments": [
+    {
+     "clip": "10.2"
+    },
+    {
+     "clip": "10.3"
+    },
+    {
+     "clip": "10.4"
+    }
+   ],
+   "caption": "Trong giấc mơ là ký ức không phải của Khải: kỹ sư Lâm định công bố toàn bộ dữ liệu của NeuroRent, ông chủ Huy chặn cửa. Rồi ông Lâm ngã xuống. “Vy, nghe anh. Em không thấy gì hết. Em chưa từng ở đây.”",
+   "question": "Bạn nghĩ cô gái tên Vy là ai?",
+   "yt_title": "Trong giấc mơ là ký ức về một vụ án mạng có thật | Dung Lượng Trống P7",
+   "tags": [
+    "#vientuong",
+    "#hinhsu"
+   ],
+   "top": true
+  },
+  {
+   "n": 8,
+   "slug": "can-phong-y-het-giac-mo",
+   "title": "Căn phòng y hệt giấc mơ và cô gái tên Vy",
+   "hook": "Căn phòng y hệt giấc mơ,\nvà [CÔ GÁI TÊN VY]",
+   "segments": [
+    {
+     "clip": "11.2"
+    },
+    {
+     "clip": "11.3"
+    },
+    {
+     "clip": "11.4"
+    }
+   ],
+   "caption": "Lần theo địa chỉ trên tường, Khải tới căn hộ bỏ hoang 704: rèm vàng rách góc, tranh hoa sen treo lệch, y hệt giấc mơ. Rồi một cô gái xuất hiện: “Đó là bài mẹ tôi hát ru tôi. Ngoài tôi ra, không ai biết bài đó.”",
+   "question": "Bạn có đoán ra Vy đã làm gì không?",
+   "yt_title": "Căn phòng y hệt giấc mơ, và cô gái biết bài hát ru | Dung Lượng Trống P8",
+   "tags": [
+    "#bian",
+    "#vientuong"
+   ],
+   "top": true
+  },
+  {
+   "n": 9,
+   "slug": "su-that-ve-neurorent",
+   "title": "Sự thật: họ gửi ký ức tội ác vào đầu người nghèo",
+   "hook": "Họ không thuê não,\nhọ [GỬI KÝ ỨC TỘI ÁC]",
+   "segments": [
+    {
+     "clip": "12.2"
+    },
+    {
+     "clip": "12.3"
+    },
+    {
+     "clip": "12.4"
+    }
+   ],
+   "caption": "Vy nói ra sự thật: “Ký ức thì không xóa được, chỉ chuyển đi được thôi.” Người giàu muốn quên một vụ tai nạn, một vụ hối lộ, một tội ác, họ trả tiền để gửi nó vào đầu những người nghèo… trong lúc họ đang ngủ say.",
+   "question": "Nếu được trả tiền, bạn có chịu giữ hộ ký ức của người khác không?",
+   "yt_title": "Sự thật về app thuê não: gửi ký ức tội ác vào đầu người nghèo | Dung Lượng Trống P9",
+   "tags": [
+    "#neurorent",
+    "#vientuong"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "ba-quen-con-gai",
+   "title": "Bà không nhận ra con gái mình trong tấm ảnh",
+   "hook": "Bà không nhận ra\n[CON GÁI MÌNH] trong ảnh",
+   "segments": [
+    {
+     "clip": "15.1"
+    },
+    {
+     "clip": "15.2"
+    },
+    {
+     "clip": "15.3"
+    }
+   ],
+   "caption": "Bà Tư nhờ Khải xem tấm ảnh cũ ở Hồ Gươm. Mặt sau ghi: “Mẹ và bé Hạnh, năm 2018.” Bà không nhớ nổi con gái mình. “Sao cái tên này nghe đau thế này hả con?”",
+   "question": "Điều gì bạn sợ quên nhất?",
+   "yt_title": "Cho thuê não 10 năm, bà không nhận ra con gái mình | Dung Lượng Trống P10",
+   "tags": [
+    "#camdong",
+    "#giadinh"
+   ],
+   "top": true
+  },
+  {
+   "n": 11,
+   "slug": "livestream-chip-nhay-do",
+   "title": "Livestream kể ký ức, chip sau gáy nháy đỏ",
+   "hook": "Livestream kể ký ức,\n[CHIP NHÁY ĐỎ] giữa chừng",
+   "segments": [
+    {
+     "clip": "17.2"
+    },
+    {
+     "clip": "17.3"
+    },
+    {
+     "clip": "17.4"
+    }
+   ],
+   "caption": "Khải phát trực tiếp, kể hết những gì anh còn nhớ trước khi bị xóa. Vy công bố danh sách hơn 3 triệu tài khoản. 8.000 người đang xem, đang chia sẻ khắp nơi… thì con chip sau gáy anh bắt đầu nháy đỏ.",
+   "question": "Bạn có dám livestream tố cáo một tập đoàn lớn không?",
+   "yt_title": "Livestream tố cáo ông chủ app thuê não, chip sau gáy nháy đỏ | Dung Lượng Trống P11",
+   "tags": [
+    "#livestream",
+    "#vientuong"
+   ]
+  },
+  {
+   "n": 12,
+   "slug": "muoi-giay-truoc-khi-bi-xoa",
+   "title": "Mười giây trước khi bị xóa ký ức",
+   "hook": "Mười giây trước khi\n[BỊ XÓA KÝ ỨC]",
+   "segments": [
+    {
+     "clip": "18.2"
+    },
+    {
+     "clip": "18.3"
+    },
+    {
+     "clip": "18.4"
+    }
+   ],
+   "caption": "“Ông ấy đập đầu vào góc bàn. Còn chiếc kính… văng vào gầm bàn.” Mười giây trước khi bị thu hồi ký ức, Khải chỉ kịp dặn em gái: “Ở nhà học cho tử tế nghe chưa. Anh thương em nhiều lắm, Linh ạ.”",
+   "question": "Nếu chỉ còn 10 giây để nói, bạn sẽ nói gì với người thân?",
+   "yt_title": "10 giây trước khi bị xóa ký ức, anh dặn em gái một câu | Dung Lượng Trống P12",
+   "tags": [
+    "#camdong",
+    "#giadinh"
+   ],
+   "top": true
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+Một câu lệnh — Lemo-Opuscar plugin demo (Stick-figure Explainer style)
+
+Picture: drawn entirely in code (Canvas 2D), rendered frame by frame with the Lemo-Opuscar toolkit.
+Font: Be Vietnam Pro — The Be Vietnam Pro Project Authors, SIL Open Font License 1.1 (fonts/OFL.txt), via @fontsource/be-vietnam-pro.
+Music: original score, played with sampled instruments —
+  Samples (CC0): FreePats project (freepats.zenvoid.org) — kalimba;
+  VS Chamber Orchestra: Community Edition (Versilian Studios) — contrabass pizzicato, violins, violas, cellos;
+  Versilian Community Sample Library (Versilian Studios) — marimba, glockenspiel, vibraphone, harp.
+Sound effects: synthesised procedurally (core/audio/sfx.py).
+No voice. No third-party images or footage.

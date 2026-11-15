@@ -892,6 +892,90 @@ DEFAULT_CHANNELS = [
             }
         ]
     },
+    {
+        "slug": "dung-luong-trong",
+        "name": "Dung Lượng Trống — Free Space (Phim Khoa Học Viễn Tưởng 20 Phút)",
+        "project_id": "1de0a09b-c804-4411-89a3-808a2fd1864a",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/dung_luong_trong.py",
+        "series_dir": "dung-luong-trong",
+        "ep_prefix": "canh",
+        "description": "Phim khoa học viễn tưởng, kịch bản gốc (100% thoại tiếng Việt giọng Hà Nội do nhân vật nói trên hình, không người dẫn chuyện, nhịp giọng theo cảnh): Hà Nội 2041, shipper nợ nần Khải cho NeuroRent thuê não lúc ngủ và phát hiện trong đầu mình cất giấu ký ức về một vụ giết người sắp bị xóa lúc 0 giờ (16:9, 20 cảnh × 4 clips × 15s = 80 clips — Google Flow Omni 1.2).",
+        "characters": [
+            {
+                "tag": "@Khai",
+                "name": "Khải — VOICE_LOCK_KHAI_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_KHAI_DLT",
+                "description": "Khải, 27, a broke delivery rider in Hanoi in 2041; lean wiry build, sun-browned skin, slightly long messy black hair falling over his forehead, a thin face with tired but warm dark eyes and a quick apologetic grin; faded orange delivery jacket with a plain patch without letters over a grey T-shirt, dark jeans, worn black sneakers.",
+                "ref_prompt": "Full-body photorealistic character reference of @Khai: Khải, 27, a broke delivery rider in Hanoi in 2041; lean wiry build, sun-browned skin, slightly long messy black hair falling over his forehead, a thin face with tired but warm dark eyes and a quick apologetic grin; faded orange delivery jacket with a plain patch without letters over a grey T-shirt, dark jeans, worn black sneakers; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Linh",
+                "name": "Linh — VOICE_LOCK_LINH_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_LINH_DLT",
+                "description": "Linh, 17, Khải's younger sister in her final year of high school; small and slim, a round bright face, long black hair in a high ponytail, sharp lively eyes; white short-sleeved school shirt, navy pleated skirt, white canvas sneakers.",
+                "ref_prompt": "Full-body photorealistic character reference of @Linh: Linh, 17, Khải's younger sister in her final year of high school; small and slim, a round bright face, long black hair in a high ponytail, sharp lively eyes; white short-sleeved school shirt, navy pleated skirt, white canvas sneakers; plain grey studio background, soft cinematic side light, 8K. Not resembling any real person."
+            },
+            {
+                "tag": "@Hung",
+                "name": "Hùng — VOICE_LOCK_HUNG_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_HUNG_DLT",
+                "description": "Hùng, 35, a loan-shark debt collector; stocky with a thick neck, shaved head, thin moustache, heavy-lidded eyes, tattooed forearms; loud red-and-yellow floral short-sleeved shirt, a thick gold chain, black trousers, leather slip-on shoes.",
+                "ref_prompt": "Full-body photorealistic character reference of @Hung: Hùng, 35, a loan-shark debt collector; stocky with a thick neck, shaved head, thin moustache, heavy-lidded eyes, tattooed forearms; loud red-and-yellow floral short-sleeved shirt, a thick gold chain, black trousers, leather slip-on shoes; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@BaTu",
+                "name": "Bà Tư — VOICE_LOCK_BATU_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_BATU_DLT",
+                "description": "Bà Tư, 68, the gentle landlady of the old collective housing block; small and slightly stooped, a deeply lined kind face, cloudy warm eyes, silver hair in a low bun, a worn thin translucent patch with a faint violet light on the back of her neck; loose brown cotton blouse with cloth buttons, black silky trousers, plastic sandals.",
+                "ref_prompt": "Full-body photorealistic character reference of @BaTu: Bà Tư, 68, the gentle landlady of the old collective housing block; small and slightly stooped, a deeply lined kind face, cloudy warm eyes, silver hair in a low bun, a worn thin translucent patch with a faint violet light on the back of her neck; loose brown cotton blouse with cloth buttons, black silky trousers, plastic sandals; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Nova",
+                "name": "Nova — VOICE_LOCK_NOVA_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_NOVA_DLT",
+                "description": "Nova, the NeuroRent app's holographic assistant; a softly glowing translucent violet hologram of a young woman about a hand's height tall, standing on a beam of light above a phone screen, a smooth calm face with a gentle fixed smile, sleek hair in a high knot, faint horizontal scan lines through her body; a simple fitted violet light-dress.",
+                "ref_prompt": "Full-body character reference of @Nova: Nova, the NeuroRent app's holographic assistant; a softly glowing translucent violet hologram of a young woman about a hand's height tall, standing on a beam of light above a phone screen, a smooth calm face with a gentle fixed smile, sleek hair in a high knot, faint horizontal scan lines through her body; a simple fitted violet light-dress; shown life-size and full-body for reference, a softly glowing translucent violet hologram woman standing on a small disc of light; plain dark grey studio background, soft cinematic light, 8K. Not resembling any real person."
+            },
+            {
+                "tag": "@Vy",
+                "name": "Vy — VOICE_LOCK_VY_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_VY_DLT",
+                "description": "Vy, 30, a former NeuroRent systems engineer in hiding; slim, pale skin, a chin-length black bob, dark circles under sharp guarded eyes, a small scar through her left eyebrow; oversized charcoal-grey hoodie, black cargo trousers, black boots, a battered laptop bag across her chest.",
+                "ref_prompt": "Full-body photorealistic character reference of @Vy: Vy, 30, a former NeuroRent systems engineer in hiding; slim, pale skin, a chin-length black bob, dark circles under sharp guarded eyes, a small scar through her left eyebrow; oversized charcoal-grey hoodie, black cargo trousers, black boots, a battered laptop bag across her chest; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Huy",
+                "name": "Trịnh Huy — VOICE_LOCK_HUY_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_HUY_DLT",
+                "description": "Trịnh Huy, 45, the polished CEO of NeuroRent; tall and trim, a smooth pale face, slicked-back black hair greying at the temples, a cold confident smile; tailored navy suit, white open-collar shirt, a slim silver watch.",
+                "ref_prompt": "Full-body photorealistic character reference of @Huy: Trịnh Huy, 45, the polished CEO of NeuroRent; tall and trim, a smooth pale face, slicked-back black hair greying at the temples, a cold confident smile; tailored navy suit, white open-collar shirt, a slim silver watch; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            },
+            {
+                "tag": "@Lam",
+                "name": "Lâm — VOICE_LOCK_LAM_DLT",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_LAM_DLT",
+                "description": "Lâm, 58, NeuroRent's chief engineer; thin and slightly hunched, balding with grey hair at the sides, black-rimmed glasses, a kind tired face; rumpled white shirt with rolled sleeves, grey trousers, brown leather shoes.",
+                "ref_prompt": "Full-body photorealistic character reference of @Lam: Lâm, 58, NeuroRent's chief engineer; thin and slightly hunched, balding with grey hair at the sides, black-rimmed glasses, a kind tired face; rumpled white shirt with rolled sleeves, grey trousers, brown leather shoes; plain grey studio background, soft cinematic side light, 8K. Not resembling any real actor."
+            }
+        ]
+    },
 ]
 
 CHANNEL_MAX_EPISODES: dict[str, int] = {
@@ -905,6 +989,7 @@ CHANNEL_MAX_EPISODES: dict[str, int] = {
     "gang-to-tai-xuat": 27,
     "cai-ket-cho-tieu-tam": 25,
     "bay-ngay-sinh-ton": 24,
+    "dung-luong-trong": 20,
 }
 
 

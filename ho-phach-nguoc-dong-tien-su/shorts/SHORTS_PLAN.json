@@ -1,0 +1,453 @@
+{
+ "series": "ho-phach-nguoc-dong-tien-su",
+ "film_title": "Hổ Phách: Ngược Dòng Tiền Sử",
+ "tag": "HỔ PHÁCH NGƯỢC DÒNG TIỀN SỬ",
+ "style": {
+  "tag_bg": "#8A4B08",
+  "accent": "#FFC94A"
+ },
+ "speaker_colors": {},
+ "match_script": false,
+ "fixes": {
+  "01.1": {
+   "crop": [
+    1032,
+    580,
+    124,
+    70
+   ]
+  },
+  "14.1": {
+   "crop": [
+    1032,
+    580,
+    124,
+    70
+   ]
+  },
+  "01.4": {
+   "crop": [
+    1070,
+    602,
+    105,
+    59
+   ]
+  },
+  "15.3": {
+   "crop": [
+    1084,
+    610,
+    98,
+    55
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "\\bLớp cho\\b": "Lớp tro",
+  "\\blớp cho\\b": "lớp tro",
+  "\\bđá cho\\b": "đá tro",
+  "\\bCho núi lửa\\b": "Tro núi lửa",
+  "\\bCầm trổi\\b": "Cầm chổi",
+  "\\bvết dạng\\b": "vết rạn",
+  "\\bcông viên Kizura\\b": "công viên kỷ Jura",
+  "\\bbay rôn\\b": "bay drone",
+  "\\bdẽ vòng\\b": "rẽ vòng",
+  "\\bMega Neura, xải cánh\\b": "Meganeura, sải cánh",
+  "\\bcon dết\\b": "con rết",
+  "\\bAtroplera\\b": "Arthropleura",
+  "\\bbỏ qua chân anh\\b": "bò qua chân anh",
+  "\\bXét đánh\\b": "Sét đánh",
+  "\\bđảo nó lên\\b": "đào nó lên",
+  "\\bNgừng lên\\b": "Ngẩng lên",
+  "\\bngừng lên\\b": "ngẩng lên",
+  "\\bgiấu vết\\b": "dấu vết",
+  "\\bThabo Saurus\\b": "Tarbosaurus",
+  "\\bBày thêm\\b": "Bay thêm",
+  "\\bhạ ngơi\\b": "hạ cánh",
+  "\\bsám\\b": "xám",
+  "^Kizura$": "kỷ Jura",
+  "\\bmũi khủng long\\b": "muỗi khủng long",
+  "^Hóa thạch rồi còn gì\\?": "Em hết sạch hóa thạch rồi còn gì?",
+  "\\bcả một con\\.$": "cả một đàn.",
+  "\\bcho anh Nó quay đầu\\b": "cho anh! Nó quay đầu",
+  "\\bnhìn kìa Đúng rồi\\b": "nhìn kìa! Đúng rồi",
+  "^Tarbosaurus Họ hàng\\b": "Tarbosaurus! Họ hàng",
+  "\\bthở mạnh Nó đang\\b": "thở mạnh. Nó đang",
+  "\\bgì cả Mắt nó\\b": "gì cả. Mắt nó",
+  "\\bmới tinh Một cái\\b": "mới tinh, một cái",
+  "\\bhiện vật Thế mới sang\\b": "hiện vật. Thế mới sang!",
+  "\\bnhìn kìa Viên hổ phách\\b": "nhìn kìa! Viên hổ phách",
+  "\\btính sau Nắm chặt\\b": "tính sau. Nắm chặt",
+  "\\bnhanh lên Bố ơi\\b": "nhanh lên! Bố ơi"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Full phim 22 phút có trên kênh YouTube, tìm “Hổ Phách: Ngược Dòng Tiền Sử”",
+ "final_cta": "🎬 Họ có về được nhà không? Xem trọn bộ 22 phút trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Họ có về được không?\nXem trọn bộ [22 PHÚT]",
+ "hashtags": {
+  "tiktok": [
+   "#hophach",
+   "#phimngan",
+   "#xuyenkhong"
+  ],
+  "youtube": [
+   "#hophach",
+   "#khunglong",
+   "#phimngan"
+  ],
+  "facebook": [
+   "#HoPhach",
+   "#NguocDongTienSu",
+   "#PhimNgan",
+   "#KhungLong"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-15",
+  "per_day": 2,
+  "times": [
+   "12:00",
+   "20:00"
+  ]
+ },
+ "readme_intro": [
+  "# Hổ Phách: Ngược Dòng Tiền Sử — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Phim 22 phút (22 cảnh × 4 clip × 15 s) được cắt thành **12 phần dọc 9:16 từ những cảnh hay nhất**, theo đúng thứ tự truyện: la bàn hóa đá, cổng thời gian, kỷ băng hà, rừng than đá, thời khủng long. Phần cuối dừng trước đoạn kết để người xem tìm phim full.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 ở giữa, nền là chính cảnh đó làm mờ.",
+  "- **Chữ trên video:** nhãn hổ phách “HỔ PHÁCH NGƯỢC DÒNG TIỀN SỬ • PHẦN N”, câu hook phía trên khung phim, phụ đề khớp tiếng phía dưới. 2,5 giây cuối hook đổi thành “CÒN TIẾP » PHẦN N+1”.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper), chữ nghe nhầm sửa bằng `subtitle_replace`.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS.",
+  "- **Nguồn clip:** `clips/HoPhach_CanhNN_ClipN.mp4`, liên kết sang `output_videos/canh-NN/` để script đọc được (liên kết không vào git).",
+  "- **File:** video `NN-<slug>.mp4` nằm ngay trong `shorts/`; caption của mọi phần ở cuối README này.",
+  "",
+  "Dựng lại:",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ho-phach-nguoc-dong-tien-su",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py ho-phach-nguoc-dong-tien-su --only 4",
+  "```"
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Hổ Phách”. Mỗi caption có đúng 5 hashtag.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả; khi phim full đã lên kênh, điền link vào `full_movie_url` rồi chạy lại với `--captions`.",
+  "- **Facebook Reels:** dán caption, bật phụ đề tự động tắt (phụ đề đã in sẵn trên video).",
+  "",
+  "## Ghi chú biên tập",
+  "",
+  "- Không dùng 7 clip có tiếng thoại không rõ chữ (Whisper chỉ ra chữ vô nghĩa): 04.4, 08.4, 09.1, 09.3, 11.1, 13.1, 18.1.",
+  "- Không dùng cảnh 20–22 (trở về hiện tại, drone hóa đá) để không lộ kết phim."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "la-ban-hoa-da-66-trieu-nam",
+   "top": true,
+   "title": "La bàn hóa đá 66 triệu năm khắc tên cô ấy",
+   "hook": "La bàn hóa đá 66 triệu năm\nkhắc [GỬI LINH, BỐ]",
+   "segments": [
+    {
+     "clip": "01.1",
+     "to": 13.6
+    },
+    {
+     "clip": "01.2"
+    },
+    {
+     "clip": "01.3"
+    },
+    {
+     "clip": "01.4"
+    }
+   ],
+   "caption": "Trong lớp tro núi lửa 66 triệu năm, đội khai quật đào được một chiếc la bàn bằng đồng đã hóa đá hoàn toàn. Trên nắp khắc “Gửi Linh, bố”… trong khi chiếc la bàn của bố vẫn đang đeo trên cổ Linh.",
+   "question": "Nếu là Linh, bạn sẽ giải thích chuyện này thế nào?",
+   "yt_title": "Đào được la bàn hóa đá 66 triệu năm, trên nắp khắc tên mình | Hổ Phách P1",
+   "tags": [
+    "#khaoco",
+    "#bian"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "hoa-thach-that-tu-thoi-khung-long",
+   "title": "Kết quả chụp chiếu: la bàn là hóa thạch thật",
+   "hook": "Kết quả chụp chiếu:\nla bàn là [HÓA THẠCH THẬT]",
+   "segments": [
+    {
+     "clip": "03.1"
+    },
+    {
+     "clip": "03.2"
+    },
+    {
+     "clip": "03.3"
+    }
+   ],
+   "caption": "Viên hổ phách nằm cạnh la bàn có bốn vết rạn, bên trong như có ánh sáng bị nhốt lại. Kết quả chụp chiếu khiến Linh lạnh người: đồng đã biến thành khoáng chất, chiếc la bàn là hóa thạch thật. “Hóa thạch là lá thư mà quá khứ gửi cho tương lai.”",
+   "question": "Theo bạn ai đã mang chiếc la bàn về thời khủng long?",
+   "yt_title": "La bàn của bố hóa ra là hóa thạch thật từ thời khủng long | Hổ Phách P2",
+   "tags": [
+    "#hoathach",
+    "#bian"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "ho-phach-mo-cong-thoi-gian",
+   "top": true,
+   "title": "Hổ phách tự sáng lên, mở cổng ra kỷ băng hà",
+   "hook": "Viên hổ phách tự sáng,\n[TUYẾT BAY RA] từ vòng sáng",
+   "segments": [
+    {
+     "clip": "04.1"
+    },
+    {
+     "clip": "04.2"
+    },
+    {
+     "clip": "04.3"
+    }
+   ],
+   "caption": "Duy lén bay drone trong phòng thí nghiệm thì viên hổ phách tự sáng lên. Nắng xuyên qua nó thành một vòng tròn vàng trên sàn, rồi vòng sáng to dần… và tuyết bắt đầu bay ra. “Anh hứa không bước vào đâu! Thật đấy!”",
+   "question": "Bạn có dám bước vào vòng sáng đó không?",
+   "yt_title": "Viên hổ phách tự sáng lên, tuyết bay ra từ vòng tròn trên sàn | Hổ Phách P3",
+   "tags": [
+    "#xuyenkhong",
+    "#kybangha"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "bao-tuyet-va-dan-voi-ma-mut",
+   "top": true,
+   "title": "Bão tuyết và cả đàn voi ma mút lao tới",
+   "hook": "Bão tuyết phía sau,\n[ĐÀN VOI MA MÚT] phía trước",
+   "segments": [
+    {
+     "clip": "06.2"
+    },
+    {
+     "clip": "06.3"
+    },
+    {
+     "clip": "06.4"
+    }
+   ],
+   "caption": "Giữa thảo nguyên băng, bão tuyết ập đến nhanh hơn ngựa phi, và đàn voi ma mút đang chạy thẳng về phía hai người. Linh hét: “Ra sau tảng đá kia ngay! Voi chạy theo bầy sẽ tự rẽ vòng quanh vật cản!” Chúng rẽ thật… nhưng mặt trời vừa bị mây nuốt mất.",
+   "question": "Bạn sẽ chạy hay nấp sau tảng đá?",
+   "yt_title": "Bão tuyết sau lưng, đàn voi ma mút lao tới trước mặt | Hổ Phách P4",
+   "tags": [
+    "#voimamut",
+    "#sinhton"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "sap-chet-cong-va-bo-ba-thuy",
+   "title": "Sắp chết cóng, cứu mạng bằng một con bọ ba thùy",
+   "hook": "Sắp chết cóng, chỉ còn\n[MỘT KHE NẮNG]",
+   "segments": [
+    {
+     "clip": "07.2"
+    },
+    {
+     "clip": "07.3"
+    },
+    {
+     "clip": "07.4"
+    }
+   ],
+   "caption": "Đang tê cóng giữa bão tuyết thì một khe nắng mở ra. Hổ phách phải chạm vào hóa thạch mới mở cổng, và thứ duy nhất trong túi Linh là một con bọ ba thùy 500 triệu năm tuổi. “Duy ơi, nếu bên kia không có không khí để thở thì sao?”",
+   "question": "Bạn sẽ nhảy vào cổng khi chưa biết bên kia là gì chứ?",
+   "yt_title": "Sắp chết cóng, mở cổng thời gian bằng hóa thạch bọ ba thùy | Hổ Phách P5",
+   "tags": [
+    "#xuyenkhong",
+    "#sinhton"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "chuon-chuon-khong-lo-ky-than-da",
+   "title": "Chuồn chuồn to bằng cái diều đậu lên mũ anh",
+   "hook": "Chuồn chuồn to bằng\n[CÁI DIỀU] đậu lên mũ",
+   "segments": [
+    {
+     "clip": "11.2"
+    },
+    {
+     "clip": "11.3"
+    },
+    {
+     "clip": "11.4"
+    }
+   ],
+   "caption": "Giữa rừng than đá 300 triệu năm, một con chuồn chuồn Meganeura sải cánh gần một mét nhìn chằm chằm vào Duy rồi đậu lên mũ anh. Và lần đầu tiên từ hôm qua, Linh bật cười.",
+   "question": "Bạn có dám đứng yên khi con chuồn chuồn này đậu lên đầu không?",
+   "yt_title": "Chuồn chuồn khổng lồ sải cánh 1 mét đậu lên mũ anh | Hổ Phách P6",
+   "tags": [
+    "#tiensu",
+    "#khoahoc"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "con-ret-dai-bang-xe-may",
+   "top": true,
+   "title": "Con rết dài bằng xe máy bò qua chân anh",
+   "hook": "Con rết dài bằng xe máy\n[BÒ QUA CHÂN] anh",
+   "segments": [
+    {
+     "clip": "12.2"
+    },
+    {
+     "clip": "12.3"
+    },
+    {
+     "clip": "12.4"
+    }
+   ],
+   "caption": "Trên thân cây đổ bắc qua đầm, một con rết Arthropleura dài bằng cả chiếc xe máy bò sang. “Chân của nó còn nhiều hơn cả số người xem kênh anh!” Duy nép sát, thở đều… và hàng trăm cái chân bò qua chân anh.",
+   "question": "Gặp con rết này bạn đứng yên nổi không?",
+   "yt_title": "Con rết khổng lồ dài bằng xe máy bò qua chân anh | Hổ Phách P7",
+   "tags": [
+    "#tiensu",
+    "#rungrom"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "chay-rung-vet-nut-thu-tam",
+   "title": "Rừng cháy rực, viên hổ phách chỉ còn một lần",
+   "hook": "Rừng cháy, hổ phách\n[CÒN ĐÚNG 1 LẦN]",
+   "segments": [
+    {
+     "clip": "14.1"
+    },
+    {
+     "clip": "14.2"
+    },
+    {
+     "clip": "14.3"
+    },
+    {
+     "clip": "14.4"
+    }
+   ],
+   "caption": "Sét đánh trúng cây, khí oxy dày đặc khiến lửa chạy nhanh như nước. Hết sạch hóa thạch, Linh chỉ còn chiếc la bàn của bố. Vết nứt thứ tám xuất hiện: viên đá chỉ còn chịu được đúng một lần nữa. “Bố ơi, con đang đến chỗ của bố đây.”",
+   "question": "Bạn nghĩ cánh cổng lần này sẽ đưa họ tới đâu?",
+   "yt_title": "Rừng cháy rực, viên hổ phách chỉ còn dùng được một lần | Hổ Phách P8",
+   "tags": [
+    "#chayrung",
+    "#xuyenkhong"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "dung-giua-dan-khung-long",
+   "title": "Đứng giữa đàn khủng long, ngay bãi khai quật",
+   "hook": "Ngẩng lên thật chậm:\n[CẢ ĐÀN KHỦNG LONG]",
+   "segments": [
+    {
+     "clip": "15.1"
+    },
+    {
+     "clip": "15.2"
+    },
+    {
+     "clip": "15.3"
+    }
+   ],
+   "caption": "Mặt đất rung lên, những chiếc cổ dài như cần cẩu vươn qua tán lá. “Ngoài đời chúng còn đẹp hơn trong phim nhiều.” Rồi Linh nhận ra khúc sông bên dưới: họ đang đứng đúng chỗ cô Hạnh ngồi đào hôm qua.",
+   "question": "Bạn muốn tận mắt thấy loài khủng long nào nhất?",
+   "yt_title": "Ngẩng lên thật chậm: cả đàn khủng long cổ dài trước mặt | Hổ Phách P9",
+   "tags": [
+    "#khunglong",
+    "#tiensu"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "hoa-thach-nam-2026",
+   "title": "Kẹt ở thời khủng long, cần một hóa thạch năm 2026",
+   "hook": "Muốn về nhà, cần\n[HÓA THẠCH NĂM 2026]",
+   "segments": [
+    {
+     "clip": "16.3"
+    },
+    {
+     "clip": "16.4"
+    },
+    {
+     "clip": "17.1"
+    },
+    {
+     "clip": "17.2"
+    }
+   ],
+   "caption": "Muốn về nhà phải có một hóa thạch của năm 2026, mà chẳng có gì kịp hóa đá trong vài ngày. Đúng lúc Linh xin lỗi vì kéo Duy vào chuyện này, anh lôi ra bàn tay in thạch cao. “Nói ra cái câu mà em ghét nhất trên đời đi.”",
+   "question": "Bạn có đoán ra lời giải trước khi Duy nói không?",
+   "yt_title": "Kẹt lại thời khủng long, cần một hóa thạch của năm 2026 | Hổ Phách P10",
+   "tags": [
+    "#khunglong",
+    "#hoathach"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "tarbosaurus-danh-hoi",
+   "top": true,
+   "title": "Tarbosaurus đánh hơi ngay trên đầu hai người",
+   "hook": "Khủng long bạo chúa\n[ĐÁNH HƠI] ngay trên đầu",
+   "segments": [
+    {
+     "clip": "18.2"
+    },
+    {
+     "clip": "18.3"
+    },
+    {
+     "clip": "18.4"
+    }
+   ],
+   "caption": "Tarbosaurus, họ hàng châu Á của khủng long bạo chúa, đứng chắn giữa hai người và bãi trống. “Đừng nhúc nhích gì cả. Mắt nó nhìn vật chuyển động giỏi hơn vật đứng yên.” Duy nghĩ ra một cách, nhưng phải đánh đổi thứ đáng tiền nhất của anh.",
+   "question": "Bạn sẽ hy sinh thứ gì để thoát thân?",
+   "yt_title": "Khủng long bạo chúa đánh hơi ngay trên đầu hai người | Hổ Phách P11",
+   "tags": [
+    "#khunglong",
+    "#sinhton"
+   ]
+  },
+  {
+   "n": 12,
+   "slug": "tha-drone-mat-ca-kenh",
+   "top": true,
+   "title": "Thả drone dụ khủng long, mất 3 năm video",
+   "hook": "Thả drone dụ khủng long,\nmất [3 NĂM VIDEO]",
+   "segments": [
+    {
+     "clip": "19.1"
+    },
+    {
+     "clip": "19.2"
+    },
+    {
+     "clip": "19.3"
+    }
+   ],
+   "caption": "Duy cho chiếc drone bay vòng qua đầu Tarbosaurus, kêu thật to để dụ nó vào rừng. Ba năm quay phim của anh nằm hết trong chiếc hộp nhỏ ấy. “Kênh thì làm lại được. Còn em thì không ai làm lại được đâu.”",
+   "question": "Nếu là Duy, bạn có thả chiếc drone đi không?",
+   "yt_title": "Thả drone dụ khủng long, mất trắng 3 năm video | Hổ Phách P12",
+   "tags": [
+    "#khunglong",
+    "#camdong"
+   ]
+  }
+ ]
+}

@@ -47,6 +47,7 @@ extension/_metadata/
 stickman/_tools/models/
 stickman/*/flow_refs/*.tar
 stickman/11-12-khoanh-khac/project_src_12kk.tgz
+stickman/12-the-chien-1/project_src_ww1.tgz
 tools/filmcraft/
 **/.venv*/
 human-exe/**/*.aiff

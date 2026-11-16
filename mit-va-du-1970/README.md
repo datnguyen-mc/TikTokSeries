@@ -35,3 +35,4 @@
 - [Tập 27 — Con bù nhìn rơm giống ba & Bầy chim sẻ phá ruộng lúa chín](tap-27/README.md)
 - [Tập 32 — Ba Mit tập bưng mâm quả & Cái bánh phu thê để dành cho má](tap-32/README.md)
 - [Tập 33 — Ba Mit đi gặt mướn xa về & Món quà con thích nhứt](tap-33/README.md)
+- [Tập 34 — Bó bông mua tặng cô Hai & Người thầy chưa từng đi học](tap-34/README.md)

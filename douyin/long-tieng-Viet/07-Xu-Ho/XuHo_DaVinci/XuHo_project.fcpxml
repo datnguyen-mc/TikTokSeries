@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1280" height="720"/>
+<effect id="r23" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r24" name="Audio Crossfade" uid="FFAudioTransition"/>
+<effect id="r73" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
+<asset id="rV" name="XuHo_nguon-sach" start="0s" duration="8677/15s" hasVideo="1" format="r1" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/07-Xu-Ho/XuHo_DaVinci/XuHo_nguon-sach.mp4"/></asset>
+<asset id="rA" name="XuHo_audio" start="0s" duration="25737600/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/07-Xu-Ho/XuHo_DaVinci/XuHo_audio.wav"/></asset>
+</resources>
+<library><event name="Xu Ho"><project name="07 - XU HO (long tieng)">
+<sequence format="r1" duration="2681/5s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="rV" offset="0s" name="XuHo_nguon-sach" start="0s" duration="157/15s" format="r1"><asset-clip ref="rA" lane="-1" offset="0s" name="XuHo_audio" start="0s" duration="25737600/48000s" audioRole="dialogue"/></asset-clip>
+<gap name="Title" offset="157/15s" duration="4s" start="3600s"><title ref="r73" lane="1" offset="18001/5s" name="XÚ HỒ" start="3600s" duration="19/5s"><param name="Position" key="9999/999166631/999166633/1/100/101" value="0 0"/><param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/><text><text-style ref="ts1">XÚ HỒ</text-style></text><text-style-def id="ts1"><text-style font="Times New Roman" fontSize="110" fontColor="1 1 1 1" bold="1" alignment="center"/></text-style-def></title></gap>
+<asset-clip ref="rV" offset="217/15s" name="XuHo_nguon-sach" start="13s" duration="127/30s" format="r1"/>
+<transition name="Cross Dissolve" offset="277/15s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rV" offset="187/10s" name="XuHo_nguon-sach" start="296/15s" duration="5/2s" format="r1"/>
+<transition name="Cross Dissolve" offset="629/30s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rV" offset="106/5s" name="XuHo_nguon-sach" start="371/15s" duration="23/6s" format="r1"/>
+<transition name="Cross Dissolve" offset="124/5s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rV" offset="751/30s" name="XuHo_nguon-sach" start="208/5s" duration="265/6s" format="r1"/>
+<transition name="Cross Dissolve" offset="2069/30s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rV" offset="346/5s" name="XuHo_nguon-sach" start="2861/30s" duration="236/15s" format="r1"/>
+<transition name="Cross Dissolve" offset="847/10s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rV" offset="1274/15s" name="XuHo_nguon-sach" start="3511/30s" duration="259/5s" format="r1"/>
+<transition name="Cross Dissolve" offset="273/2s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rV" offset="2051/15s" name="XuHo_nguon-sach" start="1061/6s" duration="695/3s" format="r1"/>
+<transition name="Cross Dissolve" offset="2209/6s" duration="1/2s"><filter-video ref="r23" name="Cross Dissolve"/><filter-audio ref="r24" name="Audio Crossfade"/></transition>
+<asset-clip ref="rV" offset="1842/5s" name="XuHo_nguon-sach" start="2061/5s" duration="824/5s" format="r1"/>
+</spine></sequence></project></event></library>
+</fcpxml>

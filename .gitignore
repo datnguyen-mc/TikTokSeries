@@ -42,3 +42,11 @@ extension/_metadata/
 # Local env
 .env
 .env.local
+
+# Large binaries — keep local only (GitHub rejects files > 100 MB)
+stickman/_tools/models/
+stickman/*/flow_refs/*.tar
+stickman/11-12-khoanh-khac/project_src_12kk.tgz
+tools/filmcraft/
+**/.venv*/
+human-exe/**/*.aiff

@@ -7,8 +7,8 @@
 <effect id="r23" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
 <effect id="r24" name="Audio Crossfade" uid="FFAudioTransition"/>
 <effect id="r25" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
-<asset id="rH" name="7683572280718298431" start="0s" duration="18452/30s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/06-7683572280718298431.mp4"/></asset>
-<asset id="rA" name="SaLang_audio" start="0s" duration="27309600/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/douyin/long-tieng-Viet/06-Sa-Lang-khach-diem/SaLang_DaVinci/SaLang_audio.wav"/></asset>
+<asset id="rH" name="7683572280718298431" start="0s" duration="18452/30s" hasVideo="1" format="r2" hasAudio="0"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/METACREW/TikTokSeries/douyin/06-7683572280718298431.mp4"/></asset>
+<asset id="rA" name="SaLang_audio" start="0s" duration="27309600/48000s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/METACREW/TikTokSeries/douyin/long-tieng-Viet/06-Sa-Lang-khach-diem/SaLang_DaVinci/SaLang_audio.wav"/></asset>
 </resources>
 <library><event name="MakeMyClip"><project name="project"><sequence format="r1" duration="2829/5s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
 <asset-clip ref="rH" offset="0s" name="7683572280718298431" start="438/30s" duration="67/30s" format="r2"><adjust-transform scale="1.1 1.1" position="0 -4.55"/><asset-clip ref="rA" lane="-1" offset="438/30s" name="SaLang_audio" start="0s" duration="27309600/48000s" audioRole="dialogue"/></asset-clip>

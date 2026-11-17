@@ -1,0 +1,46 @@
+{
+  "series": "vo-toi-mat-tri-nho",
+  "title": "Vợ Tôi Mất Trí Nhớ Có Chọn Lọc",
+  "clip_seconds": 15,
+  "style": "Photorealistic live-action Vietnamese romantic family comedy-drama set in a modern Vietnamese city today among the stylish upper-middle class; glossy premium streaming-series look, flattering beauty lighting on every face, creamy luminous skin tones, warm golden highlights, rich teal-and-amber palette, elegant wardrobe, subtle 35mm film grain, shallow depth of field.",
+  "lighting": "Flattering soft key light on every face: golden city-light bokeh and candlelight on the rooftop at night, warm crystal chandeliers in the hotel lobby, clean soft white daylight in the hospital and the yoga studio, bright airy sun in the villa by day, warm amber lamps in the villa at night, golden window light in the café, yellow bulb strings at the lakeside food stall, glowing fairy lights at the garden party.",
+  "voice_common": "every character speaks standard Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.",
+  "characters": {
+    "@Linh": {
+      "name": "Linh",
+      "anchor": "Linh, 32, Quân's wife, a former fashion model and beauty-pageant winner who gave up the runway for her family and is now faking amnesia; breathtakingly beautiful leading lady, tall and graceful with model proportions, flawless luminous fair skin, long silky straight black hair falling past her shoulders, large bright almond-shaped dark eyes, high cheekbones, a radiant smile, soft natural makeup with rosy lips; elegant ivory silk blouse, high-waisted cream wide-leg trousers, delicate pearl earrings, nude heels.",
+      "voice": "woman of 32, clear warm alto with an elegant Northern lilt, playful and bright when acting young",
+      "rate": 4.0
+    },
+    "@Quan": {
+      "name": "Quân",
+      "anchor": "Quân, 36, Linh's husband, CEO of a luxury interior-design company; strikingly handsome leading man, tall and athletic, sharp jawline, neatly styled short black hair with a side part, warm expressive dark eyes, light designer stubble, a charming dimpled smile; tailored navy suit, crisp white shirt open at the collar with no tie, silver wristwatch, polished brown leather shoes.",
+      "voice": "man of 36, smooth resonant baritone, confident and charming, cracking higher when flustered",
+      "rate": 4.0
+    },
+    "@MaiAnh": {
+      "name": "Mai Anh",
+      "anchor": "Mai Anh, 25, a yoga instructor and lifestyle influencer who is Quân's secret girlfriend; gorgeous and radiant, slim and toned, glowing golden-tan skin, long glossy wavy chestnut-brown hair, big doe eyes with long lashes, a sweet heart-shaped face, glossy pink lips; soft pink knit cardigan over a fitted white top, light-blue straight jeans, white sneakers, small gold hoop earrings.",
+      "voice": "young woman of 25, bright airy soprano, bubbly and quick, turning small and soft when hurt",
+      "rate": 4.0
+    },
+    "@Khang": {
+      "name": "Khang",
+      "anchor": "Khang, 34, a rehabilitation doctor and Linh's old university friend; handsome in a gentle intellectual way, tall and lean, fair clear skin, soft tousled black hair, kind calm eyes behind thin rimless glasses, a dry half-smile; crisp white doctor's coat over a light-blue shirt and grey trousers, a stethoscope around the neck, white sneakers.",
+      "voice": "man of 34, calm gentle tenor, dry deadpan humour, never in a hurry",
+      "rate": 4.0
+    },
+    "@Tuan": {
+      "name": "Tuấn",
+      "anchor": "Tuấn, 35, Quân's personal assistant and best friend, a hopeless liar; cheerful boyish good looks, fresh clean-shaven face with deep dimples, bright lively eyes, thick slightly wavy black hair, a stocky friendly build; light-beige suit, pale-pink shirt with no tie, brown loafers, a tablet always tucked under one arm.",
+      "voice": "man of 35, lively nasal comic tenor, gabbling fast whenever he lies",
+      "rate": 4.0
+    },
+    "@Bong": {
+      "name": "Bống",
+      "anchor": "Bống, 7, Linh and Quân's daughter; adorable little girl with a round rosy face, huge sparkling dark eyes, straight black bangs and two high pigtails with yellow ribbons, a gap-toothed grin; yellow cotton dress with a white Peter Pan collar, white socks, small red shoes.",
+      "voice": "girl of 7, high clear child voice, very earnest and bright",
+      "rate": 3.8
+    }
+  }
+}

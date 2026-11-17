@@ -1,0 +1,1773 @@
+[
+ {
+  "num": 13,
+  "title": "Day Six: Roar Doesn't Return (Ngày 6: Roar không về)",
+  "time_label": "Sáng sương ngày 6 (12:00–13:00)",
+  "location": "Cửa hang thời băng hà buổi sáng sương mù: thềm đất trước hang, măng đá hình voi ma mút mờ trong sương, thung lũng tuyết chìm trong sương trắng đục, ổ nằm bằng lông thú trống trơn bên cửa hang.",
+  "axis": "Ở 13.1 máy quay đứng sâu trong hang nhìn ra cửa hang: ổ lông thú trống bên trái, màn sương trắng phủ thung lũng ngoài cửa hang ở xa; ở 13.2–13.3 máy quay đứng trên dốc rừng thông, dãy dấu chân chạy từ trái sang phải xuống dốc, các tảng đá xám ở phía dưới bên phải; ở 13.4 máy quay luân phiên nhìn từ miệng hố xuống đáy hố và từ đáy hố lên miệng hố, cây thông to ở bên trái miệng hố.",
+  "props": "Ổ lông thú trống trơn, sừng lửa của Grandma Moon, áo choàng da và túi cứu thương đỏ của Mia, dãy dấu chân dài trên tuyết, cành thông gãy và vệt tuyết vừa rơi khỏi cành, cái còi bạc nhỏ đeo dây của Mia, ngọn giáo của Roar gãy đôi dưới đáy hố, camera đeo ngực của Leo.",
+  "setting": "Early misty morning at the mouth of the Ice Age clan cave: thick white mist over the snowy valley below, cool grey-blue light, the mammoth-shaped stalagmite faint inside, an empty bed of furs just inside the entrance.",
+  "_setting_key": "CAVE_MOUTH_MIST",
+  "clips": [
+   {
+    "id": "13.1",
+    "chars": [
+     "@Moon",
+     "@Mia"
+    ],
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "His bed is cold. He went alone, before light, after the woolly horn-beast. To show the clan he is still first.",
+      "pace": "slow",
+      "tone": "slow and heavy, quiet worry under the calm"
+     },
+     {
+      "speaker": "@Mia",
+      "line": "Alone, with one spear? Then he's in trouble. We'll find him.",
+      "pace": "normal",
+      "tone": "decisive and steady, already moving"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "a cold dawn wind sighing across the cave mouth, water dripping from the rock, the soft rustle of empty furs, pierced shells clicking on a necklace, a distant crow calling in the mist",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of @Moon kneeling beside the empty bed of furs just inside the misty cave mouth, her palm on the furs, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Moon's deeply lined face turned toward the thick white mist, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind @Mia onto @Moon beside the empty furs, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Mia knotting the tie of her hide cape at her collar, her eyes on the mist, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Mia stepping out of the cave mouth toward the white mist with @Moon kneeling by the empty furs behind her, locked off"
+     }
+    ],
+    "steps": [
+     "@Moon kneels beside the empty bed of furs just inside the misty cave mouth, lays her palm flat on it and is already speaking slowly.",
+     "@Moon keeps talking slowly in her low husky voice, pressing her weathered palm into the cold, flattened furs.",
+     "@Moon lifts her hand and rubs her cold fingertips together as she goes on, her brow deeply lined.",
+     "@Moon turns her pale eyes toward the thick white mist hanging over the valley as she keeps speaking.",
+     "@Moon points one gnarled finger out into the grey mist toward the hidden slopes as she goes on slowly.",
+     "@Moon keeps speaking, her gaze fixed on the mist, her shell necklace clicking softly with each breath.",
+     "@Moon lowers her hand and goes on in the same heavy voice, her jaw tight, the fire horn at her hip.",
+     "@Moon slowly shakes her head as she keeps talking, her thick white braid shifting on her reindeer-hide cloak.",
+     "@Moon says the last words very slowly, her pale eyes still searching the white mist below the cave.",
+     "@Moon finishes and closes her mouth, while @Mia, standing beside her, pulls her hide cape tight around her shoulders.",
+     "@Mia knots the leather tie of her cape at her collar and starts speaking at an even pace, her jaw set.",
+     "@Mia keeps talking, giving the red first-aid pouch on her belt a quick pat, her green eyes on the mist.",
+     "@Mia turns to @Moon as she goes on, her voice low and firm, one hand resting on the old woman's shoulder.",
+     "@Mia says the last words with a short decisive nod, then steps out of the cave mouth toward the mist.",
+     "@Mia stands at the edge of the misty terrace with her mouth closed, while @Moon watches her from beside the empty furs."
+    ],
+    "_hinh": "Grandma Moon đặt tay lên ổ lông thú trống trơn, lạnh ngắt, nhìn ra màn sương. Mia đứng cạnh, khoác áo choàng da, siết dây ba lô.",
+    "_plan": [
+     "@Moon 0.4–9.5s",
+     "@Mia 10.0–14.0s"
+    ]
+   },
+   {
+    "id": "13.2",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "Fresh tracks, long strides. He was running. See the broken twig, the snow knocked off the branch? This way, quickly.",
+      "pace": "normal",
+      "tone": "a focused tracker's voice, quick and sure"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "You read snow like a book. Seriously, is there anything you can't do?",
+      "pace": "fast",
+      "tone": "fast and openly admiring, a little awed"
+     }
+    ],
+    "continuity": "cut",
+    "setting": "A snowy pine forest on the valley slope in the Ice Age, morning: deep fresh snow with a line of long-striding footprints, broken twigs, snow knocked off low branches, scattered grey boulders down the slope, shafts of cold sunlight through the trees.",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "boots crunching in deep powder snow, a pine branch creaking, the soft hush of snow sliding off a bough, quiet breathing, a far-off bird call in the pine forest",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "24mm wide shot of @Mia kneeling beside a line of long footprints in the deep snow of the pine forest with @Leo standing behind her, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "100mm extreme close-up of @Mia's finger pointing at a freshly broken twig on a low pine branch, her face in soft focus behind it, locked off"
+     },
+     {
+      "until": 8,
+      "camera": "50mm medium shot of @Mia rising to a crouch and pointing down the slope along the tracks, handheld"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of @Leo gazing at her with a wide admiring grin, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Mia and @Leo setting off down the slope along the tracks between the pines, handheld follow"
+     }
+    ],
+    "steps": [
+     "@Mia kneels in the deep fresh snow beside a line of long-striding footprints and is already speaking at an even pace, one bare hand over a print.",
+     "@Mia keeps talking, spreading her fingers to measure the long gap between two footprints in the snow.",
+     "@Mia traces the deep dent at the front of a print with one finger as she goes on, her eyes narrowed.",
+     "@Mia points at a freshly broken twig hanging from a low pine branch as she keeps talking.",
+     "@Mia's finger moves to a bare patch on the branch where the snow has been knocked off, and she goes on talking.",
+     "@Mia rises into a crouch and points down the slope along the line of footprints as she keeps talking.",
+     "@Mia glances back over her shoulder at @Leo and says the last words briskly, already moving.",
+     "@Mia finishes and closes her mouth, brushing snow from her knees, as @Leo bends low to follow her pointing hand.",
+     "@Leo straightens up, looks at @Mia instead of the tracks and starts speaking fast with a wide grin.",
+     "@Leo keeps talking quickly, waving a hand over the footprints as if they were the pages of an open book.",
+     "@Leo shakes his head in wonder as he goes on, his grey-blue eyes shining at her.",
+     "@Leo asks the last question with his eyebrows high and his palms turned up, then closes his mouth.",
+     "@Mia gives a tiny dry shrug, mouth closed, the corner of her lips twitching into a half-smile.",
+     "@Mia turns away down the slope following the tracks, and @Leo hurries after her, both mouths closed.",
+     "@Mia and @Leo move quickly down the snowy slope between the pines along the footprints, silent, shafts of cold sunlight falling across them."
+    ],
+    "_hinh": "Rừng thông phủ tuyết. Mia quỳ bên một dãy dấu chân dài trên tuyết, chỉ vào một cành gãy và một vệt tuyết vừa rơi khỏi cành thông. Leo cúi xuống nhìn theo tay cô, rồi nhìn cô đầy ngưỡng mộ.",
+    "_setting_key": "PINE_FOREST_SNOW",
+    "_plan": [
+     "@Mia 0.4–7.6s",
+     "@Leo 8.1–12.0s"
+    ]
+   },
+   {
+    "id": "13.3",
+    "chars": [
+     "@Leo",
+     "@Mia"
+    ],
+    "turns": [
+     {
+      "speaker": "@Leo",
+      "line": "Three short whistles in a row means help. If he hears it, he'll shout back.",
+      "pace": "normal",
+      "tone": "clear and instructive, hushed urgency"
+     },
+     {
+      "speaker": "@Mia",
+      "line": "There! Did you hear that? A voice, down past the rocks! Come on!",
+      "pace": "fast",
+      "tone": "sharp and urgent, breathless"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "That's him! Go, go, go!",
+      "pace": "fast",
+      "tone": "excited and fast, a burst of relief"
+     }
+    ],
+    "continuity": "cut",
+    "setting": "A snowy pine forest on the valley slope in the Ice Age, morning: deep fresh snow with a line of long-striding footprints, broken twigs, snow knocked off low branches, scattered grey boulders down the slope, shafts of cold sunlight through the trees.",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "three short shrill whistle bursts echoing through the pines, a faint deep shout from far down the slope, boots crunching and sliding in powder snow, quick breathing, snow pattering from branches",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm medium two-shot of @Leo explaining among the snowy pines while @Mia beside him pulls a small silver whistle on a cord from her collar, handheld"
+     },
+     {
+      "until": 7,
+      "camera": "100mm extreme close-up of @Mia's face as the small silver whistle meets her lips, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of @Mia pointing down the slope past the grey boulders, handheld"
+     },
+     {
+      "until": 13,
+      "camera": "50mm medium shot of @Leo shouting with a huge grin, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Mia and @Leo plunging down the snowy slope past the scattered grey boulders, handheld follow"
+     }
+    ],
+    "steps": [
+     "@Leo stands among the snowy pines beside @Mia and is already speaking at an even pace, holding up three fingers.",
+     "@Leo keeps talking, tapping each raised finger in turn, while @Mia pulls a small silver whistle on a cord from inside her collar.",
+     "@Leo cups a hand behind his ear and nods toward the slope below as he goes on explaining.",
+     "@Leo keeps talking, miming a shout with one hand beside his mouth, as @Mia lifts the whistle toward her lips.",
+     "@Leo says the last words and gives @Mia a quick nod, his eyes bright, his breath clouding.",
+     "@Leo finishes and closes his mouth, and @Mia's whistle blows three short shrill bursts that echo through the snowy pines.",
+     "@Mia lowers the whistle and freezes with her head cocked toward a faint distant shout, then starts speaking fast, eyes wide.",
+     "@Mia keeps talking quickly, flinging out one arm to point down the slope past the scattered grey boulders.",
+     "@Mia takes hold of @Leo's sleeve as she goes on, still pointing, her breath clouding fast in the cold air.",
+     "@Mia tugs his sleeve toward the slope as she keeps talking, her boots already turning downhill.",
+     "@Mia finishes and closes her mouth, already turning downhill, as @Leo's face lights up and he starts shouting.",
+     "@Leo keeps shouting fast, waving both arms toward the boulders below, a huge grin on his face.",
+     "@Leo shouts the last words, closes his mouth and plunges down the slope after @Mia.",
+     "@Mia and @Leo run down the snowy slope between the pines, sending up sprays of powder, both mouths closed.",
+     "@Mia and @Leo race past the scattered grey boulders down the slope through the shafts of sunlight, silent."
+    ],
+    "_hinh": "Giữa rừng thông tuyết, Leo giải thích, Mia đưa còi lên môi thổi ba hồi ngắn. Cả hai nín thở lắng nghe; Mia chỉ tay về phía mấy tảng đá dưới dốc, rồi cả hai chạy ào xuống.",
+    "_setting_key": "PINE_FOREST_SNOW",
+    "_plan": [
+     "@Leo 0.4–5.8s",
+     "@Mia 6.3–10.2s",
+     "@Leo 10.7–12.2s"
+    ]
+   },
+   {
+    "id": "13.4",
+    "chars": [
+     "@Roar",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Go away, strangers. I don't need your help. I fell in on purpose. To rest my legs.",
+      "pace": "normal",
+      "tone": "gruff and stubborn, hiding the pain"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Sure. Lovely spot for a nap. Very private. We're getting you out anyway, big man.",
+      "pace": "fast",
+      "tone": "fast and teasing, grinning down at him"
+     }
+    ],
+    "continuity": "cut",
+    "setting": "A sinkhole in a snowy pine forest in the Ice Age at midday: a pit about three meters deep with steep walls of earth, rock and tangled roots, snow and collapsed earth at the bottom, a big pine tree right at the edge of the rim, slanting sunlight through the pines.",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "sfx": "loose earth and pebbles trickling down the pit walls, wind moving through the pine tops, a man's heavy breathing below, snow crunching under knees at the rim",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "24mm high-angle wide shot looking down into the sinkhole at @Roar sitting at the bottom among snow and collapsed earth, his spear broken in two beside him, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Roar looking up with his jaw set, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "35mm low-angle medium shot of @Leo kneeling at the rim of the pit beside the big pine, grinning down, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind @Leo at the rim down onto @Roar at the bottom of the pit, locked off"
+     }
+    ],
+    "steps": [
+     "At the bottom of the snowy sinkhole @Roar sits among collapsed earth with his left leg stretched out stiffly and is already speaking in a deep rough growl.",
+     "@Roar keeps talking, flapping one big hand up at the rim as if shooing a fly, his jaw clenched.",
+     "@Roar folds his arms across his hide tunic as he goes on, trying to look relaxed, a wince crossing his face.",
+     "Beside @Roar his long spear lies broken in two on the snow as he keeps growling, his eyes avoiding it.",
+     "@Roar lifts his heavy brows and keeps talking with a stubborn scowl, his swollen left ankle stretched out in front of him.",
+     "@Roar leans back against the root-tangled earth wall and says the last words as if resting by choice.",
+     "@Roar finishes and closes his mouth with a curt nod, his chest rising with a sharp breath.",
+     "Up at the rim beside the big pine, @Leo kneels in the snow, grins down into the pit and starts speaking fast.",
+     "@Leo keeps talking with a broad grin, sweeping one hand around the pit like a hotel host showing off a room.",
+     "@Leo cups a hand beside his mouth in mock secrecy as he goes on, his eyebrows dancing.",
+     "@Leo points straight down at @Roar and says the last words, his grin turning determined.",
+     "@Leo finishes and closes his mouth, still grinning, and leans further out over the crumbling rim.",
+     "Down in the pit @Roar glares up with his mouth closed and drags his fur-wrapped foot a little closer, wincing.",
+     "@Roar looks away at the broken spear beside him, lips pressed tight, his breath clouding in the cold air.",
+     "@Leo stays kneeling at the rim above @Roar, both silent, as clumps of snow trickle down the earth wall into the pit."
+    ],
+    "_hinh": "Roar ngồi dưới đáy một hố sụt sâu chừng ba mét giữa rừng thông, tuyết và đất lở quanh người, chân trái duỗi thẳng, ngọn giáo gãy đôi bên cạnh, cố tỏ ra bình thản. Trên miệng hố, Leo quỳ nhìn xuống, cười.",
+    "_setting_key": "SINKHOLE",
+    "_plan": [
+     "@Roar 0.4–6.7s",
+     "@Leo 7.2–11.7s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 14,
+  "title": "The Sinkhole (Hố sụt)",
+  "time_label": "Trưa ngày 6 (13:00–14:00)",
+  "location": "Một hố sụt sâu chừng ba mét giữa rừng thông phủ tuyết thời băng hà: miệng hố lởm chởm đất đá và rễ cây, đáy hố đầy tuyết và đất lở, một cây thông to mọc sát miệng hố, ánh nắng xiên qua tán thông.",
+  "axis": "Máy quay đứng trên miệng hố cạnh cây thông to: miệng hố ở giữa khung, gốc thông bên trái, rừng thông phủ tuyết phía sau; ở 14.2 máy quay xuống đáy hố, Roar ngồi tựa vách đất bên phải, Leo quỳ bên trái, miệng hố sáng ở phía trên; ở 14.4 Roar ngồi trên tuyết sát miệng hố, Mia bên phải anh.",
+  "props": "Áo choàng da của Mia bị cắt mép, ba dải da tết thành dây, dụng cụ đa năng nhỏ (multitool), hai que gỗ thẳng làm nẹp, chiếc khăn bandana đỏ của Leo, nút ghế (bowline) ở đầu dây, thân cây thông làm điểm tựa, ngọn giáo gãy đôi, gậy gỗ của Roar.",
+  "setting": "A sinkhole in a snowy pine forest in the Ice Age at midday: a pit about three meters deep with steep walls of earth, rock and tangled roots, snow and collapsed earth at the bottom, a big pine tree right at the edge of the rim, slanting sunlight through the pines.",
+  "_setting_key": "SINKHOLE",
+  "clips": [
+   {
+    "id": "14.1",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "Three strips of hide, braided tight. One strip alone snaps. Three together can hold a grown man.",
+      "pace": "normal",
+      "tone": "practical and brisk, teaching"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Like us. Two alone, pretty useless. Together, apparently, we can hold one very grumpy caveman down there.",
+      "pace": "slow",
+      "tone": "slow and wry, a fond grin"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "the squeak of hide strips pulled tight, the small click of a folding multitool, wind in the pine branches, earth crumbling at the rim, soft breathing",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium two-shot of @Mia and @Leo kneeling at the rim of the sinkhole beside the big pine, @Mia cutting strips of hide from the hem of her cape with a small multitool, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Mia braiding three strips of hide with quick tight pulls, her face bent over the braid, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "35mm over-the-shoulder shot from behind @Mia onto @Leo holding the end of the braid with a lopsided smile, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium two-shot of @Mia and @Leo at the rim with the finished braided rope stretched between them, handheld"
+     }
+    ],
+    "steps": [
+     "@Mia kneels at the sinkhole rim, slices a long strip from the hem of her hide cape with a small multitool and is already speaking.",
+     "@Mia keeps talking evenly, laying three long strips of hide side by side on the snow in front of her.",
+     "@Mia holds up one single strip and gives it a sharp tug as she goes on, showing how thin it is.",
+     "@Mia hands the three knotted ends to @Leo to hold and keeps talking, her fingers already crossing the strips.",
+     "@Mia braids the three strips over and under with quick tight pulls as she keeps speaking, her eyes on her work.",
+     "@Mia pulls the braid tight and says the last words, glancing up at @Leo with a raised eyebrow.",
+     "@Mia finishes and closes her mouth, braiding on with quick fingers, while @Leo holds the knotted end steady.",
+     "@Leo looks from the braid to @Mia's face and starts speaking slowly, a lopsided smile spreading.",
+     "@Leo keeps talking slowly, pointing one finger at himself and then at @Mia, his eyebrows raised.",
+     "@Leo lets a loose strip of hide flop limply over his fingers as he goes on, pulling a comic face.",
+     "@Leo gives the finished braid a firm tug between his hands as he keeps talking, nodding at how strong it is.",
+     "@Leo jerks his thumb toward the dark pit beside them as he goes on, his grin widening.",
+     "@Leo leans over the crumbling rim to peer down into the sinkhole as he keeps talking with a smirk.",
+     "@Leo says the last words and closes his mouth, his eyes twinkling as he looks back at @Mia.",
+     "@Mia shakes her head with a dry half-smile, mouth closed, and pulls the braided rope tight between her fists."
+    ],
+    "_hinh": "Bên miệng hố, Mia cắt ba dải da dài từ mép áo choàng, tết chặt thành một sợi dây. Leo giữ một đầu dây cho cô tết, nhìn cô rồi nhìn sợi dây.",
+    "_plan": [
+     "@Mia 0.4–6.5s",
+     "@Leo 7.0–13.8s"
+    ]
+   },
+   {
+    "id": "14.2",
+    "chars": [
+     "@Leo",
+     "@Roar"
+    ],
+    "turns": [
+     {
+      "speaker": "@Leo",
+      "line": "Straight sticks, both sides. My lucky bandana holds it. Don't move.",
+      "pace": "normal",
+      "tone": "calm and practical, steadying"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Why do you help me? I wanted the white to take you.",
+      "pace": "normal",
+      "tone": "rough and puzzled, almost a mutter"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Because nobody gets left in a hole. Not even you.",
+      "pace": "slow",
+      "tone": "slow and honest, quietly firm"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "sfx": "cloth rustling as a bandana is untied, sticks scraping on frozen earth, a sharp hiss of breath through gritted teeth, loose soil trickling down the pit walls, wind high in the pines",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium two-shot of @Leo kneeling beside @Roar at the bottom of the pit, laying two straight sticks along @Roar's swollen left ankle, handheld"
+     },
+     {
+      "until": 9,
+      "camera": "35mm over-the-shoulder shot from behind @Leo onto @Roar gritting his teeth as @Leo unties the red bandana from his own wrist, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Leo looking up from the splint into @Roar's eyes, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "100mm extreme close-up of the red bandana knotted tight around the two straight sticks on @Roar's ankle, locked off"
+     }
+    ],
+    "steps": [
+     "@Leo kneels in the snow at the bottom of the pit beside @Roar, lays a straight stick along his swollen left ankle and is already speaking evenly.",
+     "@Leo keeps talking, setting a second straight stick along the inside of the ankle and holding both in place with one hand.",
+     "@Leo taps the red bandana on his own left wrist with a little grin as he goes on talking.",
+     "@Leo holds up a flat palm toward @Roar's face as he says the last words, his eyebrows raised firmly.",
+     "@Leo finishes and closes his mouth, and @Roar, gritting his teeth, starts speaking low and rough, staring at him.",
+     "@Roar keeps talking in a gruff rumble as @Leo pulls at the knot of the red bandana on his own left wrist.",
+     "@Roar narrows his eyes under his heavy brows as he goes on, watching @Leo slide the red bandana off his wrist.",
+     "@Roar glances at the snow piled around them in the pit as he keeps talking, his jaw tight.",
+     "@Roar says the last words more quietly, his gaze dropping to the red cloth in @Leo's hands.",
+     "@Roar finishes and closes his mouth, breathing hard, as @Leo wraps the red bandana around both sticks and starts speaking slowly.",
+     "@Leo keeps talking slowly, pulling the bandana snug around the splint and looking up into @Roar's eyes.",
+     "@Leo ties a firm double knot as he goes on, his voice low and steady, his face serious for once.",
+     "@Leo holds @Roar's gaze and says the next words with a small, crooked smile.",
+     "@Leo says the last words quietly and closes his mouth, his hands giving the red bandana a final tug.",
+     "In extreme close-up the red bandana sits knotted tight around the two straight sticks on @Roar's ankle, both men silent."
+    ],
+    "_hinh": "Dưới đáy hố. Leo quỳ bên Roar, đặt hai que gỗ thẳng hai bên cổ chân trái của Roar, tháo chiếc khăn bandana đỏ trên cổ tay mình ra buộc nẹp. Roar nghiến răng, nhìn Leo không hiểu.",
+    "_plan": [
+     "@Leo 0.4–4.4s",
+     "@Roar 4.9–9.4s",
+     "@Leo 9.9–13.9s"
+    ]
+   },
+   {
+    "id": "14.3",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "A bowline. The rabbit comes out of the hole, goes round the tree, and back down the hole. It won't tighten on him.",
+      "pace": "normal",
+      "tone": "patient teacher, clear and even"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Rabbit, tree, hole. Got it. Throw it down to him. Now pull, together!",
+      "pace": "fast",
+      "tone": "fast and eager, rising to a shout"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "a braided hide rope creaking taut against pine bark, boots digging into snow, two people grunting as they pull, loose earth falling into the pit, wind in the pines",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium two-shot of @Mia and @Leo kneeling at the rim beside the big pine, @Mia twisting a small loop into the end of the braided hide rope, slow push-in"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of @Mia holding the half-tied knot up beside her face, locked off"
+     },
+     {
+      "until": 9,
+      "camera": "35mm medium shot of @Mia passing the long rope around the rough trunk of the big pine at the rim, handheld"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Leo repeating the steps, then tossing the open loop down into the pit, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Mia and @Leo leaning back together on the braided rope, which runs around the pine trunk and pulls taut down into the hole, locked off"
+     }
+    ],
+    "steps": [
+     "@Mia kneels at the rim beside the big pine, twists a small loop into the braided hide rope and is already speaking at an even pace.",
+     "@Mia keeps talking, holding the little loop up for @Leo to see, the long rope trailing across the snow.",
+     "@Mia pokes the rope end up through the small loop like a rabbit popping out of its hole as she goes on.",
+     "@Mia keeps talking as she leads the end around behind the standing rope, her eyes flicking up to @Leo.",
+     "@Mia tucks the rope end back down through the loop and keeps explaining, lifting the knot up beside her face.",
+     "@Mia pulls the bowline snug with both hands and tugs the open loop to show it does not slide, still talking.",
+     "@Mia passes the long rope around the rough trunk of the big pine at the rim as she keeps talking evenly.",
+     "@Mia pulls the turn around the trunk tight and says the last words, glancing down into the pit.",
+     "@Mia finishes and closes her mouth, handing @Leo the end of the rope with the bowline loop.",
+     "@Leo takes the loop, nods quickly and starts speaking fast, tracing the steps in the air with one finger.",
+     "@Leo keeps talking fast, his finger drawing the path of the rope: up, around and back down.",
+     "@Leo leans over the crumbling rim and tosses the open loop down into the pit as he goes on talking.",
+     "@Leo wraps both hands around the braided rope behind @Mia and shouts the last words, bracing his boots in the snow.",
+     "@Leo finishes and closes his mouth as he and @Mia lean back together on the rope, which pulls taut down into the hole.",
+     "@Mia and @Leo haul hand over hand, mouths closed and breath clouding, as the rope creaks taut around the pine and down into the hole."
+    ],
+    "_hinh": "Trên miệng hố. Mia chỉ Leo thắt nút thòng lọng không tuột ở đầu dây tết, vòng dây quanh thân cây thông làm điểm tựa. Leo thả vòng dây xuống hố, rồi hai người cùng kéo, dây căng thẳng xuống hố.",
+    "_plan": [
+     "@Mia 0.4–8.7s",
+     "@Leo 9.2–13.1s"
+    ]
+   },
+   {
+    "id": "14.4",
+    "chars": [
+     "@Roar",
+     "@Mia"
+    ],
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "You pulled me out of the earth. From today, he is my brother. And you are my sister.",
+      "pace": "slow",
+      "tone": "slow and solemn, a sworn promise"
+     },
+     {
+      "speaker": "@Mia",
+      "line": "Then, big brother, lean on us. It's a long walk home, and you're heavy.",
+      "pace": "normal",
+      "tone": "warm and teasing, a little breathless"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt",
+     "@Roar": "a long-sleeved tunic of dark reindeer hide that fully covers his chest, fur-lined hide trousers, a necklace of animal teeth, a wooden spear-thrower at his belt, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, fur-wrapped feet"
+    },
+    "sfx": "heavy breathing after a climb, snow crunching under a wooden staff, the creak of a hide tunic, wind in the pine branches, a crow calling far away",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of @Roar sitting in the snow at the rim of the sinkhole with his splinted left ankle stretched out, slow push-in"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of @Roar laying his palm on his chest, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "50mm over-the-shoulder shot from behind @Roar onto @Mia crouching beside him in the snow, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Mia helping @Roar up onto his feet and his wooden staff at the rim of the sinkhole among the pines, locked off"
+     }
+    ],
+    "steps": [
+     "@Roar sits in the snow at the rim of the sinkhole, his splinted left ankle stretched out in front of him, and is already speaking slowly.",
+     "@Roar keeps talking slowly in his deep voice, brushing loose earth from his hide sleeves, his chest still heaving from the climb.",
+     "@Roar looks down at the red bandana knotted around the two sticks on his ankle as he goes on, his jaw working.",
+     "@Roar turns his head toward someone just out of frame to his left and keeps speaking, each word heavy and slow.",
+     "@Roar gives a slow deep nod toward the edge of the frame as he goes on speaking, his heavy brows lifting.",
+     "@Roar turns his dark eyes to @Mia crouching beside him and keeps talking, his gruff voice dropping lower.",
+     "@Roar lays his broad palm flat on his chest over the necklace of animal teeth as he goes on.",
+     "@Roar says the last words with his palm still on his chest, then closes his mouth, gazing steadily at @Mia.",
+     "@Mia blinks quickly with a small smile and starts speaking at an even pace, shifting closer to his side in the snow.",
+     "@Mia keeps talking as she ducks her shoulder under his big arm, a teasing glint in her green eyes.",
+     "@Mia picks up a long wooden staff from the snow and puts it in his hand as she goes on talking.",
+     "@Mia braces her boots and pushes upward under his arm as she keeps talking, her cheeks reddening with the effort.",
+     "@Mia says the last words with a breathless laugh as @Roar rises onto his good foot, leaning on the staff.",
+     "@Mia finishes and closes her mouth, steadying @Roar on his feet with his weight across her shoulders.",
+     "@Roar and @Mia stand together at the rim, his arm over her shoulders and the staff in his hand, both silent, breath clouding."
+    ],
+    "_hinh": "Roar đã lên khỏi hố, ngồi trên tuyết, cổ chân trái nẹp que buộc khăn đỏ. Anh nhìn về phía Leo ngoài khung hình, rồi nhìn Mia, đặt tay lên ngực. Mia chìa vai cho anh vịn, đỡ anh đứng dậy, chống gậy.",
+    "_plan": [
+     "@Roar 0.4–7.9s",
+     "@Mia 8.4–13.4s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 15,
+  "title": "Muddy Water (Nước đục)",
+  "time_label": "Chiều ngày 6, nắng ấm (14:00–15:00)",
+  "location": "Bờ con sông băng thời băng hà buổi chiều nắng ấm, trời xanh không một gợn mây: nước sông đục ngầu màu bùn, chảy xiết, cuốn theo những tảng băng vỡ và cành cây; xa phía thượng nguồn là lưỡi sông băng dưới chân núi.",
+  "axis": "Máy quay đứng trên bãi sỏi ven sông nhìn ngược lên thượng nguồn: dòng sông đục ngầu chảy từ phải sang trái, lưỡi sông băng ở xa nhất dưới trời xanh không mây; ở 15.3–15.4 tảng đá xám nơi Roar ngồi nằm bên trái khung, hang của bộ lạc ở phía hạ nguồn bên trái ngoài khung.",
+  "props": "Dòng nước đục màu bùn cuốn băng vỡ và cành cây, bãi sỏi rung lạo xạo, lưỡi sông băng ở xa, tảng đá xám ven sông, gậy gỗ và cổ chân nẹp que buộc khăn đỏ của Roar, áo choàng da của Leo và Mia, camera đeo ngực của Leo.",
+  "setting": "The bank of the icy river in the Ice Age valley on a warm sunny afternoon under a clear blue sky: the water suddenly brown and muddy, racing fast, carrying broken chunks of ice and branches, gravel bars along the bank, the distant glacier tongue at the head of the valley.",
+  "_setting_key": "RIVER_FLOOD_SIGNS",
+  "clips": [
+   {
+    "id": "15.1",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "Leo, look at the river. This morning it was clear. Now it's brown, fast, and full of broken ice.",
+      "pace": "fast",
+      "tone": "fast and worried, eyes on the river"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Maybe snow melting in the sun? It's warm today, finally.",
+      "pace": "normal",
+      "tone": "easy and relaxed, enjoying the sun"
+     },
+     {
+      "speaker": "@Mia",
+      "line": "No. Too fast.",
+      "pace": "slow",
+      "tone": "flat and certain, low"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "the brown river roaring fast over gravel, chunks of ice knocking and grinding together, branches scraping past, birds calling in the warm sun, boots on wet gravel",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "24mm wide shot of @Mia stopping short on the gravel bank of the racing brown river under a clear blue sky with @Leo a step behind her, handheld"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of @Mia frowning down at the muddy water, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of @Leo tipping his face up to the warm sun and squinting at the clear blue sky, slow push-in"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of @Mia shaking her head, her eyes on the river, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Mia and @Leo standing side by side on the gravel bank with the brown river racing behind them, locked off"
+     }
+    ],
+    "steps": [
+     "@Mia stops short on the gravel bank under the clear blue sky, points down at the river and is already speaking fast.",
+     "@Mia keeps talking quickly, her pointing finger following a chunk of broken ice tumbling past in the brown water.",
+     "@Mia glances back upstream toward the head of the valley as she goes on, her brows drawn tight.",
+     "@Mia crouches and scoops a handful of the muddy water, letting it run brown through her fingers as she keeps talking.",
+     "@Mia keeps talking fast, staring at the racing current, her jaw tight between the words.",
+     "@Mia flicks the brown water off her fingers and says the last words, her eyes fixed on the river.",
+     "@Mia finishes and closes her mouth, and beside her @Leo tilts his face up to the warm sun and starts speaking easily.",
+     "@Leo keeps talking at an even pace, squinting up at the cloudless blue sky with his eyes half shut.",
+     "@Leo spreads his arms to soak up the warmth as he goes on, a lazy smile on his face.",
+     "@Leo pushes back the fur collar of his hide cape and says the last words with a contented sigh.",
+     "@Leo finishes and closes his mouth, still smiling at the sun, as @Mia shakes her head and starts speaking slowly.",
+     "@Mia says the last words flatly and closes her mouth, her eyes never leaving the brown racing water.",
+     "@Leo's smile fades and he lowers his arms, mouth closed, following her gaze down to the river.",
+     "A big chunk of broken ice and a torn branch race past the gravel bar in the brown water, @Mia and @Leo silent on the bank.",
+     "@Mia and @Leo stand side by side on the gravel bank under the clear blue sky, mouths closed, watching the muddy river race past."
+    ],
+    "_hinh": "Mia dừng lại trên bờ sông, chỉ xuống dòng nước đục ngầu cuộn những tảng băng vỡ. Leo đứng cạnh, ngẩng mặt đón nắng, nheo mắt nhìn trời xanh.",
+    "_plan": [
+     "@Mia 0.4–6.1s",
+     "@Leo 6.6–10.2s",
+     "@Mia 10.7–11.9s"
+    ]
+   },
+   {
+    "id": "15.2",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "That rumble isn't thunder. There's a lake behind the glacier. When the ice dam breaks, the whole lake comes down this valley at once.",
+      "pace": "normal",
+      "tone": "low and tense, looking up at the glacier"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "How long do we have? Hours?",
+      "pace": "fast",
+      "tone": "fast and alarmed, all jokes gone"
+     },
+     {
+      "speaker": "@Mia",
+      "line": "Maybe by tonight.",
+      "pace": "slow",
+      "tone": "slow and quiet, grim"
+     }
+    ],
+    "continuity": "continuous",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "a deep distant rumble rolling down the valley from the glacier, pebbles rattling and clicking on the trembling bank, the muddy river roaring past, chunks of ice grinding together",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Mia and @Leo on the gravel bank as the pebbles at their feet begin to rattle, locked off"
+     },
+     {
+      "until": 6,
+      "camera": "24mm wide shot past @Mia's profile toward the distant glacier tongue at the head of the valley under the clear blue sky, slow push-in"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of @Mia, her freckled face turning pale as she stares upstream, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm medium shot of @Leo turning sharply toward her, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of @Mia staring upstream with her jaw tight, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Mia stands beside @Leo on the gravel bank and is already speaking at an even pace as the pebbles at their feet begin to rattle.",
+     "@Mia keeps talking, looking down as small stones tremble and click together on the shaking bank under her boots.",
+     "@Mia slowly turns her head upstream toward the head of the valley as she goes on, her voice low and tight.",
+     "@Mia raises one hand and points far away at the white glacier tongue under the blue sky as she keeps talking.",
+     "@Mia keeps speaking slowly, tracing a line in the air from the glacier down the valley with her pointing finger.",
+     "@Mia spreads both hands wide apart as she goes on, showing the size of the hidden lake behind the ice.",
+     "@Mia sweeps both hands down toward the river at her feet as she keeps talking, her freckled face turning pale.",
+     "@Mia keeps talking, her green eyes fixed on the distant glacier, her breath coming short and quick.",
+     "@Mia says the last words almost in a whisper, her hand still raised toward the head of the valley.",
+     "@Mia closes her mouth, and @Leo turns sharply from the glacier to her face and starts speaking fast.",
+     "@Leo keeps asking quickly, his grin gone, his grey-blue eyes searching her face.",
+     "@Leo finishes the question and closes his mouth, and @Mia swallows and starts answering slowly.",
+     "@Mia says the words quietly, still staring upstream, her raised hand slowly lowering to her side.",
+     "@Mia stands with her mouth closed and her jaw tight as another low rumble rolls down from the far glacier.",
+     "@Mia stays frozen, lips pressed tight, staring upstream while the pebbles on the bank go on trembling, silent."
+    ],
+    "_hinh": "Mặt đất rung nhẹ, sỏi trên bờ lăn lạo xạo. Mia quay nhìn về phía lưỡi sông băng đằng xa, mặt tái đi. Leo nhìn theo.",
+    "_plan": [
+     "@Mia 0.4–9.0s",
+     "@Leo 9.5–11.3s",
+     "@Mia 11.8–13.0s"
+    ]
+   },
+   {
+    "id": "15.3",
+    "chars": [
+     "@Leo",
+     "@Roar"
+    ],
+    "turns": [
+     {
+      "speaker": "@Leo",
+      "line": "Brother, big water is coming tonight. Your cave sits right on the river. Everyone must go up.",
+      "pace": "fast",
+      "tone": "fast and urgent, pleading"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "The river runs the color of mud. My father told of this. The lake of the ice river breaks.",
+      "pace": "normal",
+      "tone": "grave and slow, recalling old words"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera",
+     "@Roar": "a long-sleeved tunic of dark reindeer hide that fully covers his chest, fur-lined hide trousers, a necklace of animal teeth, a wooden spear-thrower at his belt, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, fur-wrapped feet"
+    },
+    "sfx": "the muddy river roaring and rushing over the gravel bars, ice chunks knocking together, a wooden staff creaking under a hand, a warm breeze, a faint far-off rumble",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm medium two-shot of @Leo crouching in front of @Roar, who sits on a grey boulder by the river with his splinted ankle stretched out and his staff in hand, handheld"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of @Roar staring past @Leo at the brown racing water, slow push-in"
+     },
+     {
+      "until": 13,
+      "camera": "35mm over-the-shoulder shot from behind @Leo onto @Roar on the boulder, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Roar and @Leo beside the flooding brown river with the glacier tongue far upstream, locked off"
+     }
+    ],
+    "steps": [
+     "@Leo crouches in front of @Roar, who sits on a grey boulder at the riverbank with his splinted leg stretched out, and is already talking fast.",
+     "@Leo keeps talking quickly, pointing back over his shoulder at the brown racing river full of broken ice.",
+     "@Leo points downstream toward the distant cave as he goes on, his words tumbling out.",
+     "@Leo raises his open palm higher and higher as he keeps talking, showing the water climbing.",
+     "@Leo points straight up at the limestone cliffs above the valley as he says the last words, his eyes urgent.",
+     "@Leo finishes and closes his mouth, breathing hard, while @Roar stares past him at the muddy water without blinking.",
+     "@Roar keeps staring at the river for a long moment, then starts speaking slowly in his deep rough voice.",
+     "@Roar keeps talking low, watching a big chunk of ice roll over in the brown current, his heavy brows drawn down.",
+     "@Roar's hand tightens on the wooden staff as he goes on, his voice gruff and grave.",
+     "@Roar lifts his eyes upstream toward the glacier tongue at the head of the valley as he keeps speaking.",
+     "@Roar touches the necklace of animal teeth at his chest as he goes on, his eyes far away.",
+     "@Roar turns his dark eyes to @Leo and keeps talking slowly, every word heavy.",
+     "@Roar says the last words and gives one slow, grave nod, his face hard.",
+     "@Roar finishes and closes his mouth, his face set, as @Leo slowly straightens up in front of him.",
+     "@Roar and @Leo stay by the roaring brown river, mouths closed, both looking upstream at the distant glacier tongue."
+    ],
+    "_hinh": "Leo quay sang Roar đang ngồi nghỉ trên tảng đá, chân nẹp duỗi thẳng, tay chống gậy. Roar nhìn dòng nước đục rất lâu, rồi gật đầu, mặt nghiêm lại.",
+    "_plan": [
+     "@Leo 0.4–5.5s",
+     "@Roar 6.0–13.1s"
+    ]
+   },
+   {
+    "id": "15.4",
+    "chars": [
+     "@Roar",
+     "@Mia"
+    ],
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Grandmother will not believe two strangers. The sky is too blue. But she will hear me. I will speak for you.",
+      "pace": "slow",
+      "tone": "slow and resolute, giving his word"
+     },
+     {
+      "speaker": "@Mia",
+      "line": "Then we walk fast. Lean on me, brother. All your weight.",
+      "pace": "normal",
+      "tone": "firm and warm, already moving"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt",
+     "@Roar": "a long-sleeved tunic of dark reindeer hide that fully covers his chest, fur-lined hide trousers, a necklace of animal teeth, a wooden spear-thrower at his belt, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, fur-wrapped feet"
+    },
+    "sfx": "a wooden staff thudding on wet gravel, uneven limping footsteps, heavy breathing, the brown river roaring alongside, ice chunks grinding in the current",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of @Roar pushing himself up off the grey boulder on his wooden staff, slow push-in"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of @Roar squinting up at the clear blue sky, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm medium two-shot of @Mia slipping her shoulder under @Roar's arm on the gravel bank, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Mia and @Roar hurrying along the riverbank beside the racing brown river, handheld follow"
+     }
+    ],
+    "steps": [
+     "@Roar plants his wooden staff in the gravel, heaves himself up off the boulder onto his good foot and is already speaking slowly.",
+     "@Roar keeps talking in a deep slow voice, steadying himself on the staff, his splinted ankle lifted off the ground.",
+     "@Roar tilts his head back and squints up at the clear cloudless blue sky as he goes on.",
+     "@Roar lets out a short snort through his nose at the bright blue sky as he keeps talking, his heavy brows raised.",
+     "@Roar looks down at @Mia beside him and keeps speaking, his deep voice firm and slow.",
+     "@Roar thumps his broad palm against his own chest as he goes on, his jaw set hard.",
+     "@Roar points his chin downstream toward the clan's cave as he keeps talking, the staff steady in his fist.",
+     "@Roar keeps talking with weight in every word, his dark eyes fixed on @Mia's face.",
+     "@Roar says the last words slowly and lays one big hand on her shoulder, the staff steady in the other.",
+     "@Roar finishes and closes his mouth with a firm nod, as @Mia ducks under his arm and starts speaking.",
+     "@Mia keeps talking at an even pace, hooking his heavy arm across her shoulders and holding his wrist.",
+     "@Mia sets off along the gravel bank with him as she goes on, her boots crunching, her face set.",
+     "@Mia glances up at him with a quick smile as she keeps talking, taking more of his weight.",
+     "@Mia says the last words and closes her mouth, bracing as @Roar leans his full weight on her shoulders.",
+     "@Mia and @Roar limp quickly along the bank beside the racing brown river, both silent, breathing hard."
+    ],
+    "_hinh": "Roar chống gậy đứng dậy, nhìn trời xanh trong. Mia luồn vai vào dưới cánh tay anh, đỡ anh bước nhanh dọc bờ sông về phía hang.",
+    "_plan": [
+     "@Roar 0.4–9.1s",
+     "@Mia 9.6–13.6s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 16,
+  "title": "Nobody Believes (Không ai tin)",
+  "time_label": "Chiều muộn ngày 6, trong hang (15:00–16:00)",
+  "location": "Trong hang của bộ lạc chiều muộn: nắng vàng xiên qua cửa hang vòm, măng đá hình voi ma mút, vách đá trơn, bếp lửa cháy đỏ, cả bộ lạc tụ quanh bếp; dưới cửa hang, con sông đục ngầu đã dâng sát chân thềm.",
+  "axis": "Máy quay đứng trong hang nhìn ra cửa hang vòm: bếp lửa ở giữa, cả hang ngồi vòng quanh bếp, Grandma Moon ngồi bên trái bếp, cửa hang với trời xanh và con sông đục ở xa phía sau; người đứng nói ở bên phải bếp (Leo ở 16.1, Roar ở 16.2–16.3); ở 16.4 máy quay sát bếp lửa, Grandma Moon bên trái, Pebble bên phải.",
+  "props": "Bếp lửa đỏ, sừng lửa bằng sừng bò rừng nút rêu còn than hồng, áo choàng da tuần lộc viền lông xám của Grandma Moon, gậy gỗ và nẹp chân buộc khăn đỏ của Roar, măng đá hình voi ma mút, ổ lông thú quanh bếp.",
+  "setting": "Late afternoon inside the large Ice Age clan cave: golden light through the wide arched mouth, the mammoth-shaped stalagmite, bare rock walls, the whole clan gathered around the hearth, and below the entrance the muddy river now loud, brown and high.",
+  "_setting_key": "CAVE_PAST_LATE",
+  "clips": [
+   {
+    "id": "16.1",
+    "chars": [
+     "@Leo",
+     "@Moon"
+    ],
+    "turns": [
+     {
+      "speaker": "@Leo",
+      "line": "Grandmother, the lake behind the ice river is breaking. Tonight the big water comes. This cave will flood. Please, everyone must go up!",
+      "pace": "fast",
+      "tone": "fast and urgent, close to begging"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "The sun is still high. The sky is blue.",
+      "pace": "slow",
+      "tone": "slow and calm, unmoved"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera"
+    },
+    "extras": "the clan, men, women and children in sewn hide tunics and fur cloaks covered from shoulders to knees, sits around the hearth in soft focus",
+    "sfx": "the hearth fire crackling, the muddy river roaring loud below the cave mouth, the clan murmuring, footsteps on packed earth, an ember popping",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of @Leo standing in the middle of the cave pointing back at the wide arched mouth and the muddy river below, the clan around the hearth in soft focus, handheld"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Leo with sweat shining on his brow, handheld"
+     },
+     {
+      "until": 12,
+      "camera": "50mm over-the-shoulder shot from behind @Leo onto @Moon seated calmly by the hearth, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the golden cave with the clan around the hearth, @Moon seated and @Leo standing alone in the middle, locked off"
+     }
+    ],
+    "steps": [
+     "@Leo stands in the middle of the cave in front of the hearth, points back at the wide arched mouth and is already speaking fast.",
+     "@Leo keeps talking quickly, sweeping his arm toward the loud brown river below the entrance, his eyes urgent.",
+     "Around the hearth clan members in hide tunics turn their heads toward @Leo as he goes on talking fast.",
+     "@Leo raises one flat hand slowly from knee height to above his head as he keeps talking, showing the water rising.",
+     "@Leo presses both palms together toward @Moon in a pleading gesture as he goes on, sweat shining on his brow.",
+     "@Leo points up at the rock ceiling, then toward the cliffs outside, still talking fast and breathless.",
+     "@Leo spreads his arms wide to take in the whole clan as he says the last words, his voice cracking.",
+     "@Leo finishes and closes his mouth, chest heaving, as @Moon, seated calmly by the hearth, starts speaking slowly.",
+     "@Moon keeps talking slowly, her pale eyes turned past @Leo toward the bright blue sky beyond the cave mouth.",
+     "@Moon lifts one weathered hand toward the golden light pouring through the entrance as she goes on.",
+     "@Moon rests her hand back on the fire horn in her lap and keeps speaking, unhurried, her face calm.",
+     "@Moon finishes the words and closes her mouth, gazing out at the cloudless sky.",
+     "@Leo's shoulders sag and his mouth stays closed as he looks from @Moon to the silent clan around the hearth.",
+     "@Leo turns toward the cave mouth, lips pressed together, listening to the loud brown water rushing below.",
+     "Golden light falls across the silent clan around the hearth while @Moon sits calm and @Leo stands alone in the middle of the cave."
+    ],
+    "_hinh": "Leo đứng giữa hang, chỉ ra con sông dưới cửa hang, nói gấp gáp. Grandma Moon ngồi bên bếp lửa, bình thản nhìn ra vùng trời xanh ngoài cửa hang.",
+    "_plan": [
+     "@Leo 0.4–7.3s",
+     "@Moon 7.8–11.6s"
+    ]
+   },
+   {
+    "id": "16.2",
+    "chars": [
+     "@Moon",
+     "@Roar"
+    ],
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Strangers speak of water when the sky is blue. Why should the clan climb in the dark for them?",
+      "pace": "slow",
+      "tone": "slow and cool, weighing every word"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Because they are no strangers. They pulled me from the earth. I trust them.",
+      "pace": "normal",
+      "tone": "firm and upright, deep conviction"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Roar": "a long-sleeved tunic of dark reindeer hide that fully covers his chest, fur-lined hide trousers, a necklace of animal teeth, a wooden spear-thrower at his belt, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, fur-wrapped feet"
+    },
+    "extras": "the clan, men, women and children in sewn hide tunics and fur cloaks covered from shoulders to knees, sits around the hearth murmuring in soft focus",
+    "sfx": "low doubtful murmurs of the clan, the hearth fire popping, the loud brown river rushing below the entrance, a wooden staff tapping on stone, limping steps",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium shot of @Moon seated by the hearth looking just past the lens, the murmuring clan behind her in soft focus, slow push-in"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of @Moon's lined face in the firelight, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "35mm medium shot of @Roar limping into the middle of the cave on his wooden staff and planting himself in front of @Moon, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of @Roar with his jaw set, locked off"
+     }
+    ],
+    "steps": [
+     "@Moon sits by the hearth with the fire horn in her lap, looks just past the lens toward the strangers and is already speaking slowly.",
+     "Behind @Moon clan members in hide tunics and fur cloaks lean their heads together and murmur as she keeps talking.",
+     "@Moon keeps speaking slowly, one weathered finger lifted toward the bright blue sky beyond the cave mouth.",
+     "@Moon narrows her calm pale eyes as she goes on, her voice low and husky, every word heavy.",
+     "@Moon turns her gaze across the frowning faces of the clan around the hearth as she keeps talking.",
+     "@Moon points up toward the dark cliffs above the cave mouth as she goes on, her eyebrows lifting.",
+     "@Moon raises her eyebrows in a slow question as she keeps speaking, her shell necklace clicking.",
+     "@Moon says the last words slowly, her pale eyes hard, and folds her hands over the fire horn.",
+     "@Moon finishes and closes her mouth as @Roar limps into the middle of the cave on his wooden staff and starts speaking.",
+     "@Roar plants himself squarely in front of @Moon, leaning on the staff, and keeps talking in a deep firm voice.",
+     "@Roar straightens his broad back despite his splinted ankle as he goes on, his chin raised.",
+     "@Roar sweeps one big arm back toward the side of the cave where the strangers stand out of frame as he keeps speaking.",
+     "@Roar lays his palm on his chest over the necklace of animal teeth as he goes on, his jaw set.",
+     "@Roar says the last words and closes his mouth, his dark eyes locked on @Moon's.",
+     "@Roar stands firm before the hearth, mouth closed, as the murmuring clan behind him falls silent."
+    ],
+    "_hinh": "Quần chúng trong hang xì xào, nhìn nhau ngờ vực. Grandma Moon nhìn hai người lạ. Roar chống gậy, khập khiễng bước ra giữa hang, đứng chắn trước mặt bà.",
+    "_plan": [
+     "@Moon 0.4–8.3s",
+     "@Roar 8.8–14.0s"
+    ]
+   },
+   {
+    "id": "16.3",
+    "chars": [
+     "@Roar",
+     "@Moon"
+    ],
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "I hated them most of all. And I say it: climb tonight. If no water comes, the shame is mine.",
+      "pace": "normal",
+      "tone": "loud and steady, owning his old hatred"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Then we climb. But if the river sleeps, the strangers leave at dawn.",
+      "pace": "slow",
+      "tone": "slow and final, rising to her feet"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Roar": "a long-sleeved tunic of dark reindeer hide that fully covers his chest, fur-lined hide trousers, a necklace of animal teeth, a wooden spear-thrower at his belt, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, fur-wrapped feet"
+    },
+    "extras": "the whole clan, men, women and children in sewn hide tunics and fur cloaks covered from shoulders to knees, sits silently around the hearth in soft focus",
+    "sfx": "a hush falling over the cave, the hearth fire crackling, the river roaring below the entrance, the rustle of a hide cloak, shells clicking on a necklace",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of @Roar turning on his staff to face the whole clan seated around the hearth, his palm on his chest, slow pan"
+     },
+     {
+      "until": 8,
+      "camera": "24mm wide shot from behind the seated clan toward @Roar standing tall by the hearth, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of @Moon looking up at @Roar for a long moment, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "50mm medium shot of @Moon rising to her feet and drawing her cloak around her, locked off"
+     }
+    ],
+    "steps": [
+     "@Roar turns on his staff to face the whole clan around the hearth, his palm on his chest, and is already speaking firmly.",
+     "@Roar keeps talking in his deep rough voice, his dark eyes moving from face to face around the fire.",
+     "@Roar points back toward the side of the cave where the strangers stand out of frame, still speaking, his brows heavy.",
+     "@Roar thumps his palm twice on his chest over the animal teeth as he goes on, his voice rising.",
+     "@Roar lifts his arm and points up toward the cliffs beyond the cave mouth as he keeps speaking.",
+     "The clan sits utterly still around the hearth, faces turned up to @Roar as he keeps talking.",
+     "@Roar lowers his arm and taps his own chest once more as he says the last words, his jaw set.",
+     "@Roar finishes and closes his mouth, standing tall on his staff, and the whole cave falls silent.",
+     "@Moon looks up at @Roar for a long moment, then starts speaking slowly, her pale eyes steady.",
+     "@Moon keeps talking slowly, setting one hand on the rock beside her and pushing herself up.",
+     "@Moon rises to her feet as she goes on, straight-backed, the fire horn hanging at her hip.",
+     "@Moon draws her long reindeer-hide cloak around her shoulders as she keeps speaking, her voice level.",
+     "@Moon turns her face toward the strangers out of frame as she says the last words, unsmiling.",
+     "@Moon finishes and closes her mouth, fastening the grey fur collar of her cloak at her neck.",
+     "@Moon stands straight-backed by the hearth with her cloak drawn close, mouth closed, as the clan begins to rise around her."
+    ],
+    "_hinh": "Roar đặt tay lên ngực, quay nhìn cả bộ lạc. Cả hang im phăng phắc. Grandma Moon nhìn Roar rất lâu, rồi chống tay đứng dậy, khoác áo choàng.",
+    "_plan": [
+     "@Roar 0.4–7.9s",
+     "@Moon 8.4–13.8s"
+    ]
+   },
+   {
+    "id": "16.4",
+    "chars": [
+     "@Moon",
+     "@Pebble"
+    ],
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Little one. You let the fire die once. Tonight you carry it up the cliff to the high cave.",
+      "pace": "slow",
+      "tone": "slow and solemn, entrusting a duty"
+     },
+     {
+      "speaker": "@Pebble",
+      "line": "This time I won't let the fire die, Grandmother. Not even for one breath!",
+      "pace": "fast",
+      "tone": "fast and fierce, a child's solemn vow"
+     }
+    ],
+    "continuity": "cut",
+    "sfx": "embers hissing softly inside a hollow horn, the hearth fire crackling, the river roaring below the cave mouth, furs rustling, a child's quick breath",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium two-shot of @Moon bending toward @Pebble by the hearth, holding out the hollow fire horn, slow push-in"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of @Moon's lined face in the firelight, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "35mm over-the-shoulder shot from behind @Moon onto @Pebble hugging the fire horn to his chest, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "100mm extreme close-up of @Pebble's shining eyes and cold-pink cheeks above the glowing fire horn, locked off"
+     }
+    ],
+    "steps": [
+     "@Moon bends toward @Pebble beside the hearth, holding out the hollow aurochs fire horn in both hands, and is already speaking slowly.",
+     "@Moon keeps talking slowly, a thin curl of smoke rising from the moss plug of the horn between them.",
+     "@Moon touches one finger gently to @Pebble's forehead as she goes on, her pale eyes stern but kind.",
+     "@Pebble tucks in his lower lip and drops his eyes to his fur-wrapped feet as @Moon keeps speaking.",
+     "@Moon lifts his chin with one weathered finger and keeps talking, her low husky voice gentle.",
+     "@Moon places the warm fire horn into @Pebble's two small hands as she goes on, her hands over his.",
+     "@Moon points up toward the cliff above the cave mouth as she keeps speaking, slow and clear.",
+     "@Moon says the last words and lets go of the horn, her eyes resting on the boy.",
+     "@Moon finishes and closes her mouth as @Pebble hugs the fire horn to his chest and starts speaking fast.",
+     "@Pebble keeps talking quickly, pulling himself up straight with his chin high, the horn clutched tight against his tunic.",
+     "@Pebble shakes his mop of brown hair hard as he goes on, his big dark eyes shining in the firelight.",
+     "@Pebble puffs out his cold-pink cheeks for an instant, then says the next words in a rush.",
+     "@Pebble says the last words, hugging the horn tighter, his eyes shining bright with pride.",
+     "@Pebble stands as straight as he can, mouth closed, the faint red glow of the embers lighting his chin.",
+     "In extreme close-up @Pebble's big dark eyes shine above the moss-plugged horn, lips pressed tight, the embers glowing red."
+    ],
+    "_hinh": "Grandma Moon trao chiếc sừng lửa còn than đỏ âm ỉ vào hai tay Pebble. Cậu bé ôm sừng lửa vào ngực, ưỡn thẳng lưng, mắt sáng rực.",
+    "_plan": [
+     "@Moon 0.4–8.3s",
+     "@Pebble 8.8–13.0s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 17,
+  "title": "Flood Night (Đêm lũ)",
+  "time_label": "Đêm ngày 6 (16:00–17:00)",
+  "location": "Đêm trăng trên mỏm đá trước hang cao trên vách núi thời băng hà: cả bộ lạc chen chúc trên mỏm đá, quấn lông thú, đuốc lập loè; phía dưới, dòng lũ trắng xoá gầm lên, cuồn cuộn băng vỡ và cây gãy, tràn qua thung lũng dưới ánh trăng.",
+  "axis": "Ở 17.1 và 17.3 máy quay đứng trên mỏm đá trước hang cao: vách đá bên trái, mép vách và dòng lũ phía dưới bên phải; 17.2 cắt xen giữa hang dưới ngập nước (gờ đá khô ở vách sau, cửa hang ở xa) và mỏm đá trên vách (Leo cúi qua mép vách nhìn xuống); ở 17.4 máy quay đứng trong hang dưới ngập nước, gờ đá khô ở vách sau bên phải, cửa hang ngập nước bên trái.",
+  "props": "Đuốc lập loè, lông thú của bộ lạc, sợi dây da tết ba sợi vòng qua một mỏm đá làm điểm tựa, đèn pin đội đầu của Leo, sừng lửa trong tay Pebble với đốm than đỏ, gờ đá khô cao ngang ngực, nước lũ đục ngầu, băng vỡ và cành gãy trôi, gậy và nẹp chân buộc khăn đỏ của Roar.",
+  "setting": "Moonlit night during a great flood in the Ice Age: a rock ledge in front of a small high cave on a limestone cliff, the clan huddled in furs with flickering torches, and far below a roaring brown flood full of ice chunks and broken trees surging through the valley toward the mouth of the lower cave.",
+  "_setting_key": "CLIFF_NIGHT_FLOOD",
+  "clips": [
+   {
+    "id": "17.1",
+    "chars": [
+     "@Mia",
+     "@Moon"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "I counted twice. Seventeen. We should be eighteen. Where is Pebble? And where's the fire horn?",
+      "pace": "fast",
+      "tone": "fast and frantic, breath short"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "The fire horn... he left it by the hearth below. He went back down for it.",
+      "pace": "slow",
+      "tone": "slow and shaking, a trembling voice"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt",
+     "@Moon": "a long reindeer-hide cloak with a grey fur collar over a knee-length sewn hide tunic, a necklace of pierced sea shells, empty-handed with no horn, fur-wrapped feet"
+    },
+    "extras": "the clan, men, women and children wrapped in furs over hide tunics covered from shoulders to knees, huddles along the torchlit cliff ledge in soft focus",
+    "sfx": "the roaring flood far below, wind whipping across the cliff ledge, torches sputtering and crackling, children whimpering in the furs, ice chunks grinding together in the dark",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium shot of @Mia moving along the crowded torchlit ledge, pointing at each huddled clan member as she counts, handheld follow"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of @Mia freezing with her pointing hand still raised, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of @Moon, empty-handed, turning from the huddled clan toward the edge of the ledge, slow push-in"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Moon looking down over the rim, torchlight shaking on her lined face, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot from the moonlit ledge down to the roaring brown flood surging through the valley into the mouth of the lower cave, locked off"
+     }
+    ],
+    "steps": [
+     "@Mia moves along the crowded torchlit ledge, pointing at each huddled clan member in turn, and is already speaking fast.",
+     "@Mia keeps talking quickly, her finger jumping from one fur-wrapped figure to the next in the flickering torchlight.",
+     "@Mia reaches the end of the ledge, spins round and counts back along the row, still talking fast, breath clouding.",
+     "@Mia freezes with her pointing hand in the air as she goes on, her green eyes darting over the faces.",
+     "@Mia's hand drops and she says the last words in a rush, scanning the ledge, her chest rising fast.",
+     "@Mia finishes and closes her mouth, breathing hard, as @Moon, empty-handed, lifts her head and starts speaking slowly.",
+     "@Moon keeps talking slowly, opening her two empty hands in front of her and looking down at them.",
+     "@Moon turns her head toward the dark edge of the ledge as she goes on, her husky voice trembling.",
+     "@Moon steps slowly to the rim and looks far down at the old cave below as she keeps speaking.",
+     "@Moon's lined face catches the torchlight as she goes on in a low shaking voice, her eyes on the flood.",
+     "@Moon keeps speaking slowly, her fingers clutching the grey fur collar of her cloak at her neck.",
+     "@Moon says the last words almost in a whisper, staring down at the brown water swirling into the lower cave mouth.",
+     "@Moon finishes and closes her mouth, her lips trembling, her empty hands hanging at her sides.",
+     "@Moon stands at the rim with her mouth closed, the torchlight shaking on her face as the flood roars below.",
+     "Far below the moonlit ledge the roaring brown flood surges through the valley into the mouth of the lower cave, the ledge above silent."
+    ],
+    "_hinh": "Mia đếm đầu người trên mỏm đá, tay chỉ từng người, rồi khựng lại. Grandma Moon, hai tay trống trơn, quay nhìn xuống cái hang cũ dưới chân vách, nơi nước đang dâng.",
+    "_plan": [
+     "@Mia 0.4–5.2s",
+     "@Moon 5.7–12.3s"
+    ]
+   },
+   {
+    "id": "17.2",
+    "chars": [
+     "@Pebble",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Pebble",
+      "line": "Fire! Spark! I have the fire horn! But the water is coming in! I can't get back up!",
+      "pace": "fast",
+      "tone": "a high frantic shout over rushing water"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Hold on! Don't move! Stay up on that high ledge, Pebble! I'm coming down to you!",
+      "pace": "fast",
+      "tone": "a loud urgent shout down the cliff"
+     }
+    ],
+    "continuity": "cut",
+    "setting": "Night inside the large lower Ice Age cave as it floods: muddy brown water pouring in through the wide mouth and spreading across the floor, the mammoth-shaped stalagmite, a dry rock ledge at chest height along the back wall, a beam of headlamp light in the dark, a braided hide rope hanging down the cliff above the entrance.",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera"
+    },
+    "sfx": "floodwater pouring and gurgling into a cave, echoing drips, ice chunks knocking on rock, wind howling across the cliff, a hide rope creaking",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium shot of @Pebble in the dark flooded lower cave, standing on a dry rock ledge at chest height against the back wall and hugging the fire horn, handheld"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of @Pebble in the lower cave shouting up toward the cave mouth, the horn pressed to his chest, locked off"
+     },
+     {
+      "until": 9,
+      "camera": "50mm medium shot of @Leo on the moonlit cliff ledge above, leaning out over the rim with one hand on the braided hide rope, a headlamp on his brow, handheld"
+     },
+     {
+      "until": 11,
+      "camera": "85mm close-up of @Leo on the cliff ledge shouting down into the dark, torchlight and moonlight on his face, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the flooding lower cave, brown water spreading across the floor around the mammoth-shaped stalagmite and @Pebble small and dry on the high ledge at the back wall, locked off"
+     }
+    ],
+    "steps": [
+     "In the dark flooded lower cave @Pebble stands on a dry rock ledge at chest height against the back wall, hugging the fire horn, already shouting fast.",
+     "@Pebble keeps shouting up toward the cave mouth, the horn clutched to his chest, his big dark eyes wide in a sweep of headlamp light.",
+     "Below @Pebble's fur-wrapped feet muddy brown water pours across the cave floor as he keeps shouting, pressing his back to the rock.",
+     "@Pebble lifts the moss-plugged horn a little to show it, still shouting, a faint red glow seeping from the plug.",
+     "@Pebble looks down at the brown water swirling around the base of the ledge and keeps shouting, his shoulders hunched.",
+     "@Pebble shouts the last words and closes his mouth, pressing himself and the horn flat against the dry back wall.",
+     "Up on the moonlit cliff ledge @Leo leans out over the rim, one hand on the braided hide rope, and starts shouting down fast.",
+     "@Leo keeps shouting into the dark below, his headlamp beam pointing down the wet cliff face, the wind tugging his hide cape.",
+     "@Leo holds up a flat palm toward the cave below as he goes on shouting, his face lit by torchlight and moonlight.",
+     "@Leo wraps the braided rope twice around his hand as he keeps shouting down, his jaw set.",
+     "@Leo shouts the last words, swinging one leg over the rim of the ledge, the rope held tight in both hands.",
+     "Back in the flooding lower cave @Pebble lifts his head toward the cave mouth, mouth closed, as @Leo's shout echoes down from the cliff above.",
+     "The muddy brown water spreads wider across the cave floor around the mammoth-shaped stalagmite, while @Pebble stays dry on the high ledge, silent.",
+     "A beam of headlamp light swings across the cave mouth from above, and @Pebble squints into it, lips pressed tight, the horn held to his chest.",
+     "@Pebble hugs the fire horn to his heart on the dry ledge, mouth closed, as broken ice chunks drift in through the flooded cave mouth."
+    ],
+    "_hinh": "Cắt xen hai nơi. Trong hang cũ tối đen, Pebble đứng trên một gờ đá khô cao ngang ngực người lớn, ôm sừng lửa vào ngực, nước lũ đục ngầu tràn qua nền hang bên dưới. Trên mỏm đá, Leo cúi người qua mép vách gọi xuống, một tay đã nắm sợi dây da tết.",
+    "_setting_key": "LOWER_CAVE_FLOOD",
+    "intercut": true,
+    "_plan": [
+     "@Pebble 0.4–5.8s",
+     "@Leo 6.3–11.1s"
+    ]
+   },
+   {
+    "id": "17.3",
+    "chars": [
+     "@Mia",
+     "@Roar"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "We've got you! Roar is holding the rope with me! Go slow on the wet rock!",
+      "pace": "fast",
+      "tone": "a loud shout down into the dark"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Go, brother. My foot is weak, but my arms are not. I hold you.",
+      "pace": "slow",
+      "tone": "slow and strained, gritted resolve"
+     },
+     {
+      "speaker": "@Mia",
+      "line": "Please, Leo. Be careful.",
+      "pace": "slow",
+      "tone": "a soft trembling whisper"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt",
+     "@Roar": "a long-sleeved tunic of dark reindeer hide that fully covers his chest, fur-lined hide trousers, a necklace of animal teeth, a wooden spear-thrower at his belt, his left ankle splinted between two straight sticks bound with a red bandana, leaning on a wooden staff, fur-wrapped feet"
+    },
+    "sfx": "a braided hide rope creaking taut over wet rock, wind gusting across the ledge, torches sputtering, the flood roaring far below, strained breathing",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Mia and @Roar on the moonlit ledge holding the braided rope, which runs around a knob of rock and down over the wet rim, handheld"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of @Mia shouting down over the rim, torchlight on her face, handheld"
+     },
+     {
+      "until": 11,
+      "camera": "50mm medium shot of @Roar sitting braced on the rock with his splinted leg stretched out and both arms locked on the rope, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of @Mia leaning over the edge and whispering into the dark, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Mia kneels at the wet rim of the moonlit ledge holding the taut braided rope, leans over the dark drop and is already shouting down fast.",
+     "@Mia keeps shouting into the darkness below, the rope creaking tight around a knob of rock behind her.",
+     "Behind @Mia, @Roar sits braced on the rock with his splinted leg stretched out and both arms locked on the rope as she keeps shouting.",
+     "@Mia cups one hand beside her mouth and shouts on, her braid swinging over the edge in the cold wind.",
+     "@Mia keeps shouting down the cliff, then puts both hands back on the rope, staring into the dark.",
+     "@Mia finishes and closes her mouth, gripping the rope again, as @Roar sets his jaw and starts speaking slowly.",
+     "@Roar keeps talking in a deep rough voice, leaning back against the rope with his arms rigid and his heavy brows down.",
+     "@Roar pushes his good foot hard against a ridge of rock as he goes on, the rope creaking in his fists.",
+     "@Roar glances at his splinted ankle with its red bandana as he keeps speaking, then back at the drop.",
+     "@Roar flexes his broad shoulders, taking more of the rope's weight, as he goes on in a low steady voice.",
+     "@Roar says the next words through his teeth, his knuckles pale on the rope, his staff lying beside him.",
+     "@Roar finishes and closes his mouth, holding the rope like stone, as @Mia leans out over the edge again.",
+     "@Mia looks down into the darkness and starts whispering slowly, her breath clouding in the moonlight.",
+     "@Mia whispers the last words to herself and closes her mouth, her eyes glistening in the torchlight.",
+     "@Mia keeps both hands tight on the trembling rope, lips pressed together, staring down at the roaring flood below."
+    ],
+    "_hinh": "Sợi dây da tết căng xuống qua mép vách đá ướt. Mia và Roar cùng ghì dây, dây vòng qua một mỏm đá làm điểm tựa; Roar ngồi bệt, chân nẹp duỗi thẳng, hai cánh tay căng cứng. Mia cúi nhìn xuống bóng tối.",
+    "_plan": [
+     "@Mia 0.4–5.2s",
+     "@Roar 5.7–11.5s",
+     "@Mia 12.0–13.6s"
+    ]
+   },
+   {
+    "id": "17.4",
+    "chars": [
+     "@Leo",
+     "@Pebble"
+    ],
+    "turns": [
+     {
+      "speaker": "@Leo",
+      "line": "I've got you, little one. Climb onto my shoulders. Hold the fire horn up high, above your head, okay?",
+      "pace": "normal",
+      "tone": "calm and gentle over the roar of water"
+     },
+     {
+      "speaker": "@Pebble",
+      "line": "You came down for me! Into the big cold water, for me and for the fire!",
+      "pace": "fast",
+      "tone": "fast and tearful, voice wobbling"
+     }
+    ],
+    "continuity": "cut",
+    "setting": "Night inside the large lower Ice Age cave as it floods: muddy brown water pouring in through the wide mouth and spreading across the floor, the mammoth-shaped stalagmite, a dry rock ledge at chest height along the back wall, a beam of headlamp light in the dark, a braided hide rope hanging down the cliff above the entrance.",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera"
+    },
+    "sfx": "thigh-deep water sloshing around wading legs, echoing splashes in the cave, the flood pouring in through the mouth, a hide rope creaking, a boy sniffling",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of @Leo wading thigh-deep through the brown floodwater toward the dry ledge at the back wall, the braided rope tied around his waist, his headlamp beam cutting the dark, handheld follow"
+     },
+     {
+      "until": 7,
+      "camera": "50mm over-the-shoulder shot from behind @Pebble on the dry ledge down onto @Leo reaching up with both arms, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of @Pebble perched on @Leo's shoulders holding the fire horn high above his head, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the dark flooded cave with @Leo wading thigh-deep toward the entrance and @Pebble on his shoulders holding the horn high, locked off"
+     }
+    ],
+    "steps": [
+     "@Leo wades thigh-deep through the muddy brown floodwater toward the dry ledge, the braided rope tied around his waist, already speaking at an even pace.",
+     "@Leo keeps talking, his headlamp beam sweeping up the back wall and landing on @Pebble crouched on the dry ledge with the fire horn.",
+     "@Leo reaches the foot of the ledge, the water swirling around his thighs, and keeps talking calmly as he lifts both arms.",
+     "@Leo turns his back to the ledge and pats his own shoulders with both hands as he goes on talking.",
+     "@Pebble steps off the dry ledge onto @Leo's shoulders, hugging the horn, as @Leo keeps talking and steadies the boy's legs.",
+     "@Leo holds @Pebble's fur-wrapped ankles firmly against his chest as he goes on talking, the water at his thighs.",
+     "@Leo tilts his head up toward the boy and says the last words, nodding at the horn.",
+     "@Leo finishes and closes his mouth as @Pebble lifts the fire horn high above his head and starts speaking fast, his voice wobbling.",
+     "@Pebble keeps talking quickly, his chin trembling, the moss-plugged horn raised high with a red ember glowing inside.",
+     "@Pebble looks down at the dark water swirling around @Leo's thighs as he goes on, his big eyes shining wet.",
+     "@Pebble keeps talking fast, hugging @Leo's head with one arm and holding the horn high with the other.",
+     "@Pebble sniffs hard as he goes on, his lower lip wobbling, the ember in the horn still glowing red above the water.",
+     "@Pebble says the last words, then closes his mouth and presses his cheek to the top of @Leo's head.",
+     "@Leo turns and wades back toward the flooded cave mouth, mouth closed, the headlamp beam leading through the dark, @Pebble dry on his shoulders.",
+     "The rope around @Leo's waist tightens toward the entrance as he wades on through thigh-deep water, @Pebble holding the glowing horn high, both silent."
+    ],
+    "_hinh": "Trong hang cũ ngập nước, đèn pin đội đầu của Leo rọi qua bóng tối. Leo lội nước đến đùi, sợi dây buộc ngang người, tới sát gờ đá. Pebble trèo lên vai Leo, giơ cao sừng lửa trên đầu, đốm than đỏ trong sừng vẫn sáng.",
+    "_setting_key": "LOWER_CAVE_FLOOD",
+    "_plan": [
+     "@Leo 0.4–7.2s",
+     "@Pebble 7.7–12.5s"
+    ]
+   }
+  ]
+ },
+ {
+  "num": 18,
+  "title": "Three Million and One Boy (Ba triệu người và một cậu bé)",
+  "time_label": "Nửa đêm ngày 6 (17:00–18:00)",
+  "location": "Một tảng đá cao, khô, nhô lên giữa dòng lũ ngay dưới chân vách núi thời băng hà, đêm trăng: nước lũ đục ngầu cuộn xiết quanh chân đá, băng vỡ trôi qua; vách đá dựng đứng phía sau, mép vách cao chừng sáu mét, sợi dây da tết thả xuống từ trên ấy.",
+  "axis": "Máy quay đứng dưới chân vách núi nhìn lên: tảng đá khô giữa dòng lũ ở tiền cảnh, vách đá ướt dựng đứng phía sau, mép vách có đuốc ở trên cao; các cảnh từ mép vách nhìn thẳng xuống tảng đá và dòng lũ; 18.4 trở lại mỏm đá trước hang cao, vách đá bên trái, mép vách bên phải.",
+  "props": "Đỉnh tảng đá phẳng khô, sừng lửa với đốm than đỏ áp vào ngực Pebble, tấm lông thú quấn quanh Pebble, sợi dây da tết thả từ mép vách, nút ghế (bowline), đôi tay phồng rộp của Leo, đai đeo ngực tuột khoá và chiếc camera vuông rơi xuống dòng lũ, đuốc trên mép vách, đứa trẻ quấn lông thú ngủ ở hậu cảnh.",
+  "setting": "Moonlit night at the foot of the limestone cliff during the flood: the dry flat top of a tall boulder standing above churning brown water and drifting ice, the sheer wet cliff rising about six meters behind it, torchlight at the rim above, a braided hide rope hanging down the rock face.",
+  "_setting_key": "ROCK_IN_FLOOD",
+  "clips": [
+   {
+    "id": "18.1",
+    "chars": [
+     "@Leo",
+     "@Pebble"
+    ],
+    "turns": [
+     {
+      "speaker": "@Leo",
+      "line": "Made it. We're above the water now. Is the fire still alive in that horn?",
+      "pace": "fast",
+      "tone": "fast and breathless, relieved"
+     },
+     {
+      "speaker": "@Pebble",
+      "line": "Still red. Still warm. I kept it close to my heart, like Grandmother does.",
+      "pace": "normal",
+      "tone": "proud and steady, a little solemn"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Good boy. Now we wait.",
+      "pace": "slow",
+      "tone": "slow and tired, a warm smile"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera"
+    },
+    "sfx": "the brown flood churning and roaring around the boulder, ice chunks grinding past, heavy panting, the soft hiss of an ember, wind along the cliff",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Leo and @Pebble on the dry flat top of a tall boulder, @Pebble in @Leo's lap, the brown flood churning below in the moonlight, handheld"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Leo panting, water dripping from his beard, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of @Pebble opening the fold of fur wrapped around him to show the fire horn against his tunic, slow push-in"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Leo smiling tiredly down at the boy, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "100mm extreme close-up of a red ember glowing in the moss plug of the fire horn, locked off"
+     }
+    ],
+    "steps": [
+     "@Leo sits on the dry flat top of the tall boulder with @Pebble in his lap, chest heaving, and is already speaking fast between gasps.",
+     "@Leo keeps talking breathlessly, glancing down at the brown flood churning around the foot of the boulder in the moonlight.",
+     "@Leo wraps both arms tighter around @Pebble as he goes on, water dripping from his muddy sleeves.",
+     "@Leo looks down at the bulge under the boy's fur wrap and asks the last words, his eyebrows raised.",
+     "@Leo finishes and closes his mouth, catching his breath, as @Pebble looks up at him with wide eyes.",
+     "@Pebble pulls open the fold of fur wrapped around him and starts speaking at an even pace, chin lifted proudly.",
+     "@Pebble keeps talking, showing the fire horn pressed tight against the front of his hide tunic, a red glow at the moss plug.",
+     "@Pebble cups both small hands around the warm horn as he goes on, his cold-pink cheeks lit faintly red.",
+     "@Pebble pats the left side of his chest over his heart as he keeps talking, his big dark eyes solemn.",
+     "@Pebble lifts his chin and straightens his back like a little clan elder as he says the last words.",
+     "@Pebble finishes and closes his mouth, wrapping the fur back over the horn, as @Leo smiles down tiredly and starts speaking slowly.",
+     "@Leo keeps talking slowly and softly, ruffling the boy's messy brown hair with one muddy hand.",
+     "@Leo says the last words, closes his mouth and rests his chin on top of @Pebble's head, both breathing hard.",
+     "@Leo and @Pebble sit huddled together on the dry boulder top, mouths closed, as the brown flood roars past below them.",
+     "In extreme close-up a red ember glows steadily in the moss plug of the fire horn, safe and dry, both of them silent."
+    ],
+    "_hinh": "Leo và Pebble ngồi trên đỉnh tảng đá khô, Leo ôm cậu bé trong lòng, nước lũ gầm phía dưới chân đá. Pebble hé áo lông, cho Leo xem sừng lửa áp sát ngực, đốm than vẫn đỏ.",
+    "_plan": [
+     "@Leo 0.4–4.9s",
+     "@Pebble 5.4–10.4s",
+     "@Leo 10.9–12.9s"
+    ]
+   },
+   {
+    "id": "18.2",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "Here's the rope! Tie a bowline around him, like at the hole this morning! Rabbit, tree, hole!",
+      "pace": "fast",
+      "tone": "a loud urgent shout down the cliff"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Rabbit out, round the tree, back down the hole. It won't tighten. Pull him up, slowly!",
+      "pace": "normal",
+      "tone": "focused and steady, then a loud call up"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "a rope end landing on wet rock with a soft thud, the flood roaring, the creak of a hide rope pulling taut, wind gusting down the cliff, torches crackling high above",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm high-angle medium shot of @Mia kneeling at the torchlit cliff rim, dropping the end of the braided rope down the wet rock face, handheld"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of @Mia shouting down over the rim, torchlight on her face, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm low-angle medium shot of @Leo alone on the dry boulder top below, framed tight on him with the rope end in his blistered hands, handheld"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of @Leo's face bent low over his blistered hands as they pull a bowline snug against a patch of grey fur, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot looking up the sheer wet cliff as the braided rope rises taut toward the torchlight at the rim, locked off"
+     }
+    ],
+    "steps": [
+     "@Mia kneels at the torchlit rim of the cliff, drops the end of the braided rope down the wet rock face and is already shouting fast.",
+     "@Mia keeps shouting down, feeding the rope hand over hand over the edge, her braid swinging in the wind.",
+     "@Mia leans further out over the drop as she goes on shouting, her free hand braced on the wet rock.",
+     "@Mia draws the knot in the air with one finger, up, around and down, as she keeps shouting.",
+     "@Mia shouts the last words down the cliff, her face lit orange by torchlight, her eyes wide.",
+     "@Mia finishes and closes her mouth, holding the rope steady at the rim and staring down into the dark.",
+     "Below on the boulder top @Leo catches the swinging rope end in his blistered hands and starts speaking at an even pace.",
+     "@Leo keeps talking as he twists a small loop into the rope, his eyes on his fingers, water dripping from his hair.",
+     "@Leo passes the rope end up through the loop as he goes on talking, his blistered fingers shaking with cold.",
+     "@Leo wraps the end around the standing rope and tucks it back down through the loop as he keeps talking.",
+     "@Leo pulls the bowline snug against a patch of grey fur with both hands and tugs it hard to test it, still talking.",
+     "@Leo looks up the cliff toward the rim, says the last words loudly and closes his mouth.",
+     "The braided rope tightens with a creak and begins to rise slowly up the sheer wet cliff toward the torchlight, silent.",
+     "The taut rope climbs steadily up the rock face in the moonlight, swaying gently, silent above the roaring flood.",
+     "At the top of the cliff the rope slides over the torchlit rim, still taut and rising, while the flood churns far below, silent."
+    ],
+    "_hinh": "Trên mép vách, Mia thả đầu dây xuống. Trên tảng đá, Leo bắt được dây; cận cảnh đôi tay phồng rộp của Leo thắt nút thòng lọng không tuột trên nền lông thú. Rồi sợi dây căng lên, từ từ kéo ngược lên vách.",
+    "_plan": [
+     "@Mia 0.4–5.5s",
+     "@Leo 6.0–11.8s"
+    ]
+   },
+   {
+    "id": "18.3",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "Leo, your camera! It's gone, in the water! Seven days of footage, all of it!",
+      "pace": "fast",
+      "tone": "a loud stunned shout down the cliff"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "Let it go. Three million viewers aren't worth one boy holding the fire. Pull me up, Mia. Please.",
+      "pace": "slow",
+      "tone": "slow and calm, certain, a little breathless"
+     }
+    ],
+    "continuity": "cut",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a dusty mud-streaked red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, no bandana on his wrists, a black chest harness holding a small square chest camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "sfx": "a buckle clicking open, a small hard object clattering down wet rock and plopping into the flood, the rope creaking under strain, boots scraping on wet stone, the roaring flood",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "50mm high-angle medium two-shot from beside @Mia at the rim, her face in profile in the foreground, looking down the wet cliff at @Leo climbing the rope as the square camera slips from his chest harness, handheld"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Mia shouting down, torchlight shaking on her face, locked off"
+     },
+     {
+      "until": 9,
+      "camera": "35mm medium shot of @Leo hanging on the rope halfway up the wet cliff, looking down at the flood and then up, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Leo looking up toward the rim with the rope in both blistered hands, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Leo climbing toward the torchlit rim while @Mia leans out and hauls on the rope, the flood roaring below, locked off"
+     }
+    ],
+    "steps": [
+     "@Mia leans over the torchlit rim holding the rope and is already shouting fast as the buckle of @Leo's chest harness slips open below her.",
+     "The small square camera slides off @Leo's chest and tumbles down the wet cliff past his boots, while @Mia keeps shouting, reaching downward.",
+     "The camera bounces off the boulder below and vanishes into the churning brown flood, while @Mia keeps shouting down.",
+     "@Mia keeps shouting fast, her eyes wide, torchlight shaking on her face, the rope wrapped tight around her fists.",
+     "@Mia shouts the last words and closes her mouth, staring down at the spot where the camera vanished.",
+     "Halfway up the cliff @Leo hangs on the rope, looks down at the flood for one long second, then starts speaking slowly.",
+     "@Leo keeps talking slowly, his eyes on the brown water where a few ice chunks drift past the boulder.",
+     "@Leo turns his face away from the water and up toward the torchlit rim as he goes on, his voice low and steady.",
+     "@Leo shifts one blistered hand higher on the braided rope as he keeps talking, wet hair stuck to his forehead.",
+     "@Leo looks straight up toward @Mia far above and keeps speaking, his grey-blue eyes calm and certain.",
+     "@Leo pulls himself up another arm's length on the rope as he goes on, his jaw set, his breath clouding.",
+     "@Leo says the next words more softly, still looking up, his boots finding the wet rock.",
+     "@Leo says the last word, closes his mouth and climbs again, hand over hand on the braided rope.",
+     "@Leo climbs steadily toward the torchlit rim, mouth closed, while @Mia leans out and hauls on the rope above him.",
+     "@Mia and @Leo pull and climb together, both silent, the rope taut between them, the flood roaring far below the cliff."
+    ],
+    "_hinh": "Leo một mình bám dây leo lên vách đá ướt. Quai đai đeo ngực tuột khoá, chiếc camera vuông rơi xuống, va vào đá rồi chìm mất trong dòng lũ. Leo nhìn theo một giây, rồi ngẩng lên, tiếp tục leo. Trên mép vách, Mia cúi người ghì dây.",
+    "_plan": [
+     "@Mia 0.4–4.9s",
+     "@Leo 5.4–12.6s"
+    ]
+   },
+   {
+    "id": "18.4",
+    "chars": [
+     "@Mia",
+     "@Leo"
+    ],
+    "turns": [
+     {
+      "speaker": "@Mia",
+      "line": "Don't ever do that again! I wasn't quitting the job, Leo. I was quitting you. Because I thought you'd never be real.",
+      "pace": "fast",
+      "tone": "fast and tearful, breaking into a sob"
+     },
+     {
+      "speaker": "@Leo",
+      "line": "I'm real now. And I'm not going anywhere without you.",
+      "pace": "slow",
+      "tone": "slow and soft, completely honest"
+     }
+    ],
+    "continuity": "cut",
+    "setting": "Moonlit night during a great flood in the Ice Age: a rock ledge in front of a small high cave on a limestone cliff, the clan huddled in furs with flickering torches, and far below a roaring brown flood full of ice chunks and broken trees surging through the valley toward the mouth of the lower cave.",
+    "wardrobe": {
+     "@Leo": "a reindeer-hide cape with a grey fur collar over a torn mud-stained red softshell jacket, muddy olive-green cargo trousers, brown hiking boots, an empty black chest harness with no camera",
+     "@Mia": "a reindeer-hide cape with a grey fur collar over a dusty teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a small red first-aid pouch on her belt"
+    },
+    "extras": "a small clan child wrapped in furs, covered from shoulders to knees, asleep against the rock wall in soft focus in the background, face hidden",
+    "sfx": "wet boots scraping over the rim, ragged panting, a woman sobbing, torches crackling, the distant roar of the flood below, a sleeping child's slow breathing",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Leo rolling over the wet rim onto the moonlit ledge and @Mia dropping to her knees beside him, handheld"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Mia with tears streaming, her fist pressed against @Leo's chest, handheld"
+     },
+     {
+      "until": 12,
+      "camera": "50mm over-the-shoulder shot from behind @Mia onto @Leo propped on one elbow, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of @Mia and @Leo kneeling forehead to forehead on the torchlit ledge, a small child asleep in furs in soft focus behind them, locked off"
+     }
+    ],
+    "steps": [
+     "@Leo rolls over the wet rim onto the moonlit ledge, soaked and panting, as @Mia drops to her knees beside him, already shouting fast.",
+     "@Mia keeps shouting through tears, pressing her fist hard against the middle of @Leo's chest.",
+     "@Mia presses her fist against his chest again as she goes on, tears running down her freckled cheeks.",
+     "@Mia's fist opens and she takes hold of the front of his torn jacket with both hands as she keeps talking.",
+     "@Mia keeps talking, her voice cracking, clutching his jacket, her face close to his in the torchlight.",
+     "@Mia lowers her voice as she goes on, her green eyes locked on his, her chin trembling.",
+     "@Mia says the last words in a broken whisper, her hands still knotted in his jacket.",
+     "@Mia closes her mouth, breathing raggedly, as @Leo props himself up on one elbow and starts speaking slowly.",
+     "@Leo keeps talking slowly and quietly, water dripping from his beard, his grey-blue eyes steady on hers.",
+     "@Leo lays his blistered hand over both of hers on his jacket as he goes on, his voice low and honest.",
+     "@Leo shakes his head slowly as he keeps speaking, his thumb moving gently over her knuckles.",
+     "@Leo says the last words softly and closes his mouth, holding her hands against his chest.",
+     "@Mia lets out a shaky breath, mouth closed, and rests her forehead against his, her eyes shut.",
+     "@Mia and @Leo kneel forehead to forehead on the ledge, both silent, his hand over hers, the torchlight flickering on them.",
+     "Behind them a small child wrapped in furs sleeps against the rock in soft focus, while @Mia and @Leo stay forehead to forehead, silent."
+    ],
+    "_hinh": "Leo lăn qua mép vách lên mỏm đá, ướt sũng, thở dốc. Mia lao tới, áp nắm tay vào ngực anh, rồi níu chặt áo anh, nước mắt chảy dài. Phía sau, một đứa trẻ quấn lông thú ngủ mờ trong hậu cảnh.",
+    "_setting_key": "CLIFF_NIGHT_FLOOD",
+    "_plan": [
+     "@Mia 0.4–7.0s",
+     "@Leo 7.5–11.5s"
+    ]
+   }
+  ]
+ }
+]

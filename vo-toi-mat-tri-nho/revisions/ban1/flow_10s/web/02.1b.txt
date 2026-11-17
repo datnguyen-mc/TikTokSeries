@@ -1,0 +1,48 @@
+A 10-second live-action film sequence of 3 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 8s; one place and one moment, sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic family comedy-drama set in a modern Vietnamese city today among the stylish upper-middle class; glossy premium streaming-series look, flattering beauty lighting on every face, creamy luminous skin tones, warm golden highlights, rich teal-and-amber palette, elegant wardrobe, subtle 35mm film grain, shallow depth of field.
+
+[LOCATION]
+The grand lobby of a five-star hotel at night, quiet and empty: polished cream marble floor, a sweeping crystal chandelier, tall marble pillars, velvet emerald sofas, a bank of brass elevator doors, huge white orchid arrangements.
+
+[CHARACTERS]
+Use the attached character images for every face and hairstyle; keep them exactly consistent. The characters are already in place in the first frame; never show the reference portrait.
+- @Quan = Quân, 36, the handsome husband; wears tailored navy suit, crisp white shirt open at the collar with no tie, silver wristwatch, polished brown leather shoes.
+- @MaiAnh = Mai Anh, 25, the young yoga teacher; wears chic short white bouclé jacket dress, a pearl hair clip, white heels (this outfit, not the one in the reference image).
+Nobody else appears in the shot.
+
+[SHOT LIST — 3 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 50mm over-the-shoulder shot from behind the husband onto the young yoga teacher, subtle rack focus.
+- Shot 2, 4–8s: 85mm close-up of the husband, slow arc.
+- Shot 3, 8–10s: 24mm wide shot of the marble hotel lobby with the husband and the young yoga teacher, slow push-in.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.
+
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @MaiAnh is bouncing on her toes and is already speaking quickly (delighted).
+- 1–2s (Shot 1): @MaiAnh keeps talking, one hand moving lightly with the words.
+- 2–3s (Shot 1): @MaiAnh keeps talking, leaning a little toward @Quan.
+- 3–4s (Shot 1): @MaiAnh finishes the line and closes the mouth.
+- 4–5s (CUT to Shot 2): @Quan starts speaking at an easy conversational pace (evasive), checking his silver watch, while @MaiAnh listens with the mouth closed.
+- 5–6s (Shot 2): @Quan keeps talking, glancing at the elevators.
+- 6–7s (Shot 2): @Quan keeps talking, one hand moving lightly with the words.
+- 7–8s (Shot 2): @Quan finishes the line and closes the mouth.
+- 8–9s (CUT to Shot 3): An elevator chime rings; @Quan's eyes flick toward the brass doors.
+- 9–10s (Shot 3): @Quan slides his arm free and takes a step back, his smile frozen in place. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, two spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–3.6s, spoken on camera by @MaiAnh (young woman of 25, bright airy soprano, bubbly and quick, turning small and soft when hurt, speaking quickly in short lively phrases, every word still clear, delighted): "Thế tối nay anh ở lại ăn tối với em nhé, em đặt bàn rồi!"
+- Turn 2, 4.1–7.6s, spoken on camera by @Quan (man of 36, smooth resonant baritone, confident and charming, cracking higher when flustered, speaking at a natural, even conversational pace, evasive): "Ừ, để anh xem lịch đã. Tối nay anh còn một cuộc họp nữa."
+- Pacing: @MaiAnh speaks quickly, then @Quan answers at an even everyday pace; the change of speed is clearly audible.
+- Throughout, each speaker's face and lips stay clearly visible while speaking; only the person whose turn it is moves the lips while the other listens with the mouth closed; after the last word both close their mouths and say nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 7.6s. From then until 10.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: a soft piano-free hush of a grand lobby, footsteps echoing on marble, a gentle elevator chime, a fountain trickling somewhere. Ambience continues to 10.0s. No music.
+
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

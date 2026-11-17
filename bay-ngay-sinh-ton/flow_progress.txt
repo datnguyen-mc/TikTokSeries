@@ -1,0 +1,119 @@
+02.1 submitted
+03.1 submitted
+03.2 submitted
+03.4 submitted
+04.1 submitted
+04.2 submitted
+04.3 submitted
+05.1 submitted
+05.2 submitted
+05.3 submitted
+05.4 submitted
+06.1 submitted
+06.2 submitted
+06.3 submitted
+06.4 submitted
+07.1 submitted
+07.2 submitted
+07.3 submitted
+07.4 submitted
+08.1 submitted
+08.3 submitted
+08.4 submitted
+09.1 submitted
+09.2 submitted
+09.3 submitted
+09.4 submitted
+10.1 submitted
+10.3 submitted
+10.4 submitted
+11.1 submitted
+11.2 submitted
+11.3 submitted
+11.4 submitted
+12.1 submitted
+12.2 submitted
+13.1 submitted
+10.1 FAILED (Flow policy: minors) - needs user decision
+13.2 submitted
+13.3 submitted
+13.4 submitted
+14.1 submitted
+14.2 submitted
+14.4 submitted
+15.1 submitted
+15.2 submitted
+10.1 resubmitted (rewritten, child off-screen; file updated)
+15.3 submitted
+15.4 submitted
+16.1 submitted
+16.2 submitted
+16.3 submitted
+16.4 submitted
+17.1 submitted
+17.2 submitted
+17.3 submitted
+17.4 submitted
+!! STOP: Flow "hoat dong bat thuong" — 11 newest FAILED: 10.1(re),15.3,15.4,16.1-16.4,17.1-17.4 (refunded)
+15.3 resubmitted OK
+15.4 resubmitted
+10.1 resubmitted
+16.1 resubmitted
+16.2 resubmitted
+16.3 resubmitted
+16.4 resubmitted
+17.1 resubmitted
+17.2 resubmitted
+17.3 resubmitted
+17.4 resubmitted
+RENAMED all existing tiles to "Canh XX - Clip N"; 03.2 MISSING on Flow -> resubmit
+03.2 resubmitted
+18.1 submitted
+18.2 submitted
+18.3 submitted
+18.4 submitted
+19.1 submitted
+19.2 submitted
+19.3 submitted
+20.1 submitted
+20.2 submitted
+20.3 FAILED (hoat dong bat thuong)
+20.4 submitted
+!! PAUSED again: unusual activity flag on 20.3
+20.3 resubmitted OK
+21.1 submitted
+21.3 submitted
+21.4 submitted
+22.1 submitted
+22.2 submitted
+22.3 submitted
+23.1 submitted
+23.3 submitted
+24.1 submitted
+24.3 submitted
+24.4 submitted
+ALL Ingredients clips submitted
+RENAMED 18.x-24.x + 03.2. Frames clips pending (16). Session logged out at Frames step.
+NOTE: 10.1,15.3,15.4,20.3 had been made 9:16 (Flow reset aspect after reload) -> regenerated 16:9
+02.2 submitted (Frames)
+03.3 submitted (Frames)
+Frames done: 02.2, 03.3. Logged out again before 02.3.
+02.3 submitted (Frames)
+04.4 submitted (Frames)
+08.2 submitted (Frames)
+10.2 submitted (Frames)
+12.3 submitted (Frames); 10.2 retried (audio fail)
+2026-11-13 05:11:14 14.3 submitted (Frames)
+2026-11-13 05:13:03 19.4 submitted (Frames)
+2026-11-13 05:14:50 21.2 submitted (Frames); renamed 19.4,14.3,10.2(retry ok),12.3
+2026-11-13 05:16:01 22.4 submitted (Frames)
+2026-11-13 05:17:13 23.2 submitted (Frames)
+2026-11-13 05:18:27 23.4 submitted (Frames)
+2026-11-13 05:19:41 24.2 submitted (Frames)
+2026-11-13 05:21:05 12.4 submitted (Frames)
+2026-11-13 05:24:49 02.4 submitted (Frames) - ALL Frames submitted
+2026-11-13 05:28:38 DONE: all 96 clips (24x4) present on Flow, 16:9, named 'Cảnh XX - Clip N'; audit 0 failures
+2026-11-13 05:42:18 DOWNLOAD: 3/100 in output_videos (01.1, 01.2, 02.4); stopped - Flow returns 401 (session expired)
+2026-11-13 05:56:50 DOWNLOAD paused: Flow 401 again
+2026-11-13 06:49:55 DOWNLOAD: 92/96 VN + 4 EN in output_videos; missing VN 01.1-01.4 (Flow 401 again)
+2026-11-13 06:56:56 DOWNLOAD DONE: 96/96 VN in output_videos + 4 EN in output_videos/en

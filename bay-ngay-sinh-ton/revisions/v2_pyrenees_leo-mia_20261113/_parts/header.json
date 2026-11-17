@@ -1,0 +1,42 @@
+{
+  "series": "bay-ngay-sinh-ton",
+  "title": "Bảy Ngày Sinh Tồn (Seven Days in the Stone Age)",
+  "clip_seconds": 15,
+  "language": "en",
+  "style": "Photorealistic live-action survival adventure romance film with warm humor, set in the French Pyrenees today and in the same valley during the Ice Age about twenty-seven thousand years ago; crisp cold whites and blues of snow and glacier ice, warm ember-orange firelight, autumn gold in the present day, natural skin texture with cold-reddened cheeks, subtle 35mm film grain, shallow depth of field, grounded handheld energy.",
+  "lighting": "Natural motivated light: golden autumn sun through the beech forest and warm lamp light in the present day; cold blue dawn, bright sun glare on snow, warm amber firelight inside the cave and cool blue storm light with white lightning flashes in the Ice Age; shadows stay soft, never murky.",
+  "voice_common": "everyone speaks clear, natural English in their own accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.",
+  "characters": {
+    "@Leo": {
+      "name": "Leo",
+      "anchor": "Leo, 31, British survival YouTuber; tall lean athletic build, fair skin with a light tan, messy sandy-brown hair, short sandy beard, grey-blue eyes, a confident showman's grin; red softshell jacket over a grey fleece, olive-green cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera, a bright orange backpack.",
+      "voice": "man of 31, bright energetic British tenor with a light London accent, a TV host's voice that drops low and honest when serious",
+      "rate": 2.8
+    },
+    "@Mia": {
+      "name": "Mia",
+      "anchor": "Mia, 28, French-born camerawoman and editor; slim athletic build, fair freckled skin, auburn hair in one long braid, green eyes, a calm dry half-smile; teal down jacket, black hiking trousers, grey hiking boots, a cream knit beanie, a handheld camera gimbal.",
+      "voice": "woman of 28, low dry alto with a light French accent, calm and teasing, softening when moved",
+      "rate": 2.8
+    },
+    "@Moon": {
+      "name": "Grandma Moon",
+      "anchor": "Grandma Moon, 66, Ice Age clan leader and keeper of the fire; small and straight-backed, deeply lined weathered face, calm piercing pale eyes, long white hair in a thick braid held by a bone pin, a red-ochre dot on her forehead; a long reindeer-hide cloak with a grey fur collar over a knee-length sewn hide tunic, a necklace of pierced sea shells, a hollow aurochs horn plugged with moss for carrying embers, fur-wrapped feet.",
+      "voice": "old woman of 66, low slow husky voice with weight in every word",
+      "rate": 2.7
+    },
+    "@Roar": {
+      "name": "Roar",
+      "anchor": "Roar, 32, the clan's strongest Ice Age hunter; tall, broad-shouldered and muscular, weathered olive skin, thick black hair bound with a leather thong, heavy brows, a short dark beard, a fierce jaw; a long-sleeved tunic of dark reindeer hide that fully covers his chest, fur-lined hide trousers, a necklace of animal teeth, a wooden spear-thrower at his belt and a long wooden spear with a flint tip, fur-wrapped feet.",
+      "voice": "man of 32, deep rough bass, gruff and forceful",
+      "rate": 2.7
+    },
+    "@Pebble": {
+      "name": "Pebble",
+      "anchor": "Pebble, 8, a little boy of the Ice Age clan; small and wiry, round cheeky face with cold-pink cheeks, big curious dark eyes, a messy mop of brown hair; a small knee-length tunic of sewn hide with a fur hood covering both shoulders, hide leggings, a string of pierced snail shells around one wrist, fur-wrapped feet.",
+      "voice": "boy of 8, high bright child's voice, quick and excited",
+      "rate": 2.8
+    }
+  },
+  "scenes": []
+}

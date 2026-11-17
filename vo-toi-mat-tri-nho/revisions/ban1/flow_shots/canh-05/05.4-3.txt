@@ -1,0 +1,21 @@
+A single continuous 5-second shot, one camera angle, no cuts.
+
+[LOOK] Cinematic live-action film still in motion, shot on ARRI Alexa 35 with vintage anamorphic lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable performances, motivated practical lighting, soft contrast, rich teal-and-amber grade, gentle halation, subtle 35mm film grain, shallow depth of field with creamy bokeh. Looks like a premium Vietnamese theatrical romantic comedy-drama, never like CGI, a video game or an advertisement.
+
+[PLACE] The open living room of a modern lakeside villa in the evening: double-height glass walls onto a garden, a long cream sofa, a walnut coffee table, a large abstract painting, warm amber floor lamps, a floating staircase with glass rails.
+
+[CHARACTERS] Use the attached character images for faces and hair; keep them exactly the same.
+- @Linh = Linh, elegant wife; wears elegant ivory silk blouse, high-waisted cream wide-leg trousers, delicate pearl earrings, nude heels.
+Nobody else is in frame.
+
+[CAMERA] 50mm medium shot of the elegant wife, waist up; a slow dolly-in; framing holds steady for the whole shot.
+
+[ACTION] @Linh is tossing a cushion down the stairs to him.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, clear warm alto with an elegant Northern lilt, playful and bright when acting young, speaking slowly and softly, unhurried, with a short natural pause between phrases, sweet and final), said exactly once from 0.3s to 3.9s: "Thì đúng rồi. Gu của tôi mà. Chúc anh ngủ ngon trên sofa."
+After the last word @Linh closes the mouth; nobody speaks again until 5.0s.
+Standard Northern Vietnamese accent; never read these directions or names aloud.
+
+[SOUND] the hush of a big quiet house, a door closing softly, wind in the garden trees, the faint hum of the city. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper or screens; cuts or a second camera angle; extra people; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

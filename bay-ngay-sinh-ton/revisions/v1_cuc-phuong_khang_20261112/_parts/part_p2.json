@@ -1,0 +1,1835 @@
+[
+ {
+  "num": 7,
+  "title": "The Cave With No Hands (Hang chưa có bàn tay)",
+  "time_label": "Hoàng hôn ngày 1 (06:00–07:00)",
+  "location": "Chính hang Bàn Tay hơn một vạn năm trước: cùng cửa hang rộng và nhũ đá hình con voi, nhưng vách đá trơn, chưa có dấu tay nào. Bếp lửa giữa hang, da thú phơi, giỏ mây đựng ốc, mười mấy người tiền sử mặc áo vỏ cây và da thú kín vai đến gối.",
+  "axis": "Máy quay đặt trong lòng hang nhìn ra cửa hang: cửa hang vòm rộng và nhũ đá hình con voi ở xa nhất, bếp lửa ở giữa, vách đá trơn không dấu tay bên trái, giá phơi da thú và ổ lá khô bên phải; góc tối cuối hang nằm sau lưng máy quay.",
+  "props": "Giáo tre mũi đá của Roar, ống tre xanh giữ lửa của Grandma Moon, bếp lửa giữa hang, nhũ đá hình con voi, vách đá trơn không dấu tay, giỏ mây đựng ốc, da thú phơi trên sào, ba lô cam và camera ngực có đèn đỏ của Khang.",
+  "setting": "A large limestone cave more than ten thousand years ago at dusk, home of a small Stone Age clan: a wide arched mouth, a huge stalactite shaped like an elephant, bare rock walls with no handprints or drawings, a hearth fire in the middle, hides drying on poles, rattan baskets of snails, sleeping beds of dry leaves, a stream running below the entrance.",
+  "_setting_key": "CAVE_PAST_DUSK",
+  "clips": [
+   {
+    "id": "07.1",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Stream! Why bring a stranger here? He smells strange. The tiger will follow!",
+      "pace": "fast",
+      "tone": "harsh and suspicious, barking each word"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "The tiger already came. He chased it off and saved Snail. Where were you, Roar?",
+      "pace": "fast",
+      "tone": "firm, standing her ground"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Hunting, to feed the cave. What did he bring?",
+      "pace": "normal",
+      "tone": "cold and flat"
+     }
+    ],
+    "_hinh": "Roar chặn ở cửa hang, giáo trong tay, ngực ưỡn. Stream bước lên đứng chắn trước Khang (Khang ở hậu cảnh, mờ).",
+    "chars": [
+     "@Roar",
+     "@Stream"
+    ],
+    "_plan": [
+     "@Roar 0.4–4.5s",
+     "@Stream 5.0–9.5s",
+     "@Roar 10.0–13.4s"
+    ],
+    "continuity": "cut",
+    "sfx": "evening cicadas rising from the jungle, the stream rushing below the cave mouth, the hearth fire crackling deep inside, bare feet scuffing on packed earth",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "24mm wide shot of the cave mouth at dusk with @Roar planted in the entrance facing the lens, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Roar under the elephant-shaped stalactite, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of @Stream stepping up into the cave mouth, handheld follow"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind @Stream onto @Roar, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Roar stands planted in the wide cave mouth with his bamboo spear held upright and is already shouting, harsh, chest pushed out.",
+     "@Roar keeps talking, flaring his nostrils and sniffing the air toward the jungle path as if catching a strange smell.",
+     "@Roar keeps shouting and jerks his chin toward the dark trees, his boar-tusk necklace swaying on the hide vest.",
+     "@Roar keeps speaking through clenched teeth, heavy brows drawn down, knuckles tight around the upright spear shaft.",
+     "@Roar finishes the warning, closes his mouth and breathes hard through his nose, blocking the entrance.",
+     "@Stream steps up from the path into the cave mouth and answers fast, chin raised, the rattan basket on her back.",
+     "@Stream keeps talking firmly and moves sideways to stand between @Roar and a blurred figure far down the path.",
+     "@Stream keeps speaking and points one hand back toward the stream below, her red-ochre stripes catching the last light.",
+     "@Stream keeps talking, eyes narrowing at @Roar, her bare feet planted wide on the earthen floor.",
+     "@Stream finishes with the pointed question, closes her mouth and holds his stare without blinking.",
+     "@Roar answers coldly with a tight mouth, lifting his gaze over the top of her head toward the path.",
+     "@Roar keeps talking in a flat low voice and thumps his free fist once against his own boar-hide vest.",
+     "@Roar keeps speaking, his eyes sliding past @Stream to study the blurred figure waiting on the path.",
+     "@Roar finishes the question, closes his mouth and sets his jaw, the spear still upright at his side.",
+     "@Stream stays in front of him with her arms at her sides, breathing steadily, both mouths closed in the fading dusk light."
+    ]
+   },
+   {
+    "id": "07.2",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Stranger. This cave does not feed strange mouths.",
+      "pace": "slow",
+      "tone": "slow and grave, measuring every word"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Grandma, I don't need food. Just a safe place to sleep. I'll feed myself!",
+      "pace": "fast",
+      "tone": "eager and fast, a little too polite"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Feed yourself? Good. Seven suns, by your own hands. Live, and you stay.",
+      "pace": "slow",
+      "tone": "slow and final, like speaking a law"
+     }
+    ],
+    "_hinh": "Grandma Moon ngồi bên bếp lửa, hai tay ôm ống tre giữ lửa, nhìn Khang từ đầu đến chân. Khang quỳ xuống trước bà, ba lô cam vẫn trên vai.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Moon 0.4–3.7s",
+     "@Khang 4.2–8.4s",
+     "@Moon 8.9–14.3s"
+    ],
+    "continuity": "cut",
+    "sfx": "the hearth fire crackling and popping, rustling dry leaves and shuffling bare feet in the dark, wind sighing across the cave mouth, a hide creaking on its drying pole",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium shot of @Moon seated by the hearth cradling the green bamboo ember tube, slow push-in"
+     },
+     {
+      "until": 9,
+      "camera": "50mm over-the-shoulder shot from behind @Moon onto @Khang kneeling in the firelight, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "85mm close-up of @Moon's lined face in the firelight, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Moon and @Khang on either side of the hearth, slow pull-back"
+     }
+    ],
+    "steps": [
+     "@Moon sits by the hearth cradling a thick green bamboo ember tube in both hands and is already speaking, slow and grave.",
+     "@Moon keeps speaking slowly, her calm eyes travelling up @Khang from his muddy boots to his face.",
+     "@Moon keeps talking with weight in every word, the red-ochre dot on her forehead glowing in the firelight.",
+     "@Moon finishes and closes her mouth as @Khang drops to his knees before her, the orange backpack still on his shoulders.",
+     "@Khang answers fast and eagerly, both palms raised, his face lit orange by the hearth.",
+     "@Khang keeps talking quickly, pressing one hand to his chest and shaking his head at the food baskets.",
+     "@Khang keeps speaking and gestures toward a bed of dry leaves against the bare rock wall.",
+     "@Khang keeps talking and taps his own chest with a showman's grin, nodding hard.",
+     "@Khang finishes the promise, closes his mouth and swallows, still kneeling, while @Moon watches with her mouth closed.",
+     "@Moon answers slowly with a faint lift of one eyebrow, her voice low and husky.",
+     "@Moon sets the ember tube across her knees and keeps speaking, slow and deliberate.",
+     "@Moon raises both open hands in front of her face, fingers spread, counting the suns as she speaks.",
+     "@Moon keeps speaking with weight in every word, her open hands held still between them in the firelight.",
+     "@Moon speaks the last words slowly and lowers her hands onto the ember tube as @Khang nods, mouth closed.",
+     "@Moon finishes, closes her mouth and holds his gaze, while @Khang breathes out slowly on his knees, mouth closed."
+    ]
+   },
+   {
+    "id": "07.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Wait... that elephant stalactite. This entrance. It's the Cave of Hands.",
+      "pace": "slow",
+      "tone": "slow and stunned, half to himself"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Hands? The wall has only stone and smoke. You talk strange words.",
+      "pace": "normal",
+      "tone": "puzzled and a little wary"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No hands yet. That means... I got here before the handprints.",
+      "pace": "normal",
+      "tone": "a hushed whisper, piecing it together"
+     }
+    ],
+    "_hinh": "Khang đứng sững nhìn nhũ đá hình con voi, rồi bước tới vách, áp tay lên mặt đá trơn trống trơn. Stream đi theo, khó hiểu.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.8s",
+     "@Stream 5.3–9.6s",
+     "@Khang 10.1–14.1s"
+    ],
+    "continuity": "cut",
+    "sfx": "the hearth fire crackling behind them, water dripping from the stalactite into a small pool, the stream rushing below the cave mouth, a palm sliding over dry rock",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "24mm low-angle medium shot of @Khang with the elephant-shaped stalactite looming above him, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind @Khang at the bare wall onto @Stream, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "35mm medium two-shot of @Khang and @Stream at the bare rock wall, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of @Khang's face beside his palm pressed flat on the bare rock, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang stands frozen under the elephant-shaped stalactite, head tilted back, and is already speaking slowly, half to himself.",
+     "@Khang keeps talking in a low voice, his eyes tracing the long trunk-like curve of the stalactite.",
+     "@Khang turns slowly toward the wide arched mouth of the cave as he keeps speaking, breath held between words.",
+     "@Khang keeps speaking, one hand drifting up to the small camera on his chest harness without pressing it.",
+     "@Khang finishes the name of the cave, closes his mouth and walks straight toward the bare rock wall.",
+     "@Stream follows a step behind and asks, puzzled, head tilted, as @Khang lays his palm flat on the smooth stone.",
+     "@Stream keeps talking and sweeps one hand across the bare smoke-stained rock to show there is nothing on it.",
+     "@Stream keeps speaking with a small frown, the snail-shell necklace clicking softly on her chest.",
+     "@Stream keeps talking, eyes narrowing at his strange words, while @Khang stays silent with his mouth closed.",
+     "@Stream finishes, closes her mouth and folds her arms, waiting for an answer.",
+     "@Khang answers in a hushed whisper, sliding his palm slowly across the empty wall.",
+     "@Khang keeps whispering and spreads his fingers wide on the smooth stone exactly where a handprint should be.",
+     "@Khang keeps whispering, eyes wide and glistening in the firelight, his breath catching between words.",
+     "@Khang whispers the last words, his spread fingers trembling slightly against the bare rock.",
+     "@Khang finishes, closes his mouth and swallows hard, his palm still pressed to the cold wall in silence."
+    ]
+   },
+   {
+    "id": "07.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Everyone... I think this is the Stone Age. Over ten thousand years ago. Grandma gave me seven days. Seven-day survival. Like my video titles.",
+      "pace": "normal",
+      "tone": "hushed whisper to the lens, then low and wry"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Only now, if I fail, nobody can cut it out.",
+      "pace": "slow",
+      "tone": "slow and honest, the showman gone"
+     }
+    ],
+    "_hinh": "Đêm, Khang ngồi ở góc hang xa bếp lửa, quay camera vào mặt mình, đèn đỏ của camera là đốm sáng nhỏ trong bóng tối. Sau lưng, bóng người hang ngủ quanh lửa.",
+    "chars": [
+     "@Khang"
+    ],
+    "setting": "Night inside the large Stone Age clan cave: the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire glowing red, sleeping beds of dry leaves, hides on poles, deep shadows beyond the firelight.",
+    "_setting_key": "CAVE_PAST_NIGHT",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–5.1s",
+     "@Khang 5.6–9.9s",
+     "@Khang 10.4–14.4s"
+    ],
+    "continuity": "cut",
+    "sfx": "the distant hearth crackling softly, slow breathing of sleepers in the dark, crickets and frogs outside the cave mouth, water dripping onto stone",
+    "extras": "a few clan members in bark-cloth tunics and hide wraps asleep around the distant glowing hearth, dark silhouettes in soft focus",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "24mm close-up of @Khang's face as seen from the small camera he holds at arm's length, slight handheld wobble"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of @Khang hunched against the rock wall in the dark corner with the distant hearth behind him, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of @Khang's face in the faint red glow, locked off"
+     }
+    ],
+    "steps": [
+     "@Khang sits in the dark far corner of the cave holding the small chest camera at arm's length toward his face and is already whispering to it.",
+     "@Khang keeps whispering, glancing over his shoulder at the sleeping shapes around the distant hearth.",
+     "@Khang keeps talking low into the lens, eyebrows raised, the tiny red recording light glowing below his chin.",
+     "@Khang keeps whispering and shakes his head slowly, as if he cannot believe his own words.",
+     "@Khang finishes the thought, closes his mouth and lets out a long shaky breath in the dark.",
+     "@Khang shifts his back against the cold rock wall and starts speaking again with a tired half-smile.",
+     "@Khang keeps talking and traces a big frame in the air with his free hand, a flicker of the old showman in his eyes.",
+     "@Khang keeps speaking wryly and lets the hand drop onto his muddy knee.",
+     "@Khang keeps talking as his smile fades, his eyes going back to the small lens.",
+     "@Khang finishes the sentence, closes his mouth and lowers his eyes to the dirt floor.",
+     "@Khang lifts his eyes to the lens and speaks again, slowly and honestly, the showman gone from his face.",
+     "@Khang keeps speaking slowly, his jaw tight, the red light trembling slightly in his hand.",
+     "@Khang keeps speaking softly, swallowing between words, his eyes shining in the faint firelight.",
+     "@Khang says the last words slowly, staring straight into the small lens without blinking.",
+     "@Khang finishes, closes his mouth and keeps holding the camera in silence, breathing slowly in the dark corner."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 8,
+  "title": "Day Two: Food That Doesn't Run (Ngày 2: Đồ ăn không biết chạy)",
+  "time_label": "Sáng, khe suối đá (07:00–08:00)",
+  "location": "Khe suối nông, đá cuội tròn, nước trong đến mắt cá chân; sau đó là bếp lửa trong hang buổi trưa.",
+  "axis": "Ở khe suối máy quay đứng ở bờ cạn nhìn ngược dòng: tảng đá lớn nơi Stream ngồi bên trái, lòng suối nông đá cuội ở giữa, bìa rừng ở xa; trong hang máy quay đặt cạnh bếp lửa nhìn ra cửa hang sáng, Grandma Moon ngồi bên trái bếp, ổ lá khô bên phải.",
+  "props": "Giỏ mây của Stream, những hòn đá dẹt bám đầy ốc suối, gói mì tôm vỏ vàng trơn không chữ sột soạt, vắt mì khô, gói gia vị nhỏ, ống tre giữ lửa của Grandma Moon, bếp lửa trong hang, camera ngực của Khang.",
+  "setting": "A shallow rocky stretch of the jungle stream in the Stone Age, morning: round pebbles, clear ankle-deep water, flat stones covered with small dark snails, a big boulder on the bank, sunlight sparkling.",
+  "_setting_key": "SHALLOWS_PAST",
+  "clips": [
+   {
+    "id": "08.1",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Day two. Starving. Fish, hold still... Ah! Slipped again! That's ten in a row!",
+      "pace": "fast",
+      "tone": "breathless and frantic, mid-chase"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "You chased fish all morning. The fish are not tired. You are.",
+      "pace": "normal",
+      "tone": "amused, laughing between the words"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Then you catch one! Stop laughing, I'm about to faint.",
+      "pace": "normal",
+      "tone": "deflated and whiny, flopping down"
+     }
+    ],
+    "_hinh": "Khang chồm xuống vồ cá bằng tay, trượt chân ngã ướt sũng. Stream ngồi trên tảng đá bờ suối, chống cằm nhìn, bật cười.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.6s",
+     "@Stream 5.1–9.4s",
+     "@Khang 9.9–13.5s"
+    ],
+    "continuity": "cut",
+    "sfx": "the shallow stream babbling over round pebbles, a big splash as a body hits the water, morning birdsong and cicadas in the jungle, water dripping from soaked clothes",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium shot of @Khang bent over the ankle-deep water with his hands hovering, handheld follow"
+     },
+     {
+      "until": 5,
+      "camera": "24mm wide shot of the sparkling shallows with @Khang facing the lens and @Stream on the boulder beside him, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of @Stream on the boulder with her chin on her hand, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Khang sitting soaked in the shallows with @Stream on the boulder behind him, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang crouches in the ankle-deep water with both hands hovering over a darting fish and is already talking fast to his chest camera.",
+     "@Khang keeps talking in a breathless rush, creeping one boot forward over the round wet pebbles.",
+     "@Khang plunges both hands into the water with a shout as the silver fish flicks away between his fingers.",
+     "@Khang's boot slides on a mossy pebble and he lands on his backside in a big splash, still talking.",
+     "@Khang finishes the complaint, closes his mouth and wipes stream water from his face, soaked to the chest.",
+     "@Stream sits on the big boulder on the bank, chin on one hand, and answers with a laugh in her voice.",
+     "@Stream keeps talking and points lazily at a fish gliding calmly around his muddy boots.",
+     "@Stream keeps speaking, her red-ochre striped cheeks lifting in a wide grin.",
+     "@Stream keeps talking, tilting her head at him as he drips, while @Khang listens with his mouth closed.",
+     "@Stream finishes, closes her mouth and presses her lips together to hold back another laugh.",
+     "@Khang flops both arms into the water and fires back in a whiny voice, pointing up at her.",
+     "@Khang keeps talking and flicks a handful of water toward her boulder with an exaggerated pout.",
+     "@Khang keeps speaking and slumps back on his hands in the shallow water, eyes rolling up to the sky.",
+     "@Khang finishes, closes his mouth and lets his head flop back dramatically, water streaming from his hair.",
+     "@Khang sits dripping in the sparkling stream with his mouth closed, while @Stream grins down at him in silence."
+    ]
+   },
+   {
+    "id": "08.2",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "No chasing. Lift the stones, find snails. Snails don't run. Good for you.",
+      "pace": "normal",
+      "tone": "calm and matter-of-fact, a teacher"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Food that doesn't run! Exactly what I need! Stream, you're an angel!",
+      "pace": "fast",
+      "tone": "overjoyed, words tumbling out"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "What is angel? Roast snails first. Raw ones hurt your belly.",
+      "pace": "normal",
+      "tone": "puzzled, then firm and practical"
+     }
+    ],
+    "_hinh": "Stream lật một hòn đá dưới nước: bám đầy ốc suối. Cô nhặt bỏ vào giỏ mây, đặt một nắm vào tay Khang.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.1s",
+     "@Khang 5.6–9.2s",
+     "@Stream 9.7–13.7s"
+    ],
+    "continuity": "continuous",
+    "sfx": "the shallow stream babbling, a flat stone lifting out of the water with a wet suck, tiny snail shells clicking into a rattan basket, morning birdsong",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Stream sliding down from the boulder into the shallows beside @Khang, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Stream holding a flat stone crusted with small dark snails up beside her face, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind @Stream onto @Khang kneeling in the water, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Stream pouring snails into @Khang's open palm, locked off"
+     }
+    ],
+    "steps": [
+     "@Stream slides down from the boulder into the ankle-deep water beside @Khang and is already speaking, calm and matter-of-fact.",
+     "@Stream keeps talking as she crouches and slips her fingers under a flat stone in the stream bed.",
+     "@Stream keeps speaking and lifts the dripping stone, its underside crusted with small dark stream snails.",
+     "@Stream holds the stone up beside her face, still talking, eyebrows raised at him like a patient teacher.",
+     "@Stream finishes with a dry little smile and closes her mouth, the wet snails glistening in the sun.",
+     "@Khang lurches up onto his knees in the water and bursts out talking, eyes fixed on the snails.",
+     "@Khang keeps talking fast and clasps both hands together in front of his chest like a prayer.",
+     "@Khang keeps speaking excitedly, bouncing on his knees in the shallows with a huge grin.",
+     "@Khang keeps talking and points both index fingers at her, beaming, water dripping from his elbows.",
+     "@Khang finishes and closes his mouth, still beaming, as @Stream peels snails off the stone into her rattan basket.",
+     "@Stream answers with a puzzled frown at the strange word, dropping snails one by one into her basket.",
+     "@Stream keeps talking and takes hold of his wrist, turning his palm up toward the sky.",
+     "@Stream keeps speaking firmly and pours a handful of wet snails into his open palm.",
+     "@Stream finishes her warning, closes her mouth and taps his palm once with one finger.",
+     "@Khang stares down at the wet snails in his palm with his mouth closed, while @Stream wades back toward the boulder in silence."
+    ]
+   },
+   {
+    "id": "08.3",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "A gold leaf that sings! What's inside? Show me, Silver Skin!",
+      "pace": "fast",
+      "tone": "breathless and dazzled, bouncing"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Instant noodles, Snail. My last pack. Try a bite. Chew slowly.",
+      "pace": "normal",
+      "tone": "warm and teasing, like a show host"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Dry worms! Dry worms taste so good! Everybody! The stranger has dry worms!",
+      "pace": "fast",
+      "tone": "a joyful yell, mouth half full"
+     }
+    ],
+    "_hinh": "Bên bếp lửa trong hang, Khang xé gói mì tôm, tiếng sột soạt làm lũ trẻ (quần chúng) xúm lại. Anh bẻ một miếng mì khô đưa Snail; Snail nhai rôm rốp, mắt sáng rỡ.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "setting": "Daytime inside the large Stone Age clan cave: soft daylight from the wide arched mouth, the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire in the middle, rattan baskets of snails, sleeping beds of dry leaves.",
+    "_setting_key": "CAVE_PAST_DAY",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–3.7s",
+     "@Khang 4.2–8.2s",
+     "@Snail 8.7–12.6s"
+    ],
+    "continuity": "cut",
+    "sfx": "crinkling foil, a crisp crack of dry noodles snapping, loud crunching, the hearth fire crackling, small bare feet pattering on the cave floor",
+    "extras": "a few small clan children in knee-length bark-cloth tunics crowd in around the hearth in soft focus",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "85mm close-up of @Snail's wide eyes fixed on a crinkling plain gold foil packet, slow push-in"
+     },
+     {
+      "until": 8,
+      "camera": "50mm medium shot of @Khang tearing the packet open beside the hearth, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Snail crunching dry noodles with shining eyes, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the hearth as small children crowd around @Snail and @Khang, slow pull-back"
+     }
+    ],
+    "steps": [
+     "@Snail crouches by the hearth staring at a crinkling plain gold foil packet in @Khang's hands and is already shouting, eyes huge.",
+     "@Snail keeps talking fast, bouncing on his heels, both small hands reaching toward the shiny packet.",
+     "@Snail keeps speaking and tilts his head to listen as the foil crackles in @Khang's fingers.",
+     "@Snail finishes with a pleading grin and closes his mouth, the little tuft on his shaved head quivering.",
+     "@Khang tears the gold foil packet open with a showman's flourish and starts speaking warmly.",
+     "@Khang keeps talking and slides out a block of dry wavy noodles, holding it up to the firelight.",
+     "@Khang keeps speaking and snaps off a small piece of the dry noodle block with a crisp crack.",
+     "@Khang keeps talking and offers the piece to @Snail, miming slow chewing with his own jaw.",
+     "@Khang finishes and closes his mouth as @Snail pops the piece into his mouth and crunches loudly.",
+     "@Snail's eyes go round as he chews, then he shouts with his mouth half full, pointing at the packet.",
+     "@Snail keeps shouting with joy and jumps to his feet beside the hearth, cheeks bulging.",
+     "@Snail spins toward the cave and keeps calling out, waving both arms at the other children.",
+     "@Snail finishes the call, closes his mouth and crunches another bite, grinning from ear to ear.",
+     "Small children in bark-cloth tunics scramble in around the hearth, peering at the gold packet in @Khang's hands.",
+     "@Khang holds the packet high with a closed-mouth grin, while @Snail chews beside him with bulging cheeks, mouth closed."
+    ]
+   },
+   {
+    "id": "08.4",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "Hungry, and still you feed the children.",
+      "pace": "slow",
+      "tone": "slow and quiet, watching closely"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "One pack, Grandma. Eat alone, you're full once. Share it, the whole cave smiles.",
+      "pace": "normal",
+      "tone": "warm and easy, a little proud"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "One who shares is no ghost. Tonight, sleep near the fire.",
+      "pace": "normal",
+      "tone": "even and warm, granting a favour"
+     }
+    ],
+    "_hinh": "Khang chia vụn mì cho từng đứa trẻ, rồi chìa gói gia vị cho Grandma Moon ngửi. Bà nhíu mày, nhìn anh rất lâu, rồi gật đầu.",
+    "chars": [
+     "@Moon",
+     "@Khang"
+    ],
+    "setting": "Daytime inside the large Stone Age clan cave: soft daylight from the wide arched mouth, the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire in the middle, rattan baskets of snails, sleeping beds of dry leaves.",
+    "_setting_key": "CAVE_PAST_DAY",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Moon 0.4–3.3s",
+     "@Khang 3.8–8.8s",
+     "@Moon 9.3–13.4s"
+    ],
+    "continuity": "cut",
+    "sfx": "the hearth fire crackling, noodle crumbs pattering into small hands, a foil sachet tearing, a long sniff, soft daylight wind at the cave mouth",
+    "extras": "a few small clan children in knee-length bark-cloth tunics hold out cupped hands around the hearth in soft focus",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "50mm medium shot of @Moon seated by the hearth with the ember tube across her knees, slow push-in"
+     },
+     {
+      "until": 9,
+      "camera": "50mm over-the-shoulder shot from behind @Moon onto @Khang sharing noodle crumbs into small cupped hands, slow drift"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Moon sniffing the small seasoning sachet, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Moon and @Khang beside the hearth, locked off"
+     }
+    ],
+    "steps": [
+     "@Moon sits by the hearth with the green bamboo ember tube across her knees and is already speaking slowly, eyes on @Khang.",
+     "@Moon keeps speaking quietly, her gaze following the noodle crumbs between his fingers.",
+     "@Moon keeps talking, her lined face very still, the hearth fire reflected in her calm eyes.",
+     "@Moon finishes and closes her mouth as @Khang turns toward her, a small handful of noodle crumbs in his palm.",
+     "@Khang answers easily, dropping crumbs into the small cupped hands of a child in soft focus.",
+     "@Khang keeps talking, holding up one finger for the single pack, then sweeping his hand toward the children.",
+     "@Khang keeps speaking with a warm grin, sprinkling the last crumbs into another pair of small hands.",
+     "@Khang keeps talking and tears open a tiny plain foil seasoning sachet with his fingertips.",
+     "@Khang finishes, closes his mouth and holds the open sachet out under @Moon's nose with a hopeful smile.",
+     "@Moon sniffs the sachet, frowns deeply at the smell, then answers in an even warm voice.",
+     "@Moon keeps speaking and studies @Khang's face for a long moment without blinking.",
+     "@Moon keeps talking evenly and lifts one wrinkled hand toward the glowing hearth beside them.",
+     "@Moon keeps speaking and nods once, slowly, her white hair knot and bone pin catching the firelight.",
+     "@Moon finishes, closes her mouth and lowers her hand back onto the green ember tube.",
+     "@Khang bows his head to her with his mouth closed and a slow grin spreading, while @Moon watches him in silence."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 9,
+  "title": "Day Three: The Fire Dies (Ngày 3: Lửa chết)",
+  "time_label": "Đêm mưa đến rạng sáng (08:00–09:00)",
+  "location": "Hang đêm mưa, gió hắt nước vào cửa hang; bếp lửa chỉ còn tro ướt bốc khói. Rạng sáng: một mái đá khô ở góc hang.",
+  "axis": "Đêm mưa máy quay đặt sâu trong hang nhìn ra cửa hang đang hắt mưa: bếp tro ướt ở giữa, ổ lá khô và người co ro bên phải, nhũ đá hình con voi ở xa; rạng sáng máy quay chuyển sang góc mái đá khô bên trái, bếp tro lạnh mờ phía sau.",
+  "props": "Ống tre giữ lửa đã nguội, đống tro ướt bốc một sợi khói, giáo tre của Roar luôn dựng đứng, ống tre khô chẻ đôi có rãnh khía ngang, thanh tre cưa, nắm bùi nhùi xơ, đốm than đỏ trong bột tre, dao đa năng và camera ngực của Khang.",
+  "setting": "A rainy night inside the large Stone Age clan cave: wind blows rain in through the wide arched mouth, the hearth is only wet grey ash with a thin thread of smoke, the elephant-shaped stalactite, bare rock walls, people huddled on beds of dry leaves.",
+  "_setting_key": "CAVE_PAST_RAIN_NIGHT",
+  "clips": [
+   {
+    "id": "09.1",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "I fell asleep! Rain blew in, the fire's dead! The tube is cold, Grandma!",
+      "pace": "fast",
+      "tone": "crying hard, the words tumbling out"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Our fire-maker left us last season. We keep fire. We cannot make it.",
+      "pace": "slow",
+      "tone": "slow and heavy, steadying herself"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "If the tiger comes tonight, what then?",
+      "pace": "normal",
+      "tone": "sobbing, a small hiccuping voice"
+     }
+    ],
+    "_hinh": "Snail ôm ống tre giữ lửa đã nguội, mặt mếu, nước mắt ròng ròng. Grandma Moon quỳ bên đống tro ướt, đưa tay hơ: lạnh ngắt. Trẻ con co ro sau lưng.",
+    "chars": [
+     "@Snail",
+     "@Moon"
+    ],
+    "_plan": [
+     "@Snail 0.4–4.6s",
+     "@Moon 5.1–10.9s",
+     "@Snail 11.4–13.9s"
+    ],
+    "continuity": "cut",
+    "sfx": "heavy rain hissing at the cave mouth, gusts of wind, water dripping and splashing on stone, wet ash sizzling faintly, a child's sobbing breaths",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Snail clutching the cold bamboo ember tube, tears on his cheeks, handheld"
+     },
+     {
+      "until": 9,
+      "camera": "50mm medium shot of @Moon kneeling beside the wet grey ash of the hearth, slow push-in"
+     },
+     {
+      "until": 11,
+      "camera": "85mm close-up of @Moon's lined face above her open palm hovering over the ash, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Snail pressed against @Moon's side by the dead hearth, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Snail kneels on the damp cave floor hugging the cold bamboo ember tube to his chest and is already speaking through sobs, tears streaming.",
+     "@Snail keeps talking through sobs, glancing at the rain blowing in through the dark cave mouth.",
+     "@Snail keeps speaking in a rush and holds the cold tube out toward the hearth with both shaking hands.",
+     "@Snail keeps talking, his chin trembling, rainwater dripping from the tuft on his shaved head.",
+     "@Snail finishes, closes his mouth and sniffs hard, clutching the cold tube to his chest again.",
+     "@Moon kneels beside the wet grey ash of the hearth and answers slowly, her voice low and heavy.",
+     "@Moon keeps speaking slowly and holds her open palm low over the ash, feeling for any warmth.",
+     "@Moon keeps talking as her fingers spread over the ash where only a thin thread of smoke rises.",
+     "@Moon keeps speaking with long pauses, her jaw tightening, the red-ochre dot on her forehead dark in the blue light.",
+     "@Moon keeps speaking slowly and closes her palm into a loose fist above the cold ash.",
+     "@Moon finishes the last words, closes her mouth and lets her hand fall onto her knee.",
+     "@Snail presses against her side and asks in a small hiccuping voice, staring at the dark mouth of the cave.",
+     "@Snail keeps talking through sobs, tightening both arms around the cold bamboo tube.",
+     "@Snail finishes, closes his mouth and buries his wet face against @Moon's dark hide cloak.",
+     "@Moon wraps one arm around @Snail with her mouth closed, her eyes fixed on the rain beyond the cave mouth."
+    ],
+    "wardrobe": {
+     "@Moon": "a long dark hide cloak over a knee-length bark-cloth tunic, empty-handed with no bamboo tube, barefoot"
+    }
+   },
+   {
+    "id": "09.2",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Since he came: a tiger, rain, and now the fire's dead! He's bad luck!",
+      "pace": "fast",
+      "tone": "loud and accusing, playing to the cave"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Rain isn't my fault! Give me till sunrise. I'll make fire!",
+      "pace": "fast",
+      "tone": "fast and defiant, standing his ground"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "Two days spinning sticks, and not even smoke.",
+      "pace": "normal",
+      "tone": "contemptuous, almost a sneer"
+     }
+    ],
+    "_hinh": "Roar đứng bật dậy, chỉ thẳng giáo vào Khang; người trong hang (quần chúng) lùi lại. Khang đứng dậy đối mặt.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Roar 0.4–4.8s",
+     "@Khang 5.3–8.6s",
+     "@Roar 9.1–12.1s"
+    ],
+    "continuity": "cut",
+    "sfx": "heavy rain hissing at the cave mouth, a sharp crack of thunder, wind gusting, bare feet shuffling back on damp stone, water dripping from the ceiling",
+    "extras": "a few clan members in bark-cloth tunics and hide wraps shrink back on their leaf beds in soft focus",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium shot of @Roar rising to his feet beside the dead hearth with his spear held upright, handheld"
+     },
+     {
+      "until": 9,
+      "camera": "85mm close-up of @Khang standing up into the cold blue storm light, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Roar, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the dark rainy cave with both men facing each other across the cold hearth, locked off"
+     }
+    ],
+    "steps": [
+     "@Roar shoots up from his leaf bed beside the dead hearth, bamboo spear held upright in one fist, and is already shouting.",
+     "@Roar keeps shouting and jabs a finger of his free hand toward @Khang across the cold ash.",
+     "@Roar keeps talking loudly and sweeps his free arm toward the rain lashing the cave mouth as lightning flashes white.",
+     "@Roar keeps shouting and turns his head to the huddled clan, his boar-tusk necklace swinging.",
+     "@Roar finishes, closes his mouth and breathes hard with flaring nostrils, the spear still upright.",
+     "@Khang pushes himself up off the damp floor and answers fast, palms open, standing his ground.",
+     "@Khang keeps talking quickly and points one finger up at the stormy sky beyond the cave mouth.",
+     "@Khang keeps speaking and taps his own chest once with a determined nod, jaw set.",
+     "@Khang finishes the promise, closes his mouth and holds @Roar's stare, breathing hard.",
+     "@Roar answers with a contemptuous sneer, leaning in, his voice dropping low and slow.",
+     "@Roar keeps speaking and twirls two fingers in the air, mocking someone spinning a fire stick.",
+     "@Roar keeps talking with a scornful snort, glancing down at the cold wet ash.",
+     "@Roar finishes, closes his mouth and turns his broad back on @Khang, spear upright.",
+     "@Khang stands alone by the cold hearth with his mouth closed, fists tightening, as lightning flashes across the cave mouth.",
+     "@Khang turns toward the rain at the cave mouth with his mouth closed, his chest rising and falling."
+    ]
+   },
+   {
+    "id": "09.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "I once filmed an old Muong man making fire by sawing bamboo. I thought he was faking.",
+      "pace": "normal",
+      "tone": "low and reflective, remembering"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Bamboo burns. It doesn't make fire.",
+      "pace": "normal",
+      "tone": "doubtful and flat"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Hold tight! Saw fast, and the bamboo dust heats into an ember!",
+      "pace": "fast",
+      "tone": "urgent and breathless, sawing hard"
+     }
+    ],
+    "_hinh": "Dưới mái đá khô, Khang chẻ đôi một ống tre khô, khía một rãnh ngang, nhét bùi nhùi xơ dừa rừng. Stream giữ chặt ống tre; Khang cầm một thanh tre cưa qua cưa lại thật nhanh.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "setting": "Blue pre-dawn light in a dry corner of the Stone Age clan cave under a low rock overhang: a flat stone work area, split dry bamboo, a pile of fluffy tinder, the cold wet hearth visible behind, rain easing outside the mouth.",
+    "_setting_key": "CAVE_PAST_PREDAWN",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–6.5s",
+     "@Stream 7.0–9.2s",
+     "@Khang 9.7–13.3s"
+    ],
+    "continuity": "cut",
+    "sfx": "a small multitool scraping dry bamboo, the rasp of bamboo sawing on bamboo, rain easing to a drip outside the cave mouth, heavy breathing, birds stirring before dawn",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "35mm medium shot of @Khang kneeling at the flat stone under the rock overhang, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Khang's face bent over the split bamboo as he carves a notch, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Stream pressing the split bamboo down, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Khang sawing hard while @Stream holds the bamboo steady, handheld"
+     }
+    ],
+    "steps": [
+     "@Khang kneels at a flat stone under the dry rock overhang, a split dry bamboo tube in his hands, and is already speaking, low and reflective.",
+     "@Khang keeps talking as he lays one split bamboo half curved side up on the flat stone.",
+     "@Khang keeps speaking and carves a shallow notch across the bamboo with his small multitool.",
+     "@Khang keeps talking and blows the shavings away, his eyes distant with the memory.",
+     "@Khang keeps speaking and stuffs a pinch of fluffy tinder under the notch with his thumb.",
+     "@Khang keeps talking with a rueful shake of his head and folds the multitool away.",
+     "@Khang finishes, closes his mouth and picks up a thin flat strip of dry bamboo.",
+     "@Stream kneels opposite him in the blue pre-dawn light with her arms folded and answers with flat doubt.",
+     "@Stream keeps speaking and tilts her head at the split bamboo as if it were a silly toy.",
+     "@Stream finishes, closes her mouth, then presses both ends of the split bamboo down hard onto the stone.",
+     "@Khang sets the bamboo strip across the notch and starts sawing hard, talking urgently.",
+     "@Khang keeps talking fast, sawing back and forth in quick hard strokes, sweat beading on his forehead.",
+     "@Khang keeps speaking in breathless bursts, arms pumping, fine brown bamboo dust gathering under the notch.",
+     "@Khang finishes, presses his lips shut and keeps sawing, jaw clenched, breath hissing through his nose.",
+     "@Stream holds the bamboo steady with her mouth closed and her eyes fixed on the notch, as @Khang saws on in silence."
+    ]
+   },
+   {
+    "id": "09.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Smoke! There's an ember! Into the tinder, blow gently, gently... It's burning!",
+      "pace": "fast",
+      "tone": "frantic whisper rising to a cry of joy"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "Thunder brought us a fire-maker. Your name is Fire-Maker.",
+      "pace": "slow",
+      "tone": "slow and solemn, giving him a name"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Twenty-nine years old, and this is my first fire ever.",
+      "pace": "slow",
+      "tone": "slow and tearful, voice cracking"
+     }
+    ],
+    "_hinh": "Khói mỏng bốc lên; một đốm than đỏ trong bột tre. Khang gói vào bùi nhùi, thổi nhẹ: lửa bùng. Cả hang (quần chúng) reo lên. Grandma Moon bước tới, ánh lửa trên mặt bà.",
+    "chars": [
+     "@Khang",
+     "@Moon"
+    ],
+    "setting": "Blue pre-dawn light in a dry corner of the Stone Age clan cave under a low rock overhang: a flat stone work area, split dry bamboo, a pile of fluffy tinder, the cold wet hearth visible behind, rain easing outside the mouth.",
+    "_setting_key": "CAVE_PAST_PREDAWN",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.0s",
+     "@Moon 4.5–9.1s",
+     "@Khang 9.6–14.0s"
+    ],
+    "continuity": "cut",
+    "sfx": "a soft whoosh as dry tinder catches, small flames crackling, the clan clapping and stamping their feet, the last of the rain dripping at the cave mouth",
+    "extras": "a few clan members in bark-cloth tunics and hide wraps crowd in behind the overhang in soft focus, raising their hands",
+    "shots": [
+     {
+      "until": 4,
+      "camera": "85mm close-up of @Khang's face over a smoking nest of bamboo dust and tinder in his cupped hands, handheld"
+     },
+     {
+      "until": 9,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Moon stepping into the new firelight, slow push-in"
+     },
+     {
+      "until": 12,
+      "camera": "35mm medium two-shot of @Moon and @Khang beside the small new fire, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of @Khang's tear-streaked face lit by the flames, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang kneels over a thin curl of smoke rising from the bamboo dust and is already talking fast, eyes wide.",
+     "@Khang keeps talking breathlessly as he tips a tiny red ember from the notch into a nest of fluffy tinder.",
+     "@Khang cups the tinder nest to his lips, whispering, and blows gently as a soft orange glow pulses inside.",
+     "Flames burst from the tinder in his hands and @Khang cries out the last words, laying it onto a pile of dry twigs.",
+     "@Khang closes his mouth and stares at the young fire, as @Moon steps in from the dark into its glow.",
+     "@Moon stops beside the small fire, the flames lighting her lined face, and starts speaking slowly and solemnly.",
+     "@Moon keeps speaking and raises the green bamboo ember tube in both hands toward the flame.",
+     "@Moon keeps talking slowly, looking down at @Khang with calm piercing eyes.",
+     "@Moon finishes the naming, closes her mouth and lays one hand on @Khang's shoulder.",
+     "@Khang looks up at her with brimming eyes and starts speaking slowly, his voice cracking.",
+     "@Khang keeps talking softly and holds up his blistered palms in the warm firelight.",
+     "@Khang keeps speaking as a tear slides down his stubbled cheek, a shaky laugh in his breath.",
+     "@Khang keeps talking slowly, staring into the flames while the clan cheers behind him in soft focus.",
+     "@Khang says the last words in a near whisper and wipes his eyes with the red bandana on his wrist.",
+     "@Khang finishes, presses his lips together and smiles through tears at the little fire, mouth closed."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 10,
+  "title": "Day Four: Boiling Water in Bamboo (Ngày 4: Nước sôi trong ống tre)",
+  "time_label": "Trưa đến đêm (09:00–10:00)",
+  "location": "Góc ngủ trong hang lót lá khô; bếp lửa giữa hang; đêm chỉ còn ánh than.",
+  "axis": "Máy quay đặt cạnh bếp lửa giữa hang nhìn về góc ngủ: ổ lá khô nơi Snail nằm bên trái, bếp lửa ở giữa, cửa hang sáng ở xa bên phải; đêm chỉ còn ánh than đỏ từ bếp và vách đá tối sau lưng Khang.",
+  "props": "Ổ lá khô và tấm da thú đắp, lá ướt Stream lau mặt em, ống tre tươi xanh đựng nước dựng nghiêng sát bếp, ống tre cũ đựng nước suối, cốc tre ngắn để nước nguội, dao đa năng của Khang, chuỗi vỏ ốc của Stream.",
+  "setting": "Daytime inside the large Stone Age clan cave: soft daylight from the wide arched mouth, the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire in the middle, rattan baskets of snails, sleeping beds of dry leaves.",
+  "_setting_key": "CAVE_PAST_DAY",
+  "clips": [
+   {
+    "id": "10.1",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Snail drank from the mud pool. Now his belly hurts and he's burning.",
+      "pace": "fast",
+      "tone": "worried, the words rushing out"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Still water has tiny bugs, too small to see. They bite you from inside.",
+      "pace": "normal",
+      "tone": "calm and clear, explaining gently"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Bugs we can't see? How do we catch them?",
+      "pace": "fast",
+      "tone": "urgent and puzzled"
+     }
+    ],
+    "_hinh": "Snail nằm co trên ổ lá, ôm bụng, trán lấm tấm mồ hôi. Stream lau mặt em bằng lá ướt, quay sang Khang.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–4.3s",
+     "@Khang 4.8–9.8s",
+     "@Stream 10.3–13.0s"
+    ],
+    "continuity": "cut",
+    "sfx": "the hearth fire crackling, a feverish child's quick shallow breathing, a wet leaf dabbing skin, daylight wind murmuring at the cave mouth",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm medium shot of @Stream kneeling at a leaf bed beside the hearth, a small hide-covered shape curled next to her, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of @Khang crouched across the leaf bed, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Stream, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Stream and @Khang on either side of the leaf bed by the hearth, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Stream kneels by a leaf bed beside the hearth, dabbing a wet leaf on the forehead of a small child curled under a hide, and is already speaking fast.",
+     "@Stream keeps talking quickly and glances at @Khang, the wet leaf trembling in her fingers.",
+     "@Stream keeps speaking and lays her palm on the hide over the child's curled-up belly.",
+     "@Stream keeps talking, touches the back of her hand to the child's hot cheek and pulls it back.",
+     "@Stream finishes, closes her mouth and looks across at @Khang, her breath quick and shallow.",
+     "@Khang crouches across the leaf bed and answers calmly, pinching his finger and thumb together to show something tiny.",
+     "@Khang keeps talking clearly and gently, pointing toward the cave mouth and the stream below.",
+     "@Khang keeps speaking and squints at an imaginary speck held between his finger and thumb.",
+     "@Khang keeps talking and taps his own belly with two fingers to show where it bites.",
+     "@Khang finishes, closes his mouth and lowers his hand, his eyes on the small curled-up shape.",
+     "@Stream leans toward him and asks fast with a frown, her hands spread wide in confusion.",
+     "@Stream keeps talking and peers at the air above the leaf bed as if hunting for the tiny bugs.",
+     "@Stream finishes, closes her mouth and turns her eyes back to @Khang, waiting for an answer.",
+     "@Khang reaches behind him for a fresh green bamboo tube leaning on the hearth stones, mouth closed.",
+     "@Khang sets the green bamboo tube upright on the floor between them, mouth closed, as @Stream watches in silence."
+    ]
+   },
+   {
+    "id": "10.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "We boil them. From now on, the whole cave drinks boiled water.",
+      "pace": "normal",
+      "tone": "firm and certain, laying down a rule"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Water kills fire. Fire eats bamboo. Put it in fire, you get ashes.",
+      "pace": "normal",
+      "tone": "skeptical, almost scolding"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Green bamboo burns slow. The water boils before the bamboo catches. Watch.",
+      "pace": "fast",
+      "tone": "quick and confident, a friendly dare"
+     }
+    ],
+    "_hinh": "Khang chặt một ống tre tươi xanh, đổ nước suối vào, dựng nghiêng sát bếp lửa. Stream khoanh tay, nhíu mày.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.7s",
+     "@Stream 5.2–9.9s",
+     "@Khang 10.4–14.0s"
+    ],
+    "continuity": "continuous",
+    "sfx": "the hearth fire crackling, water glugging from one bamboo tube into another, a multitool scraping fresh green bamboo, a wet tube settling against hot stones",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium two-shot of @Khang and @Stream by the hearth, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of @Stream with her arms folded, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "50mm over-the-shoulder shot from behind @Stream onto @Khang lifting the water-filled bamboo tube, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of the green bamboo tube leaning into the flames with @Khang's face just beyond it, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang lifts the fresh green bamboo tube between them and is already speaking, firm and certain.",
+     "@Khang keeps talking as he trims the top of the green tube open with his small multitool.",
+     "@Khang keeps speaking and pours clear stream water into the green tube from an old bamboo water tube.",
+     "@Khang keeps talking and sweeps his free hand around the cave to include everyone in it.",
+     "@Khang finishes, closes his mouth and sets the full green tube upright on the floor.",
+     "@Stream folds her arms and answers in a skeptical, scolding voice, her eyebrows drawn together.",
+     "@Stream keeps talking and points at the fire, then at the water in the green tube.",
+     "@Stream keeps speaking and flicks her fingers apart like flames swallowing something whole.",
+     "@Stream keeps talking and shakes her head slowly, the snail-shell necklace clicking on her chest.",
+     "@Stream finishes, closes her mouth and lifts her chin, waiting for him to fail.",
+     "@Khang answers quickly with a confident grin and lifts the water-filled green tube.",
+     "@Khang keeps talking fast as he leans the tube at a slant against the hearth stones, its base in the embers.",
+     "@Khang keeps speaking and taps the thick green skin of the bamboo with one knuckle.",
+     "@Khang says the last word, closes his mouth and sits back on his heels, eyes on the tube.",
+     "Flames lick the side of the green bamboo tube while @Khang watches it with his mouth closed, forearms on his knees."
+    ]
+   },
+   {
+    "id": "10.3",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "The water bubbles like a fish breathing! The bamboo is still green! Fire, is this magic?",
+      "pace": "fast",
+      "tone": "amazed, the words tumbling out"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No magic. Let it cool, then give Snail small sips.",
+      "pace": "normal",
+      "tone": "calm and practical"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "I'll remember. Green bamboo, stream water, big fire, bubbles, then drink.",
+      "pace": "normal",
+      "tone": "careful and proud, counting each step"
+     }
+    ],
+    "_hinh": "Nước trong ống tre sủi bọt, hơi bốc lên; vỏ tre chỉ hơi sém. Stream cúi sát nhìn, giật mình vì hơi nóng. Khang rót nước ra một ống tre ngắn để nguội.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.2s",
+     "@Khang 5.7–9.3s",
+     "@Stream 9.8–13.8s"
+    ],
+    "continuity": "cut",
+    "sfx": "water bubbling and hissing inside the bamboo tube, steam whispering, the hearth fire crackling, hot water pouring into a bamboo cup",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Stream's face above the bubbling mouth of the green bamboo tube, steam rising between, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "35mm medium two-shot of @Khang pouring steaming water into a short bamboo cup beside @Stream, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Stream counting on her fingers, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Stream, slow drift"
+     }
+    ],
+    "steps": [
+     "@Stream crouches over the green bamboo tube leaning in the fire, steam curling from its mouth, and is already speaking fast, amazed.",
+     "@Stream keeps talking as she leans closer, then flinches back from the hot steam, blinking hard.",
+     "@Stream keeps speaking and points at the water bubbling up at the mouth of the tube.",
+     "@Stream keeps talking and runs a fingertip near the green skin of the bamboo, barely scorched by the flames.",
+     "@Stream finishes her question, closes her mouth and stares at @Khang, eyes shining.",
+     "@Khang wraps a big leaf around the hot tube, lifts it from the fire and answers calmly.",
+     "@Khang keeps talking as he pours the steaming water into a short bamboo cup.",
+     "@Khang keeps speaking and sets the cup on a flat stone, pinching his finger and thumb together for small sips.",
+     "@Khang keeps talking and slides the steaming cup toward @Stream along the flat stone.",
+     "@Khang finishes, closes his mouth and nods at the cup, leaving it to cool.",
+     "@Stream holds up one hand and starts counting on her fingers, speaking carefully and proudly.",
+     "@Stream keeps talking, folding down a second finger and glancing at the green tube.",
+     "@Stream keeps speaking and folds down more fingers one by one, frowning with concentration.",
+     "@Stream finishes the list, closes her mouth and closes her hand into a small fist.",
+     "@Stream lifts her chin with a proud little smile, mouth closed, as @Khang grins back at her in silence."
+    ]
+   },
+   {
+    "id": "10.4",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Fire... my belly stopped biting. Hot water beats mud water.",
+      "pace": "slow",
+      "tone": "weak and slow, a faint smile"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Better than dry worms? Sleep now. Tomorrow I'll teach you to boil water.",
+      "pace": "normal",
+      "tone": "soft and tender, half teasing"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Dry worms are better. But with you here, I'm not scared.",
+      "pace": "normal",
+      "tone": "drowsy, eyes drooping, a cheeky smile"
+     }
+    ],
+    "_hinh": "Đêm, Snail tỉnh dậy, nhấp từng ngụm nước ấm từ ống tre, cười yếu ớt. Khang ngồi canh bên cạnh, tựa lưng vào vách.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "setting": "Night inside the large Stone Age clan cave: the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire glowing red, sleeping beds of dry leaves, hides on poles, deep shadows beyond the firelight.",
+    "_setting_key": "CAVE_PAST_NIGHT",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–4.4s",
+     "@Khang 4.9–9.6s",
+     "@Snail 10.1–14.1s"
+    ],
+    "continuity": "cut",
+    "sfx": "embers ticking and hissing softly in the hearth, slow breathing of sleepers in the dark, crickets outside the cave mouth, a hide blanket rustling",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Snail propped on the leaf bed sipping from a bamboo cup, ember light on his face, slow push-in"
+     },
+     {
+      "until": 10,
+      "camera": "50mm medium shot of @Khang sitting with his back against the rock wall beside the leaf bed, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "85mm close-up of @Snail's drowsy face on the leaf bed, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Snail curled on the leaf bed and @Khang against the wall beside him, slow pull-back"
+     }
+    ],
+    "steps": [
+     "@Snail props himself on one elbow on the leaf bed, a short bamboo cup in his hands, and is already speaking slowly and weakly.",
+     "@Snail keeps talking and takes a small sip of warm water between the words.",
+     "@Snail keeps speaking with a faint smile on his pale sweaty face, rubbing his belly with one small hand.",
+     "@Snail keeps talking slowly and lifts the bamboo cup a little toward @Khang.",
+     "@Snail finishes, closes his mouth and takes another small sip of the warm water.",
+     "@Khang, sitting with his back against the rock wall beside him, answers softly with a teasing smile.",
+     "@Khang keeps talking tenderly, takes the cup from @Snail's hands and sets it on the floor.",
+     "@Khang keeps speaking and pulls the hide blanket up over @Snail's small shoulders.",
+     "@Khang keeps talking softly and mimes pouring water into a tube with one cupped hand.",
+     "@Khang finishes, closes his mouth and leans his back against the wall, watching over him.",
+     "@Snail answers with drooping eyelids and a cheeky little smile, his voice drowsy.",
+     "@Snail keeps talking sleepily, his small hand finding @Khang's sleeve and holding on to it.",
+     "@Snail keeps speaking with his eyes half closed, his head sinking into the leaf bed.",
+     "@Snail keeps talking in a sleepy murmur, his breathing slowing and his small fingers loosening.",
+     "@Snail finishes, closes his mouth and falls asleep holding the sleeve, while @Khang sits still with his mouth closed."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 11,
+  "title": "Day Five: Spear vs. Fish Trap (Ngày 5: Cái giáo và cái lờ)",
+  "time_label": "Sáng đến trưa, bãi suối (10:00–11:00)",
+  "location": "Cửa hang buổi sáng; bãi suối có khúc nước sâu chảy chậm, bụi tre ven bờ; giữa trưa nắng đứng bóng.",
+  "axis": "Ở cửa hang máy quay đứng trên sân đất nhìn vào trong: nhũ đá hình con voi phía trên, người trong hang đứng thành vòng ở hậu cảnh, rừng và suối sau lưng máy quay; ở vực suối máy quay đặt trên bãi đá phẳng, bụi tre bên trái, vực nước sâu chảy chậm bên phải.",
+  "props": "Giáo tre mũi đá của Roar (về trưa thì mũi đá gãy), nan tre chẻ, cái lờ hình phễu đan dở rồi đầy cá còn sống, tấm chăn bạc gấp thò ra khỏi ba lô cam, dao đa năng và khăn rằn đỏ của Khang.",
+  "setting": "Morning at the wide arched mouth of the Stone Age clan cave: the elephant-shaped stalactite above, a flat earthen terrace where the clan gathers, the jungle and the stream below, soft sunlight.",
+  "_setting_key": "CAVE_MOUTH_MORNING",
+  "clips": [
+   {
+    "id": "11.1",
+    "turns": [
+     {
+      "speaker": "@Roar",
+      "line": "Fire-Maker! Fire is not food. At high sun, whoever brings more food, the cave listens to.",
+      "pace": "fast",
+      "tone": "loud and challenging, playing to the crowd"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "A contest? Fine. You hunt, I fish. And the loser?",
+      "pace": "normal",
+      "tone": "cool and amused, accepting the dare"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "The loser takes his silver skin and leaves this cave.",
+      "pace": "fast",
+      "tone": "fast and hard, a threat"
+     }
+    ],
+    "_hinh": "Trước cả hang (quần chúng), Roar cắm phập cây giáo xuống đất ngay trước mũi chân Khang. Khang nhìn cây giáo, rồi nhìn Roar, gật đầu.",
+    "chars": [
+     "@Roar",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Roar 0.4–5.7s",
+     "@Khang 6.2–9.8s",
+     "@Roar 10.3–13.4s"
+    ],
+    "continuity": "cut",
+    "sfx": "morning birdsong over the jungle, the stream rushing below the terrace, a spear butt thudding into packed earth, bare feet shifting on dirt, wind in the bamboo",
+    "extras": "a ring of clan members in bark-cloth tunics and hide wraps watch from the edge of the earthen terrace in soft focus",
+    "shots": [
+     {
+      "until": 6,
+      "camera": "35mm medium shot of @Roar striding across the earthen terrace toward the lens, spear upright, handheld follow"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of @Khang looking from the upright spear to @Roar, locked off"
+     },
+     {
+      "until": 13,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Roar, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "24mm wide shot of the sunlit terrace with the spear standing upright between the two men and the clan watching, locked off"
+     }
+    ],
+    "steps": [
+     "@Roar strides across the earthen terrace toward @Khang, bamboo spear held upright, and is already shouting so the whole clan can hear.",
+     "@Roar keeps talking loudly and jabs a finger at the hearth smoke drifting out of the cave mouth behind them.",
+     "@Roar keeps speaking and pats his own flat belly with a wide palm, sneering.",
+     "@Roar keeps shouting and drives the butt of his spear into the earth so it stands upright just in front of @Khang's boots.",
+     "@Roar keeps speaking and points up at the sun climbing above the elephant-shaped stalactite.",
+     "@Roar finishes, closes his mouth and folds his thick arms over his boar-hide vest.",
+     "@Khang looks down at the upright spear, then up at @Roar, and answers coolly.",
+     "@Khang keeps talking with a small crooked grin, pointing at @Roar and then down at the stream below.",
+     "@Khang keeps speaking and mimes a fish wriggling with one flat hand.",
+     "@Khang finishes with a tilted head, closes his mouth and waits, eyebrows raised.",
+     "@Roar leans in over the upright spear and answers fast and hard, his heavy brows low.",
+     "@Roar keeps talking and jerks his chin at the folded silver blanket poking out of @Khang's orange backpack.",
+     "@Roar keeps speaking and swings one arm out toward the jungle path leading away from the cave.",
+     "@Roar finishes, closes his mouth and stares him down with flaring nostrils.",
+     "@Khang holds @Roar's stare with his mouth closed and gives one slow nod, as the clan watches in silence."
+    ]
+   },
+   {
+    "id": "11.2",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "It's a fish trap. Easy to swim in, impossible to find the way out.",
+      "pace": "normal",
+      "tone": "eager, explaining like a teacher"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Like you. You wandered into our cave and can't find home.",
+      "pace": "normal",
+      "tone": "soft and teasing, a small smile"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Yeah... like me. I don't even know where home is.",
+      "pace": "slow",
+      "tone": "slow and quiet, caught off guard"
+     }
+    ],
+    "_hinh": "Khang và Stream ngồi bên suối đan nan tre thành cái lờ hình phễu; Khang luồn tay vào miệng lờ để minh hoạ. Stream mỉm cười nhìn anh, không nhìn cái lờ.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "setting": "A slow deep pool of the jungle stream in the Stone Age under bright sun: a bank of flat rocks, clumps of bamboo, split bamboo strips and a half-woven funnel-shaped fish trap lying on the stones.",
+    "_setting_key": "STREAM_POOL_PAST",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–5.4s",
+     "@Stream 5.9–9.9s",
+     "@Khang 10.4–14.4s"
+    ],
+    "continuity": "cut",
+    "sfx": "the slow deep pool lapping at flat rocks, split bamboo strips creaking as they are woven, bamboo leaves rustling in a breeze, cicadas in the warming air",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "85mm close-up of @Khang pushing his hand into the mouth of a half-woven bamboo funnel, his face beside it, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "35mm medium two-shot of @Khang and @Stream sitting on the flat rocks weaving bamboo strips, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of @Stream smiling at @Khang, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind @Stream onto @Khang, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang sits cross-legged on a flat rock holding a half-woven funnel fish trap and is already speaking, eager like a teacher.",
+     "@Khang keeps talking and slides his hand easily into the wide mouth of the bamboo funnel.",
+     "@Khang keeps speaking and wiggles his fingers inside the narrow inner end to show the fish cannot turn back.",
+     "@Khang keeps talking and pulls his hand out the slow way, then tugs a split bamboo strip tighter through the weave.",
+     "@Khang keeps speaking and holds the trap up proudly toward @Stream, who sits weaving beside him.",
+     "@Khang finishes and closes his mouth as @Stream turns her eyes from the trap to his face.",
+     "@Stream answers softly with a small teasing smile, looking at him and not at the trap.",
+     "@Stream keeps talking and nods up toward the cave high on the cliff above the stream.",
+     "@Stream keeps speaking gently, her fingers still threading a bamboo strip without looking down.",
+     "@Stream finishes, closes her mouth and keeps smiling at him with her head tilted.",
+     "@Khang's grin fades and he answers slowly and quietly, lowering the trap into his lap.",
+     "@Khang keeps talking quietly, looking down at the bamboo funnel in his hands.",
+     "@Khang keeps speaking slowly and glances across the deep slow pool at the jungle beyond.",
+     "@Khang keeps talking with a rueful breath, his thumb rubbing the red bandana on his wrist.",
+     "@Khang finishes, closes his mouth and goes back to weaving in silence, while @Stream watches him."
+    ]
+   },
+   {
+    "id": "11.3",
+    "turns": [
+     {
+      "speaker": "@Moon",
+      "line": "High sun. You left at dawn, Roar. Why are your hands empty?",
+      "pace": "normal",
+      "tone": "even and direct, no warmth yet"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "The boar was huge! My spear hit stone and broke. Not my fault!",
+      "pace": "fast",
+      "tone": "defensive and loud, avoiding her eyes"
+     },
+     {
+      "speaker": "@Moon",
+      "line": "No one blames you. Some hunts feed us, some don't.",
+      "pace": "slow",
+      "tone": "slow and gentle, closing the matter"
+     }
+    ],
+    "_hinh": "Giữa trưa, Roar về tay không, mũi giáo đá gãy, đầu gối lấm bùn. Cả hang im lặng. Grandma Moon đứng dậy đón.",
+    "chars": [
+     "@Moon",
+     "@Roar"
+    ],
+    "setting": "High noon at the mouth of the Stone Age clan cave: hard overhead sunlight, short shadows, the clan gathered on the earthen terrace, the elephant-shaped stalactite above.",
+    "_setting_key": "CAVE_MOUTH_NOON",
+    "_plan": [
+     "@Moon 0.4–4.9s",
+     "@Roar 5.4–9.5s",
+     "@Moon 10.0–14.2s"
+    ],
+    "continuity": "cut",
+    "sfx": "noon cicadas buzzing loudly, the stream far below, a heavy tread on dry earth, a broken spear shaft scraping the ground, hot wind over the terrace",
+    "extras": "a ring of clan members in bark-cloth tunics and hide wraps stand silent on the earthen terrace in soft focus",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "50mm medium shot of @Moon rising to her feet on the sunlit terrace, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Roar's sweaty face under the hard noon sun, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "35mm medium shot of @Roar holding up his bamboo spear with its stone tip broken off, handheld"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind @Roar onto @Moon, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Moon rises from her seat on the sunlit terrace and is already speaking evenly, her eyes on the path below.",
+     "@Moon keeps talking and shades her eyes with one hand against the hard noon sun.",
+     "@Moon keeps speaking as @Roar trudges up onto the terrace, spear in hand, his knees caked with mud.",
+     "@Moon keeps talking, her gaze dropping to his empty free hand and muddy knees.",
+     "@Moon finishes the question, closes her mouth and waits, straight-backed and still.",
+     "@Roar stops before her and answers loudly and fast, refusing to meet her eyes, sweat on his brow.",
+     "@Roar keeps talking and spreads his thick arms wide to show how huge the boar was.",
+     "@Roar keeps speaking and holds up his bamboo spear, its stone tip broken off to a jagged stump.",
+     "@Roar keeps talking and jerks a thumb back toward the jungle, his jaw clenched.",
+     "@Roar finishes, closes his mouth and lowers the spear, breathing hard through his nose.",
+     "@Moon steps closer and answers slowly and gently, her voice low and husky.",
+     "@Moon keeps speaking and lays one wrinkled hand on @Roar's thick forearm.",
+     "@Moon keeps talking slowly and looks around at the silent clan on the terrace.",
+     "@Moon keeps speaking and gives his thick forearm a small firm squeeze of comfort.",
+     "@Moon finishes, closes her mouth and lets go, while @Roar looks down at the broken spear with his mouth closed."
+    ]
+   },
+   {
+    "id": "11.4",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Roar, these fish feed the whole cave. One trap works all season.",
+      "pace": "normal",
+      "tone": "plain and friendly, no gloating"
+     },
+     {
+      "speaker": "@Roar",
+      "line": "You won. Don't talk like you care about me.",
+      "pace": "fast",
+      "tone": "a low growl through clenched teeth"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "I don't want to beat you. I just want no child going hungry tonight.",
+      "pace": "slow",
+      "tone": "slow and sincere, reaching out"
+     }
+    ],
+    "_hinh": "Khang và Stream nhấc cái lờ lên khỏi nước: đầy cá quẫy lấp lánh. Lũ trẻ reo hò. Roar đứng nhìn, quai hàm bạnh ra, quay mặt đi.",
+    "chars": [
+     "@Khang",
+     "@Roar"
+    ],
+    "setting": "A slow deep pool of the jungle stream in the Stone Age under bright sun: a bank of flat rocks, clumps of bamboo, split bamboo strips and a half-woven funnel-shaped fish trap lying on the stones.",
+    "_setting_key": "STREAM_POOL_PAST",
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–4.7s",
+     "@Roar 5.2–8.0s",
+     "@Khang 8.5–14.1s"
+    ],
+    "continuity": "cut",
+    "sfx": "water pouring through a bamboo trap, fish flapping wetly inside it, children clapping and splashing, the slow pool lapping at the rocks, bamboo creaking in the breeze",
+    "extras": "a few small clan children in knee-length bark-cloth tunics clap and splash on the far rocks in soft focus",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "35mm medium shot of @Khang lifting the dripping fish trap full of silver fish out of the pool, slow push-in"
+     },
+     {
+      "until": 8,
+      "camera": "85mm close-up of @Roar on the flat rocks with his jaw clenched, locked off"
+     },
+     {
+      "until": 12,
+      "camera": "50mm over-the-shoulder shot from behind @Roar onto @Khang, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Khang and @Roar on the flat rocks beside the full trap, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang hauls the funnel fish trap up out of the deep pool, water pouring through the bamboo, and is already speaking plainly.",
+     "@Khang keeps talking as silver fish flip and flash inside the trap in the bright sun.",
+     "@Khang keeps speaking and carries the dripping trap up onto the flat rocks toward @Roar.",
+     "@Khang keeps talking and sets the trap down on the stones, the live fish still wriggling inside.",
+     "@Khang finishes, closes his mouth and straightens up, wiping his wet hands on his cargo trousers.",
+     "@Roar stands on the flat rocks with his broken spear and answers in a low growl through clenched teeth.",
+     "@Roar keeps talking with his heavy brows low, his eyes flicking from the fish to @Khang's face.",
+     "@Roar finishes, closes his mouth and looks away, the muscles of his jaw bunching.",
+     "@Khang steps closer and answers slowly and sincerely, his voice dropping low.",
+     "@Khang keeps talking and shakes his head gently, one open palm held out toward @Roar.",
+     "@Khang keeps speaking and nods up toward the cave where the children are waiting.",
+     "@Khang keeps talking slowly, his eyes steady on @Roar even though the hunter will not look at him.",
+     "@Khang keeps speaking quietly as small children clap and splash on the far rocks behind them.",
+     "@Khang keeps speaking with quiet weight, his open hand still held out between them.",
+     "@Khang finishes and closes his mouth, as @Roar turns his broad back and walks off along the rocks with his mouth closed."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 12,
+  "title": "Night Five: The Seeing Stone (Đêm 5: Hòn đá có mắt)",
+  "time_label": "Đêm, bên bếp lửa (11:00–12:00)",
+  "location": "Đêm trong hang, bếp lửa đỏ rực, cá nướng xiên que, người hang (quần chúng) ngủ quanh lửa.",
+  "axis": "Máy quay đặt bên kia bếp lửa nhìn vào vách hang: Khang ngồi ở góc bếp bên phải, Stream ôm Snail ngủ bên trái, bếp lửa đỏ ở giữa tiền cảnh, bóng người ngủ và nhũ đá hình con voi chìm trong tối phía sau.",
+  "props": "Bếp lửa đỏ rực, cá nướng xiên que tre, camera ngực của Khang có màn hình nhỏ lật ra chỉ phát sáng không chữ và đèn đỏ nhấp nháy, chiếc bật lửa hỏng, tấm da thú đắp, phiến đá phẳng cạnh bếp.",
+  "setting": "Night inside the large Stone Age clan cave: the elephant-shaped stalactite, bare rock walls with no handprints, a hearth fire glowing red, sleeping beds of dry leaves, hides on poles, deep shadows beyond the firelight.",
+  "_setting_key": "CAVE_PAST_NIGHT",
+  "clips": [
+   {
+    "id": "12.1",
+    "turns": [
+     {
+      "speaker": "@Snail",
+      "line": "Tiny people live in the seeing stone! A thousand fires, bright like stars!",
+      "pace": "fast",
+      "tone": "breathless wonder, mouth falling open"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "That's my home. Bright all night. Hot water comes from the walls. Nobody keeps fire.",
+      "pace": "normal",
+      "tone": "soft and wistful, homesick"
+     },
+     {
+      "speaker": "@Snail",
+      "line": "Then why did you leave home and come here?",
+      "pace": "fast",
+      "tone": "quick and curious, blurting it out"
+     }
+    ],
+    "_hinh": "Khang lật màn hình nhỏ của camera cho Snail xem: ánh sáng xanh trắng nhấp nháy hắt lên mặt cậu bé (màn hình chỉ phát sáng, không chữ). Biểu tượng pin đỏ chớp chớp.",
+    "chars": [
+     "@Snail",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Snail 0.4–4.3s",
+     "@Khang 4.8–10.2s",
+     "@Snail 10.7–13.4s"
+    ],
+    "continuity": "cut",
+    "sfx": "the hearth fire crackling and popping, fish sizzling on bamboo skewers over the coals, a faint electronic hum from the camera, crickets outside the cave mouth",
+    "shots": [
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Snail's face bathed in flickering blue-white glow from a small camera screen, slow push-in"
+     },
+     {
+      "until": 8,
+      "camera": "50mm medium two-shot of @Khang holding the glowing camera for @Snail beside the hearth, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "85mm close-up of @Khang's wistful face in the firelight, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Snail, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Snail kneels close beside the hearth staring into a small glowing camera screen in @Khang's hands and is already speaking in a breathless rush, mouth wide open.",
+     "@Snail keeps talking fast as blue-white light flickers across his round cheeks and huge eyes.",
+     "@Snail keeps speaking and pokes one small finger toward the glowing screen, then pulls it back.",
+     "@Snail keeps talking and presses both hands to his cheeks in wonder.",
+     "@Snail finishes, closes his mouth and leans even closer to the glow.",
+     "@Khang holds the camera with its small screen flipped out toward the boy and answers softly, smiling.",
+     "@Khang keeps talking and tilts the glowing screen so the light washes over both their faces.",
+     "@Khang keeps speaking and nods toward the dark rock wall as if warm water could pour out of it.",
+     "@Khang keeps talking and glances at the red-glowing hearth with a small shrug.",
+     "@Khang keeps speaking quietly as a tiny red light blinks on the camera body under his thumb.",
+     "@Khang finishes, closes his mouth and lowers his eyes to the glowing screen.",
+     "@Snail looks up from the glow and asks fast, frowning with honest puzzlement.",
+     "@Snail keeps talking and tugs at @Khang's sleeve with one small hand.",
+     "@Snail finishes the question, closes his mouth and waits, his eyes fixed on @Khang's face.",
+     "@Snail keeps staring up at him with his mouth closed, the screen glow flickering over his face in the silence."
+    ]
+   },
+   {
+    "id": "12.2",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Your home has so many fires. Why weren't you happy there?",
+      "pace": "slow",
+      "tone": "slow and soft, genuinely curious"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "Back there, I told survival stories to millions of people. All fake.",
+      "pace": "normal",
+      "tone": "quiet and heavy, admitting it"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "What is fake? Like Snail playing tiger to scare the little ones?",
+      "pace": "normal",
+      "tone": "puzzled, gently searching"
+     }
+    ],
+    "_hinh": "Snail ngủ gục vào lòng Stream. Stream và Khang ngồi hai bên lửa, ánh lửa nhảy trên mặt hai người.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–4.8s",
+     "@Khang 5.3–9.6s",
+     "@Stream 10.1–14.4s"
+    ],
+    "continuity": "cut",
+    "sfx": "the hearth fire crackling softly, a child's slow sleeping breath, embers popping, wind sighing at the dark cave mouth",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Stream and @Khang sitting close at one corner of the hearth, slow push-in"
+     },
+     {
+      "until": 5,
+      "camera": "85mm close-up of @Stream in the dancing firelight, locked off"
+     },
+     {
+      "until": 10,
+      "camera": "50mm over-the-shoulder shot from behind @Stream onto @Khang, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Stream and @Khang beside the hearth, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Stream sits by the hearth with a small sleeping child curled in her lap and is already speaking slowly and softly, eyes on @Khang.",
+     "@Stream keeps talking and strokes the sleeping child's back under a hide blanket.",
+     "@Stream keeps speaking as the firelight dances across the red-ochre stripes on her cheeks.",
+     "@Stream keeps talking softly and tilts her head to read his face.",
+     "@Stream finishes the question, closes her mouth and waits, her hand still on the child's back.",
+     "@Khang sits at the corner of the hearth with his forearms on his knees and answers quietly, his voice heavy.",
+     "@Khang keeps talking and stares into the flames rather than at her.",
+     "@Khang keeps speaking and spreads his blistered hands wide, as if over a huge crowd.",
+     "@Khang keeps talking and lets his hands fall back onto his knees.",
+     "@Khang finishes the last flat word, closes his mouth and swallows, eyes still on the flames.",
+     "@Stream turns to him and answers with a puzzled frown, her voice gentle and searching.",
+     "@Stream keeps talking and curls her free fingers into little claws by her face, imitating a playful tiger.",
+     "@Stream keeps speaking with a faint smile at the memory, glancing down at the child in her lap.",
+     "@Stream keeps talking and looks back up at @Khang, waiting for his answer.",
+     "@Stream finishes, closes her mouth and holds his gaze in the dancing firelight."
+    ]
+   },
+   {
+    "id": "12.3",
+    "turns": [
+     {
+      "speaker": "@Khang",
+      "line": "Exactly. Someone else made my fires. The fish came from a market. I just acted hungry.",
+      "pace": "normal",
+      "tone": "low and bitter, confessing"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Here, whoever fakes it really starves. These days, are you faking?",
+      "pace": "normal",
+      "tone": "plain and serious, no smile"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "No. For the first time, I'm not.",
+      "pace": "slow",
+      "tone": "slow and quiet, finally honest"
+     }
+    ],
+    "_hinh": "Khang nhìn vào lửa, giọng nhỏ dần, xoay xoay chiếc bật lửa hỏng trong tay rồi ném vào bếp. Stream nhìn anh, không cười.",
+    "chars": [
+     "@Khang",
+     "@Stream"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Khang 0.4–6.2s",
+     "@Stream 6.7–10.7s",
+     "@Khang 11.2–14.0s"
+    ],
+    "continuity": "continuous",
+    "sfx": "the hearth fire crackling, the dry click of a dead lighter, a small plastic object dropping into soft ash, crickets and a distant owl outside",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Khang and @Stream at the corner of the hearth, slow push-in"
+     },
+     {
+      "until": 7,
+      "camera": "85mm close-up of @Khang turning a dead lighter in his fingers in the firelight, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm over-the-shoulder shot from behind @Khang onto @Stream, locked off"
+     },
+     {
+      "until": 15,
+      "camera": "35mm medium two-shot of @Khang and @Stream beside the hearth, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Khang sits at the corner of the hearth turning a small plastic lighter over in his fingers and is already speaking, low and bitter.",
+     "@Khang keeps talking and flicks the dead lighter once with his thumb; it gives no flame.",
+     "@Khang keeps speaking, staring into the low flames, his voice dropping lower with each word.",
+     "@Khang keeps talking and turns the dead lighter slowly between finger and thumb.",
+     "@Khang keeps speaking, a crooked bitter smile tugging at one corner of his mouth.",
+     "@Khang keeps talking and rubs his eyes with his free hand, shoulders sagging.",
+     "@Khang finishes, closes his mouth and tosses the dead lighter into the grey ash at the edge of the hearth.",
+     "@Stream watches him without a smile and answers plainly and seriously, her hand resting on the sleeping child.",
+     "@Stream keeps talking, her eyes steady on his face across the low flames.",
+     "@Stream keeps speaking and leans slightly toward him as she asks the question.",
+     "@Stream finishes the question, closes her mouth and waits for his answer without blinking.",
+     "@Khang lifts his eyes from the fire to hers and answers slowly and quietly.",
+     "@Khang keeps speaking slowly, a long breath between the words, his jaw softening.",
+     "@Khang finishes, closes his mouth and holds her gaze, his shoulders loosening.",
+     "@Stream gives one small slow nod with her mouth closed, as the fire crackles between them in silence."
+    ]
+   },
+   {
+    "id": "12.4",
+    "turns": [
+     {
+      "speaker": "@Stream",
+      "line": "Real people get blisters, scraped feet, empty bellies. You are a real person now.",
+      "pace": "normal",
+      "tone": "warm and matter-of-fact"
+     },
+     {
+      "speaker": "@Khang",
+      "line": "The seeing stone is going to sleep. Battery's almost gone. Not much more filming.",
+      "pace": "normal",
+      "tone": "sheepish, a little embarrassed"
+     },
+     {
+      "speaker": "@Stream",
+      "line": "Let it sleep. Talk to me instead.",
+      "pace": "slow",
+      "tone": "slow and soft, an invitation"
+     }
+    ],
+    "_hinh": "Stream cầm bàn tay phồng rộp của Khang lật ngửa lên xem. Camera trên ngực anh kêu \"tít\" một tiếng, đèn đỏ tắt. Anh tháo camera đặt sang một bên.",
+    "chars": [
+     "@Stream",
+     "@Khang"
+    ],
+    "wardrobe": {
+     "@Khang": "dusty sweat-stained olive-green tactical shirt with rolled sleeves, khaki cargo trousers muddy at the knees, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera"
+    },
+    "_plan": [
+     "@Stream 0.4–5.4s",
+     "@Khang 5.9–10.9s",
+     "@Stream 11.4–14.2s"
+    ],
+    "continuity": "continuous",
+    "sfx": "a single soft electronic beep, the hearth fire crackling and popping, a plastic clip unsnapping, crickets and frogs outside the dark cave mouth",
+    "shots": [
+     {
+      "until": 3,
+      "camera": "35mm medium two-shot of @Stream and @Khang beside the hearth, slow push-in"
+     },
+     {
+      "until": 6,
+      "camera": "85mm close-up of @Stream looking down at @Khang's blistered palm in her hands, locked off"
+     },
+     {
+      "until": 11,
+      "camera": "50mm over-the-shoulder shot from behind @Stream onto @Khang unclipping the small camera from his chest, slow push-in"
+     },
+     {
+      "until": 15,
+      "camera": "85mm close-up of @Stream in the warm firelight, slow push-in"
+     }
+    ],
+    "steps": [
+     "@Stream reaches over and takes @Khang's right hand, turning it palm up in the firelight, and is already speaking, warm and matter-of-fact.",
+     "@Stream keeps talking and runs her thumb gently over the raw blisters on his palm.",
+     "@Stream keeps speaking and glances down at his scraped muddy boots, then back to his face.",
+     "@Stream keeps talking and taps his palm lightly with one finger, her eyes on the blisters.",
+     "@Stream keeps speaking with a small firm nod, still holding his hand in both of hers.",
+     "@Stream finishes and closes her mouth as the small camera on @Khang's chest gives a single beep and its red light goes dark.",
+     "@Khang glances down at the dark camera and answers sheepishly with an embarrassed half-smile.",
+     "@Khang keeps talking and unclips the small camera from his chest harness with his free hand.",
+     "@Khang keeps speaking, turning the dark camera over and tapping it once with a fingertip.",
+     "@Khang keeps talking and shrugs with a sheepish breath of a laugh.",
+     "@Khang finishes, closes his mouth and sets the camera down on a flat stone beside the hearth.",
+     "@Stream looks at the camera, then up at him, and answers slowly and softly.",
+     "@Stream keeps speaking softly and closes her fingers around his blistered hand.",
+     "@Stream keeps talking with a small warm smile in the firelight, her eyes on his.",
+     "@Stream finishes, closes her mouth and keeps holding his hand as the fire crackles in silence."
+    ]
+   }
+  ]
+ }
+]

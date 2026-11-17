@@ -1,0 +1,21 @@
+A single continuous 5-second shot, one camera angle, no cuts.
+
+[LOOK] Cinematic live-action film still in motion, shot on ARRI Alexa 35 with vintage anamorphic lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable performances, motivated practical lighting, soft contrast, rich teal-and-amber grade, gentle halation, subtle 35mm film grain, shallow depth of field with creamy bokeh. Looks like a premium Vietnamese theatrical romantic comedy-drama, never like CGI, a video game or an advertisement.
+
+[PLACE] A bright private VIP hospital room by day: a white adjustable hospital bed with crisp sheets, a bedside monitor showing only soft wave lines, a vase of white lilies, a large window with sheer curtains over the city, a pale-wood visitor chair.
+
+[CHARACTERS] Use the attached character images for faces and hair; keep them exactly the same.
+- @Khang = Khang, doctor; wears crisp white doctor's coat over a light-blue shirt and grey trousers, a stethoscope around the neck, white sneakers.
+Nobody else is in frame.
+
+[CAMERA] 85mm close-up of the doctor, eyes in sharp focus, background melting into bokeh; a slow, almost imperceptible push-in; framing holds steady for the whole shot.
+
+[ACTION] @Khang is hooking his pinky around hers with a sigh.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Khang (man of 34, calm gentle tenor, dry deadpan humour, never in a hurry, speaking at a natural, even conversational pace, resigned), said exactly once from 0.3s to 4.5s: "Được rồi. Bệnh án ghi mất trí nhớ có chọn lọc. Cậu định chọn lọc những gì?"
+After the last word @Khang closes the mouth; nobody speaks again until 5.0s.
+Standard Northern Vietnamese accent; never read these directions or names aloud.
+
+[SOUND] the soft beep of a bedside monitor, a door clicking shut, a quiet air conditioner, birds outside the window. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper or screens; cuts or a second camera angle; extra people; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

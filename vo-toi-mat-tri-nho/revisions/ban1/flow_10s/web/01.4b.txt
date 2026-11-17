@@ -1,0 +1,48 @@
+A 10-second live-action film sequence of 3 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 7s; one place and one moment, sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic family comedy-drama set in a modern Vietnamese city today among the stylish upper-middle class; glossy premium streaming-series look, flattering beauty lighting on every face, creamy luminous skin tones, warm golden highlights, rich teal-and-amber palette, elegant wardrobe, subtle 35mm film grain, shallow depth of field.
+
+[LOCATION]
+A luxurious rooftop restaurant terrace at night high above a wide city lake, privately booked and empty of other guests: one candlelit table with white linen and red roses, a glass balustrade, the city's golden lights and the dark lake below, potted olive trees, warm string lights overhead, a private brass elevator at the end of the terrace.
+
+[CHARACTERS]
+Use the attached character images for every face and hairstyle; keep them exactly consistent. The characters are already in place in the first frame; never show the reference portrait.
+- @Linh = Linh, 32, the elegant wife; wears floor-length emerald-green satin evening gown with thin straps, diamond drop earrings, a slim gold clutch (this outfit, not the one in the reference image).
+- @Tuan = Tuấn, 35, the dimpled assistant; wears light-beige suit, pale-pink shirt with no tie, brown loafers, a tablet always tucked under one arm.
+Nobody else appears in the shot.
+
+[SHOT LIST — 3 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 50mm medium shot of the assistant with the candlelit rooftop terrace softly behind, gentle handheld drift.
+- Shot 2, 4–7s: 85mm close-up of the assistant, slow dolly-in.
+- Shot 3, 7–10s: 24mm wide shot of the candlelit rooftop terrace with the assistant and the elegant wife, subtle rack focus.
+- Continuity: new camera setup; the characters are already in place in the first frame and the first speaker starts talking within the first second.
+- Every cut keeps the same lighting, wardrobe, props and screen direction; whoever is speaking has the face clearly on screen in that shot.
+- Eyelines: the camera stays on one side of the line between the characters (180-degree rule) so their eyes meet across the cuts.
+
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per second; clothing stays fully worn.
+- 0–1s (Shot 1): @Tuan is turning away and hunching over his phone and is already speaking quickly (doomed whisper).
+- 1–2s (Shot 1): @Tuan keeps talking, covering his mouth with one hand.
+- 2–3s (Shot 1): @Tuan keeps talking, leaning a little toward @Linh.
+- 3–4s (Shot 1): @Tuan finishes the line and closes the mouth.
+- 4–5s (CUT to Shot 2): @Tuan starts speaking slowly and softly (deflated, to himself), lowering the phone, while @Linh listens with the mouth closed.
+- 5–6s (Shot 2): @Tuan keeps talking, staring at the closed elevator doors.
+- 6–7s (Shot 2): @Tuan finishes the line and closes the mouth.
+- 7–8s (CUT to Shot 3): The brass elevator doors slide shut on @Linh's calm, beautiful face.
+- 8–9s (Shot 3): @Tuan stands alone among the candles, phone still at his ear.
+- 9–10s (Shot 3): @Linh and @Tuan stay silent, mouths closed, as the moment settles. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, spoken on camera by @Tuan alone in two parts in this order with a short breath between them, each said exactly once (no subtitles):
+- Part 1, 0.4–3.6s (man of 35, lively nasal comic tenor, gabbling fast whenever he lies, speaking quickly in short lively phrases, every word still clear, doomed whisper): "Chết em rồi, chết thật rồi. Anh Quân ơi, anh tự lo lấy thân nhé."
+- Part 2, 4.1–7.2s (man of 35, lively nasal comic tenor, gabbling fast whenever he lies, speaking slowly and softly, unhurried, with a short natural pause between phrases, deflated, to himself): "Mà thôi, em cũng phải lo lấy thân em trước đã."
+- Pacing: @Tuan speaks quickly, then @Tuan continues slowly and calmly; the change of speed is clearly audible.
+- Throughout, @Tuan's face and lips stay clearly visible while speaking, with a short breath between the parts; after the last word @Tuan closes the mouth and says nothing more — no repeated words, no echo. No narrator and no other voices.
+- Voices: every character speaks standard Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and sounds clearly different from the other speaker in pitch, age and texture.
+- All speech is over by 7.2s. From then until 10.0s nobody says a single word: the last beat plays as a silent reaction over ambience and sound effects, and no line or part of a line is ever said again to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: a soft city hum far below, a gentle night breeze, the faint clink of glassware, distant traffic horns. Ambience continues to 10.0s. No music.
+
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, credits, watermarks, logos, TV graphics, digital clock readouts), readable writing on signs, labels, name tags, paper or phone screens, blurry faces, distorted hands, background music, letterbox bars, cuts at any moment other than the planned shot changes, jump cuts, a change of location, extra people, extra or fused fingers, face or costume changes, slurred speech, repeated, stuttered or echoed words, the line spoken twice, mumbled or swallowed words, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

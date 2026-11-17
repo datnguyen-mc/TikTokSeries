@@ -9,7 +9,7 @@ Các file trong thư mục này:
 - HoThu_phu-de.srt     : phụ đề tiếng Việt, khớp với timeline
 
 Timeline dùng trực tiếp file gốc:
-  /Users/iseul-a/Documents/TikTokSeries/douyin/holy.mp4
+  /Users/iseul-a/Documents/METACREW/TikTokSeries/douyin/03-holy.mp4
 (file gốc được giữ nguyên, không bị sửa)
 
 Cách mở:

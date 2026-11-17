@@ -1,0 +1,48 @@
+{
+  "series": "bay-ngay-sinh-ton",
+  "title": "Bảy Ngày Sinh Tồn (Seven Days in the Stone Age)",
+  "clip_seconds": 15,
+  "language": "en",
+  "style": "Photorealistic live-action survival adventure film with warm humor, set in the limestone jungles of northern Vietnam today and more than ten thousand years ago; lush natural greens, wet limestone greys, ember-orange firelight, natural skin texture with sweat and dirt, subtle 35mm film grain, shallow depth of field, grounded handheld energy.",
+  "lighting": "Natural motivated light: clear green-gold afternoon sun through the jungle canopy and warm lamp light in the present day; misty dawn light, dappled midday sun, warm ember firelight inside the cave and cool blue storm light with white lightning flashes in the Stone Age; shadows stay soft, never murky.",
+  "voice_common": "everyone speaks clear, natural English with a neutral international accent, says each word once and clearly, and keeps one consistent voice that is clearly different from every other character in pitch, age and texture.",
+  "characters": {
+    "@Khang": {
+      "name": "Khang",
+      "anchor": "Khang, 29, Vietnamese survival YouTuber; lean athletic build, tanned skin, short black undercut hair, light stubble, expressive dark eyes, a quick showman's grin; olive-green tactical shirt with a plain patch without letters, khaki cargo trousers, brown hiking boots, a red bandana tied on the left wrist, a black chest harness holding a small square chest camera, a bright orange backpack.",
+      "voice": "man of 29, bright energetic tenor, a showman's voice that drops low and honest when serious",
+      "rate": 2.8
+    },
+    "@Bin": {
+      "name": "Bin",
+      "anchor": "Bin, 24, Khang's cameraman and channel manager; slim, round face, round black-rimmed glasses, short messy black hair; cream bucket hat, thin yellow windbreaker over a black T-shirt, black jeans, white sneakers, a handheld camera gimbal.",
+      "voice": "young man of 24, light dry voice, deadpan and teasing",
+      "rate": 2.8
+    },
+    "@Stream": {
+      "name": "Stream",
+      "anchor": "Stream, 19, Stone Age forager girl of the cave clan; slim and agile, warm brown skin, long straight black hair tied back with a vine cord, bright alert dark eyes, two thin red-ochre stripes on each cheekbone; a knee-length tunic of beaten tan bark cloth with a soft deer-hide wrap covering both shoulders, a necklace of small stream-snail shells, a woven rattan basket on her back, barefoot.",
+      "voice": "young woman of 19, clear warm alto, direct and curious",
+      "rate": 2.8
+    },
+    "@Moon": {
+      "name": "Grandma Moon",
+      "anchor": "Grandma Moon, 65, Stone Age clan leader and keeper of the fire; small and straight-backed, deeply lined brown face, calm piercing eyes, white hair in a high knot held by a bone pin, a red-ochre dot on her forehead; a long dark hide cloak over a knee-length bark-cloth tunic, a thick green bamboo tube for carrying embers, barefoot.",
+      "voice": "old woman of 65, low slow husky voice with weight in every word",
+      "rate": 2.7
+    },
+    "@Roar": {
+      "name": "Roar",
+      "anchor": "Roar, 30, the clan's strongest Stone Age hunter; tall, broad-shouldered and muscular, weathered brown skin, thick black hair bound with a strip of bark, heavy brows, a fierce jaw; a sleeveless vest of dark boar hide that fully covers his chest, a knee-length bark-cloth kilt, a necklace of curved boar tusks, a long bamboo spear with a chipped stone tip, barefoot.",
+      "voice": "man of 30, deep rough bass, gruff and forceful",
+      "rate": 2.7
+    },
+    "@Snail": {
+      "name": "Snail",
+      "anchor": "Snail, 8, Stream's little brother in the Stone Age clan; small and wiry, round cheeky face, big curious dark eyes, head shaved except a small tuft of hair on top; a small knee-length bark-cloth tunic covering both shoulders, a string of snail shells around one wrist, barefoot.",
+      "voice": "boy of 8, high bright child's voice, quick and excited",
+      "rate": 2.8
+    }
+  },
+  "scenes": []
+}

@@ -1,0 +1,22 @@
+A single continuous 5-second shot, one camera angle, no cuts.
+
+[LOOK] Cinematic live-action film still in motion, shot on ARRI Alexa 35 with vintage anamorphic lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable performances, motivated practical lighting, soft contrast, rich teal-and-amber grade, gentle halation, subtle 35mm film grain, shallow depth of field with creamy bokeh. Looks like a premium Vietnamese theatrical romantic comedy-drama, never like CGI, a video game or an advertisement.
+
+[PLACE] A cosy lakeside street-food corner at night: low plastic stools and a small steel table with bowls of bún chả, a charcoal grill with rising smoke, strings of yellow bulbs, reflections dancing on the dark water.
+
+[CHARACTERS] Use the attached character images for faces and hair; keep them exactly the same.
+- @Quan = Quân, husband; wears white polo shirt, beige chinos, white leather sneakers.
+- @Linh = Linh, elegant wife; wears pastel-pink cropped cardigan over a white cotton sundress, white sneakers, a small pearl hair clip.
+Nobody else is in frame.
+
+[CAMERA] 35mm medium two-shot of the husband and the elegant wife, both faces readable; a slow lateral dolly; framing holds steady for the whole shot.
+
+[ACTION] @Quan is leaning forward on his little stool; @Linh watches, mouth closed.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth resonant baritone, confident and charming, cracking higher when flustered, speaking slowly and softly, unhurried, with a short natural pause between phrases, stunned), said exactly once from 0.3s to 3.9s: "Em mười năm uống thứ mình ghét, chỉ vì anh thích thôi à?"
+After the last word @Quan closes the mouth; nobody speaks again until 5.0s. @Linh listens with the mouth closed.
+Standard Northern Vietnamese accent; never read these directions or names aloud.
+
+[SOUND] charcoal sizzling on the grill, motorbikes passing slowly, laughter from far away, gentle water lapping at the lake edge. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper or screens; cuts or a second camera angle; extra people; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

@@ -1,0 +1,14 @@
+{
+  "flow_project": "https://flow.google.com/project/0149f884-3a39-464e-9afe-27a7ad899ec9",
+  "characters": {
+    "Khang":        {"id": "15e13f7b-9b0e-4a52-92b6-f1588cc1aa61", "look": "hiện đại, áo lính + ba lô cam", "scenes": "01-04"},
+    "Khang do da":  {"id": "fd1a2c7e-7ae3-4937-866b-06c884a63341", "look": "đồ đá, bụi bặm, khăn rằn (dùng cả cho bản không khăn)", "scenes": "05-18"},
+    "Khang ao rach":{"id": "d8cbfd97-d606-4ae4-979d-d0f30dceb0f1", "look": "áo rách, dây đeo không camera", "scenes": "18-22"},
+    "Khang ao xam": {"id": "37939bcf-42e6-4f4f-bf86-102824c1ae99", "look": "áo thun xám + vòng vỏ ốc", "scenes": "23-24"},
+    "Bin":    {"id": "f032b690-abf2-45b5-b7fd-639c53c3b0d7"},
+    "Stream": {"id": "1861db1d-e4c5-4c34-92df-afa67bfdd3cd", "vi": "Suối"},
+    "Snail":  {"id": "24112a0f-479d-4970-a827-8e9389b234a7", "vi": "Ốc"},
+    "Roar":   {"id": "4f49d40d-135d-413e-85e5-5920cff502a6", "vi": "Gầm"},
+    "Moon":   {"id": "258800a3-9973-4936-9aa5-dfd8ac4430c8", "vi": "Bà Trăng"}
+  }
+}

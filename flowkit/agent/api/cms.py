@@ -976,6 +976,72 @@ DEFAULT_CHANNELS = [
             }
         ]
     },
+    {
+        "slug": "vo-toi-mat-tri-nho",
+        "name": "Vợ Tôi Mất Trí Nhớ Có Chọn Lọc (Phim Hài Gia Đình 25 Phút)",
+        "project_id": "",
+        "aspect_ratio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+        "runner_script": "runners/vo_toi_mat_tri_nho.py",
+        "series_dir": "vo-toi-mat-tri-nho",
+        "ep_prefix": "canh",
+        "description": "Phim hài – tình cảm gia đình Việt Nam 25 phút, kịch bản gốc (100% thoại nhân vật, không người dẫn chuyện, nhịp giọng theo cảnh): vợ giả mất trí nhớ để bắt người chồng ngoại tình tán lại mình từ đầu; tiểu tam thành đồng minh, kết có hậu bằng hợp đồng thử việc làm chồng (16:9, 25 cảnh × 4 clips × 15s = 100 clips — Google Flow Omni 1.2).",
+        "characters": [
+            {
+                "tag": "@Linh",
+                "name": "Linh — VOICE_LOCK_LINH_VTMN",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_LINH_VTMN",
+                "description": "Linh, 32 tuổi, cựu người mẫu kiêm hoa khôi, vợ Quân, giả mất trí nhớ có chọn lọc; đẹp nổi bật kiểu nữ chính, cao, dáng người mẫu, da trắng sáng mịn, tóc đen dài suôn mượt, mắt hạnh nhân to sáng, gò má cao, nụ cười rạng rỡ; sơ mi lụa ngà, quần ống rộng cạp cao màu kem, khuyên tai ngọc trai, giày cao gót màu nude. Giọng thoại: VOICE_LOCK_LINH_VTMN.",
+                "ref_prompt": "Full-body photorealistic character reference of @Linh, a 32-year-old Vietnamese woman, former fashion model and beauty-pageant winner, 170 cm, breathtakingly beautiful leading lady, tall and graceful with model proportions, flawless luminous fair skin, long silky straight black hair falling past her shoulders, large bright almond-shaped dark eyes, high cheekbones, a radiant smile, soft natural makeup with rosy lips, wearing elegant ivory silk blouse, high-waisted cream wide-leg trousers, delicate pearl earrings, nude heels; plain light-grey studio background, soft flattering beauty light, sharp focus on a camera-ready face, natural skin texture, 8K. Not resembling any real actor or real person."
+            },
+            {
+                "tag": "@Quan",
+                "name": "Quân — VOICE_LOCK_QUAN_VTMN",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_QUAN_VTMN",
+                "description": "Quân, 36 tuổi, chồng Linh, giám đốc công ty thiết kế nội thất cao cấp; nam chính điển trai, cao, dáng thể thao, quai hàm sắc, tóc ngắn rẽ ngôi gọn, râu lún phún, má lúm khi cười; vest xanh navy may đo, sơ mi trắng hở cổ, đồng hồ bạc, giày da nâu. Giọng thoại: VOICE_LOCK_QUAN_VTMN.",
+                "ref_prompt": "Full-body photorealistic character reference of @Quan, a 36-year-old Vietnamese man, CEO of a luxury interior-design company, 180 cm, strikingly handsome leading man, tall and athletic, sharp jawline, neatly styled short black hair with a side part, warm expressive dark eyes, light designer stubble, a charming dimpled smile, wearing tailored navy suit, crisp white shirt open at the collar with no tie, silver wristwatch, polished brown leather shoes; plain light-grey studio background, soft flattering beauty light, sharp focus on a camera-ready face, natural skin texture, 8K. Not resembling any real actor or real person."
+            },
+            {
+                "tag": "@MaiAnh",
+                "name": "Mai Anh — VOICE_LOCK_MAIANH_VTMN",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_MAIANH_VTMN",
+                "description": "Mai Anh, 25 tuổi, cô giáo yoga kiêm KOL, người yêu bí mật của Quân rồi thành đồng minh của Linh; xinh tươi rạng rỡ, dáng thon săn chắc, da nâu mật ong, tóc nâu hạt dẻ dài gợn sóng, mắt nai mi dài, mặt trái tim, môi hồng bóng; cardigan len hồng ngoài áo trắng ôm, quần jeans xanh nhạt, giày thể thao trắng, khuyên tròn vàng nhỏ. Giọng thoại: VOICE_LOCK_MAIANH_VTMN.",
+                "ref_prompt": "Full-body photorealistic character reference of @MaiAnh, a 25-year-old Vietnamese woman, yoga instructor and lifestyle influencer, 163 cm, gorgeous and radiant, slim and toned, glowing golden-tan skin, long glossy wavy chestnut-brown hair, big doe eyes with long lashes, a sweet heart-shaped face, glossy pink lips, wearing soft pink knit cardigan over a fitted white top, light-blue straight jeans, white sneakers, small gold hoop earrings; plain light-grey studio background, soft flattering beauty light, sharp focus on a camera-ready face, natural skin texture, 8K. Not resembling any real actor or real person."
+            },
+            {
+                "tag": "@Khang",
+                "name": "Khang — VOICE_LOCK_KHANG_VTMN",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_KHANG_VTMN",
+                "description": "Khang, 34 tuổi, bác sĩ phục hồi chức năng, bạn đại học của Linh; điển trai kiểu trí thức, cao gầy, da sáng, tóc đen rối nhẹ, kính không gọng, nụ cười nửa miệng; áo blouse trắng ngoài sơ mi xanh nhạt, quần xám, ống nghe trên cổ, giày thể thao trắng. Giọng thoại: VOICE_LOCK_KHANG_VTMN.",
+                "ref_prompt": "Full-body photorealistic character reference of @Khang, a 34-year-old Vietnamese man, rehabilitation doctor, 178 cm, handsome in a gentle intellectual way, tall and lean, fair clear skin, soft tousled black hair, kind calm eyes behind thin rimless glasses, a dry half-smile, wearing crisp white doctor's coat over a light-blue shirt and grey trousers, a stethoscope around the neck, white sneakers; plain light-grey studio background, soft flattering beauty light, sharp focus on a camera-ready face, natural skin texture, 8K. Not resembling any real actor or real person."
+            },
+            {
+                "tag": "@Tuan",
+                "name": "Tuấn — VOICE_LOCK_TUAN_VTMN",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_TUAN_VTMN",
+                "description": "Tuấn, 35 tuổi, trợ lý kiêm bạn thân của Quân, nói dối dở nhất Hà Nội; đẹp trai kiểu trẻ trung, mặt nhẵn, má lúm sâu, mắt sáng, tóc đen dày hơi xoăn, người đầm; vest màu be, sơ mi hồng nhạt không cà vạt, giày lười nâu, luôn kẹp máy tính bảng. Giọng thoại: VOICE_LOCK_TUAN_VTMN.",
+                "ref_prompt": "Full-body photorealistic character reference of @Tuan, a 35-year-old Vietnamese man, a CEO's personal assistant, 170 cm, cheerful boyish good looks, fresh clean-shaven face with deep dimples, bright lively eyes, thick slightly wavy black hair, a stocky friendly build, wearing light-beige suit, pale-pink shirt with no tie, brown loafers, a tablet always tucked under one arm; plain light-grey studio background, soft flattering beauty light, sharp focus on a camera-ready face, natural skin texture, 8K. Not resembling any real actor or real person."
+            },
+            {
+                "tag": "@Bong",
+                "name": "Bống — VOICE_LOCK_BONG_VTMN",
+                "default_media_id": "",
+                "locked_media_id": "",
+                "voice_lock": "VOICE_LOCK_BONG_VTMN",
+                "description": "Bống, 7 tuổi, con gái Linh và Quân; bé gái đáng yêu, mặt tròn hồng hào, mắt to long lanh, mái bằng, hai bím cao buộc nơ vàng, răng sún; váy cotton vàng cổ trắng, tất trắng, giày đỏ nhỏ. Giọng thoại: VOICE_LOCK_BONG_VTMN.",
+                "ref_prompt": "Full-body photorealistic character reference of @Bong, a 7-year-old Vietnamese girl, 120 cm, adorable little girl with a round rosy face, huge sparkling dark eyes, straight black bangs and two high pigtails with yellow ribbons, a gap-toothed grin, wearing yellow cotton dress with a white Peter Pan collar, white socks, small red shoes; plain light-grey studio background, soft flattering beauty light, sharp focus on a camera-ready face, natural skin texture, 8K. Not resembling any real actor or real person."
+            }
+        ]
+    },
 ]
 
 CHANNEL_MAX_EPISODES: dict[str, int] = {
@@ -990,6 +1056,7 @@ CHANNEL_MAX_EPISODES: dict[str, int] = {
     "cai-ket-cho-tieu-tam": 25,
     "bay-ngay-sinh-ton": 24,
     "dung-luong-trong": 20,
+    "vo-toi-mat-tri-nho": 25,
 }
 
 
@@ -3664,7 +3731,7 @@ async def sync_videos_to_r2(body: SyncR2BatchRequest):
                     )
                     reconciled_clips_count += 1
             elif cat == "full_episodes":
-                if ch_slug in ("duong-dua-sinh-tu", "tieng-go-dem-ba-gio", "can-nha-am-duong", "ma-da-dam-sen", "gang-to-tai-xuat", "cai-ket-cho-tieu-tam") and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
+                if ch_slug in ("duong-dua-sinh-tu", "tieng-go-dem-ba-gio", "can-nha-am-duong", "ma-da-dam-sen", "gang-to-tai-xuat", "cai-ket-cho-tieu-tam", "vo-toi-mat-tri-nho") and re.search(r"tap[-_]?\d+_FULL\.mp4$", fname, re.IGNORECASE):
                     continue
                 m_ep = re.search(r"(?:tap|canh)[-_]?(\d+)_FULL\.mp4$", fname, re.IGNORECASE)
                 if m_ep:

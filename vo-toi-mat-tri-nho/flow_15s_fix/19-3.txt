@@ -1,0 +1,40 @@
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4.5s, 8.5s, 12s; one place and one moment, sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic comedy-drama with a thriller edge, with the look of an ARRI Alexa 35 anamorphic feature film, 24 fps; rich teal-and-amber grade, motivated practical light, natural skin texture with pores, subtle 35mm film grain, shallow depth of field with creamy oval bokeh, gentle halation. Real actors, believable understated performances, a premium theatrical feature — never CGI, never an advertisement.
+
+[LOCATION]
+A bright modern villa kitchen in the morning: white marble island with tall stools, sage-green cabinets, copper pendant lamps, a window onto a sunny garden.
+
+[CHARACTERS]
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, and never flash the studio reference portrait; the characters are already in place in the very first frame.
+- @Quan = Quân, the husband: a strikingly handsome 36-year-old Vietnamese man, tall and athletic, sharp jawline, neatly styled short black hair with a side part, warm expressive dark eyes, light designer stubble, a charming dimpled smile; wears a charcoal three-piece suit with a dark-blue tie. Attached image: "Quân · Vest than họp".
+- @Linh = Linh, the wife: a breathtakingly beautiful 32-year-old Vietnamese woman, former fashion model, tall and graceful, flawless luminous fair skin, long silky straight black hair, large bright almond-shaped dark eyes, high cheekbones, rosy lips, a radiant smile; wears a sharply tailored white power suit, red stiletto heels, hair in a sleek low bun with a cherry-blossom hairpin. Attached image: "Linh · Chủ tịch".
+Nobody else appears in focus.
+
+[SHOT LIST — hard cuts only at the marked seconds]
+- Shot 1, 0–4.5s: 85mm close-up on the husband, eyes in sharp focus, background melting into bokeh, a slow, steady push-in.
+- Shot 2, 4.5–8.5s: 50mm medium shot of the husband, a completely static frame.
+- Shot 3, 8.5–12s: 100mm macro insert shot, a completely static frame.
+- Shot 4, 12–15s: 100mm macro insert shot, a completely static frame.
+- Whoever is speaking has the face clearly on screen in that shot; the camera keeps one side of the line so eyelines match across the cuts.
+
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per beat.
+- 0–4.5s (Shot 1): A laugh escapes Quan, tears in his eyes; @Quan speaks, face clearly on screen.
+- 4.5–8.5s (CUT to Shot 2): Quan stands and tightens his tie; @Quan speaks, face clearly on screen.
+- 8.5–12s (CUT to Shot 3): Close on Quan's hands knotting his dark-blue tie. No one speaks.
+- 12–15s (CUT to Shot 4): Match: clearly visible, a woman's hands fasten the button of a tailored white suit jacket before a mirror, the button closing in frame; a cherry-blossom hairpin lies on the dresser; her face is never shown. No one speaks. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, 2 spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.3–3.1s, spoken in frame by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking slowly and softly with small natural pauses, realisation): "Cô ấy nhớ hết… mà vẫn để bố tán lại."
+- Turn 2, 4.8–7.5s, spoken in frame by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking at a natural conversational pace, resolved): "Bố đi họp. Lần này bố không nói dối ai nữa."
+- Throughout, only the person whose turn it is moves the lips while anyone else listens with the mouth closed; real breaths and tiny natural hesitations, close, natural dialogue sound with a little room tone — it sounds like real actors talking, never like a voice-over or text-to-speech.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and different characters sound clearly different in pitch, age and texture.
+- All speech is over by 7.5s; outside the turns above nobody says a word, and no line is ever repeated to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: a pan sizzling, birdsong, a spoon against a cup. No music.
+
+[AVOID]
+Visible film cameras, tripods, light stands, boom microphones, film crew or any filmmaking equipment anywhere in the frame, camera viewfinder or recording overlays, phone camera interfaces, the same character appearing twice in one shot, On-screen text of any kind (subtitles, captions, titles, watermarks, logos), readable writing, blurry faces, distorted hands, background music, letterbox bars, cuts at any other moment, extra people in focus, face, hair or costume changes, robotic or text-to-speech sounding voices, flat monotone delivery, slurred speech, repeated, stuttered or echoed words, the line spoken twice, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

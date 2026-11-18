@@ -1,6 +1,6 @@
 # Cảnh 08 · Hai triệu người xem
 
-**Hồi 2 · Cháu giả, Tết thật** · rạng sáng 28 Tết, ca đêm · B9 bếp nhà hàng thành phố · ~30 giây · 7 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 2 · Cháu giả, Tết thật** · rạng sáng 28 Tết, ca đêm · B9 bếp nhà hàng thành phố · ~30 giây · 7 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

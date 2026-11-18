@@ -1,6 +1,6 @@
 # Cảnh 10 · Lý do thật của bà
 
-**Hồi 2 · Cháu giả, Tết thật** · tối 28 Tết · B4 bếp; B8 đầu làng · ~37 giây · 8 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 2 · Cháu giả, Tết thật** · tối 28 Tết · B4 bếp; B8 đầu làng · ~37 giây · 8 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 
@@ -10,7 +10,7 @@
 
 ## Kịch bản
 
-**Mở:** Đạt xách ba lô: "Bà ơi, cháu không diễn được nữa. Tiền cọc cháu tiêu rồi, cháu xin làm thuê trả dần."
+**Mở:** Đạt xách ba lô: "Bà ơi, cháu không giấu được nữa. Cháu xin lỗi bà, cháu sẽ làm lụng trả lại."
 
 - Bà giữ tay Đạt, khóc: năm ngoái ông bị tai biến, bác sĩ dặn đừng để ông buồn, mà đêm nào ông cũng ra cổng ngồi đến khuya.
 - "Bà nhắn tin cho thằng Minh mười năm, không một lần có hồi âm. Bà sợ Tết này là Tết cuối của ông."
@@ -22,7 +22,7 @@
 
 | Shot | Tên | Giây | Đính trên Flow | Thoại |
 |---|---|---|---|---|
-| 10-01 | Đạt xách ba lô | 6 | Đạt · Áo phao đỏ | Đạt: Bà ơi, cháu không diễn được nữa. Tiền cọc cháu tiêu rồi, cháu xin làm thuê trả dần. |
+| 10-01 | Đạt xách ba lô | 6 | Đạt · Áo phao đỏ | Đạt: Bà ơi, cháu không giấu được nữa. Cháu xin lỗi bà, cháu sẽ làm lụng trả lại. |
 | 10-02 | Bà giữ tay | 4 | Bà Mận · Áo cánh ở nhà, Đạt · Áo phao đỏ | — |
 | 10-03 | Đêm nào ông cũng ra cổng | 7 | Bà Mận · Áo cánh ở nhà | Bà Mận: Năm ngoái ông tai biến. Bác sĩ dặn đừng để ông buồn. Mà đêm nào ông cũng ra cổng ngồi. |
 | 10-04 | Mười năm không hồi âm | 6 | Bà Mận · Áo cánh ở nhà | Bà Mận: Bà nhắn cho thằng Minh mười năm, không một lần nó trả lời. |

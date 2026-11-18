@@ -1,6 +1,6 @@
 # Cảnh 12 · Bữa sáng của anh shipper
 
-**Hồi 2 · Cháu giả, Tết thật** · sáng 29 Tết · B2 mâm cơm gian giữa, B4 bếp · ~46 giây · 12 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 2 · Cháu giả, Tết thật** · sáng 29 Tết · B2 mâm cơm gian giữa, B4 bếp · ~46 giây · 12 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

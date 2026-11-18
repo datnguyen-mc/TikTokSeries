@@ -1,6 +1,6 @@
 # Cảnh 13 · Ba mươi triệu
 
-**Hồi 3 · Hai đứa cháu** · trưa 29 Tết · B4 sau nhà, bờ ao · ~31 giây · 7 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 3 · Hai đứa cháu** · trưa 29 Tết · B4 sau nhà, bờ ao · ~31 giây · 7 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 
@@ -10,7 +10,7 @@
 
 ## Kịch bản
 
-**Mở:** Minh túm cổ áo Đạt rồi buông ngay: "Bao nhiêu tiền?" "Mười lăm triệu. Lộ thì đền ba mươi."
+**Mở:** Minh túm cổ áo Đạt rồi buông ngay: "Bao nhiêu tiền?" "Mười lăm triệu. Hợp đồng ghi rõ."
 
 - Minh rút điện thoại: "Tôi trả ba mươi. Đủ đền. Đi đi."
 - Đạt nhìn màn hình rất lâu, rồi cất tay vào túi: "Anh vắng mười năm, giờ trả tiền để ông có cháu à? Thế anh khác gì em?"
@@ -23,7 +23,7 @@
 | Shot | Tên | Giây | Đính trên Flow | Thoại |
 |---|---|---|---|---|
 | 13-01 | Túm cổ áo | 4 | Minh · Áo dạ đen, Đạt · Áo phao đỏ | Minh: Bao nhiêu tiền? |
-| 13-02 | Đền ba mươi | 4 | Đạt · Áo phao đỏ | Đạt: Mười lăm triệu. Lộ thì đền ba mươi. |
+| 13-02 | Mười lăm triệu | 4 | Đạt · Áo phao đỏ | Đạt: Mười lăm triệu. Hợp đồng ghi rõ. |
 | 13-03 | Tôi trả ba mươi | 5 | Minh · Áo dạ đen | Minh: Tôi trả ba mươi. Đủ đền. Đi đi. |
 | 13-04 | Đạt nhìn màn hình | 4 | Đạt · Áo phao đỏ | — |
 | 13-05 | Thế anh khác gì em | 7 | Đạt · Áo phao đỏ | Đạt: Anh vắng mười năm, giờ trả tiền để ông có cháu à? Thế anh khác gì em? |

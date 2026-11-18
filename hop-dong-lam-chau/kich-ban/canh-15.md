@@ -1,6 +1,6 @@
 # Cảnh 15 · Bà khoe cháu đi Nhật
 
-**Hồi 3 · Hai đứa cháu** · chiều 29 Tết, tiếp liền · B1 sân nhà · ~37 giây · 8 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 3 · Hai đứa cháu** · chiều 29 Tết, tiếp liền · B1 sân nhà · ~37 giây · 8 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

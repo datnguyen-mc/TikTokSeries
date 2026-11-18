@@ -1,6 +1,6 @@
 # Cảnh 07 · Đêm canh nồi bánh
 
-**Hồi 2 · Cháu giả, Tết thật** · đêm 27 Tết · B1 bếp lửa ngoài sân · ~44 giây · 10 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 2 · Cháu giả, Tết thật** · đêm 27 Tết · B1 bếp lửa ngoài sân · ~44 giây · 10 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

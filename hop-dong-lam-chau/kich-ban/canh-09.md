@@ -1,6 +1,6 @@
 # Cảnh 09 · Tảo mộ
 
-**Hồi 2 · Cháu giả, Tết thật** · chiều 28 Tết · B7 nghĩa trang giữa đồng · ~26 giây · 6 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 2 · Cháu giả, Tết thật** · chiều 28 Tết · B7 nghĩa trang giữa đồng · ~26 giây · 6 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 
@@ -12,7 +12,7 @@
 
 **Mở:** Khói hương bay ngang ruộng.
 
-- Đạt đứng trước mộ bố Minh, thì thầm thật lòng: "Cháu xin lỗi chú. Cháu mượn tên con chú mấy hôm. Cháu sẽ trả."
+- Đạt đứng trước mộ bố Minh, thì thầm thật lòng: "Cháu xin lỗi chú. Mấy hôm nay cháu ở nhà chú. Cháu sẽ tử tế."
 - Ông đứng sau lưng, nghe hết.
 
 **Câu treo:** Ông không nói gì, chỉ đặt tay lên vai Đạt. Đạt quay lại, không biết ông đã nghe được bao nhiêu.
@@ -23,7 +23,7 @@
 |---|---|---|---|---|
 | 09-01 | Khói hương ngang ruộng | 4 | — (Text-to-Video) | — |
 | 09-02 | Đạt trước mộ | 4 | Đạt · Áo len mượn, Bố Minh · Di ảnh | — |
-| 09-03 | Cháu mượn tên | 7 | Đạt · Áo len mượn | Đạt: Cháu xin lỗi chú. Cháu mượn tên con chú mấy hôm. Cháu sẽ trả. |
+| 09-03 | Lời xin lỗi | 7 | Đạt · Áo len mượn | Đạt: Cháu xin lỗi chú. Mấy hôm nay cháu ở nhà chú. Cháu sẽ tử tế. |
 | 09-04 | Ông đứng sau lưng | 4 | Ông Thịnh · Áo bông xanh | — |
 | 09-05 | Bàn tay trên vai | 4 | Ông Thịnh · Áo bông xanh, Đạt · Áo len mượn | — |
 | 09-06 | Đạt quay lại | 3 | Đạt · Áo len mượn | — |

@@ -43,7 +43,7 @@ def concat(segs, out):
     base = out + ".base.mov"
     run(["ffmpeg","-y","-f","concat","-safe","0","-i",lst,"-c","copy",base])
     run(["ffmpeg","-y","-i",base,"-af",LN,"-c:v","copy","-c:a","aac","-b:a","192k","-movflags","+faststart",out])
-    os.remove(base) if False else None
+    os.remove(base)
     return dur(out)
 def safe(s):
     return re.sub(r"[^\w\-]+", "_", s, flags=re.U).strip("_")

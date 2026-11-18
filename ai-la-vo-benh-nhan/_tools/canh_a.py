@@ -14,7 +14,7 @@ SCENES = {
   "Thom pushes out through the double doors holding a clipboard and scans the waiting area over her reading glasses",
   [(TH, "Ai là người nhà bệnh nhân Dũng?")], "the double doors swing"),
  ("00-03", "Tôi là vợ", 3, "GHE", [HA], MCU,
-  "Hanh rises from the left end of the bench, composed, one hand half raised", [(HA, "Tôi. Tôi là vợ.")], ""),
+  "Hanh rises from the left end of the bench, composed, one hand half raised", [(HA, "Tôi là vợ anh ấy.")], ""),
  ("00-04", "Em là vợ", 3, "GHE", [MA], MCU,
   "Mai jumps up from the right end of the bench clutching her helmet, eyes red from crying", [(MA, "Em! Em là vợ ạ!")], ""),
  ("00-05", "Hai người nhìn nhau", 4, "GHE", [HA, MA], "35mm wide two-shot along the bench, locked off",

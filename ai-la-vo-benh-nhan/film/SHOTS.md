@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 00-01 · Đèn đỏ phòng mổ | 3 | — (Text-to-Video) |  |
 | 00-02 · Ai là người nhà | 4 | Chị Thơm · Điều dưỡng | Chị Thơm: Ai là người nhà bệnh nhân Dũng? |
-| 00-03 · Tôi là vợ | 3 | Hạnh · Vest xám | Hạnh: Tôi. Tôi là vợ. |
+| 00-03 · Tôi là vợ | 3 | Hạnh · Vest xám | Hạnh: Tôi là vợ anh ấy. |
 | 00-04 · Em là vợ | 3 | Mai · Đồ ngủ hồng | Mai: Em! Em là vợ ạ! |
 | 00-05 · Hai người nhìn nhau | 4 | Hạnh · Vest xám, Mai · Đồ ngủ hồng |  |
 | 00-06 · Có mấy vợ | 4 | Chị Thơm · Điều dưỡng | Chị Thơm: Bệnh nhân này… có mấy vợ? |

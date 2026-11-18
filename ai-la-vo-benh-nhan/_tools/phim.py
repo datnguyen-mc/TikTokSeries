@@ -190,7 +190,8 @@ SOUND = {
 }
 
 CINE = ("Feature-film cinematography for a premium Vietnamese family drama-comedy set over one night in a city hospital: shot on "
-        "ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic "
+        "ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame, the picture filling the frame edge to edge "
+        "with no black borders, no letterbox bars and no rounded corners; deliberate cinematic "
         "blocking with foreground elements and layered depth, motivated light (cool fluorescent hospital light, rain on glass, "
         "warm practical lamps, dawn sun), rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, "
         "shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions and dry comic timing, like "

@@ -7,7 +7,7 @@
 
 - *(Đèn đỏ phòng mổ)*  ·  *00-01*
 - **Chị Thơm:** Ai là người nhà bệnh nhân Dũng?  ·  *00-02*
-- **Hạnh:** Tôi. Tôi là vợ.  ·  *00-03*
+- **Hạnh:** Tôi là vợ anh ấy.  ·  *00-03*
 - **Mai:** Em! Em là vợ ạ!  ·  *00-04*
 - *(Hai người nhìn nhau)*  ·  *00-05*
 - **Chị Thơm:** Bệnh nhân này… có mấy vợ?  ·  *00-06*

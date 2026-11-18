@@ -31,4 +31,22 @@ Lưu ý khi tạo: Flow báo "hoạt động bất thường" nếu gửi hai l�
 
 ## Clip đã render
 
-(chưa có)
+Quy trình: mỗi clip quay xong được đổi tên trên Flow thành `VBN <shot> · <tên>`, tải 720p về ~/Downloads (`VBN_<shot>_…mp4`), rồi `python3 ai-la-vo-benh-nhan/_tools/gom_clip.py` chép vào `film/clips/<shot>.mp4`. Clip hỏng giữ lại trong `film/_loi/`.
+
+Kiểm tra sau khi quay: xem khung hình (`film/_check/*.jpg`) và nghe lại thoại bằng nhận dạng giọng nói tiếng Việt.
+
+| Shot | Trạng thái | Ghi chú (18/11/2026) |
+|---|---|---|
+| 00-01 | đạt | đèn đỏ, đồng hồ, cửa sổ mưa; không lời |
+| 00-02 | đạt | thoại đúng: "Ai là người nhà bệnh nhân Dũng?" |
+| 00-03 | QUAY LẠI | chỉ nói được "Tôi." — đã đổi thoại thành "Tôi là vợ anh ấy." |
+| 00-04 | đạt | thoại đúng: "Em! Em là vợ ạ!" |
+| 00-05 | đạt | hai người quay sang nhìn nhau; không lời |
+| 00-06 | đạt | thoại đúng: "Bệnh nhân này… có mấy vợ?" |
+| 00-07 | QUAY LẠI | hình dính viền khung phim bo góc — đã thêm câu chống viền vào [LOOK] |
+| 01-01 | đạt | Hạnh chốt sổ, điện thoại rung; không lời |
+| 01-02 | đã quay, chưa tải được | Flow đăng xuất giữa chừng |
+| 01-03 | lỗi | Flow báo "có thể vi phạm chính sách" (được hoàn tín dụng) — thử lại |
+| 01-04 | lỗi | "không tạo được video" đúng lúc phiên đăng nhập hết hạn — thử lại |
+
+Sự cố 18/11 ~10:16: Flow báo "Không lưu được một số nội dung", tải lại trang thì tài khoản Google đã bị đăng xuất → phải đăng nhập lại mới quay tiếp được.

@@ -1,0 +1,22 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] A frame from a premium Vietnamese theatrical feature film, shot on ARRI Alexa 35 with vintage anamorphic lenses, 24 fps, 16:9: real film actors with natural skin texture, pores and micro-expressions, subtle restrained performances, motivated practical key light with soft negative fill, deep shadows and glowing highlights, rich teal-and-amber grade, gentle halation, fine 35mm film grain, shallow depth of field with creamy oval bokeh. Romantic comedy-drama with a thriller edge — never CGI, never a video game, never an advertisement, never a TV soap look.
+
+[PLACE] A luxurious rooftop restaurant terrace at night above a wide city lake, privately booked: one candlelit table with white linen, a glass balustrade, golden city lights and the dark lake far below, potted olive trees, warm string lights, a private brass elevator; warm candle-gold light with city bokeh. The attached image "Bối cảnh · Sân thượng" shows this exact set: match its architecture, furniture, colours and light, seen from this shot's camera angle; never show the reference image itself.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly; only face and clothes come from it, never its background.
+- @Tuan = Tuấn, the assistant: a cheerful 35-year-old Vietnamese man with boyish good looks, clean-shaven face with deep dimples, bright lively eyes, thick slightly wavy black hair, a stocky friendly build; wears a light-beige suit, a pale-pink shirt with no tie, a tablet tucked under one arm. Attached image: "Tuấn · Vest be".
+- @Linh = Linh, the wife: a breathtakingly beautiful 32-year-old Vietnamese woman, former fashion model, tall and graceful, flawless luminous fair skin, long silky straight black hair, large bright almond-shaped dark eyes, high cheekbones, rosy lips, a radiant smile; wears a floor-length emerald-green satin evening gown with thin straps, diamond drop earrings, a slim gold clutch, a small cherry-blossom hairpin. Attached image: "Linh · Dạ hội xanh".
+Nobody else is in focus.
+
+[CAMERA] 35mm medium two-shot of @Tuan (the assistant) and @Linh (the wife), both faces readable; a subtle restless handheld float.
+
+[ACTION] Tuan leans over the rail, then spins to block her view, waving his hands.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Tuan (man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out, speaking quickly in short lively phrases, every word clear, panicking), said exactly once from 0.3s to 3.0s: "Chắc là… phiên dịch ạ! Phiên dịch bây giờ trẻ lắm chị ạ!"
+Only @Tuan moves the lips; @Linh listens with the mouth closed. After the last word nobody speaks again until 4.0s.
+Voice: standard Hà Nội Northern Vietnamese with natural Northern tones (never Southern or Central accents); a real actor recorded close on set with a little room tone, real breaths and tiny natural hesitations — never a voice-over or text-to-speech. Speak only the Vietnamese words inside the double quotes, once; never read these directions, names or tags aloud.
+
+[SOUND] a soft city hum far below, a light night breeze, candle flames fluttering, faint glassware. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flat TV lighting; robotic or text-to-speech sounding voices; flat monotone delivery; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

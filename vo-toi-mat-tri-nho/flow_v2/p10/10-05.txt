@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Quan marches down the stairs.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, jealous, said exactly once from 0.3s to 2.0s: "Khám bệnh gì mà phải ngồi sát thế?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking quickly in short lively phrases, every word clear, jealous), said exactly once from 0.3s to 2.0s: "Khám bệnh gì mà phải ngồi sát thế?"
 Only @Quan moves the lips. After the last word nobody speaks again until 3.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] birdsong from the garden, a clock ticking, pages turning. No music.

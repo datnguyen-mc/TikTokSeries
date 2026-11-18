@@ -1,0 +1,21 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama-comedy set over one night in a city hospital: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated light (cool fluorescent hospital light, rain on glass, warm practical lamps, dawn sun), rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions and dry comic timing, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A long hospital corridor at night: glossy pale-green floor reflecting fluorescent tubes, closed doors, an empty gurney, a rain-streaked window at the far end.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- BaVuong = Bà Vượng, the husband's mother (a small wiry 68-year-old Vietnamese village woman); wears a brown quilted cotton jacket, a dark velvet headscarf, black trousers, cloth shoes, carrying a stainless-steel tiffin food carrier. Attached image: "Bà Vượng · Áo bông nâu".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] long-lens 100mm shot down the corridor, locked off.
+
+[ACTION] At the far end of the corridor BaVuong walks toward camera in her quilted jacket and headscarf, carrying a tiffin food carrier and calling out.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once; only the speaker moves the lips:
+- 0.4s–3.3s, BaVuong (woman of 68, raspy strong village voice, quick and sharp): Cô y tá ơi! Phòng con trai tôi ở đâu?
+After the last word nobody speaks until 5.0s. Never read these directions aloud.
+
+[SOUND] footsteps echoing, fluorescent tubes buzzing, rain far off; small quick footsteps echoing. No music.
+
+[AVOID] On-screen text, TV channel logos or broadcaster bugs in any corner, character tags or names written on screen, subtitles, captions, logos, watermarks, readable writing on paper, screens, signs, badges or clock faces; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; blood, wounds, needles, syringes, surgical instruments or anything graphic; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

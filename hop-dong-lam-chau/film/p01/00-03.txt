@@ -1,0 +1,20 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Cinematic live-action film shot on ARRI Alexa 35 with vintage spherical lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable understated performances, motivated practical lighting, soft contrast, warm amber-and-jade grade, gentle halation, subtle 35mm film grain, shallow depth of field. A premium Vietnamese theatrical family comedy-drama set in a Northern Vietnamese village in the last days before Lunar New Year, never CGI, never a video game, never an advertisement.
+
+[PLACE] The front veranda of the old village house: tall wooden doors folded open, red festive scrolls with no readable writing, a tray of kumquats; soft hazy morning sunlight.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @OngThinh = Ông Thịnh, the grandfather (a dignified 76-year-old Vietnamese grandfather from the Northern countryside); wears a navy quilted cotton jacket over a grey shirt, dark trousers, a brown felt beret, holding a polished wooden walking stick. Attached image: "Ông Thịnh · Áo bông xanh".
+Nobody else is in focus.
+
+[CAMERA] 50mm medium shot, locked off.
+
+[ACTION] OngThinh steps out onto the veranda leaning on his walking stick, looks from one young man to the other off-screen, then turns warmly toward camera-left.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @OngThinh (man of 76, low gravelly baritone, slow and clipped, long pauses between phrases, dry and stubborn), said exactly once from 1.4s to 3.4s: Minh, vào ăn sáng con.
+Only @OngThinh moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
+
+[SOUND] wind chimes, birds in the pomelo tree, a kettle whistling inside. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

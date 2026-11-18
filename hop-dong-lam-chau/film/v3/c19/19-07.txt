@@ -1,0 +1,21 @@
+A single continuous 6-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama-comedy: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light (low winter sun, practical lamps, firelight), soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A small district bus station late on New Year's Eve: almost empty, one dark parked coach, a single fluorescent tube, red lanterns swaying, scraps of red paper on the ground; cold blue night.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- BaThoa = Bà Thoa, the nosy neighbour (a 70-year-old Vietnamese woman); wears a golden brocade áo dài over black trousers, a pearl necklace, a small red handbag. Attached image: "Bà Thoa · Áo dài gấm Tết".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] 65mm close-up, locked off.
+
+[ACTION] Inside the box a new small wooden chair, wood shavings still on it; BaThoa speaks warmly.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once; only the speaker moves the lips:
+- 0.4s–3.7s, BaThoa (woman of 70, high sharp voice, loud and chatty like a TV host): Ông đóng bốn đêm. Ông bảo đóng cho thằng cháu chưa từng có ghế.
+After the last word nobody speaks until 6.0s. Never read these directions aloud.
+
+[SOUND] the fluorescent tube buzzing, distant firecrackers, cold wind. No music.
+
+[AVOID] On-screen text, TV channel logos or broadcaster bugs in any corner, character tags or names written on screen, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; a second phone; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

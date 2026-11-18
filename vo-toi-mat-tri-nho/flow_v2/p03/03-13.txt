@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Quan turns to look at the closed door of Linh's room.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, hollow, said exactly once from 0.3s to 3.1s: "Hạnh phúc… với một người không nhớ mình là ai."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking slowly and softly with small natural pauses, hollow), said exactly once from 0.3s to 3.1s: "Hạnh phúc… với một người không nhớ mình là ai."
 Only @Quan moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] distant hospital footsteps, a soft announcement chime with no words, air conditioning. No music.

@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Linh slides a napkin across the table.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh in Linh's one fixed voice (the voice saved on the attached character, "Aoede": woman of 32, clear warm alto, elegant; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, quiet, said exactly once from 0.3s to 2.3s: "Anh ta còn bảo em làm gì nữa?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking at a natural conversational pace, quiet), said exactly once from 0.3s to 2.3s: "Anh ta còn bảo em làm gì nữa?"
 Only @Linh moves the lips. After the last word nobody speaks again until 3.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] soft café murmur far away, cups on saucers, a milk steamer hissing. No music.

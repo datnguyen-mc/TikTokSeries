@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Linh stops at the head of the table and smiles at her husband.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh in Linh's one fixed voice (the voice saved on the attached character, "Aoede": woman of 32, clear warm alto, elegant; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, calm, regal, said exactly once from 0.3s to 2.5s: "Anh Quân. Anh vừa qua vòng phỏng vấn."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking slowly and softly with small natural pauses, calm, regal), said exactly once from 0.3s to 2.5s: "Anh Quân. Anh vừa qua vòng phỏng vấn."
 Only @Linh moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] air conditioning hum, a projector fan, chairs creaking. No music.

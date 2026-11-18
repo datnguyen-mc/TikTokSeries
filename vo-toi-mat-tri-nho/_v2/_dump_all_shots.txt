@@ -1,0 +1,361 @@
+## P01 [v3] 99 bông hồng và một lời nói dối | loc B1 | looks {'Linh': 'L1', 'Tuan': 'T1'}
+01-01|3|INS track|||B23|Low tracking shot of a pair of red stiletto heels striding along a polished glass corridor toward a closed door; no face is ever seen; the shot snaps to black on the last step
+01-02|3|WS crane|Linh|||The camera cranes down over the candlelit rooftop to find Linh sitting alone at the only table, back straight, the city glowing behind her, an empty chair opposite
+01-03|3|INS rack|Linh|||Macro on the small cherry-blossom hairpin in Linh's hair, then rack focus to the untouched second wine glass across the table
+01-04|5|MS track|Tuan|||Tuan hurries across the terrace hugging a huge bouquet of ninety-nine red roses, beaming too hard || Tuan: Chị Linh ơi! Anh Quân họp gấp với đối tác Nhật, gửi chị bó hoa này ạ!
+01-05|3|CU push|Linh|||Linh does not look at the roses; a faint, knowing smile || Linh: Thế cơ à?
+01-06|3|CU static|Tuan|||Tuan blinks, the roses drooping in his arms, her calm throwing him completely || Tuan: Dạ… thế ạ.
+01-07|5|OTS dolly|Linh,Tuan|||Linh finally lifts her eyes to him, calm as still water || Linh: Mười năm ngày cưới, chồng chị gửi hoa thay mình à?
+01-08|4|MS handheld|Tuan|||Tuan nods far too many times, forcing a dimpled grin || Tuan: Dạ, chín mươi chín bông, em đếm hai lần rồi ạ!
+01-09|4|CU static|Linh|||Linh tilts her head, the candlelight in her eyes, one corner of her mouth lifting || Linh: Chín mươi chín. Thiếu đúng một bông là anh ấy.
+01-10|3|INS push|Linh|||Linh's manicured hand lays the bouquet face-down on the white tablecloth, petals scattering
+01-11|4|WS track|Linh,Tuan|||Linh rises and walks to the glass balustrade, the emerald gown catching the candlelight; Tuan trails behind, hugging the empty wrapper || Tuan: Chị ơi, ngoài đấy gió lắm ạ!
+01-12|4|POV tilt||||Looking straight down over the glass balustrade from the rooftop, the camera tilts down the tower to the brightly lit hotel entrance far below; clearly visible under the entrance lights, a man in a navy suit and a young woman in a short white dress walk in arm in arm through the doors; small figures seen from high above, faces unreadable
+01-13|5|CU rack|Linh|||Close on Linh at the glass, the city lights in her eyes; rack focus from her face to the tiny couple below || Linh: Đối tác Nhật gì mà mặc váy trắng, khoác tay chồng chị thế kia?
+01-14|4|2S handheld|Tuan,Linh|||Tuan leans over the rail, then spins to block her view, waving his hands || Tuan: Chắc là… phiên dịch ạ! Phiên dịch bây giờ trẻ lắm chị ạ!
+01-15|4|CU push|Linh|||Linh smiles at him the way one smiles at a child telling a fib || Linh: Phiên dịch tiếng gì mà phải khoác tay hả em?
+01-16|4|MS track|Linh|||Linh picks up her gold clutch and walks toward the brass elevator, never hurrying || Linh: Thế thì chị xuống chào đối tác Nhật một câu.
+01-17|3|INS push||||Macro: as the clutch brushes past, Linh's untouched glass of red wine tips over; a dark red stain blooms across the white tablecloth and fills the frame
+## P02 [v3] Đối tác Nhật lai Hàn | loc B2 | looks {'Linh': 'L1', 'Quan': 'Q1', 'MaiAnh': 'M1'}
+02-01|3|INS track|MaiAnh|||Match cut from the wine stain: the hem of a short white bouclé dress swishes across cream marble under the chandelier
+02-02|4|ECU push|MaiAnh|||Extreme close-up of Mai Anh's red lips, then her eyes, sweet and dangerous || MaiAnh: Tối nay anh nói với bà ấy đi. Không thì em nói.
+02-03|5|OTS dolly|Quan,MaiAnh|||Quan adjusts his cufflink and gives a practiced smile, glancing at the elevators || Quan: Anh với cô ấy ly thân hai năm rồi. Chỉ còn tờ giấy thôi.
+02-04|4|CU static|MaiAnh|||Mai Anh raises one perfect eyebrow, not buying it || MaiAnh: Ly thân mà tối nay vẫn đặt bàn kỷ niệm à?
+02-05|3|CU handheld|Quan|||Quan spreads his hands, caught out, smile slipping || Quan: Tuấn đặt đấy! Anh có biết gì đâu!
+02-06|3|INS static||||Brass elevator doors; a small light above them glows and a soft chime rings
+02-07|3|2S handheld|Quan,MaiAnh|||Quan gestures her toward a marble pillar without touching her || Quan: Em ra sau cột kia đứng một lát! Nhanh lên!
+02-08|4|MCU static|MaiAnh|||Behind the pillar, Mai Anh lifts her phone to her ear; the sweetness drains from her face || MaiAnh: Vâng, anh Hưng. Đúng như kế hoạch.
+02-09|4|WS dolly|Linh,Quan|||The elevator doors open; Linh steps out, serene in her emerald gown; Quan hurries toward her with open arms || Quan: Vợ ơi! Sao em lại xuống đây?
+02-10|5|CU static|Linh|||Linh stands perfectly still, eyes sliding toward the marble pillar || Linh: Em xuống chào đối tác Nhật. Cô ấy sau cái cột kia, phải không anh?
+02-11|3|MS handheld|Quan|||Quan laughs too loudly, stepping sideways to block her view || Quan: Cột nào? Khách sạn này toàn cột thôi em ạ!
+02-12|4|CU push|Linh|||Linh nods slowly, eyes never leaving the pillar || Linh: Ừ. Mà cột nào cũng đi giày cao gót trắng.
+02-13|3|INS static||||Macro: a white high heel slowly draws back out of sight behind the marble pillar
+02-14|4|CU push|Linh|||Linh lifts two fingers to her temple and sways on her heels || Linh: Anh… em chóng mặt quá.
+02-15|4|WS arc|Quan,Linh|||Linh sinks onto an emerald velvet sofa, the gown pooling around her; Quan rushes to kneel beside her || Quan: Linh! Linh ơi! Em làm sao thế?
+02-16|4|TOP push|Linh|||Camera directly overhead looking straight down: Linh lies flat on her back across the emerald velvet sofa, the green gown spread around her, hair fanned out; her eyes open slowly, blank and puzzled, looking straight up into the lens || Linh: Anh… là ai nhỉ?
+02-17|3|CU static|Quan|||Quan frozen above her, mouth open, the chandelier glittering behind his head
+02-18|3|INS push||||The crystal chandelier blurs and blooms into pure white light
+## P03 [v3] Tôi hai mươi hai tuổi, chưa chồng | loc B3 | looks {'Linh': 'L2', 'Quan': 'Q1', 'Khang': 'K1', 'Tuan': 'T1'}
+03-01|3|INS static||||White light settles into a bedside monitor drawing soft green wave lines, no numbers; a quiet beep
+03-02|4|2S handheld|Linh,Quan|||Linh bolts upright and pulls her hand out of Quan's, hugging the blanket || Linh: Bỏ tay ra! Tôi còn chưa có người yêu đâu đấy!
+03-03|3|CU static|Quan|||Quan, red-eyed from a sleepless night, points at himself || Quan: Người yêu gì? Anh là chồng em, mười năm rồi!
+03-04|4|CU push|Linh|||Linh tosses her hair and does a tiny model pose against the pillows || Linh: Chồng á? Tôi mới hai mươi hai tuổi, đang đi thi người mẫu cơ mà!
+03-05|3|CU static|Linh|||Linh softens for a second, then goes flat again || Linh: Bống thì tôi nhớ. Còn anh thì chịu.
+03-06|3|CU handheld|Quan|||Quan stares at her, wounded and baffled || Quan: Nhớ con mà không nhớ bố nó à?
+03-07|3|INS push|Quan|||Quan's hand slowly lowers, his wedding ring catching the white light
+03-08|5|2S track|Khang,Quan||B4|In the corridor, Khang walks beside Quan holding a blank white folder || Khang: Mất trí nhớ ngược dòng. Chị ấy quên đúng mười năm gần nhất.
+03-09|3|CU handheld|Quan||B4|Quan stops dead in the corridor || Quan: Đúng mười năm lấy tôi? Sao quên chính xác thế?
+03-10|5|CU static|Khang||B4|Khang adjusts his rimless glasses, deadpan || Khang: Có chọn lọc, anh ạ. Cái gì đau quá, não tự cất đi.
+03-11|3|WS track|Tuan||B4|Tuan runs down the corridor waving his phone, tie flying
+03-12|4|OTS handheld|Tuan,Quan||B4|Tuan skids to a stop in front of Quan, out of breath || Tuan: Anh ơi, quỹ Hoa Anh Đào vừa gọi! Chủ tịch quỹ muốn gặp vợ chồng anh!
+03-13|5|CU push|Tuan||B4|Tuan holds his phone up toward Quan, eyes wide, talking fast || Tuan: Hạn ba mươi ngày. Thấy gia đình hạnh phúc thì quỹ mới ký.
+03-14|4|CU push|Quan||B4|Quan turns to look at the closed door of Linh's room || Quan: Hạnh phúc… với một người không nhớ mình là ai.
+03-15|3|CU whip|Quan||B4|Quan's face, then the camera whips sideways in a fast blur toward the hospital room door as it clicks shut
+## P04 [v2] Bác sĩ đồng phạm | loc B3 | looks {'Linh': 'L2', 'Khang': 'K1'}
+04-01|3|INS static||||Macro: a door handle clicks shut; the room falls silent
+04-02|3|ECU static|Linh|||Extreme close-up: Linh, lying still, opens one eye || Linh: Đi chưa?
+04-03|3|MS static|Khang|||Khang leans against the door, arms folded || Khang: Đi rồi. Diễn viên xuất sắc nhất năm.
+04-04|4|MS push|Linh|||Linh sits bolt upright with a dazzling grin, fluffing her hair || Linh: Tớ ngất có đẹp không? Tớ tập ở nhà ba lần đấy!
+04-05|5|CU push|Linh|||The grin fades; Linh twists the blanket in her fingers || Linh: Tớ thấy tận mắt rồi, Khang ạ. Anh ấy với cô váy trắng.
+04-06|4|OTS static|Khang,Linh|||Khang sits on the edge of the visitor chair || Khang: Thế sao không làm ầm lên? Cậu có đủ bằng chứng mà.
+04-07|5|CU push|Linh|||Linh lifts her chin, eyes shining but steady || Linh: Làm ầm thì mất chồng. Diễn thì biết anh ấy thật lòng đến đâu.
+04-08|4|MS static|Khang|||Khang sighs and uncaps a pen over the blank folder || Khang: Được. Bệnh án ghi: mất trí nhớ có chọn lọc.
+04-09|3|INS push|Linh,Khang|||Linh hooks her little finger around Khang's in a pinky promise
+04-10|3|INS static||||Macro: a phone lying on the white sheet lights up with a small pink cherry-blossom icon; no text
+04-11|3|CU push|Linh|||Linh glances at the phone and smiles slowly || Linh: Ba mươi ngày. Bắt đầu đếm.
+04-12|3|CU static|Khang|||Khang freezes, pen in mid-air || Khang: Khoan. Sao lại đúng ba mươi ngày?
+04-13|3|CU static|Linh|||Linh says nothing; she only lifts one finger to her lips
+04-14|3|INS rack||||Rack focus onto the glowing phone screen until its light fills the dark frame
+## P05 [v2] Anh tài xế | loc B5 | looks {'Linh': 'L3', 'Quan': 'Q1', 'Bong': 'BO1', 'Hung': 'H1'}
+05-01|3|INS static|Quan|||Match from the phone light: Quan's phone glows in his hand in the dim living room; he looks up as the front door opens
+05-02|4|WS track|Bong,Linh|||Bong runs across the living room straight into Linh's open arms || Bong: Mẹ ơi! Mẹ về rồi!
+05-03|5|MS push|Linh,Bong|||Linh kneels and holds her daughter close, touching her nose || Linh: Bống của mẹ. Thích sữa dâu, sợ sâu róm, ngủ phải ôm thỏ.
+05-04|3|CU static|Bong|||Bong tilts her head toward her father || Bong: Thế còn bố? Mẹ có nhớ bố không?
+05-05|3|MS static|Quan|||Quan holds a small suitcase by the door, smiling hopefully
+05-06|4|CU static|Linh|||Linh gives him a polite stranger's nod || Linh: Anh tài xế để va li ở đấy được rồi. Cảm ơn anh.
+05-07|3|CU handheld|Quan|||Quan gestures at the glass walls and staircase || Quan: Tài xế? Anh là chồng em! Anh xây cái nhà này!
+05-08|4|LOW static|Linh|||Low angle: Linh on the floating glass staircase tosses a cushion down || Linh: Phòng ngủ tôi lấy. Anh ngủ sô pha nhé, anh hàng xóm.
+05-09|3|INS static|Quan|||A cushion lands against Quan's chest; he catches it and stares at the long sofa
+05-10|4|MS static|Linh|{'Linh': 'L8'}|B11|Night. Through a doorway, Linh asleep under a bedside lamp, murmuring in her sleep || Linh: Mai họp quỹ… nhớ mang con dấu…
+05-11|3|CU push|Quan||B11|Quan in the dark doorway, cushion under his arm, utterly puzzled || Quan: Họp quỹ… nào?
+05-12|3|INS push|||B6|Rain-beaded wrought-iron gate at night; a gloved finger presses the glowing gate bell; a chime rings
+05-13|4|MS static|Hung||B6|Hung stands under a black umbrella in the drizzle, smiling politely || Hung: Nghe nói vợ chú mất trí nhớ. Tiếc thật.
+05-14|4|CU push|Hung||B6|Hung's eyes, the gate lamp glinting in them || Hung: Quỹ Hoa Anh Đào… rất coi trọng gia đình.
+05-15|3|CU static|Quan||B6|Quan behind the wet gate bars, jaw tight, rain glittering in the lamp light
+## P06 [v2] Phó tổng mỉm cười | loc B7 | looks {'Quan': 'Q1', 'Tuan': 'T1', 'Hung': 'H2'}
+06-01|3|INS static|Quan|||A desk phone rings on the walnut desk; Quan's hand silences it
+06-02|5|MS static|Hung|||Hung drops a thick folder on the desk and stays standing, buttoning his jacket || Hung: Phương án dự phòng, nếu Hoa Anh Đào rút. Tôi lo được.
+06-03|3|CU static|Quan|||Quan does not touch the folder || Quan: Hoa Anh Đào sẽ không rút. Vợ tôi sẽ khỏi.
+06-04|4|CU push|Hung|||Hung's thin smile || Hung: Mong là vậy. Gia đình là thứ… dễ vỡ nhất.
+06-05|3|WS static|Tuan|||Hung's back leaves the frame; the glass door closes; Tuan's head pops up from behind the white sofa
+06-06|4|2S handheld|Tuan,Quan|||Tuan bounces to the desk with his tablet || Tuan: Anh ơi, ba mươi ngày tán lại vợ! Để em làm quân sư!
+06-07|3|CU static|Quan|||Quan stares at him || Quan: Cậu ế ba mươi lăm năm, làm quân sư cho ai?
+06-08|4|MS push|Tuan|||Tuan proudly taps a small voice-recorder pen clipped in his breast pocket || Tuan: Ế nhưng có nghề! Họp nào em cũng bật ghi âm, chẳng sót câu nào!
+06-09|4|CU push|Quan|||Quan rubs his temples, the skyline behind him || Quan: Cô ấy nhìn tôi như người lạ. Tôi thấy… sợ.
+06-10|3|WS static|Hung||B8|Night: a glass elevator slides down the outside of the tower, Hung alone inside, city lights streaming past
+06-11|4|CU dolly|Hung||B8|City reflections slide across Hung's face; phone at his ear || Hung: Mai Anh. Ngày mai em vào nhà hắn.
+06-12|3|ECU push|Hung||B8|Extreme close-up of Hung's eyes || Hung: Lần này, anh cần ảnh.
+06-13|3|INS static|||B8|The glass elevator doors slide shut across the night city
+## P07 [v2] Tiểu tam vào nhà | loc B9 | looks {'Linh': 'L4', 'Quan': 'Q2', 'MaiAnh': 'M2', 'Tuan': 'T1'}
+07-01|3|INS static||||Match cut: a tall wooden front door swings open onto bright morning sun
+07-02|3|MS static|Quan|||Quan in a rumpled T-shirt, hair flattened by the sofa, freezes in the doorway || Quan: Em… sao em lại ở đây?
+07-03|5|MS static|MaiAnh|||Mai Anh in a lilac yoga set holds a rolled mat, bright professional smile || MaiAnh: Chào anh. Em là huấn luyện viên phục hồi, anh Hưng giới thiệu ạ.
+07-04|3|CU static|Quan|||Quan swallows hard
+07-05|4|WS track|Linh|||Linh bounces down the staircase in a pastel hoodie and tennis skirt, ponytail swinging || Linh: Ôi, cô giáo xinh quá! Vào đi em!
+07-06|4|2S arc|Linh,MaiAnh|||Linh circles Mai Anh admiringly, the camera arcing with her || Linh: Dáng em đẹp thật. Giống hệt một người tôi gặp… trong mơ.
+07-07|3|CU static|MaiAnh|||Mai Anh's smile cracks at one corner
+07-08|3|OTS static|MaiAnh,Linh|||Mai Anh laughs nervously || MaiAnh: Chị… mơ thấy gì ạ?
+07-09|3|INS push|Linh|||The hem of a short white bouclé dress peeks out of Mai Anh's open gym bag; Linh's fingertips lift it slightly
+07-10|5|CU push|Linh|||Linh looks up from the dress, smiling sweetly || Linh: Váy đẹp đấy. Hôm trước tôi thấy một cái y hệt… ở sảnh khách sạn.
+07-11|3|CU static|MaiAnh|||Mai Anh's face drains of colour
+07-12|3|CU static|Quan|||Behind them, Quan covers his mouth, eyes huge
+07-13|4|MS handheld|Tuan||B7|Office mirror: Tuan practises pickup lines, pointing finger-guns at his reflection || Tuan: Chào em, anh là… Không, nghe như đi bán bảo hiểm!
+## P08 [v2] Đơn ly hôn thành thuyền giấy | loc B10 | looks {'Linh': 'L4', 'MaiAnh': 'M2'}
+08-01|3|WS dolly|Linh,MaiAnh|||Sunlight through leaves in the glass sunroom; Linh and Mai Anh sit on yoga mats
+08-02|4|MS static|MaiAnh|||Mai Anh slides a white sheet into a stack of papers and offers a pen || MaiAnh: Chị ký giúp em vào phiếu tập phục hồi này nhé.
+08-03|3|INS push|Linh|||Linh's pen hovers over a white sheet with blurred, unreadable lines
+08-04|4|CU push|Linh|||Linh reads, one eyebrow lifting || Linh: Phiếu tập gì mà có chỗ ghi… ly hôn?
+08-05|3|CU handheld|MaiAnh|||Mai Anh laughs too fast || MaiAnh: Dạ… thủ tục thôi chị! Ai tập cũng ký!
+08-06|5|INS static|Linh|||Linh's hands fold the sheet into a neat paper boat, crease by crease
+08-07|5|MS push|Linh|||Linh holds the paper boat up to the sunlight || Linh: Muốn ly hôn thì phải cưới tôi trước đã. Tôi còn chưa chồng mà.
+08-08|3|CU static|MaiAnh|||Mai Anh forces a laugh that does not reach her eyes
+08-09|3|INS static|||B11|Night: a bedside lamp clicks on; the paper boat sits on the nightstand
+08-10|4|INS push|Linh|{'Linh': 'L8'}|B11|Linh's fingers unfold the boat; in one corner of the sheet sits a small red circular company seal, no readable text
+08-11|3|CU push|Linh|{'Linh': 'L8'}|B11|Linh in lavender pajamas studies the red seal under the lamp; her eyes go cold
+08-12|5|CU static|Linh|{'Linh': 'L8'}|B11|Linh, very quiet || Linh: Có người muốn tôi ký. Và người đó không phải chồng tôi.
+08-13|3|INS push|||B11|The white sheet on the nightstand dissolves into a dark lake glittering with lights
+## P09 [v2] Buổi hẹn đầu tiên, lần thứ hai | loc B12 | looks {'Linh': 'L5', 'Quan': 'Q3'}
+09-01|3|WS crane|Quan,Linh|||Smoke and yellow bulbs over the lakeside stall; Quan pulls out a tiny plastic stool for Linh
+09-02|5|MS static|Quan|||Quan slides a glass of black coffee across the steel table, proud || Quan: Quán đầu tiên anh đưa em đi. Cà phê đen không đường, đúng không?
+09-03|3|CU static|Linh|||Linh looks at the glass, not at him || Linh: Tôi ghét cà phê đen.
+09-04|3|CU handheld|Quan|||Quan holds up two fingers || Quan: Ghét? Mười năm nay sáng nào em cũng pha hai cốc!
+09-05|5|CU dolly|Linh|||Linh watches the bulbs reflected in the dark lake || Linh: Vì có người thích cà phê đen. Nên cô ấy uống cùng cho có đôi.
+09-06|4|CU push|Quan|||The slowest push-in on Quan's stunned face || Quan: Mười năm… anh chưa từng hỏi em thích gì.
+09-07|3|INS static|Linh|||Linh nudges the black coffee away and picks up a milk tea
+09-08|4|MS static|Linh|||A hand of an unseen vendor sets down a bowl; Linh gives a small, graceful bow, hands together, the way people do in Japan
+09-09|3|CU static|Quan|||Quan notices the bow and tilts his head, puzzled
+09-10|4|MS handheld|Quan|||Quan leans in, rubbing his palms together || Quan: Thế buổi hẹn hôm nay được mấy điểm? Có hẹn lần hai không?
+09-11|4|CU push|Linh|||Linh hides a smile behind her cup || Linh: Năm điểm. Trừ năm điểm vì đến muộn mười năm.
+09-12|4|POV static||||Across the dark lake, a black car's headlights flare; a silhouette lifts a camera; a tiny flash blinks
+09-13|3|CU static|Quan|||Quan sees it; his smile dies
+09-14|3|CU static|Linh|||Linh sees it too and calmly sips her tea as if she has not
+09-15|3|INS push||||A white camera flash fills the whole frame
+## P10 [v2] Tình địch áo blouse trắng | loc B13 | looks {'Linh': 'L3', 'Quan': 'Q1', 'Khang': 'K1'}
+10-01|3|ECU static|Linh|||Match from the flash: a doctor's penlight clicks on and sweeps across Linh's eye
+10-02|4|2S static|Khang,Linh|||On the cream sofa, Khang sits close and holds up a family photo with no writing || Khang: Nhìn ảnh này. Em có nhớ ra ai không?
+10-03|4|CU push|Linh|||Linh flutters her lashes theatrically, loud enough for the staircase to hear || Linh: Không nhớ ai cả. Nhưng bác sĩ đẹp trai thế này thì em nhớ ngay!
+10-04|3|LOW static|Quan|||Low angle: Quan freezes mid-step on the glass staircase
+10-05|3|MS handheld|Quan|||Quan marches down the stairs || Quan: Khám bệnh gì mà phải ngồi sát thế?
+10-06|5|CU static|Khang|||Khang does not move an inch || Khang: Trong bệnh án, cô ấy hai mươi hai, chưa chồng. Tôi cũng chưa vợ.
+10-07|3|CU static|Quan|||Quan's jaw works silently
+10-08|5|2S dolly|Khang,Quan|||At the front door, Khang lowers his voice as Quan sees him out || Khang: Tuần trước có người tên Hưng đến hỏi bệnh án vợ anh.
+10-09|4|CU push|Quan|||Quan stops cold || Quan: Hưng? Anh ta hỏi bệnh án vợ tôi làm gì?
+10-10|5|CU static|Khang|||Khang adjusts his glasses || Khang: Để chứng minh một người không còn tỉnh táo… và gạt cô ấy ra.
+10-11|3|CU static|Quan|||Quan turns to look back at Linh across the room
+10-12|3|MS push|Linh|||On the sofa, Linh pretends to read; her hand tightens on the book
+10-13|3|MS whip|Linh|||Linh's face, then the camera whips away in a fast blur
+## P11 [v2] Lớp yoga của tiểu tam | loc B14 | looks {'Linh': 'L6', 'MaiAnh': 'M2'}
+11-01|3|WS dolly|Linh,MaiAnh|||The bright studio reflected in tall mirrors; Linh unrolls a mat right beside Mai Anh's
+11-02|5|MS static|Linh|||Linh holds a seated twist, peeking at Mai Anh over her shoulder || Linh: Chị ơi, có một anh cứ nhận là chồng em. Có nên tin không?
+11-03|3|CU handheld|MaiAnh|||Mai Anh drops out of her pose || MaiAnh: Ghê thật! Anh ta có tiền không? Đẹp trai không?
+11-04|5|CU push|Linh|||Linh, wide-eyed and innocent || Linh: Có tiền, đẹp trai. Mỗi tội hay đi họp với đối tác Nhật.
+11-05|3|INS static|MaiAnh|||In the mirror, Mai Anh's smile stiffens
+11-06|5|2S static|MaiAnh,Linh|||Both women reflected in the mirror; Mai Anh speaks carefully || MaiAnh: Người yêu chị cũng hay họp buổi tối. Bảo ly thân hai năm rồi.
+11-07|5|CU push|Linh|||Linh rises into a graceful standing stretch || Linh: Ly thân mà tối nào cũng về ăn cơm, sáng đưa con đi học?
+11-08|3|CU static|MaiAnh|||Mai Anh freezes
+11-09|3|INS static||||Slow motion: a phone slips from a mat pocket and lands face up; the wallpaper is a family photo of a man, a woman and a little girl; no text
+11-10|3|CU static|MaiAnh|||Mai Anh stares down at the phone
+11-11|4|CU push|Linh|||Linh picks up the phone and looks straight at her, no longer playing || Linh: Chị nhớ hết. Kể cả cái cột ở sảnh.
+11-12|3|CU static|MaiAnh|||Mai Anh's breath catches
+## P12 [v2] Hai người đàn bà, một bàn trà | loc B15 | looks {'Linh': 'L7', 'MaiAnh': 'M3'}
+12-01|3|INS static||||Sound-matched: a teacup set down on a marble table, steam curling in golden afternoon light
+12-02|3|CU handheld|MaiAnh|||Mai Anh grips her cup with both hands || MaiAnh: Chị định hắt nước vào mặt em à?
+12-03|3|CU static|Linh|||Linh, trench coat, sunglasses on her head, takes a slow sip || Linh: Phí trà lắm em.
+12-04|5|OTS push|Linh,MaiAnh|||Linh sets the cup down without a sound || Linh: Chị chỉ hỏi một câu. Ai trả tiền cho em đến gần chồng chị?
+12-05|3|CU static|MaiAnh|||Mai Anh's eyes fill; she looks out at the lake
+12-06|4|CU push|MaiAnh|||Mai Anh, barely audible || MaiAnh: Mẹ em nằm viện. Nợ viện phí ba trăm triệu.
+12-07|5|CU push|MaiAnh|||A tear runs; she does not wipe it || MaiAnh: Anh Hưng trả hết. Đổi lại… em phải làm anh Quân mất tất cả.
+12-08|3|CU static|Linh|||Linh absorbs it, perfectly still
+12-09|3|MS static|Linh|||Linh slides a napkin across the table || Linh: Anh ta còn bảo em làm gì nữa?
+12-10|4|CU push|MaiAnh|||Mai Anh leans in and whispers || MaiAnh: Tối thứ bảy. Anh ta cài người ngoài cửa sổ nhà chị.
+12-11|4|CU static|MaiAnh|||Mai Anh holds her gaze || MaiAnh: Anh ta cần ảnh em với anh Quân. Trong nhà chị.
+12-12|4|MCU rack|Linh|||Rack focus from Linh's face to the café window behind her: across the street, a black car is parked with its engine running
+12-13|3|CU push|Linh|||Linh's lips curve into a faint, dangerous smile
+## P13 [v2] Liên minh váy trắng | loc B16 | looks {'Linh': 'L7', 'MaiAnh': 'M3', 'Tuan': 'T1'}
+13-01|3|INS static||||Rain streaks down a car window; street lights slide past as blurred gold
+13-02|3|WS static|Linh,MaiAnh|||A luxury car parked under a street lamp in the rain; two women's silhouettes in the back seat
+13-03|3|2S static|Linh,MaiAnh|||Inside the car, light sliding across both faces || Linh: Thì mình cho anh ta ảnh.
+13-04|4|CU handheld|MaiAnh|||Mai Anh turns sharply || MaiAnh: Chị điên à? Anh ta sẽ hạ anh Quân bằng mấy tấm ảnh đó!
+13-05|5|CU dolly|Linh|||Street light passes across Linh's face like a slow scanner || Linh: Thứ bảy em cứ đến. Chị muốn biết anh ấy chọn gì khi tưởng không ai thấy.
+13-06|3|CU static|MaiAnh|||Mai Anh, softly || MaiAnh: Lỡ anh ấy… không từ chối thì sao?
+13-07|4|CU push|Linh|||Linh's eyes glisten but her voice stays steady || Linh: Thì chị biết sớm. Đỡ phí thêm mười năm nữa.
+13-08|3|INS static|Linh,MaiAnh|||Linh holds out her hand; Mai Anh hesitates, then shakes it
+13-09|4|2S static|MaiAnh,Linh|||Mai Anh's crooked, wet smile || MaiAnh: Từ mai em vẫn là tiểu tam. Nhưng làm cho chị.
+13-10|3|INS static|Linh|||The cherry-blossom hairpin glints as Linh turns to the rainy window
+13-11|4|MS handheld|Tuan||B7|Night office: Tuan at a desk buried in crumpled letter paper, pen in his mouth || Tuan: Em yêu ơi… không, em yêu à… trời ơi, khó hơn báo cáo thuế!
+## P14 [v2] Hai phong bì, một cú nhầm | loc B7 | looks {'Quan': 'Q1', 'Tuan': 'T1', 'Linh': 'L3'}
+14-01|4|2S static|Quan,Tuan|||Quan drops a sheet of blank letter paper on Tuan's desk || Quan: Tuấn, viết hộ tôi bức thư tình. Gửi Mai Anh.
+14-02|4|CU static|Tuan|||Tuan points at his own face || Tuan: Em ế ba mươi lăm năm, anh nhờ em viết thư tình?
+14-03|4|MS push|Quan|||Quan sits and uncaps a fountain pen over a second sheet || Quan: Còn thư cho vợ… để tôi tự viết.
+14-04|3|INS static|Quan|||Quan's hand writes slowly, carefully; the words are blurred and unreadable
+14-05|3|INS static||||Two sealed envelopes side by side on the desk, one blue and one pink
+14-06|4|MS handheld|Tuan|||Tuan juggles the two envelopes from hand to hand, squinting || Tuan: Xanh cho chị Linh, hồng cho Mai Anh… hay ngược lại nhỉ?
+14-07|3|CU static|Quan|||Quan looks up from his work, slowly, with dawning dread
+14-08|3|INS push|Linh||B5|Evening: a pink envelope on a walnut coffee table; Linh's hand picks it up
+14-09|3|MS static|Linh||B5|Linh on the cream sofa unfolds a letter with a flourish || Linh: Có thư cho tôi này! Bé yêu của anh…
+14-10|3|CU static|Quan|{'Quan': 'Q1'}|B5|Quan in the doorway, his briefcase slipping from his fingers
+14-11|4|CU push|Linh||B5|Linh reads aloud, theatrical, hand on heart || Linh: Vợ anh mất trí rồi, chúng mình sắp tự do… Văn hay quá!
+14-12|3|CU handheld|Quan||B5|Quan, red to the ears || Quan: Cái đó… không phải anh viết!
+14-13|4|CU push|Linh||B5|Linh lowers the letter; the playfulness is gone || Linh: Nhưng là anh từng nói, phải không?
+14-14|3|CU static|Quan||B5|Quan cannot answer
+## P15 [v2] Lá thư thật | loc B17 | looks {'Linh': 'L7', 'MaiAnh': 'M2'}
+15-01|3|WS static|MaiAnh,Linh|||Evening studio under warm low lamps; Mai Anh holds out a blue envelope
+15-02|3|MS static|MaiAnh|||Mai Anh, subdued || MaiAnh: Thư này… không phải viết cho em.
+15-03|3|INS static|Linh|||Linh's fingers open the blue envelope; handwritten pages, unreadable
+15-04|5|CU dolly|Linh|||Linh reads; her lips move as she reads a line aloud || Linh: Mười năm trước, em bán nhà mẹ để anh mở công ty.
+15-05|4|CU push|Linh|||Her voice thins; a tear starts || Linh: Anh nợ em… cả đời.
+15-06|3|CU static|MaiAnh|||Mai Anh watches, moved
+15-07|4|MS static|MaiAnh|||Mai Anh laughs at herself through tears || MaiAnh: Thư của em toàn văn mẫu. Thư của chị, em đọc mà khóc.
+15-08|3|INS static||||A teardrop lands on the handwritten page and the ink blooms softly
+15-09|3|2S static|MaiAnh,Linh|||Mai Anh, gently || MaiAnh: Chị còn yêu anh ấy, đúng không?
+15-10|4|CU static|Linh|||Linh does not answer; she looks out at the city lights
+15-11|4|CU push|Linh|||Linh folds the letter in half || Linh: Nhớ thôi chưa đủ. Thứ bảy này mới biết.
+15-12|3|INS static|Linh|||The folded letter in Linh's hands fills the frame
+## P16 [v2] Bống biết hết | loc B18 | looks {'Linh': 'L8', 'Bong': 'BO2'}
+16-01|3|INS static|Bong|||Match cut: a star-print blanket pulled up to a small chin under a moon-shaped night lamp
+16-02|4|CU push|Bong|||Bong narrows her eyes like a tiny detective || Bong: Mẹ ơi, mẹ giả vờ quên bố, đúng không?
+16-03|3|CU static|Linh|||Linh freezes mid-tuck
+16-04|4|CU static|Bong|||Bong grins with her gap teeth || Bong: Con không mách bố đâu… nếu mẹ cho con ăn kem!
+16-05|3|2S static|Linh,Bong|||Linh bursts out laughing and hides her face in the pillow
+16-06|4|MS push|Linh|||Linh lies down beside her daughter, stroking her hair || Linh: Mẹ chỉ muốn biết bố còn thương nhà mình thật không.
+16-07|5|CU static|Bong|||Bong stares up at the moon lamp || Bong: Dạo này bố lạ lắm. Bố tự nấu cơm, nhớ con thích sữa dâu.
+16-08|3|CU push|Linh|||Linh's face softens
+16-09|5|CU push|Bong|||Bong whispers, as if it were a great secret || Bong: Đêm nào bố cũng đứng trước gương, tập nói anh xin lỗi.
+16-10|4|CU static|Linh|||Linh's eyes fill; she holds her daughter close
+16-11|3|INS static||||Rain begins to streak down the bedroom window, blurring the night lights
+## P17 [v2] Đêm thứ bảy | loc B9 | looks {'Quan': 'Q2', 'MaiAnh': 'M4', 'Linh': 'L8'}
+17-01|3|INS static|||B19|Rain hammering a dark kitchen window; a pot of rice porridge steaming under copper lamps
+17-02|3|INS static||||A doorbell glowing in the dark entrance hall; a chime
+17-03|4|MS static|MaiAnh|||The door opens on Mai Anh, soaked to the skin, hair clinging to her face || MaiAnh: Em không đi đâu nữa.
+17-04|3|POV static||||Through the rain beyond the window, a tiny red recording light blinks in the dark garden
+17-05|3|CU handheld|Quan|||Quan in a rumpled T-shirt, whispering fiercely || Quan: Em vào đây làm gì? Vợ anh đang ở trên lầu!
+17-06|4|CU push|MaiAnh|||Mai Anh steps closer, rain dripping from her chin || MaiAnh: Anh bảo ly thân rồi cơ mà. Hay anh nói dối em?
+17-07|3|MS static|Quan|||Quan steps back, both palms raised, keeping distance without touching her
+17-08|4|CU push|Quan|||Quan swallows and meets her eyes || Quan: Anh xin lỗi em. Anh đã nói dối em.
+17-09|4|CU static|Quan|||Quan, firm || Quan: Anh chọn vợ anh.
+17-10|4|LOW static|Linh|||Low angle: on the dark staircase, Linh in lavender pajamas stands with a hand over her mouth, listening
+17-11|3|CU static|MaiAnh|||Mai Anh gives a small sad smile and glances toward the stairs; she knows Linh is there
+17-12|3|POV static||||A white camera flash pops outside the rain-streaked window
+17-13|3|CU static|Quan|||Quan spins toward the window: only rain
+17-14|3|INS push||||The white of the flash dissolves into the bright white glow of a projector screen
+## P18 [v2] Sáng thứ hai | loc B20 | looks {'Quan': 'Q4', 'Hung': 'H2'}
+18-01|3|INS static|Hung|||Under a single brass desk lamp, Hung's hand slides glossy blurred photos across a black stone desk
+18-02|4|CU push|Hung|||Hung leans back in his chair, fingers steepled || Hung: Chú giải thích với hội đồng… hay để tôi?
+18-03|3|INS static|Quan|||Quan picks up a photo: a blurred silhouette of a man and a woman in a rainy doorway
+18-04|3|CU static|Quan|||Quan's eyes lift from the photo || Quan: Anh cài bẫy tôi.
+18-05|4|CU push|Hung|||Hung smiles without warmth || Hung: Bẫy chỉ bắt được con chuột… đã thò đầu ra.
+18-06|4|CU static|Quan|||Quan lays the photo down very precisely || Quan: Tôi không làm gì sai trong tấm ảnh đó.
+18-07|4|CU static|Hung|||Hung, almost gentle || Hung: Ảnh không cần đúng. Chỉ cần đủ.
+18-08|4|2S dolly|Hung,Quan|||Hung stands and buttons his jacket || Hung: Mười giờ họp cổ đông. Quỹ Hoa Anh Đào sẽ có mặt.
+18-09|4|CU push|Hung|||Hung leans in over the lamp || Hung: Chú nên chuẩn bị đơn từ chức đi là vừa.
+18-10|3|CU static|Quan|||Half of Quan's face in lamp light, jaw clenched
+18-11|3|INS whip||||The camera whips toward the heavy curtains; light streaks blur across the frame
+## P19 [v2] Bống lỡ miệng | loc B21 | looks {'Quan': 'Q4', 'Bong': 'BO1', 'Linh': 'L9'}
+19-01|3|WS static|Quan,Bong|||Bright morning kitchen; Quan slumped at the marble island over untouched coffee; Bong beside him with strawberry milk
+19-02|4|CU static|Bong|||Bong peers up at her father || Bong: Bố ơi, sao bố buồn thế? Bố mất việc à?
+19-03|4|CU push|Quan|||Quan forces a smile || Quan: Bố mất nhiều thứ lắm con ạ. Cả mẹ nữa.
+19-04|4|CU handheld|Bong|||Bong pats his arm || Bong: Bố đừng buồn! Mẹ chỉ giả vờ thôi mà… Á!
+19-05|3|CU static|Bong|||Bong claps both hands over her mouth, eyes huge
+19-06|3|CU push|Quan|||Quan slowly straightens || Quan: Giả vờ?
+19-07|4|2S static|Bong,Quan|||Bong shakes her head so hard her pigtails fly || Bong: Con hứa với mẹ rồi! Con không nói gì đâu!
+19-08|4|CU push|Quan|||A laugh escapes Quan, tears in his eyes || Quan: Cô ấy nhớ hết… mà vẫn để bố tán lại.
+19-09|4|MS static|Quan|||Quan stands and tightens his tie || Quan: Bố đi họp. Lần này bố không nói dối ai nữa.
+19-10|3|INS static|Quan|||Close on Quan's hands knotting his dark-blue tie
+19-11|3|INS static|Linh|||Match: a woman's hands button a tailored white suit jacket before a mirror; a cherry-blossom hairpin lies on the dresser; her face is never shown
+## P20 [v2] Cuộc họp mười giờ | loc B22 | looks {'Quan': 'Q4', 'Hung': 'H2', 'Tuan': 'T2', 'Linh': 'L9'}
+20-01|3|WS crane||||A cold blue glass boardroom: long dark table, empty leather chairs, a projector screen glowing white
+20-02|5|MS static|Hung|||Hung stands beside the glowing screen like a host || Hung: Giám đốc ngoại tình. Vợ mất trí. Quỹ Hoa Anh Đào sẽ rút vốn.
+20-03|3|INS static||||The projector screen shows a blurred photo of two silhouettes in a rainy doorway; no text
+20-04|4|CU handheld|Tuan|||Tuan sweats at the end of the table, hugging his notebook and voice recorder
+20-05|3|MS static|Quan|||Quan rises slowly from his chair || Quan: Tôi từ chức.
+20-06|5|CU push|Quan|||Quan, steady and clear || Quan: Nhưng tôi từ chối luôn tiền của quỹ. Tôi không đem vợ ra đổi tiền.
+20-07|3|CU static|Hung|||Hung's smile widens
+20-08|3|INS track|Linh||B23|Low tracking shot: red stiletto heels stride along the polished glass corridor toward the boardroom door, exactly as before
+20-09|3|CU static|Tuan|||Tuan turns toward the door, eyes wide || Tuan: Chủ tịch… đến rồi.
+20-10|4|WS dolly|Linh|||The glass doors open; Linh walks in, white power suit, cherry-blossom hairpin; warm light floods in behind her and the cold room warms
+20-11|3|CU static|Quan|||Quan stares, every colour leaving his face
+20-12|4|CU push|Linh|||Linh stops at the head of the table and smiles at her husband || Linh: Anh Quân. Anh vừa qua vòng phỏng vấn.
+20-13|4|INS rack|Linh|||Macro on the cherry-blossom hairpin, then rack focus across the room
+## P21 [v2] Chủ tịch là vợ | loc B22 | looks {'Linh': 'L9', 'Hung': 'H2', 'MaiAnh': 'M5', 'Tuan': 'T2', 'Quan': 'Q4'}
+21-01|3|CU handheld|Hung|||Hung's composure cracks for the first time || Hung: Bà ấy mất trí nhớ! Bệnh án ghi rõ!
+21-02|4|CU static|Linh|||Linh, unhurried || Linh: Có chọn lọc. Cái gì cần nhớ, tôi nhớ rất kỹ.
+21-03|4|MS dolly|Linh|||Linh spreads the printed photos across the table like playing cards || Linh: Anh Hưng xem kỹ đi. Tấm nào chồng tôi cũng lùi lại.
+21-04|3|INS push||||The photos fan out: in every one, the blurred man is stepping back with his palms raised
+21-05|4|WS track|MaiAnh|||The doors open again; Mai Anh walks in, plain white shirt, holding up her phone
+21-06|5|CU push|MaiAnh|||Mai Anh looks Hung in the eye || MaiAnh: Đây là ghi âm anh trả tiền cho em để gài bẫy anh Quân.
+21-07|4|CU handheld|Tuan|||Tuan timidly raises his little voice recorder || Tuan: Dạ… em cũng có biên bản họp ạ. Đủ cả!
+21-08|3|CU static|Hung|||Hung's smile is finally gone
+21-09|5|WS static|Hung|||Hung stands, buttons his jacket and walks out between two out-of-focus security guards; nobody touches anybody
+21-10|3|CU static|Linh|||Linh watches him go without blinking
+21-11|3|2S static|Quan,Linh|||Quan turns to his wife, barely breathing || Quan: Em… là chủ tịch quỹ?
+21-12|5|CU push|Linh|||Linh's eyes soften || Linh: Mười năm trước em bán nhà mẹ, một nửa cho anh, một nửa cho quỹ.
+21-13|4|CU static|Linh|||A small smile, the old playfulness returning || Linh: Tiền thì quỹ duyệt rồi. Còn chồng thì… em chưa duyệt.
+21-14|3|WS static||||The boardroom lights dim slowly to darkness
+## P22 [v2] Màn cầu hôn lần hai | loc B24 | looks {'Linh': 'L10', 'Quan': 'Q5', 'Bong': 'BO4'}
+22-01|3|WS crane||||Fairy lights blink on one by one over a night garden: a white rose arch, lanterns, a glowing pool
+22-02|3|INS static|Bong,Quan|||Bong presses a small red velvet ring box into her father's hand, giggling
+22-03|5|MS push|Quan|||Quan kneels on one knee beneath the white rose arch, holding up the open box || Quan: Cô gái hai mươi hai tuổi ơi, em có đồng ý lấy anh không?
+22-04|4|CU static|Linh|||Linh, in white chiffon, plays it cool || Linh: Nhanh thế? Tôi còn chưa biết gì về anh.
+22-05|4|CU handheld|Quan|||Quan grins up at her || Quan: Anh có một vợ, một con, và một tháng ngủ sô pha!
+22-06|3|CU push|Linh|||Linh's mask slips || Linh: Anh biết từ bao giờ?
+22-07|3|CU static|Quan|||Quan nods toward the rose bushes || Quan: Từ hôm con gái mình lỡ mồm.
+22-08|3|MS static|Bong|||Behind a rose bush, Bong claps both hands over her mouth, giggling
+22-09|3|CU static|Linh|||Linh, half laughing || Linh: Em lừa anh một tháng.
+22-10|4|CU push|Quan|||Quan, softly || Quan: Anh lừa em cả năm trời. Mình coi như hoà nhé?
+22-11|4|CU push|Linh|||Tears in Linh's eyes || Linh: Em không quên được đâu. Nhưng em có thể chọn lọc…
+22-12|3|CU static|Linh|||She lifts an eyebrow || Linh: …nếu anh ký cái này.
+22-13|3|INS rack||||Rack focus from the ring in its box to a white sheet of paper on the cake table
+## P23 [v2] Hợp đồng thử việc làm chồng | loc B24 | looks {'Linh': 'L10', 'Quan': 'Q5', 'MaiAnh': 'M6', 'Khang': 'K2', 'Tuan': 'T3'}
+23-01|3|INS static||||A white sheet and a fountain pen beside a cream birthday cake with flickering candles
+23-02|3|CU static|Linh|||Linh, businesslike, eyes sparkling || Linh: Hợp đồng thử việc làm chồng. Sáu tháng.
+23-03|3|CU static|Linh|||Linh taps the paper || Linh: Điều một: sáng nào cũng đưa con đi học.
+23-04|3|CU handheld|Quan|||Quan reaches for the pen || Quan: Đồng ý! Điều hai?
+23-05|5|CU push|Linh|||Linh counts on her fingers || Linh: Điện thoại không cài mật khẩu. Điều ba: họp đối tác Nhật phải mang vợ theo.
+23-06|3|CU static|Quan|||Quan throws up his hands || Quan: Đối tác Nhật là em mà!
+23-07|5|2S push|Linh,Quan|||Linh leans close to his ear || Linh: Điều cuối: vi phạm thì anh mất trí nhớ. Lần này là thật.
+23-08|3|INS static|Quan,Linh|||Quan signs with a flourish, his other hand holding hers tight
+23-09|3|WS static|Khang,MaiAnh|||By the glowing pool, Khang and Mai Anh stand side by side
+23-10|5|2S static|Khang,MaiAnh|||Khang turns to her || Khang: Cô dũng cảm hơn cô nghĩ. Trả lại tiền, nói thật trước hội đồng.
+23-11|3|CU static|MaiAnh|||Mai Anh, shy || MaiAnh: Thế… anh có mời em ăn tối không?
+23-12|3|CU static|Khang|||Khang's rare smile || Khang: Bún chả. Cả năm.
+23-13|3|MS static|Tuan|||Tuan in a loud floral shirt sits alone with the cake, sighing deeply
+23-14|3|INS static||||Fast montage: desk calendar pages flip, a lopsided pigtail, a slightly burnt fried egg
+## P24 [v2] Sáu tháng sau | loc B21 | looks {'Quan': 'Q6', 'Bong': 'BO3', 'Linh': 'L11'}
+24-01|3|INS static||||A fried egg sizzles a little too long in a pan; a wisp of smoke
+24-02|4|MS static|Quan,Bong|||Quan in a frilly pink apron braids Bong's hair at the marble island || Bong: Bố ơi, tóc con lệch rồi! Như tổ chim ấy!
+24-03|4|CU push|Quan|||Quan, tongue between his teeth in concentration || Quan: Lệch tí cho cá tính! Sáu tháng rồi bố vẫn đang học.
+24-04|4|CU static|Bong|||Bong beams with pride || Bong: Cô giáo khen bố là phụ huynh đến sớm nhất lớp đấy!
+24-05|3|CU static|Quan|||Quan puffs out his chest, apron frills and all
+24-06|3|WS crane|Linh||B25|A sunlit fashion atelier, mannequins in finished gowns; Linh with a measuring tape around her neck
+24-07|4|MS dolly|Linh||B25|Linh spins toward the door, radiant || Linh: Anh ơi! Bộ sưu tập đầu tiên của em bán hết sạch rồi!
+24-08|3|CU static|Quan||B25|Quan in the doorway, still in the pink apron || Quan: Vợ anh mà! Ngày xưa hoa khôi, bây giờ bà chủ!
+24-09|5|CU push|Linh||B25|Linh walks up to him, teasing || Linh: Hôm nay anh hết hạn thử việc. Tối nay em công bố kết quả.
+24-10|4|CU static|Linh||B25|Linh straightens his apron strap || Linh: Ở đúng cái nhà hàng anh cho em leo cây.
+24-11|3|CU static|Quan||B25|Quan gulps and nods hard
+24-12|3|INS push|||B25|A single candle flame on the atelier table fills the frame
+## P25 [v2] Kỷ niệm mười một năm | loc B1 | looks {'Linh': 'L12', 'Quan': 'Q7', 'Tuan': 'T3', 'Bong': 'BO4'}
+25-01|3|INS pull||||Match from the candle: the flame, then a slow pull back reveals the candlelit rooftop table
+25-02|4|WS static|Quan|||Mirror of the opening: Quan in a black tuxedo already waiting alone at the table, a bouquet of white daisies in his hands, checking his watch
+25-03|4|WS dolly|Linh|||The brass elevator opens; Linh steps out in a deep-red silk gown
+25-04|3|CU static|Linh|||Linh, amused || Linh: Anh đến từ bao giờ thế?
+25-05|3|CU handheld|Quan|||Quan stands too quickly || Quan: Từ năm giờ chiều! Không đối tác Nhật nào hết!
+25-06|5|MS push|Quan|||Quan offers the white daisies || Quan: Chín mươi chín bông là cho em. Bông thứ một trăm là anh.
+25-07|3|CU static|Linh|||Linh's eyes shine
+25-08|4|CU push|Linh|||Linh takes the flowers || Linh: Hợp đồng dài hạn. Nhưng mỗi năm gia hạn một lần.
+25-09|3|CU static|Quan|||Quan grins || Quan: Thì mỗi năm anh tán em lại từ đầu.
+25-10|3|WS static|Linh,Quan|||They stand at the glass balustrade hand in hand; small fireworks bloom over the lake
+25-11|5|2S static|Bong,Tuan|||At a side table, Bong in a pink party dress tugs Tuan's floral sleeve || Bong: Chú Tuấn ơi, mất trí nhớ có chọn lọc là bệnh gì ạ?
+25-12|4|CU static|Tuan|||Tuan, wise for once || Tuan: Bệnh của người lớn. Ai khỏi thì nhà ấy vui hơn.
+25-13|4|CU push|Bong|||Bong points her cake fork at him || Bong: Thế chú mắc thử đi! Biết đâu chú lấy được vợ!
+25-14|3|CU static|Tuan|||Tuan coughs on his cake, then bursts out laughing
+25-15|4|INS pull|Linh|||Final shot: Linh's hand sets the cherry-blossom hairpin on the bouquet of white daisies; slow pull back as fireworks reflect on the lake

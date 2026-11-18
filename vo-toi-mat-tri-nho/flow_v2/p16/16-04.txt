@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Bong grins with her gap teeth.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong in Bống's one fixed voice (the voice saved on the attached character, "Zephyr": girl of 7, high clear child voice; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, bargaining, said exactly once from 0.3s to 2.7s: "Con không mách bố đâu… nếu mẹ cho con ăn kem!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong (girl of 7, high clear child's voice, bright and earnest, speaking quickly in short lively phrases, every word clear, bargaining), said exactly once from 0.3s to 2.7s: "Con không mách bố đâu… nếu mẹ cho con ăn kem!"
 Only @Bong moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] soft rain on a window, the rustle of a blanket, a faint ticking clock. No music.

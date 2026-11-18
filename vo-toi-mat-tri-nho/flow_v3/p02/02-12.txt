@@ -1,0 +1,21 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] A frame from a premium Vietnamese theatrical feature film, shot on ARRI Alexa 35 with vintage anamorphic lenses, 24 fps, 16:9: real film actors with natural skin texture, pores and micro-expressions, subtle restrained performances, motivated practical key light with soft negative fill, deep shadows and glowing highlights, rich teal-and-amber grade, gentle halation, fine 35mm film grain, shallow depth of field with creamy oval bokeh. Romantic comedy-drama with a thriller edge — never CGI, never a video game, never an advertisement, never a TV soap look.
+
+[PLACE] The grand lobby of a five-star hotel at night: polished cream marble floor, a sweeping crystal chandelier, tall marble pillars, emerald velvet sofas, brass elevator doors, white orchids; golden crystal light and long pillar shadows. The attached image "Bối cảnh · Sảnh khách sạn" shows this exact set: match its architecture, furniture, colours and light, seen from this shot's camera angle; never show the reference image itself.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly; only face and clothes come from it, never its background.
+- @Linh = Linh, the wife: a breathtakingly beautiful 32-year-old Vietnamese woman, former fashion model, tall and graceful, flawless luminous fair skin, long silky straight black hair, large bright almond-shaped dark eyes, high cheekbones, rosy lips, a radiant smile; wears a floor-length emerald-green satin evening gown with thin straps, diamond drop earrings, a slim gold clutch, a small cherry-blossom hairpin. Attached image: "Linh · Dạ hội xanh".
+Nobody else is in focus.
+
+[CAMERA] 85mm close-up on @Linh (the wife), eyes in sharp focus, background melting into bokeh; a slow, steady push-in.
+
+[ACTION] Linh nods slowly, eyes never leaving the pillar.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking slowly and softly with small natural pauses, icy calm), said exactly once from 0.3s to 3.1s: "Ừ. Mà cột nào cũng đi giày cao gót trắng."
+Only @Linh moves the lips. After the last word nobody speaks again until 4.0s.
+Voice: standard Hà Nội Northern Vietnamese with natural Northern tones (never Southern or Central accents); a real actor recorded close on set with a little room tone, real breaths and tiny natural hesitations — never a voice-over or text-to-speech. Speak only the Vietnamese words inside the double quotes, once; never read these directions, names or tags aloud.
+
+[SOUND] the hush of a grand lobby, heels on marble, a distant elevator chime, a fountain trickling. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flat TV lighting; robotic or text-to-speech sounding voices; flat monotone delivery; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

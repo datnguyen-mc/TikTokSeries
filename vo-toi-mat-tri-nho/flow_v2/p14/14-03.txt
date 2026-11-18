@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Quan sits and uncaps a fountain pen over a second sheet.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, suddenly serious, said exactly once from 0.3s to 2.5s: "Còn thư cho vợ… để tôi tự viết."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking slowly and softly with small natural pauses, suddenly serious), said exactly once from 0.3s to 2.5s: "Còn thư cho vợ… để tôi tự viết."
 Only @Quan moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a quiet office hum, the city far below, a pen scratching. No music.

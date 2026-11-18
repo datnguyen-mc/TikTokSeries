@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] At a side table, Bong in a pink party dress tugs Tuan's floral sleeve.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong in Bống's one fixed voice (the voice saved on the attached character, "Zephyr": girl of 7, high clear child voice; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, curious, said exactly once from 0.3s to 3.7s: "Chú Tuấn ơi, mất trí nhớ có chọn lọc là bệnh gì ạ?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong (girl of 7, high clear child's voice, bright and earnest, speaking at a natural conversational pace, curious), said exactly once from 0.3s to 3.7s: "Chú Tuấn ơi, mất trí nhớ có chọn lọc là bệnh gì ạ?"
 Only @Bong moves the lips; @Tuan listens with the mouth closed. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a soft city hum far below, a light night breeze, candle flames fluttering, faint glassware. No music.

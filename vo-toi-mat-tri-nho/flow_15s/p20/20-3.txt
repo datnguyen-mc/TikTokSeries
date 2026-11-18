@@ -1,0 +1,41 @@
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 3.5s, 7s, 10.5s; sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic comedy-drama with a thriller edge, shot on ARRI Alexa 35 with anamorphic lenses, 24 fps; rich teal-and-amber grade, motivated practical light, natural skin texture with pores, subtle 35mm film grain, shallow depth of field with creamy oval bokeh, gentle halation. Real actors, believable understated performances, a premium theatrical feature — never CGI, never an advertisement.
+
+[LOCATION]
+- The boardroom: a glass boardroom high above the city: a long dark table, leather chairs, a glowing white projector screen, skyline behind; cold blue light that warms when the doors open.
+- The glass corridor: a long glass corridor with a polished floor outside a boardroom; cool blue light, echoing footsteps.
+
+[CHARACTERS]
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, and never flash the studio reference portrait; the characters are already in place in the very first frame.
+- @Hung = Hưng, the vice president: a cold, handsome 42-year-old Vietnamese man, tall, lean and impeccably groomed, slicked-back black hair greying at the temples, sharp cheekbones, a thin polite smile that never reaches his eyes; wears a tailored black suit, black shirt, silver cufflinks. Attached image: "Hưng · Vest đen".
+- @Linh = Linh, the wife: a breathtakingly beautiful 32-year-old Vietnamese woman, former fashion model, tall and graceful, flawless luminous fair skin, long silky straight black hair, large bright almond-shaped dark eyes, high cheekbones, rosy lips, a radiant smile; wears a sharply tailored white power suit, red stiletto heels, hair in a sleek low bun with a cherry-blossom hairpin. Attached image: "Linh · Chủ tịch".
+- @Tuan = Tuấn, the assistant: a cheerful 35-year-old Vietnamese man with boyish good looks, clean-shaven face with deep dimples, bright lively eyes, thick slightly wavy black hair, a stocky friendly build; wears a dark-blue suit with a neat tie, hugging a notebook and a small voice recorder. Attached image: "Tuấn · Vest họp".
+Nobody else appears in focus.
+
+[SHOT LIST — hard cuts only at the marked seconds]
+- Shot 1, 0–3.5s (in the boardroom): 85mm close-up on the vice president, eyes in sharp focus, background melting into bokeh, locked off on a tripod, perfectly still.
+- Shot 2, 3.5–7s (in the glass corridor): 100mm macro insert shot, a smooth tracking move that follows the action.
+- Shot 3, 7–10.5s (in the boardroom): 85mm close-up on the assistant, eyes in sharp focus, background melting into bokeh, locked off on a tripod, perfectly still.
+- Shot 4, 10.5–15s (in the boardroom): 24mm wide shot of the boardroom, a slow lateral dolly.
+- Whoever is speaking has the face clearly on screen in that shot; the camera keeps one side of the line so eyelines match across the cuts.
+
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per beat.
+- 0–3.5s (Shot 1): Hung's smile widens. No one speaks.
+- 3.5–7s (CUT to Shot 2): Low tracking shot: red stiletto heels stride along the polished glass corridor toward the boardroom door, exactly as before. No one speaks.
+- 7–10.5s (CUT to Shot 3): Tuan turns toward the door, eyes wide; @Tuan speaks, face clearly on screen.
+- 10.5–15s (CUT to Shot 4): The glass doors open; Linh walks in, white power suit, cherry-blossom hairpin; warm light floods in behind her and the cold room warms. No one speaks. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, 1 spoken turn in this order, each said exactly once (no subtitles):
+- Turn 1, 7.3–8.4s, spoken on camera by @Tuan (man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out, speaking slowly and softly with small natural pauses, awed whisper): "Chủ tịch… đến rồi."
+- Throughout, only the person whose turn it is moves the lips while anyone else listens with the mouth closed; real breaths and tiny natural hesitations, recorded close on set with a little room tone — it sounds like real actors talking, never like a voice-over or text-to-speech.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and different characters sound clearly different in pitch, age and texture.
+- All speech is over by 8.4s; outside the turns above nobody says a word, and no line is ever repeated to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: air conditioning hum, a projector fan, chairs creaking; sharp heel clicks echoing down glass and stone. No music.
+
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, watermarks, logos), readable writing, blurry faces, distorted hands, background music, letterbox bars, cuts at any other moment, extra people in focus, face, hair or costume changes, robotic or text-to-speech sounding voices, flat monotone delivery, slurred speech, repeated, stuttered or echoed words, the line spoken twice, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

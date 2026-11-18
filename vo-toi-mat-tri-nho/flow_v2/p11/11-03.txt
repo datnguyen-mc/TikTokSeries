@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Mai Anh drops out of her pose.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @MaiAnh in Mai Anh's one fixed voice (the voice saved on the attached character, "Achernar": young woman of 25, bright airy soprano; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, scandalised, said exactly once from 0.3s to 2.4s: "Ghê thật! Anh ta có tiền không? Đẹp trai không?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @MaiAnh (young woman of 25, bright sweet soprano with a playful lilt, light and quick, speaking quickly in short lively phrases, every word clear, scandalised), said exactly once from 0.3s to 2.4s: "Ghê thật! Anh ta có tiền không? Đẹp trai không?"
 Only @MaiAnh moves the lips. After the last word nobody speaks again until 3.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] bare feet on wood, slow breathing, faint city noise. No music.

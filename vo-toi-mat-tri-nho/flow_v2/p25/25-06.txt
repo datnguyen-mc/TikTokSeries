@@ -10,9 +10,9 @@ Nobody else is in focus.
 
 [CAMERA] 50mm medium shot of @Quan (the husband); a slow, steady push-in.
 
-[ACTION] Quan offers the white daisies.
+[ACTION] Quan offers the ninety-nine red roses himself.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, tender, said exactly once from 0.3s to 3.9s: "Chín mươi chín bông là cho em. Bông thứ một trăm là anh."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking slowly and softly with small natural pauses, tender), said exactly once from 0.3s to 3.9s: "Chín mươi chín bông là cho em. Bông thứ một trăm là anh."
 Only @Quan moves the lips. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a soft city hum far below, a light night breeze, candle flames fluttering, faint glassware. No music.

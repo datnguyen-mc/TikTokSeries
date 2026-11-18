@@ -1,0 +1,38 @@
+A 15-second live-action film sequence of 3 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s, 9s; one place and one moment, sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic comedy-drama with a thriller edge, shot on ARRI Alexa 35 with anamorphic lenses, 24 fps; rich teal-and-amber grade, motivated practical light, natural skin texture with pores, subtle 35mm film grain, shallow depth of field with creamy oval bokeh, gentle halation. Real actors, believable understated performances, a premium theatrical feature — never CGI, never an advertisement.
+
+[LOCATION]
+The grand lobby of a five-star hotel at night: polished cream marble floor, a sweeping crystal chandelier, tall marble pillars, emerald velvet sofas, brass elevator doors, white orchids; golden crystal light and long pillar shadows.
+
+[CHARACTERS]
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, and never flash the studio reference portrait; the characters are already in place in the very first frame.
+- @MaiAnh = Mai Anh, the young woman: a gorgeous 25-year-old Vietnamese woman, slim and toned, glowing golden-tan skin, long glossy wavy chestnut-brown hair, big doe eyes with long lashes, a sweet heart-shaped face, glossy pink lips; wears a short white bouclé dress, a pearl hair clip, white heels, red lipstick. Attached image: "Mai Anh · Váy trắng".
+- @Quan = Quân, the husband: a strikingly handsome 36-year-old Vietnamese man, tall and athletic, sharp jawline, neatly styled short black hair with a side part, warm expressive dark eyes, light designer stubble, a charming dimpled smile; wears a tailored navy suit, crisp white shirt open at the collar, silver wristwatch. Attached image: "Quân · Vest navy".
+Nobody else appears in focus.
+
+[SHOT LIST — hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 100mm macro insert shot, a smooth tracking move that follows the action.
+- Shot 2, 4–9s: 100mm extreme close-up on the young woman, a slow, steady push-in.
+- Shot 3, 9–15s: 50mm over-the-shoulder shot from behind the young woman's soft-focus shoulder onto the husband, a slow lateral dolly.
+- Whoever is speaking has the face clearly on screen in that shot; the camera keeps one side of the line so eyelines match across the cuts.
+
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per beat.
+- 0–4s (Shot 1): Match cut from the wine stain: the hem of a short white bouclé dress swishes across cream marble under the chandelier. No one speaks.
+- 4–9s (CUT to Shot 2): Extreme close-up of Mai Anh's red lips, then her eyes, sweet and dangerous; @MaiAnh speaks, face clearly on screen.
+- 9–15s (CUT to Shot 3): Quan adjusts his cufflink and gives a practiced smile, glancing at the elevators; @Quan speaks, face clearly on screen. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, 2 spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 4.3–7.3s, spoken on camera by @MaiAnh (young woman of 25, bright sweet soprano with a playful lilt, light and quick, speaking at a natural conversational pace, coy, with an edge): "Tối nay anh nói với bà ấy đi. Không thì em nói."
+- Turn 2, 9.3–12.8s, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking at a natural conversational pace, smooth liar): "Anh với cô ấy ly thân hai năm rồi. Chỉ còn tờ giấy thôi."
+- Throughout, only the person whose turn it is moves the lips while anyone else listens with the mouth closed; real breaths and tiny natural hesitations, recorded close on set with a little room tone — it sounds like real actors talking, never like a voice-over or text-to-speech.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and different characters sound clearly different in pitch, age and texture.
+- All speech is over by 12.8s; outside the turns above nobody says a word, and no line is ever repeated to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: the hush of a grand lobby, heels on marble, a distant elevator chime, a fountain trickling. No music.
+
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, watermarks, logos), readable writing, blurry faces, distorted hands, background music, letterbox bars, cuts at any other moment, extra people in focus, face, hair or costume changes, robotic or text-to-speech sounding voices, flat monotone delivery, slurred speech, repeated, stuttered or echoed words, the line spoken twice, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

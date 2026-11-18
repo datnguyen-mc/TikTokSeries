@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Extreme close-up of Hung's eyes.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Hung in Hưng's one fixed voice (the voice saved on the attached character, "Charon": man of 42, low silky baritone, slow and polite; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, ice cold, said exactly once from 0.3s to 1.7s: "Lần này, anh cần ảnh."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Hung (man of 42, low silky baritone, slow and polite, every word a quiet threat, speaking slowly and softly with small natural pauses, ice cold), said exactly once from 0.3s to 1.7s: "Lần này, anh cần ảnh."
 Only @Hung moves the lips. After the last word nobody speaks again until 3.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] the low hum of a moving elevator, muffled city wind. No music.

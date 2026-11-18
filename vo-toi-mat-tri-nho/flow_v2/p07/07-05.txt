@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Linh bounces down the staircase in a pastel hoodie and tennis skirt, ponytail swinging.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh in Linh's one fixed voice (the voice saved on the attached character, "Aoede": woman of 32, clear warm alto, elegant; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, bubbly, said exactly once from 0.3s to 2.0s: "Ôi, cô giáo xinh quá! Vào đi em!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking quickly in short lively phrases, every word clear, bubbly), said exactly once from 0.3s to 2.0s: "Ôi, cô giáo xinh quá! Vào đi em!"
 Only @Linh moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] birdsong outside, a heavy door, footsteps on stone. No music.

@@ -1,0 +1,97 @@
+"""Bản 2 — nhân vật theo bộ trang phục (mỗi bộ = 1 nhân vật trên Flow) và bối cảnh (không tên địa danh)."""
+
+# Khuôn mặt cố định của từng người (dùng trong ảnh mẫu và prompt), không có trang phục.
+FACE = {
+    "Linh": "a breathtakingly beautiful 32-year-old Vietnamese woman, former fashion model, tall and graceful, flawless luminous fair skin, long silky straight black hair, large bright almond-shaped dark eyes, high cheekbones, rosy lips, a radiant smile",
+    "Quan": "a strikingly handsome 36-year-old Vietnamese man, tall and athletic, sharp jawline, neatly styled short black hair with a side part, warm expressive dark eyes, light designer stubble, a charming dimpled smile",
+    "MaiAnh": "a gorgeous 25-year-old Vietnamese woman, slim and toned, glowing golden-tan skin, long glossy wavy chestnut-brown hair, big doe eyes with long lashes, a sweet heart-shaped face, glossy pink lips",
+    "Khang": "a handsome 34-year-old Vietnamese man with gentle intellectual looks, tall and lean, fair clear skin, soft tousled black hair, kind calm eyes behind thin rimless glasses, a dry half-smile",
+    "Tuan": "a cheerful 35-year-old Vietnamese man with boyish good looks, clean-shaven face with deep dimples, bright lively eyes, thick slightly wavy black hair, a stocky friendly build",
+    "Bong": "an adorable 7-year-old Vietnamese girl with a round rosy face, huge sparkling dark eyes, straight black bangs and two high pigtails, a gap-toothed grin",
+    "Hung": "a cold, handsome 42-year-old Vietnamese man, tall, lean and impeccably groomed, slicked-back black hair greying at the temples, sharp cheekbones, a thin polite smile that never reaches his eyes",
+}
+NAME = {"Linh": "Linh", "Quan": "Quân", "MaiAnh": "Mai Anh", "Khang": "Khang", "Tuan": "Tuấn", "Bong": "Bống", "Hung": "Hưng"}
+ROLE = {"Linh": "the wife", "Quan": "the husband", "MaiAnh": "the young woman", "Khang": "the doctor",
+        "Tuan": "the assistant", "Bong": "the little girl", "Hung": "the vice president"}
+VOICE = {  # giọng cố định của từng nhân vật: không đổi theo trang phục, cảm xúc hay phân cảnh
+    "Linh": "woman of 32, clear warm alto, elegant",
+    "Quan": "man of 36, smooth resonant baritone, charming",
+    "MaiAnh": "young woman of 25, bright airy soprano",
+    "Khang": "man of 34, calm gentle tenor, dry",
+    "Tuan": "man of 35, lively light nasal tenor",
+    "Bong": "girl of 7, high clear child voice",
+    "Hung": "man of 42, low silky baritone, slow and polite",
+}
+FLOW_VOICE = {  # giọng đã gán cho mọi bộ đồ của nhân vật trên Flow
+    "Linh": "Aoede", "Quan": "Giọng Quân", "MaiAnh": "Achernar", "Khang": "Iapetus",
+    "Tuan": "Fenrir", "Bong": "Zephyr", "Hung": "Charon",
+}
+RATE = {"Bong": 3.8}  # âm tiết/giây; mặc định 4.0
+
+# Mã bộ đồ → (người, tên trên Flow, mô tả trang phục tiếng Anh)
+LOOKS = {
+    "L1": ("Linh", "Linh · Dạ hội xanh", "a floor-length emerald-green satin evening gown with thin straps, diamond drop earrings, a slim gold clutch, a small cherry-blossom hairpin"),
+    "L2": ("Linh", "Linh · Áo bệnh viện", "a pale-blue cotton hospital gown under a soft white knit cardigan, hair loose"),
+    "L3": ("Linh", "Linh · Lụa ngà", "an ivory silk blouse, high-waisted cream wide-leg trousers, pearl earrings"),
+    "L4": ("Linh", "Linh · Cô gái 22", "an oversized pastel-yellow hoodie, a short white pleated tennis skirt, chunky white sneakers, hair in a high ponytail"),
+    "L5": ("Linh", "Linh · Hẹn hò", "a pastel-pink cropped cardigan over a white cotton sundress, a small pearl hair clip"),
+    "L6": ("Linh", "Linh · Đồ tập", "a sage-green long-sleeve fitted yoga top and matching full-length yoga trousers, bare feet"),
+    "L7": ("Linh", "Linh · Trench be", "a belted beige trench coat over a black turtleneck, black trousers, sunglasses pushed up on her head"),
+    "L8": ("Linh", "Linh · Lụa tím ngủ", "a lavender silk pajama set with long sleeves and long trousers"),
+    "L9": ("Linh", "Linh · Chủ tịch", "a sharply tailored white power suit, red stiletto heels, hair in a sleek low bun with a cherry-blossom hairpin"),
+    "L10": ("Linh", "Linh · Voan trắng", "a flowing white chiffon midi dress with fluttering sleeves and a thin gold belt"),
+    "L11": ("Linh", "Linh · Bà chủ xưởng", "a tailored black jumpsuit with a gold belt and a yellow measuring tape draped around her neck"),
+    "L12": ("Linh", "Linh · Lụa đỏ", "a floor-length deep-red silk gown with long sleeves, ruby drop earrings, a cherry-blossom hairpin"),
+    "Q1": ("Quan", "Quân · Vest navy", "a tailored navy suit, crisp white shirt open at the collar, silver wristwatch"),
+    "Q2": ("Quan", "Quân · Đồ ngủ", "a rumpled grey T-shirt and navy pajama trousers, barefoot, hair messy"),
+    "Q3": ("Quan", "Quân · Hẹn hò", "a white polo shirt, beige chinos, white leather sneakers"),
+    "Q4": ("Quan", "Quân · Vest than họp", "a charcoal three-piece suit with a dark-blue tie"),
+    "Q5": ("Quan", "Quân · Linen kem", "a cream linen suit over a white shirt, no tie"),
+    "Q6": ("Quan", "Quân · Tạp dề hồng", "a grey T-shirt, dark jeans and a frilly pink kitchen apron"),
+    "Q7": ("Quan", "Quân · Tuxedo", "a classic black tuxedo with a black bow tie"),
+    "M1": ("MaiAnh", "Mai Anh · Váy trắng", "a short white bouclé dress, a pearl hair clip, white heels, red lipstick"),
+    "M2": ("MaiAnh", "Mai Anh · Đồ yoga", "a lilac long-sleeve fitted yoga top and matching full-length yoga trousers"),
+    "M3": ("MaiAnh", "Mai Anh · Thường ngày", "a soft pink knit cardigan over a fitted white top, light-blue jeans, small gold hoop earrings"),
+    "M4": ("MaiAnh", "Mai Anh · Ướt mưa", "a moss-green long-sleeve midi dress, a thin jacket soaked with rain, wet hair clinging to her face"),
+    "M5": ("MaiAnh", "Mai Anh · Nhân chứng", "a plain white shirt, black trousers, hair tied low, no jewellery"),
+    "M6": ("MaiAnh", "Mai Anh · Tiệc", "a lavender satin midi dress with cap sleeves, small pearl earrings"),
+    "K1": ("Khang", "Khang · Áo blouse", "a crisp white doctor's coat over a light-blue shirt, a stethoscope around the neck"),
+    "K2": ("Khang", "Khang · Tiệc", "a light-grey casual blazer over a white T-shirt, dark trousers"),
+    "T1": ("Tuan", "Tuấn · Vest be", "a light-beige suit, a pale-pink shirt with no tie, a tablet tucked under one arm"),
+    "T2": ("Tuan", "Tuấn · Vest họp", "a dark-blue suit with a neat tie, hugging a notebook and a small voice recorder"),
+    "T3": ("Tuan", "Tuấn · Sơ mi hoa", "a loud tropical floral shirt and white chinos"),
+    "BO1": ("Bong", "Bống · Váy vàng", "a yellow cotton dress with a white Peter Pan collar, yellow hair ribbons"),
+    "BO2": ("Bong", "Bống · Pyjama sao", "pink star-print long pajamas"),
+    "BO3": ("Bong", "Bống · Đồng phục", "a white school shirt, a navy pleated skirt, a red scarf, a small backpack"),
+    "BO4": ("Bong", "Bống · Váy công chúa", "a puffy pink tulle party dress with a big bow"),
+    "H1": ("Hung", "Hưng · Măng tô mưa", "a long black overcoat, a grey wool scarf, holding a black umbrella"),
+    "H2": ("Hung", "Hưng · Vest đen", "a tailored black suit, black shirt, silver cufflinks"),
+}
+
+PLACE = {
+    "B1": ("the rooftop terrace", "a luxurious rooftop restaurant terrace at night above a wide city lake, privately booked: one candlelit table with white linen, a glass balustrade, golden city lights and the dark lake far below, potted olive trees, warm string lights, a private brass elevator; warm candle-gold light with city bokeh"),
+    "B2": ("the hotel lobby", "the grand lobby of a five-star hotel at night: polished cream marble floor, a sweeping crystal chandelier, tall marble pillars, emerald velvet sofas, brass elevator doors, white orchids; golden crystal light and long pillar shadows"),
+    "B3": ("the hospital room", "a bright private VIP hospital room by day: white bed with crisp sheets, a bedside monitor showing only soft wave lines, white lilies, sheer curtains; soft clean white daylight"),
+    "B4": ("the hospital corridor", "a quiet hospital corridor by day: pale walls, a long window, a wooden bench, a potted fern; cool white light"),
+    "B5": ("the villa living room", "the open living room of a modern lakeside villa in the evening: double-height glass walls onto a dark garden, a long cream sofa, a walnut coffee table, a floating glass staircase; warm amber lamplight"),
+    "B6": ("the villa gate", "the wrought-iron gate of a villa at night in fine drizzle, wet stone path, one warm gate lamp; cold blue night with a single amber pool of light"),
+    "B7": ("the glass office", "a glass-walled CEO office high above the city: long walnut desk, white leather sofa, shelves of fabric and wood samples, panoramic skyline; cool white-blue light"),
+    "B8": ("the glass elevator", "a glass elevator sliding down the outside of a tower at night, the city lights sliding past; steel-blue light"),
+    "B9": ("the villa entrance hall", "the entrance hall of a modern villa: tall wooden double door, stone floor, a console with white orchids, a staircase; morning sun through the door"),
+    "B10": ("the glass sunroom", "a glass sunroom full of plants inside the villa, two yoga mats on a wooden floor; sunlight dappled through leaves"),
+    "B11": ("the master bedroom", "the master bedroom at night: linen curtains, a bedside lamp, a nightstand; small warm pool of lamplight in deep shadow"),
+    "B12": ("the lakeside food stall", "a cosy lakeside street-food corner at night: low plastic stools, a small steel table with bowls of grilled pork and noodles, a smoky charcoal grill, strings of yellow bulbs, reflections on dark water; warm smoky gold light"),
+    "B13": ("the villa living room by day", "the open living room of a modern lakeside villa by day: glass walls onto a sunny garden, a long cream sofa, a walnut coffee table, a floating glass staircase; bright soft daylight"),
+    "B14": ("the yoga studio", "an airy yoga studio by day: pale oak floor, lilac yoga mats, tall mirrors, hanging plants, floor-to-ceiling windows; clean white daylight"),
+    "B15": ("the lakeside café", "a chic quiet café overlooking a green lake in the afternoon: marble round table, rattan chairs, big windows; warm golden afternoon light"),
+    "B16": ("the car back seat", "the back seat of a luxury car parked by a roadside at night, rain streaming down the windows, street lights sliding across the leather; moody blue with passing amber light"),
+    "B17": ("the yoga studio at night", "an airy yoga studio in the evening: pale oak floor, mirrors, hanging plants, warm low lamps, city lights in the windows"),
+    "B18": ("the child's bedroom", "a pastel child's bedroom at night: a small white bed with star-patterned sheets, a moon-shaped night lamp, plush toys, a rainy window; soft moon-blue glow"),
+    "B19": ("the villa kitchen at night", "a modern villa kitchen late at night: white marble island, sage-green cabinets, only the copper pendant lamps lit, a pot of rice porridge steaming, rain streaming down the dark window"),
+    "B20": ("the dark office", "a dark private office: black stone desk, heavy curtains drawn, a single brass desk lamp, steel-blue shadows"),
+    "B21": ("the villa kitchen by day", "a bright modern villa kitchen in the morning: white marble island with tall stools, sage-green cabinets, copper pendant lamps, a window onto a sunny garden"),
+    "B22": ("the boardroom", "a glass boardroom high above the city: a long dark table, leather chairs, a glowing white projector screen, skyline behind; cold blue light that warms when the doors open"),
+    "B23": ("the glass corridor", "a long glass corridor with a polished floor outside a boardroom; cool blue light, echoing footsteps"),
+    "B24": ("the garden party", "a villa garden at night dressed for a party: strings of warm fairy lights, a white rose arch, a small table with a birthday cake and candles, lanterns, a pool reflecting the lights"),
+    "B25": ("the fashion atelier", "a sunlit fashion atelier: mannequins in elegant gowns, rolls of fabric, a cutting table, tall windows throwing slanting sun"),
+}

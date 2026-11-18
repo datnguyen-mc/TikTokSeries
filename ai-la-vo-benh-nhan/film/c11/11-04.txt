@@ -1,0 +1,22 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama-comedy set over one night in a city hospital: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated light (cool fluorescent hospital light, rain on glass, warm practical lamps, dawn sun), rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions and dry comic timing, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A dim alcove off a hospital corridor at night with a single glowing drinks vending machine, its cold light spilling onto the floor, a rain-streaked window.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- OngLoc = Ông Lộc, an old man waiting on the next bench (a thin, twinkly 74-year-old Vietnamese grandfather); wears a grey knitted wool vest over a checked shirt, dark trousers, a brown flat cap, a thermos flask and a bag of mandarins beside him. Attached image: "Ông Lộc · Gi-lê len".
+- Hanh = Hạnh, the legal wife, a chief accountant (a composed 38-year-old Vietnamese woman); wears an ivory silk blouse with the sleeves rolled to the elbow and no blazer, black cigarette trousers, low black heels, a structured tan leather tote bag, a plain gold wedding band. Attached image: "Hạnh · Sơ mi ngà".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] 50mm two-shot, locked off.
+
+[ACTION] OngLoc appears beside her and holds out a peeled mandarin on his open palm.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once; only the speaker moves the lips:
+- 0.4s–3.0s, OngLoc (man of 74, gentle slow gravelly voice, amused): Máy này nó ăn của tôi ba đồng rồi.
+After the last word nobody speaks until 5.0s. Never read these directions aloud.
+
+[SOUND] the vending machine humming and clunking, rain on the window. No music.
+
+[AVOID] On-screen text, TV channel logos or broadcaster bugs in any corner, character tags or names written on screen, subtitles, captions, logos, watermarks, readable writing on paper, screens, signs, badges or clock faces; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; blood, wounds, needles, syringes, surgical instruments or anything graphic; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

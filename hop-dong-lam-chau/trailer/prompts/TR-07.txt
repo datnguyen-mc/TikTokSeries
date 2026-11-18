@@ -1,0 +1,21 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Cinematic live-action film shot on ARRI Alexa 35 with vintage spherical lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable understated performances, motivated practical lighting, soft contrast, warm amber-and-jade grade, gentle halation, subtle 35mm film grain, shallow depth of field. A premium Vietnamese theatrical family comedy-drama set in a Northern Vietnamese village in the last days before Lunar New Year, never CGI, never a video game, never an advertisement.
+
+[PLACE] The same village courtyard at night: a big blackened pot of square sticky-rice cakes boiling over a wood fire, sparks drifting up, two low wooden stools; warm orange firelight against a deep blue night.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @OngThinh = Ông Thịnh, the grandfather (a dignified 76-year-old Vietnamese grandfather from the Northern countryside); wears a moss-green knitted cardigan buttoned over a brown shirt, a grey wool scarf, a dark wool beanie. Attached image: "Ông Thịnh · Áo len đêm".
+- @Dat = Đạt, the hired fake grandson (an affable 25-year-old Vietnamese man); wears an oversized old brown hand-knitted sweater that is far too big for him, sleeves rolled, grey track pants, rubber sandals. Attached image: "Đạt · Áo len mượn".
+Nobody else is in focus.
+
+[CAMERA] 50mm two-shot across the fire, very slow push-in.
+
+[ACTION] OngThinh stares into the fire while speaking; beside him Dat turns to look at him and his eyes fill with tears.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @OngThinh (man of 76, low gravelly baritone, slow and clipped, long pauses between phrases, dry and stubborn), said exactly once from 0.6s to 3.6s: Ông không giận cháu. Ông giận ông.
+Only @OngThinh moves the lips. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
+
+[SOUND] crackling wood fire, the pot bubbling, crickets. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

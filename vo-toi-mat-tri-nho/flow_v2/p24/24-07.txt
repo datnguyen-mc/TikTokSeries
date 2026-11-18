@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Linh spins toward the door, radiant.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh in Linh's one fixed voice (the voice saved on the attached character, "Aoede": woman of 32, clear warm alto, elegant; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, glowing, said exactly once from 0.3s to 3.0s: "Anh ơi! Bộ sưu tập đầu tiên của em bán hết sạch rồi!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking quickly in short lively phrases, every word clear, glowing), said exactly once from 0.3s to 3.0s: "Anh ơi! Bộ sưu tập đầu tiên của em bán hết sạch rồi!"
 Only @Linh moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] scissors through fabric, a sewing machine far off, street noise through tall windows. No music.

@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] Tuan leans over the rail, then spins to block her view, waving his hands.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Tuan in Tuấn's one fixed voice (the voice saved on the attached character, "Fenrir": man of 35, lively light nasal tenor; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, panicking, said exactly once from 0.3s to 3.0s: "Chắc là… phiên dịch ạ! Phiên dịch bây giờ trẻ lắm chị ạ!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Tuan (man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out, speaking quickly in short lively phrases, every word clear, panicking), said exactly once from 0.3s to 3.0s: "Chắc là… phiên dịch ạ! Phiên dịch bây giờ trẻ lắm chị ạ!"
 Only @Tuan moves the lips; @Linh listens with the mouth closed. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a soft city hum far below, a light night breeze, candle flames fluttering, faint glassware. No music.

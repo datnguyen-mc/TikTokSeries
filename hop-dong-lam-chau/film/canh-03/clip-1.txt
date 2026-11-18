@@ -1,0 +1,24 @@
+A single continuous 15-second shot, 16:9, one camera take with no cuts.
+
+[LOOK] Cinematic live-action film shot on ARRI Alexa 35 with vintage spherical lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable understated performances, motivated practical lighting, soft contrast, warm amber-and-jade grade, gentle halation, subtle 35mm film grain, shallow depth of field. A premium Vietnamese theatrical family comedy-drama set in a Northern Vietnamese village in the last days before Lunar New Year, never CGI, never a video game, never an advertisement.
+
+[PLACE] The brick-paved courtyard of an old three-room tile-roofed village house in the Northern Vietnamese countryside: a pomelo tree in the corner, a betel-vine trellis, potted kumquat trees, a low brick wall to the neighbour's garden; pale golden winter sunlight.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @BaThoa = Bà Thoa, the nosy neighbour (a lively); wears a loud magenta floral-print velvet jacket, a patterned silk scarf, black trousers, a smartphone always held up on a short selfie stick. Attached image: "Bà Thoa · Áo nhung hoa".
+- @Dat = Đạt, the hired fake grandson (an affable 25-year-old Vietnamese man); wears a trying-too-hard outfit: a shiny olive bomber jacket over a crisp white shirt buttoned to the top, brand-new stiff blue jeans, bright white sneakers, a big black backpack. Attached image: "Đạt · Bomber ra mắt".
+Each named person appears exactly once in the frame for the whole take, as one single continuous person; no duplicates, twins or look-alikes. Background villagers, if any, stay distant, blurred and clearly different from the named characters.
+
+[CAMERA] One continuous 15-second take: 35mm medium-wide two-shot, locked off with a very slow push-in; BaThoa at the low brick wall on the left of frame and Dat standing alone in the courtyard on the right of frame are both visible from the first frame to the last.
+
+[ACTION] 0–5s: BaThoa pops up over the low brick wall from the neighbour's garden, holding her phone high on a selfie stick and talking brightly into it like a TV host. 5–9s: on the right, Dat spots the phone, straightens his collar and waves at it with a stiff, over-eager grin. 9–15s: BaThoa beckons with her free hand and squeezes through a gap in the wall into the courtyard, phone still raised; Dat's grin wobbles.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent. Each line is spoken exactly once, on camera, at its time; only the speaker moves the lips:
+- 0.4s–4.6s, @BaThoa (woman of 70, high sharp voice, loud and chatty like a TV host): Các cháu đang xem live ơi, cháu đích tôn nhà ông Thịnh về rồi này!
+- 6.0s–8.0s, @Dat (man of 25, bright light tenor, quick and over-eager, words tumbling out): Dạ… cháu chào cả nhà ạ!
+- 9.6s–11.8s, @BaThoa (woman of 70, high sharp voice, loud and chatty like a TV host): Đứng đấy! Sang đây bà hỏi tí!
+No other words are spoken. Never read these directions aloud.
+
+[SOUND] chickens clucking softly, a broom on bricks next door, distant village loudspeaker hum. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut, jump or change to a second camera angle; the same person appearing twice, twins, clones or look-alike doubles of a named character; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

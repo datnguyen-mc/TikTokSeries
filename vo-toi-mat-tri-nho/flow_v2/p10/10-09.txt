@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Quan stops cold.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, wary, said exactly once from 0.3s to 2.8s: "Hưng? Anh ta hỏi bệnh án vợ tôi làm gì?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking at a natural conversational pace, wary), said exactly once from 0.3s to 2.8s: "Hưng? Anh ta hỏi bệnh án vợ tôi làm gì?"
 Only @Quan moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] birdsong from the garden, a clock ticking, pages turning. No music.

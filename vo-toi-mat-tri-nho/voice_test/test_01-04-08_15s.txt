@@ -1,0 +1,47 @@
+A 15-second live-action film sequence of 4 shots, 16:9 widescreen, 24 fps, with hard cuts only at 5s, 7s, 11s; one place and one moment, sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic comedy-drama, shot on ARRI Alexa 35 with anamorphic lenses; warm candle-gold night grade with city bokeh, natural skin texture, subtle 35mm film grain, shallow depth of field. Real actors, believable understated performances, never CGI.
+
+[LOCATION]
+A luxurious rooftop restaurant terrace at night above a wide city lake, privately booked: one candlelit table with white linen, a glass balustrade, golden city lights and the dark lake far below, potted olive trees, warm string lights.
+
+[CHARACTERS]
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, and never flash the studio reference portrait; the characters are already in place in the very first frame.
+- @Linh = Linh, 32, the elegant wife; a breathtakingly beautiful Vietnamese woman, long black hair with a small cherry-blossom hairpin; floor-length emerald-green satin evening gown with thin straps, diamond drop earrings.
+- @Tuan = Tuấn, 35, the husband's cheerful assistant; boyish good looks, dimples; light-beige suit, pale-pink shirt with no tie, a tablet under one arm, hugging a huge bouquet of ninety-nine red roses.
+Nobody else appears in the shot.
+
+[SHOT LIST — 4 shots, hard cuts only at the marked seconds]
+- Shot 1, 0–5s: 50mm medium tracking shot following the assistant as he hurries to the table with the roses.
+- Shot 2, 5–7s: 85mm close-up of the wife at the table, locked off.
+- Shot 3, 7–11s: 50mm over-the-shoulder shot from behind the assistant onto the wife, slow lateral dolly.
+- Shot 4, 11–15s: 50mm medium shot of the assistant, subtle handheld.
+- Whoever is speaking has the face clearly on screen in that shot; the camera keeps one side of the line between them so their eyes meet across the cuts.
+
+[TIMELINE — second by second]
+- 0–1s (Shot 1): @Tuan hurries across the terrace hugging the roses and is already talking, beaming too hard.
+- 1–4s (Shot 1): @Tuan keeps talking breathlessly as he arrives at the table and holds out the bouquet.
+- 4–5s (Shot 1): @Tuan finishes and freezes with a hopeful grin, mouth closed.
+- 5–7s (CUT to Shot 2): @Linh does not look at the roses; a faint knowing smile; she says two short words, amused.
+- 7–8s (CUT to Shot 3): @Linh slowly lifts her eyes to him, calm as still water, and starts speaking quietly.
+- 8–10s (Shot 3): @Linh keeps speaking evenly, one eyebrow lifting a little.
+- 10–11s (Shot 3): @Linh finishes and closes her mouth.
+- 11–14s (CUT to Shot 4): @Tuan nods far too many times and blurts out his answer with a forced dimpled grin.
+- 14–15s (Shot 4): @Tuan stops, mouth closed, sweating, the roses drooping. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, four spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.4–4.4s, spoken on camera by @Tuan (man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out, speaking quickly in short lively phrases, every word still clear, over-cheerful): "Chị Linh ơi! Anh Quân họp gấp với đối tác Nhật, gửi chị bó hoa này ạ!"
+- Turn 2, 5.2–6.4s, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking slowly and softly, light and amused): "Thế cơ à?"
+- Turn 3, 7.3–10.6s, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking slowly and softly with a short natural pause between phrases, cool and quiet): "Mười năm ngày cưới, chồng chị gửi hoa thay mình à?"
+- Turn 4, 11.3–13.8s, spoken on camera by @Tuan (man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out, speaking quickly, babbling, nervous laugh in the breath): "Dạ, chín mươi chín bông, em đếm hai lần rồi ạ!"
+- Pacing: Tuấn rushes, Linh answers slowly and calmly, Tuấn rushes again; the change of speed is clearly audible.
+- Throughout, only the person whose turn it is moves the lips while the other listens with the mouth closed; real breaths and tiny natural hesitations between phrases, recorded close on set with a little room tone — it sounds like two real actors talking, never like a voice-over or text-to-speech.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and the two voices sound clearly different in pitch, age and texture.
+- All speech is over by 13.8s. From then until 15.0s nobody says a word; no line is ever repeated to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: a soft city hum far below, a light night breeze, candle flames fluttering, rustling cellophane around the roses, faint glassware. No music.
+
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, watermarks, logos), readable writing, blurry faces, distorted hands, background music, letterbox bars, cuts at any other moment, extra people, face or costume changes, robotic or text-to-speech sounding voices, flat monotone delivery, slurred speech, repeated, stuttered or echoed words, the line spoken twice, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

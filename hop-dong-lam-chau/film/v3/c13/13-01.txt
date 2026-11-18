@@ -1,0 +1,22 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama-comedy: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light (low winter sun, practical lamps, firelight), soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] Behind the village house: a small fish pond with water spinach, a banana tree, a brick path, a low brick wall to the neighbour's garden; hazy midday winter light.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- Minh = Minh, the real grandson (a 28-year-old Vietnamese man with a small pale scar on the left of his chin); wears a long black wool coat over a charcoal turtleneck, dark jeans, black leather boots, a black backpack. Attached image: "Minh · Áo dạ đen".
+- Dat = Đạt, the hired fake grandson (a 25-year-old Vietnamese man with a smooth, scar-free chin); wears a red puffer jacket over a grey hoodie, blue jeans, white sneakers. Attached image: "Đạt · Áo phao đỏ".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] 50mm two-shot, slight handheld.
+
+[ACTION] Minh grabs Dat by the collar of his red jacket, then lets go immediately; no blows.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once; only the speaker moves the lips:
+- 0.4s–1.4s, Minh (man of 28, deep quiet baritone, flat and restrained, few words): Bao nhiêu tiền?
+After the last word nobody speaks until 4.0s. Never read these directions aloud.
+
+[SOUND] ducks on the pond, banana leaves rustling. No music.
+
+[AVOID] On-screen text, TV channel logos or broadcaster bugs in any corner, character tags or names written on screen, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; a second phone; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Bong tilts her head toward her father.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong in Bống's one fixed voice (the voice saved on the attached character, "Zephyr": girl of 7, high clear child voice; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, curious, said exactly once from 0.3s to 2.4s: "Thế còn bố? Mẹ có nhớ bố không?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong (girl of 7, high clear child's voice, bright and earnest, speaking at a natural conversational pace, curious), said exactly once from 0.3s to 2.4s: "Thế còn bố? Mẹ có nhớ bố không?"
 Only @Bong moves the lips. After the last word nobody speaks again until 3.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a quiet big house, wind in the garden trees, a clock ticking. No music.

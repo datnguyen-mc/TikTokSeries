@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Tuan nods far too many times, forcing a dimpled grin.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Tuan in Tuấn's one fixed voice (the voice saved on the attached character, "Fenrir": man of 35, lively light nasal tenor; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, babbling, said exactly once from 0.3s to 2.6s: "Dạ, chín mươi chín bông, em đếm hai lần rồi ạ!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Tuan (man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out, speaking quickly in short lively phrases, every word clear, babbling), said exactly once from 0.3s to 2.6s: "Dạ, chín mươi chín bông, em đếm hai lần rồi ạ!"
 Only @Tuan moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a soft city hum far below, a light night breeze, candle flames fluttering, faint glassware. No music.

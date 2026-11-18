@@ -1,0 +1,22 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] A frame from a premium Vietnamese theatrical feature film, shot on ARRI Alexa 35 with vintage anamorphic lenses, 24 fps, 16:9: real film actors with natural skin texture, pores and micro-expressions, subtle restrained performances, motivated practical key light with soft negative fill, deep shadows and glowing highlights, rich teal-and-amber grade, gentle halation, fine 35mm film grain, shallow depth of field with creamy oval bokeh. Romantic comedy-drama with a thriller edge — never CGI, never a video game, never an advertisement, never a TV soap look.
+
+[PLACE] A quiet hospital corridor by day: pale walls, a long window, a wooden bench, a potted fern; cool white light. The attached image "Bối cảnh · Hành lang bệnh viện" shows this exact set: match its architecture, furniture, colours and light, seen from this shot's camera angle; never show the reference image itself.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly; only face and clothes come from it, never its background.
+- @Khang = Khang, the doctor: a handsome 34-year-old Vietnamese man with gentle intellectual looks, tall and lean, fair clear skin, soft tousled black hair, kind calm eyes behind thin rimless glasses, a dry half-smile; wears a crisp white doctor's coat over a light-blue shirt, a stethoscope around the neck. Attached image: "Khang · Áo blouse".
+- @Quan = Quân, the husband: a strikingly handsome 36-year-old Vietnamese man, tall and athletic, sharp jawline, neatly styled short black hair with a side part, warm expressive dark eyes, light designer stubble, a charming dimpled smile; wears a tailored navy suit, crisp white shirt open at the collar, silver wristwatch. Attached image: "Quân · Vest navy".
+Nobody else is in focus.
+
+[CAMERA] 35mm medium two-shot of @Khang (the doctor) and @Quan (the husband), both faces readable; a smooth tracking move that follows the action.
+
+[ACTION] In the corridor, Khang walks beside Quan holding a blank white folder.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Khang (man of 34, calm soft-spoken tenor, gentle and bone-dry, speaking at a natural conversational pace, clinical), said exactly once from 0.3s to 3.5s: "Mất trí nhớ ngược dòng. Chị ấy quên đúng mười năm gần nhất."
+Only @Khang moves the lips; @Quan listens with the mouth closed. After the last word nobody speaks again until 5.0s.
+Voice: standard Hà Nội Northern Vietnamese with natural Northern tones (never Southern or Central accents); a real actor recorded close on set with a little room tone, real breaths and tiny natural hesitations — never a voice-over or text-to-speech. Speak only the Vietnamese words inside the double quotes, once; never read these directions, names or tags aloud.
+
+[SOUND] distant hospital footsteps, a soft announcement chime with no words, air conditioning. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flat TV lighting; robotic or text-to-speech sounding voices; flat monotone delivery; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

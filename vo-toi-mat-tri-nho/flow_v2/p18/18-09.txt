@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Hung leans in over the lamp.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Hung in Hưng's one fixed voice (the voice saved on the attached character, "Charon": man of 42, low silky baritone, slow and polite; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, ice cold, said exactly once from 0.3s to 3.1s: "Chú nên chuẩn bị đơn từ chức đi là vừa."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Hung (man of 42, low silky baritone, slow and polite, every word a quiet threat, speaking slowly and softly with small natural pauses, ice cold), said exactly once from 0.3s to 3.1s: "Chú nên chuẩn bị đơn từ chức đi là vừa."
 Only @Hung moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a heavy silence, a ticking clock, paper sliding on stone. No music.

@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] At the front door, Khang lowers his voice as Quan sees him out.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Khang in Khang's one fixed voice (the voice saved on the attached character, "Iapetus": man of 34, calm gentle tenor, dry; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, low, serious, said exactly once from 0.3s to 3.6s: "Tuần trước có người tên Hưng đến hỏi bệnh án vợ anh."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Khang (man of 34, calm soft-spoken tenor, gentle and bone-dry, speaking slowly and softly with small natural pauses, low, serious), said exactly once from 0.3s to 3.6s: "Tuần trước có người tên Hưng đến hỏi bệnh án vợ anh."
 Only @Khang moves the lips; @Quan listens with the mouth closed. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] birdsong from the garden, a clock ticking, pages turning. No music.

@@ -27,7 +27,7 @@ P(1, "99 bông hồng và một lời nói dối", "B1", {"Linh": "L1", "Tuan": 
       say=("Tuan", "fast", "over-cheerful", "Chị Linh ơi! Anh Quân họp gấp với đối tác Nhật, gửi chị bó hoa này ạ!")),
     S(3, "CU push", ["Linh"], "Linh does not look at the roses; a faint, knowing smile",
       say=("Linh", "slow", "light, amused", "Thế cơ à?")),
-    S(3, "CU static", ["Tuan"], "Tuan blinks, mouth half open, the roses drooping in his arms; he did not understand a word."),
+    S(3, "CU static", ["Tuan"], "Tuan blinks, mouth half open, the roses drooping in his arms; her calm throws him completely."),
     S(5, "OTS dolly", ["Linh", "Tuan"], "Linh finally lifts her eyes to him, calm as still water",
       say=("Linh", "slow", "cool and quiet", "Mười năm ngày cưới, chồng chị gửi hoa thay mình à?")),
     S(4, "MS handheld", ["Tuan"], "Tuan nods far too many times, forcing a dimpled grin",

@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+"""Ghép phim "Hợp Đồng Làm Cháu" bản V3 từ film/v3/clips/<shot>.mp4.
+Chạy từ gốc repo:  python3 hop-dong-lam-chau/_tools/ghep_phim.py [07 08 ...]
+- Không truyền cảnh: ghép toàn bộ 00–20 thành film/v3/Hop_Dong_Lam_Chau_FULL.mp4
+- Có truyền cảnh: ghép riêng các cảnh đó thành film/v3/canh/<cảnh>.mp4
+Mỗi shot cắt đúng số giây trong bảng shot, chuẩn hoá 1280x720 24fps, giữa các cảnh có 0,6 giây đen."""
+import os, subprocess, sys, tempfile
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+sys.path.insert(0, HERE)
+import build_shots as S1
+import build_shots_2 as S2
+
+CLIPS = os.path.join(ROOT, "film", "v3", "clips")
+W, H, FPS = 1280, 720, 24
+
+
+def plan():
+    out = {}
+    for sc, (_, shots) in list(S1.SCENES.items()) + list(S2.SCENES.items()):
+        out[sc] = [(s[0], s[2]) for s in shots]
+    return dict(sorted(out.items()))
+
+
+def run(cmd):
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.returncode:
+        sys.exit("ffmpeg lỗi:\n" + r.stderr[-1200:])
+
+
+def norm(src, dst, dur):
+    vf = f"scale={W}:{H}:force_original_aspect_ratio=decrease,pad={W}:{H}:(ow-iw)/2:(oh-ih)/2,fps={FPS},format=yuv420p"
+    run(["ffmpeg", "-y", "-i", src, "-t", str(dur), "-vf", vf, "-af", "aresample=48000,apad",
+         "-c:v", "libx264", "-preset", "medium", "-crf", "18", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2", dst])
+
+
+def black(dst, d=0.6):
+    run(["ffmpeg", "-y", "-f", "lavfi", "-i", f"color=c=black:s={W}x{H}:r={FPS}:d={d}", "-f", "lavfi", "-i",
+         f"anullsrc=r=48000:cl=stereo", "-t", str(d), "-c:v", "libx264", "-pix_fmt", "yuv420p", "-c:a", "aac", "-ar", "48000", "-ac", "2", dst])
+
+
+def main():
+    P = plan()
+    scenes = sys.argv[1:] or list(P)
+    missing = [c for sc in scenes for c, _ in P[sc] if not os.path.exists(os.path.join(CLIPS, f"{c}.mp4"))]
+    if missing:
+        print("Thiếu clip (bỏ qua):", ", ".join(missing))
+    tmp = tempfile.mkdtemp()
+    blk = os.path.join(tmp, "black.mp4"); black(blk)
+    segs = []
+    for i, sc in enumerate(scenes):
+        if i: segs.append(blk)
+        for c, d in P[sc]:
+            src = os.path.join(CLIPS, f"{c}.mp4")
+            if not os.path.exists(src):
+                continue
+            dst = os.path.join(tmp, f"{c}.mp4"); norm(src, dst, d); segs.append(dst)
+    lst = os.path.join(tmp, "list.txt")
+    with open(lst, "w") as f:
+        f.writelines(f"file '{s}'\n" for s in segs)
+    if len(sys.argv) > 1:
+        os.makedirs(os.path.join(ROOT, "film", "v3", "canh"), exist_ok=True)
+        out = os.path.join(ROOT, "film", "v3", "canh", f"canh-{scenes[0]}" + (f"-{scenes[-1]}" if len(scenes) > 1 else "") + ".mp4")
+    else:
+        out = os.path.join(ROOT, "film", "v3", "Hop_Dong_Lam_Chau_FULL.mp4")
+    run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", "-movflags", "+faststart", out])
+    print("Xong:", out, f"({len(segs)} đoạn)")
+
+
+if __name__ == "__main__":
+    main()

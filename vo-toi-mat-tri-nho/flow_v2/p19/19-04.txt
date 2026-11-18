@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Bong pats his arm.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong in Bống's one fixed voice (the voice saved on the attached character, "Zephyr": girl of 7, high clear child voice; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, comforting, said exactly once from 0.3s to 2.5s: "Bố đừng buồn! Mẹ chỉ giả vờ thôi mà… Á!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong (girl of 7, high clear child's voice, bright and earnest, speaking quickly in short lively phrases, every word clear, comforting), said exactly once from 0.3s to 2.5s: "Bố đừng buồn! Mẹ chỉ giả vờ thôi mà… Á!"
 Only @Bong moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a pan sizzling, birdsong, a spoon against a cup. No music.

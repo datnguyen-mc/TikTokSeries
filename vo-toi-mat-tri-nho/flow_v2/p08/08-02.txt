@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Mai Anh slides a white sheet into a stack of papers and offers a pen.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @MaiAnh in Mai Anh's one fixed voice (the voice saved on the attached character, "Achernar": young woman of 25, bright airy soprano; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, casual, said exactly once from 0.3s to 3.0s: "Chị ký giúp em vào phiếu tập phục hồi này nhé."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @MaiAnh (young woman of 25, bright sweet soprano with a playful lilt, light and quick, speaking at a natural conversational pace, casual), said exactly once from 0.3s to 3.0s: "Chị ký giúp em vào phiếu tập phục hồi này nhé."
 Only @MaiAnh moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] birdsong, leaves rustling, slow breathing. No music.

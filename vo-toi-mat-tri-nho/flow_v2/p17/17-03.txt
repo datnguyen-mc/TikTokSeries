@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] The door opens on Mai Anh, soaked to the skin, hair clinging to her face.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @MaiAnh in Mai Anh's one fixed voice (the voice saved on the attached character, "Achernar": young woman of 25, bright airy soprano; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, trembling, said exactly once from 0.3s to 1.7s: "Em không đi đâu nữa."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @MaiAnh (young woman of 25, bright sweet soprano with a playful lilt, light and quick, speaking slowly and softly with small natural pauses, trembling), said exactly once from 0.3s to 1.7s: "Em không đi đâu nữa."
 Only @MaiAnh moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] birdsong outside, a heavy door, footsteps on stone. No music.

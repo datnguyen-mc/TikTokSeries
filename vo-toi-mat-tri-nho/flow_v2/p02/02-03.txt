@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] Quan adjusts his cufflink and gives a practiced smile, glancing at the elevators.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, smooth liar, said exactly once from 0.3s to 3.8s: "Anh với cô ấy ly thân hai năm rồi. Chỉ còn tờ giấy thôi."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking at a natural conversational pace, smooth liar), said exactly once from 0.3s to 3.8s: "Anh với cô ấy ly thân hai năm rồi. Chỉ còn tờ giấy thôi."
 Only @Quan moves the lips; @MaiAnh listens with the mouth closed. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] the hush of a grand lobby, heels on marble, a distant elevator chime, a fountain trickling. No music.

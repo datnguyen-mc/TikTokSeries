@@ -1,0 +1,20 @@
+A single continuous 7-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Cinematic live-action film shot on ARRI Alexa 35 with vintage spherical lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable understated performances, motivated practical lighting, soft contrast, warm amber-and-jade grade, gentle halation, subtle 35mm film grain, shallow depth of field. A premium Vietnamese theatrical family comedy-drama set in a Northern Vietnamese village in the last days before Lunar New Year, never CGI, never a video game, never an advertisement.
+
+[PLACE] A small rural district bus station in Northern Vietnam a few days before Lunar New Year: faded coaches, red lanterns strung under a tin awning, travellers carrying peach-blossom branches and gift boxes; hazy grey winter morning light.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @BaMan = Bà Mận, the grandmother (a warm); wears a maroon quilted jacket, a dark-brown wool headscarf tied under the chin, black trousers, a cloth shoulder bag clutched tight. Attached image: "Bà Mận · Áo bông đi đường".
+Nobody else is in focus.
+
+[CAMERA] 85mm close-up, very slow push-in.
+
+[ACTION] BaMan speaks quietly, her eyes wet and worried, twisting the strap of her cloth bag.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @BaMan (woman of 72, soft warm alto, a little breathless, speaking fast and low when nervous), said exactly once from 0.5s to 5.8s: Từ hôm tai biến ông hay lẫn. Nhưng chuyện thằng Minh thì ông nhớ từng tí.
+Only @BaMan moves the lips. After the last word nobody speaks again until 7.0s. Standard Northern Vietnamese accent; never read these directions aloud.
+
+[SOUND] coach engines idling, a conductor calling out far away, rustling plastic bags. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

@@ -17,7 +17,7 @@ Mỗi phần ~1 phút, ghép từ các shot 3–5 giây trên tính năng "Cản
 | 3 | 4s | B1 | Chèn chi tiết, chuyển nét | Linh (L1) | Macro on the small cherry-blossom hairpin in Linh's hair, then rack focus to the untouched second wine glass across the table | *(im lặng)* |
 | 4 | 5s | B1 | Trung, bám theo | Tuấn (T1) | Tuan hurries across the terrace hugging a huge bouquet of ninety-nine red roses, beaming too hard | **Tuấn:** Chị Linh ơi! Anh Quân họp gấp với đối tác Nhật, gửi chị bó hoa này ạ! |
 | 5 | 3s | B1 | Cận, đẩy vào chậm | Linh (L1) | Linh does not look at the roses; a faint, knowing smile | **Linh:** Thế cơ à? |
-| 6 | 3s | B1 | Cận, đứng yên | Tuấn (T1) | Tuan blinks, mouth half open, the roses drooping in his arms; he did not understand a word | *(im lặng)* |
+| 6 | 3s | B1 | Cận, đứng yên | Tuấn (T1) | Tuan blinks, mouth half open, the roses drooping in his arms; her calm throws him completely | *(im lặng)* |
 | 7 | 5s | B1 | Qua vai, lia ngang | Linh (L1), Tuấn (T1) | Linh finally lifts her eyes to him, calm as still water | **Linh:** Mười năm ngày cưới, chồng chị gửi hoa thay mình à? |
 | 8 | 4s | B1 | Trung, cầm tay | Tuấn (T1) | Tuan nods far too many times, forcing a dimpled grin | **Tuấn:** Dạ, chín mươi chín bông, em đếm hai lần rồi ạ! |
 | 9 | 3s | B1 | Chèn chi tiết, đẩy vào chậm | Linh (L1) | Linh's manicured hand lays the bouquet face-down on the white tablecloth, petals scattering | *(im lặng)* |
@@ -587,16 +587,16 @@ Mỗi phần ~1 phút, ghép từ các shot 3–5 giây trên tính năng "Cản
 
 - **Móc 3 giây đầu:** Cùng sân thượng ấy, lần này người ngồi chờ là anh.
 - **Câu treo:** Bống: "Thế chú mắc thử đi! Biết đâu chú lấy được vợ!"
-- **Chuyển sang phần sau:** KẾT: kẹp tóc hoa anh đào cài lên bó cúc trắng, pháo hoa trên mặt hồ.
+- **Chuyển sang phần sau:** KẾT: kẹp tóc hoa anh đào cài lên bó 99 bông hồng đỏ, pháo hoa trên mặt hồ.
 
 | # | Dài | Bối cảnh | Máy quay | Ai trong khung | Hành động | Thoại |
 |---|---|---|---|---|---|---|
 | 1 | 3s | B1 | Chèn chi tiết, kéo ra chậm | — | Match from the candle: the flame, then a slow pull back reveals the candlelit rooftop table | *(im lặng)* |
-| 2 | 4s | B1 | Toàn, đứng yên | Quân (Q7) | Mirror of the opening: Quan in a black tuxedo already waiting alone at the table, a bouquet of white daisies in his hands, checking his watch | *(im lặng)* |
+| 2 | 4s | B1 | Toàn, đứng yên | Quân (Q7) | Mirror of the opening: Quan in a black tuxedo already waiting alone at the table, a bouquet of ninety-nine red roses in his arms, checking his watch | *(im lặng)* |
 | 3 | 4s | B1 | Toàn, lia ngang | Linh (L12) | The brass elevator opens; Linh steps out in a deep-red silk gown | *(im lặng)* |
 | 4 | 3s | B1 | Cận, đứng yên | Linh (L12) | Linh, amused | **Linh:** Anh đến từ bao giờ thế? |
 | 5 | 3s | B1 | Cận, cầm tay | Quân (Q7) | Quan stands too quickly | **Quân:** Từ năm giờ chiều! Không đối tác Nhật nào hết! |
-| 6 | 5s | B1 | Trung, đẩy vào chậm | Quân (Q7) | Quan offers the white daisies | **Quân:** Chín mươi chín bông là cho em. Bông thứ một trăm là anh. |
+| 6 | 5s | B1 | Trung, đẩy vào chậm | Quân (Q7) | Quan offers the ninety-nine red roses himself | **Quân:** Chín mươi chín bông là cho em. Bông thứ một trăm là anh. |
 | 7 | 3s | B1 | Cận, đứng yên | Linh (L12) | Linh's eyes shine | *(im lặng)* |
 | 8 | 4s | B1 | Cận, đẩy vào chậm | Linh (L12) | Linh takes the flowers | **Linh:** Hợp đồng dài hạn. Nhưng mỗi năm gia hạn một lần. |
 | 9 | 3s | B1 | Cận, đứng yên | Quân (Q7) | Quan grins | **Quân:** Thì mỗi năm anh tán em lại từ đầu. |
@@ -605,7 +605,7 @@ Mỗi phần ~1 phút, ghép từ các shot 3–5 giây trên tính năng "Cản
 | 12 | 4s | B1 | Cận, đứng yên | Tuấn (T3) | Tuan, wise for once | **Tuấn:** Bệnh của người lớn. Ai khỏi thì nhà ấy vui hơn. |
 | 13 | 4s | B1 | Cận, đẩy vào chậm | Bống (BO4) | Bong points her cake fork at him | **Bống:** Thế chú mắc thử đi! Biết đâu chú lấy được vợ! |
 | 14 | 3s | B1 | Cận, đứng yên | Tuấn (T3) | Tuan coughs on his cake, then bursts out laughing | *(im lặng)* |
-| 15 | 4s | B1 | Chèn chi tiết, kéo ra chậm | Linh (L12) | Final shot: Linh's hand sets the cherry-blossom hairpin on the bouquet of white daisies; slow pull back as fireworks reflect on the lake | *(im lặng)* |
+| 15 | 4s | B1 | Chèn chi tiết, kéo ra chậm | Linh (L12) | Final shot: Linh's hand sets the cherry-blossom hairpin on the bouquet of red roses; slow pull back as fireworks reflect on the lake | *(im lặng)* |
 
 *Tổng phần 25: 15 shot, ~55s.*
 

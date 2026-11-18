@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] Tuan bounces to the desk with his tablet.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Tuan in Tuấn's one fixed voice (the voice saved on the attached character, "Fenrir": man of 35, lively light nasal tenor; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, eager, said exactly once from 0.3s to 3.0s: "Anh ơi, ba mươi ngày tán lại vợ! Để em làm quân sư!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Tuan (man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out, speaking quickly in short lively phrases, every word clear, eager), said exactly once from 0.3s to 3.0s: "Anh ơi, ba mươi ngày tán lại vợ! Để em làm quân sư!"
 Only @Tuan moves the lips; @Quan listens with the mouth closed. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a quiet office hum, the city far below, a pen scratching. No music.

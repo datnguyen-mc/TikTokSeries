@@ -1,0 +1,21 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Cinematic live-action film shot on ARRI Alexa 35 with vintage spherical lenses, 24 fps, 16:9; real actors with natural skin texture, pores and micro-expressions, believable understated performances, motivated practical lighting, soft contrast, warm amber-and-jade grade, gentle halation, subtle 35mm film grain, shallow depth of field. A premium Vietnamese theatrical family comedy-drama set in a Northern Vietnamese village in the last days before Lunar New Year, never CGI, never a video game, never an advertisement.
+
+[PLACE] A small rural district bus station in Northern Vietnam a few days before Lunar New Year: faded coaches, red lanterns strung under a tin awning, travellers carrying peach-blossom branches and gift boxes; hazy grey winter morning light.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @BaMan = Bà Mận, the grandmother (a warm); wears a maroon quilted jacket, a dark-brown wool headscarf tied under the chin, black trousers, a cloth shoulder bag clutched tight. Attached image: "Bà Mận · Áo bông đi đường".
+- @Dat = Đạt, the hired fake grandson (an affable 25-year-old Vietnamese man); wears a trying-too-hard outfit: a shiny olive bomber jacket over a crisp white shirt buttoned to the top, brand-new stiff blue jeans, bright white sneakers, a big black backpack. Attached image: "Đạt · Bomber ra mắt".
+Nobody else is in focus.
+
+[CAMERA] 50mm two-shot, slow push-in.
+
+[ACTION] BaMan suddenly grabs Dat's hand with both of hers and grips it hard, looking up at him with fierce, frightened eyes.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @BaMan (woman of 72, soft warm alto, a little breathless, speaking fast and low when nervous), said exactly once from 0.4s to 3.9s: Lộ ra là ông đuổi cả hai bà cháu ra đường đấy.
+Only @BaMan moves the lips. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
+
+[SOUND] coach engines idling, a conductor calling out far away, rustling plastic bags. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

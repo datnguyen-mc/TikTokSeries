@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] Bong runs across the living room straight into Linh's open arms.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong in Bống's one fixed voice (the voice saved on the attached character, "Zephyr": girl of 7, high clear child voice; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, overjoyed, said exactly once from 0.3s to 1.4s: "Mẹ ơi! Mẹ về rồi!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Bong (girl of 7, high clear child's voice, bright and earnest, speaking quickly in short lively phrases, every word clear, overjoyed), said exactly once from 0.3s to 1.4s: "Mẹ ơi! Mẹ về rồi!"
 Only @Bong moves the lips; @Linh listens with the mouth closed. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a quiet big house, wind in the garden trees, a clock ticking. No music.

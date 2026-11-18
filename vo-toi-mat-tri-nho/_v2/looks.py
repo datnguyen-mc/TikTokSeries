@@ -13,19 +13,16 @@ FACE = {
 NAME = {"Linh": "Linh", "Quan": "Quân", "MaiAnh": "Mai Anh", "Khang": "Khang", "Tuan": "Tuấn", "Bong": "Bống", "Hung": "Hưng"}
 ROLE = {"Linh": "the wife", "Quan": "the husband", "MaiAnh": "the young woman", "Khang": "the doctor",
         "Tuan": "the assistant", "Bong": "the little girl", "Hung": "the vice president"}
-VOICE = {  # giọng cố định của từng nhân vật: không đổi theo trang phục, cảm xúc hay phân cảnh
-    "Linh": "woman of 32, clear warm alto, elegant",
-    "Quan": "man of 36, smooth resonant baritone, charming",
-    "MaiAnh": "young woman of 25, bright airy soprano",
-    "Khang": "man of 34, calm gentle tenor, dry",
-    "Tuan": "man of 35, lively light nasal tenor",
-    "Bong": "girl of 7, high clear child voice",
-    "Hung": "man of 42, low silky baritone, slow and polite",
+VOICE = {  # "giọng A" (18/11/2026): giọng diễn viên thật kiểu phim Cái Kết Cho Tiểu Tam; câu tả cố định, lặp y hệt mọi clip; KHÔNG gắn giọng preset Flow
+    "Linh": "woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction",
+    "Quan": "man of 36, smooth warm baritone, confident and charming, a little boyish",
+    "MaiAnh": "young woman of 25, bright sweet soprano with a playful lilt, light and quick",
+    "Khang": "man of 34, calm soft-spoken tenor, gentle and bone-dry",
+    "Tuan": "man of 35, light bright tenor, slightly nasal and quick, eager to please, words tumbling out",
+    "Bong": "girl of 7, high clear child's voice, bright and earnest",
+    "Hung": "man of 42, low silky baritone, slow and polite, every word a quiet threat",
 }
-FLOW_VOICE = {  # giọng đã gán cho mọi bộ đồ của nhân vật trên Flow
-    "Linh": "Aoede", "Quan": "Giọng Quân", "MaiAnh": "Achernar", "Khang": "Iapetus",
-    "Tuan": "Fenrir", "Bong": "Zephyr", "Hung": "Charon",
-}
+FLOW_VOICE = {}  # bỏ giọng preset Flow từ 18/11/2026
 RATE = {"Bong": 3.8}  # âm tiết/giây; mặc định 4.0
 
 # Mã bộ đồ → (người, tên trên Flow, mô tả trang phục tiếng Anh)

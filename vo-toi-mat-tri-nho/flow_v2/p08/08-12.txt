@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Linh, very quiet.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh in Linh's one fixed voice (the voice saved on the attached character, "Aoede": woman of 32, clear warm alto, elegant; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, cold realisation, said exactly once from 0.3s to 3.6s: "Có người muốn tôi ký. Và người đó không phải chồng tôi."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking slowly and softly with small natural pauses, cold realisation), said exactly once from 0.3s to 3.6s: "Có người muốn tôi ký. Và người đó không phải chồng tôi."
 Only @Linh moves the lips. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a quiet night house, a lamp switch, crickets outside. No music.

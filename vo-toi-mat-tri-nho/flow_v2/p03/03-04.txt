@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Linh tosses her hair and does a tiny model pose against the pillows.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh in Linh's one fixed voice (the voice saved on the attached character, "Aoede": woman of 32, clear warm alto, elegant; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, playful and indignant, said exactly once from 0.3s to 3.4s: "Chồng á? Tôi mới hai mươi hai tuổi, đang đi thi người mẫu cơ mà!"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking quickly in short lively phrases, every word clear, playful and indignant), said exactly once from 0.3s to 3.4s: "Chồng á? Tôi mới hai mươi hai tuổi, đang đi thi người mẫu cơ mà!"
 Only @Linh moves the lips. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a soft monitor beep, quiet air conditioning, birds outside. No music.

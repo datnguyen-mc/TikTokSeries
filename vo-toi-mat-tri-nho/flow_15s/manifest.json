@@ -1,0 +1,2709 @@
+[
+ {
+  "id": "01-1",
+  "part": 1,
+  "title": "99 bông hồng và một lời nói dối",
+  "dur": 15,
+  "shots": [
+   "01-01",
+   "01-02",
+   "01-03",
+   "01-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Dạ hội xanh",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Tuấn: Chị Linh ơi! Anh Quân họp gấp với đối tác Nhật, gửi chị bó hoa này ạ!"
+  ],
+  "prompt_chars": 5506,
+  "flow_name": "P01-C1 · 99 bông hồng và một lời nói dối"
+ },
+ {
+  "id": "01-2",
+  "part": 1,
+  "title": "99 bông hồng và một lời nói dối",
+  "dur": 15,
+  "shots": [
+   "01-05",
+   "01-06",
+   "01-07",
+   "01-08"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Dạ hội xanh",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Thế cơ à?",
+   "Linh: Mười năm ngày cưới, chồng chị gửi hoa thay mình à?",
+   "Tuấn: Dạ, chín mươi chín bông, em đếm hai lần rồi ạ!"
+  ],
+  "prompt_chars": 5625,
+  "flow_name": "P01-C2 · 99 bông hồng và một lời nói dối"
+ },
+ {
+  "id": "01-3",
+  "part": 1,
+  "title": "99 bông hồng và một lời nói dối",
+  "dur": 15,
+  "shots": [
+   "01-09",
+   "01-10",
+   "01-11",
+   "01-12"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Dạ hội xanh",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Đối tác Nhật gì mà mặc váy trắng, khoác tay chồng chị thế kia?"
+  ],
+  "prompt_chars": 5268,
+  "flow_name": "P01-C3 · 99 bông hồng và một lời nói dối"
+ },
+ {
+  "id": "01-4",
+  "part": 1,
+  "title": "99 bông hồng và một lời nói dối",
+  "dur": 15,
+  "shots": [
+   "01-13",
+   "01-14",
+   "01-15"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Tuấn · Vest be",
+   "Linh · Dạ hội xanh"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Tuấn: Chắc là… phiên dịch ạ! Phiên dịch bây giờ trẻ lắm chị ạ!",
+   "Linh: Thế thì chị xuống chào đối tác Nhật một câu."
+  ],
+  "prompt_chars": 5182,
+  "flow_name": "P01-C4 · 99 bông hồng và một lời nói dối"
+ },
+ {
+  "id": "02-1",
+  "part": 2,
+  "title": "Đối tác Nhật lai Hàn",
+  "dur": 15,
+  "shots": [
+   "02-01",
+   "02-02",
+   "02-03"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   9.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Váy trắng",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Tối nay anh nói với bà ấy đi. Không thì em nói.",
+   "Quân: Anh với cô ấy ly thân hai năm rồi. Chỉ còn tờ giấy thôi."
+  ],
+  "prompt_chars": 4940,
+  "flow_name": "P02-C1 · Đối tác Nhật lai Hàn"
+ },
+ {
+  "id": "02-2",
+  "part": 2,
+  "title": "Đối tác Nhật lai Hàn",
+  "dur": 15,
+  "shots": [
+   "02-04",
+   "02-05",
+   "02-06",
+   "02-07"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Mai Anh · Váy trắng",
+   "Linh · Dạ hội xanh"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Quân: Em ra sau cột kia đứng một lát! Nhanh lên!",
+   "Mai Anh: Vâng, anh Hưng. Đúng như kế hoạch.",
+   "Quân: Vợ ơi! Sao em lại xuống đây?"
+  ],
+  "prompt_chars": 5842,
+  "flow_name": "P02-C2 · Đối tác Nhật lai Hàn"
+ },
+ {
+  "id": "02-3",
+  "part": 2,
+  "title": "Đối tác Nhật lai Hàn",
+  "dur": 15,
+  "shots": [
+   "02-08",
+   "02-09",
+   "02-10",
+   "02-11"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   8.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Dạ hội xanh",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Em xuống chào đối tác Nhật. Cô ấy sau cái cột kia, phải không anh?",
+   "Quân: Cột nào? Khách sạn này toàn cột thôi em ạ!"
+  ],
+  "prompt_chars": 5298,
+  "flow_name": "P02-C3 · Đối tác Nhật lai Hàn"
+ },
+ {
+  "id": "02-4",
+  "part": 2,
+  "title": "Đối tác Nhật lai Hàn",
+  "dur": 15,
+  "shots": [
+   "02-12",
+   "02-13",
+   "02-14",
+   "02-15"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   8.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Dạ hội xanh",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Anh… là ai nhỉ?"
+  ],
+  "prompt_chars": 4971,
+  "flow_name": "P02-C4 · Đối tác Nhật lai Hàn"
+ },
+ {
+  "id": "03-1",
+  "part": 3,
+  "title": "Tôi hai mươi hai tuổi, chưa chồng",
+  "dur": 15,
+  "shots": [
+   "03-01",
+   "03-02",
+   "03-03",
+   "03-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Áo bệnh viện",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Bỏ tay ra! Tôi còn chưa có người yêu đâu đấy!",
+   "Quân: Người yêu gì? Anh là chồng em, mười năm rồi!",
+   "Linh: Chồng á? Tôi mới hai mươi hai tuổi, đang đi thi người mẫu cơ mà!"
+  ],
+  "prompt_chars": 5523,
+  "flow_name": "P03-C1 · Tôi hai mươi hai tuổi, chưa chồng"
+ },
+ {
+  "id": "03-2",
+  "part": 3,
+  "title": "Tôi hai mươi hai tuổi, chưa chồng",
+  "dur": 15,
+  "shots": [
+   "03-05",
+   "03-06",
+   "03-07",
+   "03-08"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Áo bệnh viện",
+   "Quân · Vest navy",
+   "Khang · Áo blouse"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Linh: Bống thì tôi nhớ. Còn anh thì chịu.",
+   "Khang: Mất trí nhớ ngược dòng. Chị ấy quên đúng mười năm gần nhất.",
+   "Quân: Đúng mười năm lấy tôi? Sao quên chính xác thế?"
+  ],
+  "prompt_chars": 6012,
+  "flow_name": "P03-C2 · Tôi hai mươi hai tuổi, chưa chồng"
+ },
+ {
+  "id": "03-3",
+  "part": 3,
+  "title": "Tôi hai mươi hai tuổi, chưa chồng",
+  "dur": 15,
+  "shots": [
+   "03-09",
+   "03-10",
+   "03-11"
+  ],
+  "edges": [
+   0.0,
+   6.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Khang · Áo blouse",
+   "Tuấn · Vest be",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Khang: Có chọn lọc, anh ạ. Cái gì đau quá, não tự cất đi.",
+   "Tuấn: Anh ơi, quỹ Hoa Anh Đào vừa gọi! Chủ tịch quỹ muốn gặp vợ chồng anh!"
+  ],
+  "prompt_chars": 5135,
+  "flow_name": "P03-C3 · Tôi hai mươi hai tuổi, chưa chồng"
+ },
+ {
+  "id": "03-4",
+  "part": 3,
+  "title": "Tôi hai mươi hai tuổi, chưa chồng",
+  "dur": 15,
+  "shots": [
+   "03-12",
+   "03-13",
+   "03-14"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Tuấn · Vest be",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Tuấn: Hạn ba mươi ngày. Thấy gia đình hạnh phúc thì rót hai trăm tỷ.",
+   "Quân: Hạnh phúc… với một người không nhớ mình là ai."
+  ],
+  "prompt_chars": 4845,
+  "flow_name": "P03-C4 · Tôi hai mươi hai tuổi, chưa chồng"
+ },
+ {
+  "id": "04-1",
+  "part": 4,
+  "title": "Bác sĩ đồng phạm",
+  "dur": 15,
+  "shots": [
+   "04-01",
+   "04-02",
+   "04-03",
+   "04-04"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Áo bệnh viện",
+   "Khang · Áo blouse"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Đi chưa?",
+   "Khang: Đi rồi. Diễn viên xuất sắc nhất năm.",
+   "Linh: Tớ ngất có đẹp không? Tớ tập ở nhà ba lần đấy!"
+  ],
+  "prompt_chars": 5190,
+  "flow_name": "P04-C1 · Bác sĩ đồng phạm"
+ },
+ {
+  "id": "04-2",
+  "part": 4,
+  "title": "Bác sĩ đồng phạm",
+  "dur": 15,
+  "shots": [
+   "04-05",
+   "04-06",
+   "04-07"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Áo bệnh viện",
+   "Khang · Áo blouse"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Tớ thấy tận mắt rồi, Khang ạ. Anh ấy với cô váy trắng.",
+   "Khang: Thế sao không làm ầm lên? Cậu có đủ bằng chứng mà.",
+   "Linh: Làm ầm thì mất chồng. Diễn thì biết anh ấy thật lòng đến đâu."
+  ],
+  "prompt_chars": 5186,
+  "flow_name": "P04-C2 · Bác sĩ đồng phạm"
+ },
+ {
+  "id": "04-3",
+  "part": 4,
+  "title": "Bác sĩ đồng phạm",
+  "dur": 15,
+  "shots": [
+   "04-08",
+   "04-09",
+   "04-10"
+  ],
+  "edges": [
+   0.0,
+   6.0,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Khang · Áo blouse",
+   "Linh · Áo bệnh viện"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Khang: Được. Bệnh án ghi: mất trí nhớ có chọn lọc."
+  ],
+  "prompt_chars": 4470,
+  "flow_name": "P04-C3 · Bác sĩ đồng phạm"
+ },
+ {
+  "id": "04-4",
+  "part": 4,
+  "title": "Bác sĩ đồng phạm",
+  "dur": 15,
+  "shots": [
+   "04-11",
+   "04-12",
+   "04-13",
+   "04-14"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   7.5,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Áo bệnh viện",
+   "Khang · Áo blouse"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Ba mươi ngày. Bắt đầu đếm.",
+   "Khang: Khoan. Sao lại đúng ba mươi ngày?"
+  ],
+  "prompt_chars": 5015,
+  "flow_name": "P04-C4 · Bác sĩ đồng phạm"
+ },
+ {
+  "id": "05-1",
+  "part": 5,
+  "title": "Anh tài xế",
+  "dur": 15,
+  "shots": [
+   "05-01",
+   "05-02",
+   "05-03",
+   "05-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.0,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Bống · Váy vàng",
+   "Linh · Lụa ngà"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Bống: Mẹ ơi! Mẹ về rồi!",
+   "Linh: Bống của mẹ. Thích sữa dâu, sợ sâu róm, ngủ phải ôm thỏ.",
+   "Bống: Thế còn bố? Mẹ có nhớ bố không?"
+  ],
+  "prompt_chars": 5583,
+  "flow_name": "P05-C1 · Anh tài xế"
+ },
+ {
+  "id": "05-2",
+  "part": 5,
+  "title": "Anh tài xế",
+  "dur": 15,
+  "shots": [
+   "05-05",
+   "05-06",
+   "05-07",
+   "05-08"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Linh · Lụa ngà"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Anh tài xế để va li ở đấy được rồi. Cảm ơn anh.",
+   "Quân: Tài xế? Anh là chồng em! Anh xây cái nhà này!",
+   "Linh: Phòng ngủ tôi lấy. Anh ngủ sô pha nhé, anh hàng xóm."
+  ],
+  "prompt_chars": 5436,
+  "flow_name": "P05-C2 · Anh tài xế"
+ },
+ {
+  "id": "05-3",
+  "part": 5,
+  "title": "Anh tài xế",
+  "dur": 15,
+  "shots": [
+   "05-09",
+   "05-10",
+   "05-11"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Linh · Lụa tím ngủ"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Mai họp quỹ… nhớ mang con dấu…",
+   "Quân: Họp quỹ… nào?"
+  ],
+  "prompt_chars": 5137,
+  "flow_name": "P05-C3 · Anh tài xế"
+ },
+ {
+  "id": "05-4",
+  "part": 5,
+  "title": "Anh tài xế",
+  "dur": 15,
+  "shots": [
+   "05-12",
+   "05-13",
+   "05-14",
+   "05-15"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Măng tô mưa",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Hưng: Nghe nói vợ chú mất trí nhớ. Tiếc thật.",
+   "Hưng: Quỹ Hoa Anh Đào… rất coi trọng gia đình."
+  ],
+  "prompt_chars": 5006,
+  "flow_name": "P05-C4 · Anh tài xế"
+ },
+ {
+  "id": "06-1",
+  "part": 6,
+  "title": "Phó tổng mỉm cười",
+  "dur": 15,
+  "shots": [
+   "06-01",
+   "06-02",
+   "06-03"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Hưng · Vest đen"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Hưng: Phương án dự phòng, nếu Hoa Anh Đào rút. Tôi lo được.",
+   "Quân: Hoa Anh Đào sẽ không rút. Vợ tôi sẽ khỏi."
+  ],
+  "prompt_chars": 4713,
+  "flow_name": "P06-C1 · Phó tổng mỉm cười"
+ },
+ {
+  "id": "06-2",
+  "part": 6,
+  "title": "Phó tổng mỉm cười",
+  "dur": 15,
+  "shots": [
+   "06-04",
+   "06-05",
+   "06-06"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen",
+   "Tuấn · Vest be",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Hưng: Mong là vậy. Gia đình là thứ… dễ vỡ nhất.",
+   "Tuấn: Anh ơi, ba mươi ngày tán lại vợ! Để em làm quân sư!"
+  ],
+  "prompt_chars": 5104,
+  "flow_name": "P06-C2 · Phó tổng mỉm cười"
+ },
+ {
+  "id": "06-3",
+  "part": 6,
+  "title": "Phó tổng mỉm cười",
+  "dur": 15,
+  "shots": [
+   "06-07",
+   "06-08",
+   "06-09"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Cậu ế ba mươi lăm năm, làm quân sư cho ai?",
+   "Tuấn: Ế nhưng có nghề! Họp nào em cũng bật ghi âm, chẳng sót câu nào!",
+   "Quân: Cô ấy nhìn tôi như người lạ. Tôi thấy… sợ."
+  ],
+  "prompt_chars": 5019,
+  "flow_name": "P06-C3 · Phó tổng mỉm cười"
+ },
+ {
+  "id": "06-4",
+  "part": 6,
+  "title": "Phó tổng mỉm cười",
+  "dur": 15,
+  "shots": [
+   "06-10",
+   "06-11",
+   "06-12",
+   "06-13"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   8.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen"
+  ],
+  "chars_n": 1,
+  "lines": [
+   "Hưng: Mai Anh. Ngày mai em vào nhà hắn.",
+   "Hưng: Lần này, anh cần ảnh."
+  ],
+  "prompt_chars": 4482,
+  "flow_name": "P06-C4 · Phó tổng mỉm cười"
+ },
+ {
+  "id": "07-1",
+  "part": 7,
+  "title": "Tiểu tam vào nhà",
+  "dur": 15,
+  "shots": [
+   "07-01",
+   "07-02",
+   "07-03",
+   "07-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Đồ ngủ",
+   "Mai Anh · Đồ yoga"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Em… sao em lại ở đây?",
+   "Mai Anh: Chào anh. Em là huấn luyện viên phục hồi, anh Hưng giới thiệu ạ."
+  ],
+  "prompt_chars": 4933,
+  "flow_name": "P07-C1 · Tiểu tam vào nhà"
+ },
+ {
+  "id": "07-2",
+  "part": 7,
+  "title": "Tiểu tam vào nhà",
+  "dur": 15,
+  "shots": [
+   "07-05",
+   "07-06",
+   "07-07"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Cô gái 22",
+   "Mai Anh · Đồ yoga"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Ôi, cô giáo xinh quá! Vào đi em!",
+   "Linh: Dáng em đẹp thật. Giống hệt một người tôi gặp… trong mơ."
+  ],
+  "prompt_chars": 4942,
+  "flow_name": "P07-C2 · Tiểu tam vào nhà"
+ },
+ {
+  "id": "07-3",
+  "part": 7,
+  "title": "Tiểu tam vào nhà",
+  "dur": 15,
+  "shots": [
+   "07-08",
+   "07-09",
+   "07-10"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   8.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Linh · Cô gái 22"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Chị… mơ thấy gì ạ?",
+   "Linh: Váy đẹp đấy. Hôm trước tôi thấy một cái y hệt… ở sảnh khách sạn."
+  ],
+  "prompt_chars": 4866,
+  "flow_name": "P07-C3 · Tiểu tam vào nhà"
+ },
+ {
+  "id": "07-4",
+  "part": 7,
+  "title": "Tiểu tam vào nhà",
+  "dur": 15,
+  "shots": [
+   "07-11",
+   "07-12",
+   "07-13"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   9.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Quân · Đồ ngủ",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Tuấn: Chào em, anh là… Không, nghe như đi bán bảo hiểm!"
+  ],
+  "prompt_chars": 5181,
+  "flow_name": "P07-C4 · Tiểu tam vào nhà"
+ },
+ {
+  "id": "08-1",
+  "part": 8,
+  "title": "Đơn ly hôn thành thuyền giấy",
+  "dur": 15,
+  "shots": [
+   "08-01",
+   "08-02",
+   "08-03",
+   "08-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Cô gái 22",
+   "Mai Anh · Đồ yoga"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Chị ký giúp em vào phiếu tập phục hồi này nhé.",
+   "Linh: Phiếu tập gì mà có chỗ ghi… ly hôn?"
+  ],
+  "prompt_chars": 4953,
+  "flow_name": "P08-C1 · Đơn ly hôn thành thuyền giấy"
+ },
+ {
+  "id": "08-2",
+  "part": 8,
+  "title": "Đơn ly hôn thành thuyền giấy",
+  "dur": 15,
+  "shots": [
+   "08-05",
+   "08-06",
+   "08-07"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   9.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Linh · Cô gái 22"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Dạ… thủ tục thôi chị! Ai tập cũng ký!",
+   "Linh: Muốn ly hôn thì phải cưới tôi trước đã. Tôi còn chưa chồng mà."
+  ],
+  "prompt_chars": 4744,
+  "flow_name": "P08-C2 · Đơn ly hôn thành thuyền giấy"
+ },
+ {
+  "id": "08-3",
+  "part": 8,
+  "title": "Đơn ly hôn thành thuyền giấy",
+  "dur": 15,
+  "shots": [
+   "08-08",
+   "08-09",
+   "08-10"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   9.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Linh · Lụa tím ngủ"
+  ],
+  "chars_n": 2,
+  "lines": [],
+  "prompt_chars": 3654,
+  "flow_name": "P08-C3 · Đơn ly hôn thành thuyền giấy"
+ },
+ {
+  "id": "08-4",
+  "part": 8,
+  "title": "Đơn ly hôn thành thuyền giấy",
+  "dur": 15,
+  "shots": [
+   "08-11",
+   "08-12",
+   "08-13"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Lụa tím ngủ"
+  ],
+  "chars_n": 1,
+  "lines": [
+   "Linh: Có người muốn tôi ký. Và người đó không phải chồng tôi."
+  ],
+  "prompt_chars": 4170,
+  "flow_name": "P08-C4 · Đơn ly hôn thành thuyền giấy"
+ },
+ {
+  "id": "09-1",
+  "part": 9,
+  "title": "Buổi hẹn đầu tiên, lần thứ hai",
+  "dur": 15,
+  "shots": [
+   "09-01",
+   "09-02",
+   "09-03",
+   "09-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   8.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Hẹn hò",
+   "Linh · Hẹn hò"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Quán đầu tiên anh đưa em đi. Cà phê đen không đường, đúng không?",
+   "Linh: Tôi ghét cà phê đen.",
+   "Quân: Ghét? Mười năm nay sáng nào em cũng pha hai cốc!"
+  ],
+  "prompt_chars": 5348,
+  "flow_name": "P09-C1 · Buổi hẹn đầu tiên, lần thứ hai"
+ },
+ {
+  "id": "09-2",
+  "part": 9,
+  "title": "Buổi hẹn đầu tiên, lần thứ hai",
+  "dur": 15,
+  "shots": [
+   "09-05",
+   "09-06",
+   "09-07"
+  ],
+  "edges": [
+   0.0,
+   6.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Hẹn hò",
+   "Quân · Hẹn hò"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Vì có người thích cà phê đen. Nên cô ấy uống cùng cho có đôi.",
+   "Quân: Mười năm… anh chưa từng hỏi em thích gì."
+  ],
+  "prompt_chars": 4872,
+  "flow_name": "P09-C2 · Buổi hẹn đầu tiên, lần thứ hai"
+ },
+ {
+  "id": "09-3",
+  "part": 9,
+  "title": "Buổi hẹn đầu tiên, lần thứ hai",
+  "dur": 15,
+  "shots": [
+   "09-08",
+   "09-09",
+   "09-10",
+   "09-11"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   7.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Hẹn hò",
+   "Quân · Hẹn hò"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Thế buổi hẹn hôm nay được mấy điểm? Có hẹn lần hai không?",
+   "Linh: Năm điểm. Trừ năm điểm vì đến muộn mười năm."
+  ],
+  "prompt_chars": 5128,
+  "flow_name": "P09-C3 · Buổi hẹn đầu tiên, lần thứ hai"
+ },
+ {
+  "id": "09-4",
+  "part": 9,
+  "title": "Buổi hẹn đầu tiên, lần thứ hai",
+  "dur": 15,
+  "shots": [
+   "09-12",
+   "09-13",
+   "09-14",
+   "09-15"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   8.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Hẹn hò",
+   "Linh · Hẹn hò"
+  ],
+  "chars_n": 2,
+  "lines": [],
+  "prompt_chars": 3718,
+  "flow_name": "P09-C4 · Buổi hẹn đầu tiên, lần thứ hai"
+ },
+ {
+  "id": "10-1",
+  "part": 10,
+  "title": "Tình địch áo blouse trắng",
+  "dur": 15,
+  "shots": [
+   "10-01",
+   "10-02",
+   "10-03"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Lụa ngà",
+   "Khang · Áo blouse"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Khang: Nhìn ảnh này. Em có nhớ ra ai không?",
+   "Linh: Không nhớ ai cả. Nhưng bác sĩ đẹp trai thế này thì em nhớ ngay!"
+  ],
+  "prompt_chars": 4914,
+  "flow_name": "P10-C1 · Tình địch áo blouse trắng"
+ },
+ {
+  "id": "10-2",
+  "part": 10,
+  "title": "Tình địch áo blouse trắng",
+  "dur": 15,
+  "shots": [
+   "10-04",
+   "10-05",
+   "10-06"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   8.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Khang · Áo blouse"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Khám bệnh gì mà phải ngồi sát thế?",
+   "Khang: Trong bệnh án, cô ấy hai mươi hai, chưa chồng. Tôi cũng chưa vợ."
+  ],
+  "prompt_chars": 4692,
+  "flow_name": "P10-C2 · Tình địch áo blouse trắng"
+ },
+ {
+  "id": "10-3",
+  "part": 10,
+  "title": "Tình địch áo blouse trắng",
+  "dur": 15,
+  "shots": [
+   "10-07",
+   "10-08",
+   "10-09"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Khang · Áo blouse"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Khang: Tuần trước có người tên Hưng đến hỏi bệnh án vợ anh.",
+   "Quân: Hưng? Anh ta hỏi bệnh án vợ tôi làm gì?"
+  ],
+  "prompt_chars": 4713,
+  "flow_name": "P10-C3 · Tình địch áo blouse trắng"
+ },
+ {
+  "id": "10-4",
+  "part": 10,
+  "title": "Tình địch áo blouse trắng",
+  "dur": 15,
+  "shots": [
+   "10-10",
+   "10-11",
+   "10-12",
+   "10-13"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   8.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Khang · Áo blouse",
+   "Quân · Vest navy",
+   "Linh · Lụa ngà"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Khang: Để chứng minh một người không còn tỉnh táo… và gạt cô ấy ra."
+  ],
+  "prompt_chars": 5065,
+  "flow_name": "P10-C4 · Tình địch áo blouse trắng"
+ },
+ {
+  "id": "11-1",
+  "part": 11,
+  "title": "Lớp yoga của tiểu tam",
+  "dur": 15,
+  "shots": [
+   "11-01",
+   "11-02",
+   "11-03",
+   "11-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Đồ tập",
+   "Mai Anh · Đồ yoga"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Chị ơi, có một anh cứ nhận là chồng em. Có nên tin không?",
+   "Mai Anh: Ghê thật! Anh ta có tiền không? Đẹp trai không?",
+   "Linh: Có tiền, đẹp trai. Mỗi tội hay đi họp với đối tác Nhật."
+  ],
+  "prompt_chars": 5335,
+  "flow_name": "P11-C1 · Lớp yoga của tiểu tam"
+ },
+ {
+  "id": "11-2",
+  "part": 11,
+  "title": "Lớp yoga của tiểu tam",
+  "dur": 15,
+  "shots": [
+   "11-05",
+   "11-06",
+   "11-07",
+   "11-08"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Linh · Đồ tập"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Người yêu chị cũng hay họp buổi tối. Bảo ly thân hai năm rồi.",
+   "Linh: Ly thân mà tối nào cũng về ăn cơm, sáng đưa con đi học?"
+  ],
+  "prompt_chars": 5022,
+  "flow_name": "P11-C2 · Lớp yoga của tiểu tam"
+ },
+ {
+  "id": "11-3",
+  "part": 11,
+  "title": "Lớp yoga của tiểu tam",
+  "dur": 15,
+  "shots": [
+   "11-09",
+   "11-10",
+   "11-11",
+   "11-12"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Linh · Đồ tập"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Chị nhớ hết. Kể cả cái cột ở sảnh."
+  ],
+  "prompt_chars": 4860,
+  "flow_name": "P11-C3 · Lớp yoga của tiểu tam"
+ },
+ {
+  "id": "12-1",
+  "part": 12,
+  "title": "Hai người đàn bà, một bàn trà",
+  "dur": 15,
+  "shots": [
+   "12-01",
+   "12-02",
+   "12-03",
+   "12-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.5,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Thường ngày",
+   "Linh · Trench be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Chị định hắt nước vào mặt em à?",
+   "Linh: Phí trà lắm em.",
+   "Linh: Chị chỉ hỏi một câu. Ai trả tiền cho em đến gần chồng chị?"
+  ],
+  "prompt_chars": 5397,
+  "flow_name": "P12-C1 · Hai người đàn bà, một bàn trà"
+ },
+ {
+  "id": "12-2",
+  "part": 12,
+  "title": "Hai người đàn bà, một bàn trà",
+  "dur": 15,
+  "shots": [
+   "12-05",
+   "12-06",
+   "12-07"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   9.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Thường ngày"
+  ],
+  "chars_n": 1,
+  "lines": [
+   "Mai Anh: Mẹ em nằm viện. Nợ viện phí ba trăm triệu.",
+   "Mai Anh: Anh Hưng trả hết. Đổi lại… em phải làm anh Quân mất tất cả."
+  ],
+  "prompt_chars": 4422,
+  "flow_name": "P12-C2 · Hai người đàn bà, một bàn trà"
+ },
+ {
+  "id": "12-3",
+  "part": 12,
+  "title": "Hai người đàn bà, một bàn trà",
+  "dur": 15,
+  "shots": [
+   "12-08",
+   "12-09",
+   "12-10"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   9.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Trench be",
+   "Mai Anh · Thường ngày"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Anh ta còn bảo em làm gì nữa?",
+   "Mai Anh: Tối thứ bảy. Anh ta cài người ngoài cửa sổ nhà chị."
+  ],
+  "prompt_chars": 4783,
+  "flow_name": "P12-C3 · Hai người đàn bà, một bàn trà"
+ },
+ {
+  "id": "12-4",
+  "part": 12,
+  "title": "Hai người đàn bà, một bàn trà",
+  "dur": 15,
+  "shots": [
+   "12-11",
+   "12-12",
+   "12-13"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Thường ngày",
+   "Linh · Trench be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Anh ta cần ảnh em với anh Quân. Trong nhà chị."
+  ],
+  "prompt_chars": 4597,
+  "flow_name": "P12-C4 · Hai người đàn bà, một bàn trà"
+ },
+ {
+  "id": "13-1",
+  "part": 13,
+  "title": "Liên minh váy trắng",
+  "dur": 15,
+  "shots": [
+   "13-01",
+   "13-02",
+   "13-03",
+   "13-04"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Trench be",
+   "Mai Anh · Thường ngày"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Thì mình cho anh ta ảnh.",
+   "Mai Anh: Chị điên à? Anh ta sẽ hạ anh Quân bằng mấy tấm ảnh đó!"
+  ],
+  "prompt_chars": 5139,
+  "flow_name": "P13-C1 · Liên minh váy trắng"
+ },
+ {
+  "id": "13-2",
+  "part": 13,
+  "title": "Liên minh váy trắng",
+  "dur": 15,
+  "shots": [
+   "13-05",
+   "13-06",
+   "13-07"
+  ],
+  "edges": [
+   0.0,
+   6.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Trench be",
+   "Mai Anh · Thường ngày"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Thứ bảy em cứ đến. Chị muốn biết anh ấy chọn gì khi tưởng không ai thấy.",
+   "Mai Anh: Lỡ anh ấy… không từ chối thì sao?",
+   "Linh: Thì chị biết sớm. Đỡ phí thêm mười năm nữa."
+  ],
+  "prompt_chars": 5211,
+  "flow_name": "P13-C2 · Liên minh váy trắng"
+ },
+ {
+  "id": "13-3",
+  "part": 13,
+  "title": "Liên minh váy trắng",
+  "dur": 15,
+  "shots": [
+   "13-08",
+   "13-09",
+   "13-10",
+   "13-11"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Trench be",
+   "Mai Anh · Thường ngày",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Mai Anh: Từ mai em vẫn là tiểu tam. Nhưng làm cho chị.",
+   "Tuấn: Em yêu ơi… không, em yêu à… trời ơi, khó hơn báo cáo thuế!"
+  ],
+  "prompt_chars": 5717,
+  "flow_name": "P13-C3 · Liên minh váy trắng"
+ },
+ {
+  "id": "14-1",
+  "part": 14,
+  "title": "Hai phong bì, một cú nhầm",
+  "dur": 15,
+  "shots": [
+   "14-01",
+   "14-02",
+   "14-03"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Tuấn, viết hộ tôi bức thư tình. Gửi Mai Anh.",
+   "Tuấn: Em ế ba mươi lăm năm, anh nhờ em viết thư tình?",
+   "Quân: Còn thư cho vợ… để tôi tự viết."
+  ],
+  "prompt_chars": 4978,
+  "flow_name": "P14-C1 · Hai phong bì, một cú nhầm"
+ },
+ {
+  "id": "14-2",
+  "part": 14,
+  "title": "Hai phong bì, một cú nhầm",
+  "dur": 15,
+  "shots": [
+   "14-04",
+   "14-05",
+   "14-06",
+   "14-07"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Tuấn · Vest be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Tuấn: Xanh cho chị Linh, hồng cho Mai Anh… hay ngược lại nhỉ?"
+  ],
+  "prompt_chars": 4715,
+  "flow_name": "P14-C2 · Hai phong bì, một cú nhầm"
+ },
+ {
+  "id": "14-3",
+  "part": 14,
+  "title": "Hai phong bì, một cú nhầm",
+  "dur": 15,
+  "shots": [
+   "14-08",
+   "14-09",
+   "14-10",
+   "14-11"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Lụa ngà",
+   "Quân · Vest navy"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Có thư cho tôi này! Bé yêu của anh…",
+   "Linh: Vợ anh mất trí rồi, chúng mình sắp tự do… Văn hay quá!"
+  ],
+  "prompt_chars": 5124,
+  "flow_name": "P14-C3 · Hai phong bì, một cú nhầm"
+ },
+ {
+  "id": "14-4",
+  "part": 14,
+  "title": "Hai phong bì, một cú nhầm",
+  "dur": 15,
+  "shots": [
+   "14-12",
+   "14-13",
+   "14-14"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest navy",
+   "Linh · Lụa ngà"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Cái đó… không phải anh viết!",
+   "Linh: Nhưng là anh từng nói, phải không?"
+  ],
+  "prompt_chars": 4842,
+  "flow_name": "P14-C4 · Hai phong bì, một cú nhầm"
+ },
+ {
+  "id": "15-1",
+  "part": 15,
+  "title": "Lá thư thật",
+  "dur": 15,
+  "shots": [
+   "15-01",
+   "15-02",
+   "15-03",
+   "15-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.5,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Linh · Trench be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Thư này… không phải viết cho em.",
+   "Linh: Mười năm trước, em bán nhà mẹ để anh mở công ty."
+  ],
+  "prompt_chars": 4957,
+  "flow_name": "P15-C1 · Lá thư thật"
+ },
+ {
+  "id": "15-2",
+  "part": 15,
+  "title": "Lá thư thật",
+  "dur": 15,
+  "shots": [
+   "15-05",
+   "15-06",
+   "15-07",
+   "15-08"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   7.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Trench be",
+   "Mai Anh · Đồ yoga"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Anh nợ em… cả đời.",
+   "Mai Anh: Thư của em toàn văn mẫu. Thư của chị, em đọc mà khóc."
+  ],
+  "prompt_chars": 4950,
+  "flow_name": "P15-C2 · Lá thư thật"
+ },
+ {
+  "id": "15-3",
+  "part": 15,
+  "title": "Lá thư thật",
+  "dur": 15,
+  "shots": [
+   "15-09",
+   "15-10",
+   "15-11",
+   "15-12"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Đồ yoga",
+   "Linh · Trench be"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Chị còn yêu anh ấy, đúng không?",
+   "Linh: Nhớ thôi chưa đủ. Thứ bảy này mới biết."
+  ],
+  "prompt_chars": 4969,
+  "flow_name": "P15-C3 · Lá thư thật"
+ },
+ {
+  "id": "16-1",
+  "part": 16,
+  "title": "Bống biết hết",
+  "dur": 15,
+  "shots": [
+   "16-01",
+   "16-02",
+   "16-03",
+   "16-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Bống · Pyjama sao",
+   "Linh · Lụa tím ngủ"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Bống: Mẹ ơi, mẹ giả vờ quên bố, đúng không?",
+   "Bống: Con không mách bố đâu… nếu mẹ cho con ăn kem!"
+  ],
+  "prompt_chars": 4872,
+  "flow_name": "P16-C1 · Bống biết hết"
+ },
+ {
+  "id": "16-2",
+  "part": 16,
+  "title": "Bống biết hết",
+  "dur": 15,
+  "shots": [
+   "16-05",
+   "16-06",
+   "16-07",
+   "16-08"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.0,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Lụa tím ngủ",
+   "Bống · Pyjama sao"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Mẹ chỉ muốn biết bố còn thương nhà mình thật không.",
+   "Bống: Dạo này bố lạ lắm. Bố tự nấu cơm, nhớ con thích sữa dâu."
+  ],
+  "prompt_chars": 4880,
+  "flow_name": "P16-C2 · Bống biết hết"
+ },
+ {
+  "id": "16-3",
+  "part": 16,
+  "title": "Bống biết hết",
+  "dur": 15,
+  "shots": [
+   "16-09",
+   "16-10",
+   "16-11"
+  ],
+  "edges": [
+   0.0,
+   6.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Bống · Pyjama sao",
+   "Linh · Lụa tím ngủ"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Bống: Đêm nào bố cũng đứng trước gương, tập nói anh xin lỗi."
+  ],
+  "prompt_chars": 4417,
+  "flow_name": "P16-C3 · Bống biết hết"
+ },
+ {
+  "id": "17-1",
+  "part": 17,
+  "title": "Đêm thứ bảy",
+  "dur": 15,
+  "shots": [
+   "17-01",
+   "17-02",
+   "17-03",
+   "17-04"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Ướt mưa"
+  ],
+  "chars_n": 1,
+  "lines": [
+   "Mai Anh: Em không đi đâu nữa."
+  ],
+  "prompt_chars": 4714,
+  "flow_name": "P17-C1 · Đêm thứ bảy"
+ },
+ {
+  "id": "17-2",
+  "part": 17,
+  "title": "Đêm thứ bảy",
+  "dur": 15,
+  "shots": [
+   "17-05",
+   "17-06",
+   "17-07"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Đồ ngủ",
+   "Mai Anh · Ướt mưa"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Em vào đây làm gì? Vợ anh đang ở trên lầu!",
+   "Mai Anh: Anh bảo ly thân rồi cơ mà. Hay anh nói dối em?"
+  ],
+  "prompt_chars": 4787,
+  "flow_name": "P17-C2 · Đêm thứ bảy"
+ },
+ {
+  "id": "17-3",
+  "part": 17,
+  "title": "Đêm thứ bảy",
+  "dur": 15,
+  "shots": [
+   "17-08",
+   "17-09",
+   "17-10"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Đồ ngủ",
+   "Linh · Lụa tím ngủ"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Anh xin lỗi em. Anh đã nói dối em.",
+   "Quân: Anh chọn vợ anh."
+  ],
+  "prompt_chars": 4711,
+  "flow_name": "P17-C3 · Đêm thứ bảy"
+ },
+ {
+  "id": "17-4",
+  "part": 17,
+  "title": "Đêm thứ bảy",
+  "dur": 15,
+  "shots": [
+   "17-11",
+   "17-12",
+   "17-13",
+   "17-14"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   7.5,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Ướt mưa",
+   "Quân · Đồ ngủ"
+  ],
+  "chars_n": 2,
+  "lines": [],
+  "prompt_chars": 3643,
+  "flow_name": "P17-C4 · Đêm thứ bảy"
+ },
+ {
+  "id": "18-1",
+  "part": 18,
+  "title": "Sáng thứ hai",
+  "dur": 15,
+  "shots": [
+   "18-01",
+   "18-02",
+   "18-03",
+   "18-04"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   8.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen",
+   "Quân · Vest than họp"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Hưng: Chú giải thích với hội đồng… hay để tôi?",
+   "Quân: Anh cài bẫy tôi."
+  ],
+  "prompt_chars": 4864,
+  "flow_name": "P18-C1 · Sáng thứ hai"
+ },
+ {
+  "id": "18-2",
+  "part": 18,
+  "title": "Sáng thứ hai",
+  "dur": 15,
+  "shots": [
+   "18-05",
+   "18-06",
+   "18-07"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen",
+   "Quân · Vest than họp"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Hưng: Bẫy chỉ bắt được con chuột… đã thò đầu ra.",
+   "Quân: Tôi không làm gì sai trong tấm ảnh đó.",
+   "Hưng: Ảnh không cần đúng. Chỉ cần đủ."
+  ],
+  "prompt_chars": 4868,
+  "flow_name": "P18-C2 · Sáng thứ hai"
+ },
+ {
+  "id": "18-3",
+  "part": 18,
+  "title": "Sáng thứ hai",
+  "dur": 15,
+  "shots": [
+   "18-08",
+   "18-09",
+   "18-10",
+   "18-11"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   8.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen",
+   "Quân · Vest than họp"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Hưng: Mười giờ họp cổ đông. Quỹ Hoa Anh Đào sẽ có mặt.",
+   "Hưng: Chú nên chuẩn bị đơn từ chức đi là vừa."
+  ],
+  "prompt_chars": 4854,
+  "flow_name": "P18-C3 · Sáng thứ hai"
+ },
+ {
+  "id": "19-1",
+  "part": 19,
+  "title": "Bống lỡ miệng",
+  "dur": 15,
+  "shots": [
+   "19-01",
+   "19-02",
+   "19-03"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest than họp",
+   "Bống · Váy vàng"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Bống: Bố ơi, sao bố buồn thế? Bố mất việc à?",
+   "Quân: Bố mất nhiều thứ lắm con ạ. Cả mẹ nữa."
+  ],
+  "prompt_chars": 4649,
+  "flow_name": "P19-C1 · Bống lỡ miệng"
+ },
+ {
+  "id": "19-2",
+  "part": 19,
+  "title": "Bống lỡ miệng",
+  "dur": 15,
+  "shots": [
+   "19-04",
+   "19-05",
+   "19-06",
+   "19-07"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   7.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Bống · Váy vàng",
+   "Quân · Vest than họp"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Bống: Bố đừng buồn! Mẹ chỉ giả vờ thôi mà… Á!",
+   "Quân: Giả vờ?",
+   "Bống: Con hứa với mẹ rồi! Con không nói gì đâu!"
+  ],
+  "prompt_chars": 5086,
+  "flow_name": "P19-C2 · Bống lỡ miệng"
+ },
+ {
+  "id": "19-3",
+  "part": 19,
+  "title": "Bống lỡ miệng",
+  "dur": 15,
+  "shots": [
+   "19-08",
+   "19-09",
+   "19-10",
+   "19-11"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   8.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest than họp",
+   "Linh · Chủ tịch"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Cô ấy nhớ hết… mà vẫn để bố tán lại.",
+   "Quân: Bố đi họp. Lần này bố không nói dối ai nữa."
+  ],
+  "prompt_chars": 4965,
+  "flow_name": "P19-C3 · Bống lỡ miệng"
+ },
+ {
+  "id": "20-1",
+  "part": 20,
+  "title": "Cuộc họp mười giờ",
+  "dur": 15,
+  "shots": [
+   "20-01",
+   "20-02",
+   "20-03"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen"
+  ],
+  "chars_n": 1,
+  "lines": [
+   "Hưng: Giám đốc ngoại tình. Vợ mất trí. Quỹ Hoa Anh Đào sẽ rút vốn."
+  ],
+  "prompt_chars": 4116,
+  "flow_name": "P20-C1 · Cuộc họp mười giờ"
+ },
+ {
+  "id": "20-2",
+  "part": 20,
+  "title": "Cuộc họp mười giờ",
+  "dur": 15,
+  "shots": [
+   "20-04",
+   "20-05",
+   "20-06"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   9.0,
+   15.0
+  ],
+  "chars": [
+   "Tuấn · Vest họp",
+   "Quân · Vest than họp"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Tôi từ chức.",
+   "Quân: Nhưng tôi từ chối luôn tiền của quỹ. Tôi không đem vợ ra đổi tiền."
+  ],
+  "prompt_chars": 4651,
+  "flow_name": "P20-C2 · Cuộc họp mười giờ"
+ },
+ {
+  "id": "20-3",
+  "part": 20,
+  "title": "Cuộc họp mười giờ",
+  "dur": 15,
+  "shots": [
+   "20-07",
+   "20-08",
+   "20-09",
+   "20-10"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen",
+   "Linh · Chủ tịch",
+   "Tuấn · Vest họp"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Tuấn: Chủ tịch… đến rồi."
+  ],
+  "prompt_chars": 5428,
+  "flow_name": "P20-C3 · Cuộc họp mười giờ"
+ },
+ {
+  "id": "20-4",
+  "part": 20,
+  "title": "Cuộc họp mười giờ",
+  "dur": 15,
+  "shots": [
+   "20-11",
+   "20-12",
+   "20-13"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Vest than họp",
+   "Linh · Chủ tịch"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Anh Quân. Anh vừa qua vòng phỏng vấn."
+  ],
+  "prompt_chars": 4597,
+  "flow_name": "P20-C4 · Cuộc họp mười giờ"
+ },
+ {
+  "id": "21-1",
+  "part": 21,
+  "title": "Chủ tịch là vợ",
+  "dur": 15,
+  "shots": [
+   "21-01",
+   "21-02",
+   "21-03",
+   "21-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen",
+   "Linh · Chủ tịch"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Hưng: Bà ấy mất trí nhớ! Bệnh án ghi rõ!",
+   "Linh: Có chọn lọc. Cái gì cần nhớ, tôi nhớ rất kỹ.",
+   "Linh: Anh Hưng xem kỹ đi. Tấm nào chồng tôi cũng lùi lại."
+  ],
+  "prompt_chars": 5303,
+  "flow_name": "P21-C1 · Chủ tịch là vợ"
+ },
+ {
+  "id": "21-2",
+  "part": 21,
+  "title": "Chủ tịch là vợ",
+  "dur": 15,
+  "shots": [
+   "21-05",
+   "21-06",
+   "21-07"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   10.5,
+   15.0
+  ],
+  "chars": [
+   "Mai Anh · Nhân chứng",
+   "Tuấn · Vest họp"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Mai Anh: Đây là ghi âm anh trả tiền cho em để gài bẫy anh Quân.",
+   "Tuấn: Dạ… em cũng có biên bản họp ạ. Đủ cả!"
+  ],
+  "prompt_chars": 4782,
+  "flow_name": "P21-C2 · Chủ tịch là vợ"
+ },
+ {
+  "id": "21-3",
+  "part": 21,
+  "title": "Chủ tịch là vợ",
+  "dur": 15,
+  "shots": [
+   "21-08",
+   "21-09",
+   "21-10",
+   "21-11"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   8.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Hưng · Vest đen",
+   "Linh · Chủ tịch",
+   "Quân · Vest than họp"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Quân: Em… là chủ tịch quỹ?"
+  ],
+  "prompt_chars": 5115,
+  "flow_name": "P21-C3 · Chủ tịch là vợ"
+ },
+ {
+  "id": "21-4",
+  "part": 21,
+  "title": "Chủ tịch là vợ",
+  "dur": 15,
+  "shots": [
+   "21-12",
+   "21-13",
+   "21-14"
+  ],
+  "edges": [
+   0.0,
+   6.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Chủ tịch"
+  ],
+  "chars_n": 1,
+  "lines": [
+   "Linh: Mười năm trước em bán nhà mẹ, một nửa cho anh, một nửa cho quỹ.",
+   "Linh: Tiền thì quỹ duyệt rồi. Còn chồng thì… em chưa duyệt."
+  ],
+  "prompt_chars": 4531,
+  "flow_name": "P21-C4 · Chủ tịch là vợ"
+ },
+ {
+  "id": "22-1",
+  "part": 22,
+  "title": "Màn cầu hôn lần hai",
+  "dur": 15,
+  "shots": [
+   "22-01",
+   "22-02",
+   "22-03",
+   "22-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   6.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Bống · Váy công chúa",
+   "Quân · Linen kem",
+   "Linh · Voan trắng"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Quân: Cô gái hai mươi hai tuổi ơi, em có đồng ý lấy anh không?",
+   "Linh: Nhanh thế? Tôi còn chưa biết gì về anh."
+  ],
+  "prompt_chars": 5321,
+  "flow_name": "P22-C1 · Màn cầu hôn lần hai"
+ },
+ {
+  "id": "22-2",
+  "part": 22,
+  "title": "Màn cầu hôn lần hai",
+  "dur": 15,
+  "shots": [
+   "22-05",
+   "22-06",
+   "22-07",
+   "22-08",
+   "22-09"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   6.5,
+   9.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Linen kem",
+   "Linh · Voan trắng",
+   "Bống · Váy công chúa"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Quân: Anh có một vợ, một con, và một tháng ngủ sô pha!",
+   "Linh: Anh biết từ bao giờ?",
+   "Quân: Từ hôm con gái mình lỡ mồm.",
+   "Linh: Em lừa anh một tháng."
+  ],
+  "prompt_chars": 5985,
+  "flow_name": "P22-C2 · Màn cầu hôn lần hai"
+ },
+ {
+  "id": "22-3",
+  "part": 22,
+  "title": "Màn cầu hôn lần hai",
+  "dur": 15,
+  "shots": [
+   "22-10",
+   "22-11",
+   "22-12",
+   "22-13"
+  ],
+  "edges": [
+   0.0,
+   4.5,
+   8.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Quân · Linen kem",
+   "Linh · Voan trắng"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Quân: Anh lừa em cả năm trời. Mình coi như hoà nhé?",
+   "Linh: Em không quên được đâu. Nhưng em có thể chọn lọc…",
+   "Linh: …nếu anh ký cái này."
+  ],
+  "prompt_chars": 5268,
+  "flow_name": "P22-C3 · Màn cầu hôn lần hai"
+ },
+ {
+  "id": "23-1",
+  "part": 23,
+  "title": "Hợp đồng thử việc làm chồng",
+  "dur": 15,
+  "shots": [
+   "23-01",
+   "23-02",
+   "23-03",
+   "23-04"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   7.5,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Voan trắng",
+   "Quân · Linen kem"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Hợp đồng thử việc làm chồng. Sáu tháng.",
+   "Linh: Điều một: sáng nào cũng đưa con đi học.",
+   "Quân: Đồng ý! Điều hai?"
+  ],
+  "prompt_chars": 5294,
+  "flow_name": "P23-C1 · Hợp đồng thử việc làm chồng"
+ },
+ {
+  "id": "23-2",
+  "part": 23,
+  "title": "Hợp đồng thử việc làm chồng",
+  "dur": 15,
+  "shots": [
+   "23-05",
+   "23-06",
+   "23-07",
+   "23-08"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   7.5,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Voan trắng",
+   "Quân · Linen kem"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Điện thoại không cài mật khẩu. Điều ba: họp đối tác Nhật phải mang vợ theo.",
+   "Quân: Đối tác Nhật là em mà!",
+   "Linh: Điều cuối: vi phạm thì anh mất trí nhớ. Lần này là thật."
+  ],
+  "prompt_chars": 5305,
+  "flow_name": "P23-C2 · Hợp đồng thử việc làm chồng"
+ },
+ {
+  "id": "23-3",
+  "part": 23,
+  "title": "Hợp đồng thử việc làm chồng",
+  "dur": 15,
+  "shots": [
+   "23-09",
+   "23-10",
+   "23-11"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Khang · Tiệc",
+   "Mai Anh · Tiệc"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Khang: Cô dũng cảm hơn cô nghĩ. Trả lại tiền, nói thật trước hội đồng.",
+   "Mai Anh: Thế… anh có mời em ăn tối không?"
+  ],
+  "prompt_chars": 4691,
+  "flow_name": "P23-C3 · Hợp đồng thử việc làm chồng"
+ },
+ {
+  "id": "23-4",
+  "part": 23,
+  "title": "Hợp đồng thử việc làm chồng",
+  "dur": 15,
+  "shots": [
+   "23-12",
+   "23-13",
+   "23-14"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   10.0,
+   15.0
+  ],
+  "chars": [
+   "Khang · Tiệc",
+   "Tuấn · Sơ mi hoa"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Khang: Bún chả. Cả năm."
+  ],
+  "prompt_chars": 4373,
+  "flow_name": "P23-C4 · Hợp đồng thử việc làm chồng"
+ },
+ {
+  "id": "24-1",
+  "part": 24,
+  "title": "Sáu tháng sau",
+  "dur": 15,
+  "shots": [
+   "24-01",
+   "24-02",
+   "24-03",
+   "24-04"
+  ],
+  "edges": [
+   0.0,
+   3.0,
+   7.0,
+   11.0,
+   15.0
+  ],
+  "chars": [
+   "Bống · Đồng phục",
+   "Quân · Tạp dề hồng"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Bống: Bố ơi, tóc con lệch rồi! Như tổ chim ấy!",
+   "Quân: Lệch tí cho cá tính! Sáu tháng rồi bố vẫn đang học.",
+   "Bống: Cô giáo khen bố là phụ huynh đến sớm nhất lớp đấy!"
+  ],
+  "prompt_chars": 5070,
+  "flow_name": "P24-C1 · Sáu tháng sau"
+ },
+ {
+  "id": "24-2",
+  "part": 24,
+  "title": "Sáu tháng sau",
+  "dur": 15,
+  "shots": [
+   "24-05",
+   "24-06",
+   "24-07",
+   "24-08"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   7.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Tạp dề hồng",
+   "Linh · Bà chủ xưởng"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Anh ơi! Bộ sưu tập đầu tiên của em bán hết sạch rồi!",
+   "Quân: Vợ anh mà! Ngày xưa hoa khôi, bây giờ bà chủ!"
+  ],
+  "prompt_chars": 5386,
+  "flow_name": "P24-C2 · Sáu tháng sau"
+ },
+ {
+  "id": "24-3",
+  "part": 24,
+  "title": "Sáu tháng sau",
+  "dur": 15,
+  "shots": [
+   "24-09",
+   "24-10",
+   "24-11",
+   "24-12"
+  ],
+  "edges": [
+   0.0,
+   5.0,
+   9.0,
+   12.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Bà chủ xưởng",
+   "Quân · Tạp dề hồng"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Hôm nay anh hết hạn thử việc. Tối nay em công bố kết quả.",
+   "Linh: Ở đúng cái nhà hàng anh cho em leo cây."
+  ],
+  "prompt_chars": 5018,
+  "flow_name": "P24-C3 · Sáu tháng sau"
+ },
+ {
+  "id": "25-1",
+  "part": 25,
+  "title": "Kỷ niệm mười một năm",
+  "dur": 15,
+  "shots": [
+   "25-01",
+   "25-02",
+   "25-03"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Quân · Tuxedo",
+   "Linh · Lụa đỏ"
+  ],
+  "chars_n": 2,
+  "lines": [],
+  "prompt_chars": 3637,
+  "flow_name": "P25-C1 · Kỷ niệm mười một năm"
+ },
+ {
+  "id": "25-2",
+  "part": 25,
+  "title": "Kỷ niệm mười một năm",
+  "dur": 15,
+  "shots": [
+   "25-04",
+   "25-05",
+   "25-06"
+  ],
+  "edges": [
+   0.0,
+   4.0,
+   8.0,
+   15.0
+  ],
+  "chars": [
+   "Linh · Lụa đỏ",
+   "Quân · Tuxedo"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Anh đến từ bao giờ thế?",
+   "Quân: Từ năm giờ chiều! Không đối tác Nhật nào hết!",
+   "Quân: Chín mươi chín bông là cho em. Bông thứ một trăm là anh."
+  ],
+  "prompt_chars": 5138,
+  "flow_name": "P25-C2 · Kỷ niệm mười một năm"
+ },
+ {
+  "id": "25-3",
+  "part": 25,
+  "title": "Kỷ niệm mười một năm",
+  "dur": 15,
+  "shots": [
+   "25-07",
+   "25-08",
+   "25-09",
+   "25-10"
+  ],
+  "edges": [
+   0.0,
+   3.5,
+   8.0,
+   11.5,
+   15.0
+  ],
+  "chars": [
+   "Linh · Lụa đỏ",
+   "Quân · Tuxedo"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Linh: Hợp đồng dài hạn. Nhưng mỗi năm gia hạn một lần.",
+   "Quân: Thì mỗi năm anh tán em lại từ đầu."
+  ],
+  "prompt_chars": 5150,
+  "flow_name": "P25-C3 · Kỷ niệm mười một năm"
+ },
+ {
+  "id": "25-4",
+  "part": 25,
+  "title": "Kỷ niệm mười một năm",
+  "dur": 15,
+  "shots": [
+   "25-11",
+   "25-12"
+  ],
+  "edges": [
+   0.0,
+   8.5,
+   15.0
+  ],
+  "chars": [
+   "Bống · Váy công chúa",
+   "Tuấn · Sơ mi hoa"
+  ],
+  "chars_n": 2,
+  "lines": [
+   "Bống: Chú Tuấn ơi, mất trí nhớ có chọn lọc là bệnh gì ạ?",
+   "Tuấn: Bệnh của người lớn. Ai khỏi thì nhà ấy vui hơn."
+  ],
+  "prompt_chars": 4608,
+  "flow_name": "P25-C4 · Kỷ niệm mười một năm"
+ },
+ {
+  "id": "25-5",
+  "part": 25,
+  "title": "Kỷ niệm mười một năm",
+  "dur": 15,
+  "shots": [
+   "25-13",
+   "25-14",
+   "25-15"
+  ],
+  "edges": [
+   0.0,
+   5.5,
+   9.5,
+   15.0
+  ],
+  "chars": [
+   "Bống · Váy công chúa",
+   "Tuấn · Sơ mi hoa",
+   "Linh · Lụa đỏ"
+  ],
+  "chars_n": 3,
+  "lines": [
+   "Bống: Thế chú mắc thử đi! Biết đâu chú lấy được vợ!"
+  ],
+  "prompt_chars": 4975,
+  "flow_name": "P25-C5 · Kỷ niệm mười một năm"
+ }
+]

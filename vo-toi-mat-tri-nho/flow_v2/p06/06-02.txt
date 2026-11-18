@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Hung drops a thick folder on the desk and stays standing, buttoning his jacket.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Hung in Hưng's one fixed voice (the voice saved on the attached character, "Charon": man of 42, low silky baritone, slow and polite; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking slowly and softly with small natural pauses, polite and cold, said exactly once from 0.3s to 3.6s: "Phương án dự phòng, nếu Hoa Anh Đào rút. Tôi lo được."
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Hung (man of 42, low silky baritone, slow and polite, every word a quiet threat, speaking slowly and softly with small natural pauses, polite and cold), said exactly once from 0.3s to 3.6s: "Phương án dự phòng, nếu Hoa Anh Đào rút. Tôi lo được."
 Only @Hung moves the lips. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] a quiet office hum, the city far below, a pen scratching. No music.

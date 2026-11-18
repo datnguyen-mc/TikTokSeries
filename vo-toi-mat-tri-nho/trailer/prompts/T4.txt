@@ -1,0 +1,36 @@
+A 10-second live-action film sequence of 2 shots, 16:9 widescreen, 24 fps, with hard cuts only at 4s; one place and one moment, sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic comedy-drama with a thriller edge, shot on ARRI Alexa 35 with anamorphic lenses, 24 fps; rich teal-and-amber grade, motivated practical light, natural skin texture with pores, subtle 35mm film grain, shallow depth of field with creamy oval bokeh, gentle halation. Real actors, believable understated performances, a premium theatrical feature — never CGI, never an advertisement.
+
+[LOCATION]
+The wrought-iron gate of a villa at night in fine drizzle, wet stone path, one warm gate lamp; cold blue night with a single amber pool of light.
+
+[CHARACTERS]
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, and never flash the studio reference portrait; the characters are already in place in the very first frame.
+- @Hung = Hưng, the vice president: a cold, handsome 42-year-old Vietnamese man, tall, lean and impeccably groomed, slicked-back black hair greying at the temples, sharp cheekbones, a thin polite smile that never reaches his eyes; wears a long black overcoat, a grey wool scarf, holding a black umbrella. Attached image: "Hưng · Măng tô mưa".
+Nobody else appears in focus.
+
+[SHOT LIST — hard cuts only at the marked seconds]
+- Shot 1, 0–4s: 35mm medium shot of the man at the gate under a black umbrella in the drizzle, slow push-in.
+- Shot 2, 4–10s: 85mm close-up of his face under the umbrella, rain streaks in the lamp light, locked off.
+- Whoever is speaking has the face clearly on screen in that shot; the camera keeps one side of the line so eyelines match across the cuts.
+
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per beat.
+- 0–4s (Shot 1): @Hung stands at the wrought-iron gate under his black umbrella, looking straight past the camera, and speaks softly.
+- 4–8s (CUT to Shot 2): @Hung tilts his head and continues, polite and cold.
+- 8–10s (Shot 2): a thin smile that never reaches his eyes; mouth closed. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, 2 spoken turns in this order, each said exactly once (no subtitles):
+- Turn 1, 0.6–3.3s, spoken on camera by @Hung (man of 42, low silky baritone, slow and polite, every word a quiet threat, speaking slowly and quietly, mock-sympathetic): "Nghe nói vợ chú mất trí nhớ?"
+- Turn 2, 4.5–8.2s, spoken on camera by @Hung (man of 42, low silky baritone, slow and polite, every word a quiet threat, speaking slowly, every word a polite threat): "Tiếc thật. Quỹ Hoa Anh Đào rất coi trọng gia đình."
+- Throughout, only the person whose turn it is moves the lips while anyone else listens with the mouth closed; real breaths and tiny natural hesitations, recorded close on set with a little room tone — it sounds like real actors talking, never like a voice-over or text-to-speech.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and different characters sound clearly different in pitch, age and texture.
+- All speech is over by 8.2s. From then until 10.0s nobody says a word; no line is ever repeated to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: fine rain pattering on the umbrella, dripping iron bars, a far-off car passing on wet asphalt. No music.
+
+[AVOID]
+On-screen text of any kind (subtitles, captions, titles, watermarks, logos), readable writing, blurry faces, distorted hands, background music, letterbox bars, cuts at any other moment, extra people in focus, face, hair or costume changes, robotic or text-to-speech sounding voices, flat monotone delivery, slurred speech, repeated, stuttered or echoed words, the line spoken twice, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

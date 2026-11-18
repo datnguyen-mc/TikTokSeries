@@ -197,10 +197,10 @@ Ký hiệu chuyển cảnh: **[MATCH]** match cut (hình nối hình) · **[SOUN
 - **Chuyển [MATCH]:** ngọn nến trên bàn bếp → ngọn nến trên sân thượng.
 
 **P25 · Kỷ niệm mười một năm** — *B1 sân thượng (đối xứng P1) · L12, Q7, T3, B4*
-- **Mở:** sân thượng nến; lần này Quân ngồi chờ, ôm bó cúc trắng.
+- **Mở:** sân thượng nến; lần này Quân ngồi chờ, tự tay ôm bó 99 bông hồng đỏ (lần này không nhờ Tuấn).
 - "Chín mươi chín bông là cho em. Bông thứ một trăm là anh — tự đến, không nhờ ai." Linh: "Hợp đồng dài hạn. Gia hạn từng năm."
 - **Kết:** Bống hỏi Tuấn "mất trí nhớ có chọn lọc là bệnh gì"; "Chú mắc thử đi, biết đâu lấy được vợ!" Tuấn sặc bánh.
-- **Shot cuối:** pháo hoa nhỏ trên mặt hồ; kẹp tóc hoa anh đào cài lên bó cúc trắng.
+- **Shot cuối:** pháo hoa nhỏ trên mặt hồ; kẹp tóc hoa anh đào cài lên bó hồng đỏ.
 
 ---
 

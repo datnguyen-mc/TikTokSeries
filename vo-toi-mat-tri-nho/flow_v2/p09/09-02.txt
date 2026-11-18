@@ -12,7 +12,7 @@ Nobody else is in focus.
 
 [ACTION] Quan slides a glass of black coffee across the steel table, proud.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, proud, said exactly once from 0.3s to 3.8s: "Quán đầu tiên anh đưa em đi. Cà phê đen không đường, đúng không?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking at a natural conversational pace, proud), said exactly once from 0.3s to 3.8s: "Quán đầu tiên anh đưa em đi. Cà phê đen không đường, đúng không?"
 Only @Quan moves the lips. After the last word nobody speaks again until 5.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] charcoal sizzling, motorbikes passing slowly, water lapping, distant laughter. No music.

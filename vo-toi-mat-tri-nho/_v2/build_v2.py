@@ -128,7 +128,7 @@ def render(part, shot, d):
     if say:
         n, pace, tone, line = say
         end = round(0.3 + speech_secs(n, pace, line), 1)
-        lines += [f"[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by {TAG[n]} in {NAME[n]}'s one fixed voice (the voice saved on the attached character, \"{FLOW_VOICE[n]}\": {VOICE[n]}; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered {PACE[pace][1]}, {tone}, "
+        lines += [f"[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by {TAG[n]} ({VOICE[n]}, {PACE[pace][1]}, {tone}), "
                   f"said exactly once from 0.3s to {end}s: \"{line}\"",
                   f"Only {TAG[n]} moves the lips" + (f"; {TAG[b]} listens with the mouth closed" if b else "")
                   + f". After the last word nobody speaks again until {d}.0s. Standard Northern Vietnamese accent; never read these directions aloud.", ""]

@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] The elevator doors open; Linh steps out, serene in her emerald gown; Quan hurries toward her with open arms.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan in Quân's one fixed voice (the voice saved on the attached character, "Giọng Quân": man of 36, smooth resonant baritone, charming; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking quickly in short lively phrases, every word clear, far too loud, said exactly once from 0.3s to 1.8s: "Vợ ơi! Sao em lại xuống đây?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Quan (man of 36, smooth warm baritone, confident and charming, a little boyish, speaking quickly in short lively phrases, every word clear, far too loud), said exactly once from 0.3s to 1.8s: "Vợ ơi! Sao em lại xuống đây?"
 Only @Quan moves the lips; @Linh listens with the mouth closed. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] the hush of a grand lobby, heels on marble, a distant elevator chime, a fountain trickling. No music.

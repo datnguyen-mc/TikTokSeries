@@ -1,0 +1,21 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama-comedy: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light (low winter sun, practical lamps, firelight), soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] The brick-paved courtyard of an old three-room tile-roofed village house in the Northern Vietnamese countryside: a pomelo tree in the corner, a betel-vine trellis, potted kumquat trees, a low brick wall to the neighbour's garden; pale golden winter sunlight.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @OngThinh = Ông Thịnh, the grandfather (a dignified 76-year-old Vietnamese grandfather from the Northern countryside); wears a faded brown cotton traditional shirt with cloth buttons, dark trousers rolled at the ankle, rubber sandals, a carpenter's pencil tucked behind one ear. Attached image: "Ông Thịnh · Áo nâu ở nhà".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] 85mm close-up, locked off.
+
+[ACTION] OngThinh squints, completely unimpressed, and goes back to painting.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.5s–4.2s, @OngThinh (man of 76, low gravelly baritone, slow and clipped, long pauses between phrases, dry and stubborn): …thằng Minh. Mười năm mà mày lùn đi à?
+After the last word nobody speaks until 5.0s. Never read these directions aloud.
+
+[SOUND] chickens clucking softly, a broom on bricks next door, distant village loudspeaker hum. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens, envelopes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; a second phone; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

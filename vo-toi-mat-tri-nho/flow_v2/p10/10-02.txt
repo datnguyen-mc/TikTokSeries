@@ -13,7 +13,7 @@ Nobody else is in focus.
 
 [ACTION] On the cream sofa, Khang sits close and holds up a family photo with no writing.
 
-[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Khang in Khang's one fixed voice (the voice saved on the attached character, "Iapetus": man of 34, calm gentle tenor, dry; exactly the same voice timbre, pitch and accent as in every other shot of the film, never a different speaker), delivered speaking at a natural conversational pace, professional, said exactly once from 0.3s to 2.5s: "Nhìn ảnh này. Em có nhớ ra ai không?"
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Khang (man of 34, calm soft-spoken tenor, gentle and bone-dry, speaking at a natural conversational pace, professional), said exactly once from 0.3s to 2.5s: "Nhìn ảnh này. Em có nhớ ra ai không?"
 Only @Khang moves the lips; @Linh listens with the mouth closed. After the last word nobody speaks again until 4.0s. Standard Northern Vietnamese accent; never read these directions aloud.
 
 [SOUND] birdsong from the garden, a clock ticking, pages turning. No music.

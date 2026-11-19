@@ -1,65 +1,52 @@
 # Rà soát bản V3 → kế hoạch V3.1 (18/11)
 
-## Đã rà
-- 219 shot: thời lượng, cắt cảnh, âm lượng, viền đen (tự động); lời thoại (chuyển giọng nói thành chữ, so với kịch bản); hình (xem từng shot).
+Đã rà: 219 shot (thời lượng, cắt cảnh, âm lượng, viền đen), lời thoại (máy nghe lại, so với kịch bản), hình (4 rồi 8 khung/shot).
 
-## Thay đổi cách dựng (theo góp ý: bỏ cảnh trùng, phim liền mạch, dẫn dắt người xem)
-- **Bỏ cảnh 00** (mở đầu kể trước): trùng gần hết cảnh 11 (cổng nhà, Minh xuất hiện, bà Thoa ló qua tường, ông ra hiên). Phim nay chạy đúng thứ tự thời gian, bắt đầu từ bến xe 26 Tết.
-- **Thẻ chữ thời gian/nơi chốn** trước các mốc (19 thẻ) và **tên nhân vật** ở lần xuất hiện đầu (Đạt, bà Mận, ông Thịnh, bà Thoa, Minh). Xem `_tools/dung_phim.py`.
-- Mốc thời gian được sắp lại cho khớp: 26 bến xe → 26 chiều về nhà → 27 thi kiến thức/dị ứng/gác xép → 28 chợ hoa, gói bánh, canh nồi bánh → cùng đêm Minh thấy clip → 29 tảo mộ, tối bà kể, khuya Minh về → 30 sáng cổng nhà … tất niên → giao thừa → mùng 1.
-- **Bà Thoa** đổi sang cầm điện thoại bằng tay (bỏ gậy selfie trông như máy quay). Tạo ảnh tham chiếu mới trên Flow: “Bà Thoa · Cầm điện thoại”.
-- 29 shot có viền đen mỏng sẽ được phóng 8% khi ghép (danh sách CROP trong `dung_phim.py`).
+## Thay đổi cách dựng
+- **Bỏ cảnh 00** (mở đầu kể trước, trùng gần hết cảnh 11). Phim chạy đúng thứ tự thời gian, mở từ bến xe sáng 26 Tết.
+- **Thẻ chữ thời gian/nơi chốn** (20 thẻ) và **tên nhân vật** ở lần xuất hiện đầu: `_tools/dung_phim.py`. Trục: 26 = 01–04 (+01b), 27 = 05–07, 28 = 08–10, 29 = 11–16, 30 = 17–20; 18b là hồi tưởng bốn đêm 26–29.
+- **Bà Thoa** cầm điện thoại bằng tay (bỏ gậy selfie trông như máy quay). Ảnh nhân vật mới trên Flow: "Bà Thoa · Cầm điện thoại".
+- 27 shot có viền đen mỏng được phóng 8% khi ghép (CROP trong `dung_phim.py`).
 
-## Shot làm lại trên Flow (40 shot)
+## Shot làm lại, đợt 1 (đã render 18/11 chiều)
 | Lý do | Shot |
 |---|---|
 | Lộ máy quay trong khung | 03-03 |
 | Bà Thoa gậy selfie → cầm tay | 03-01 03-02 03-04 03-05 03-06 03-08 03-10 03-15 04-03 04-04 07-10 11-03 13-07 14-01 15-04 15-05 |
 | Viền đen dày / khung bo góc | 01-06 01-14 01-16 02-13 03-07 04-05 04-12 05-06 06-04 10-06 10-07 16-02 18-02 19-08 |
-| Sai nội dung | 02-04 (vẽ giấy thay vì sơn ghế con) · 06-02 (bánh của Đạt phải méo) · 09-04 (Đạt mặc nhầm áo, trông như Minh) · 12-02, 20-06 (ghế không ra ghế trẻ con) · 12-06 (không thấy nổi mẩn ở cổ tay) · 20-12 (thừa một người áo dài) |
-| Thoại lỗi | 01-08 (câu bị cụt → “Điều năm, hợp đồng ghi rõ: không được để lộ.”) · 05-03 (lặp “như mọi năm”) |
+| Sai nội dung | 02-04 (vẽ giấy thay vì sơn ghế) · 06-02 (bánh của Đạt phải méo) · 09-04 (Đạt mặc nhầm áo) · 12-02, 20-06 (ghế không ra ghế trẻ con) · 12-06 (không thấy nổi mẩn) · 20-12 (thừa người) |
+| Thoại | 05-03 (lặp "như mọi năm") |
 
-Mọi prompt làm lại đều thêm: khung 16:9 kín, không viền, không bo góc, không máy quay/chân máy/gậy selfie/micro trong hình.
-
-## Ghép lại (khi đã tải clip mới về `clips/`)
-```
-python3 hop-dong-lam-chau/_tools/ghep_tung_phan.py norm    # chạy lặp tới khi "còn 0"
-python3 hop-dong-lam-chau/_tools/ghep_tung_phan.py concat
-```
-
----
-## Đợt 2 (18/11 tối): rà 8 khung/shot cho 173 shot cũ + thêm cảnh
-Kiểm tra tự động độ chuyển động từng khung (bắt nhảy hình): chỉ 02-12 có chuyển động mạnh ở giây 4,5 (ông đứng dậy), xem từng khung thì liền mạch, giữ.
-
-| Shot | Lỗi thấy trong khung hình | Xử lý |
-|---|---|---|
-| 18-05 | Người ngồi tiền cảnh là một thanh niên tóc đen (trông như Minh thứ hai), không phải ông | Làm lại: ông đội mũ len ngồi tiền cảnh |
-| 18-08, 18-10 | 18-06 Minh ngồi xuống cạnh ông, nhưng 18-08/18-10 cả hai lại đứng | Làm lại: cả hai ngồi bệt trước mộ |
-| 20-02 | Đạt áo đỏ cầm lái, sau lưng thêm một người | Làm lại: Minh áo len kem lái, Đạt ngồi sau, đội mũ bảo hiểm |
-| 10-01, 14-04 | Viền đen / khung bo góc | Thêm vào danh sách phóng 8% |
-| 16-01…16-07 | Di ảnh bố Minh trên bàn thờ khác nhau giữa các shot | Ghi nhận, chưa sửa (lỗi nhỏ, khó thấy khi xem nhanh) |
-
-## Phân cảnh mới (`_tools/build_shots_3.py`)
-- **01b · Học làm cháu trên xe buýt về làng** (9 shot, ~43s), sau cảnh bến xe: bà Mận kiểm tra bài, Đạt sờ cằm nhẵn ("Nhưng cằm cháu làm gì có sẹo hả bà?"), trả lời "Lạc ạ!", tập gọi "Ông ơi!" to đến mức gà trong lồng kêu và cả xe quay lại. Cài sẵn chuyện sẹo và dị ứng lạc cho các cảnh sau.
-- **18b · Những đêm đóng ghế** (7 shot, ~36s), sau khi Đạt lặng lẽ đi, trước bến xe: ông bào gỗ trong đêm, ghi sổ "Thằng bé tên Đạt. Mồ côi. Ăn được lạc.", đắp chăn cho Đạt ngủ, đóng xong chiếc ghế mới, bà hỏi "Ông đóng ghế cho ai thế?" ("Cho đứa nào cần ghế."), rồi gửi hộp qua tường nhờ bà Thoa "Tối ba mươi, mang ra bến xe hộ tôi". Nối thẳng vào 19-06/19-07, lúc bà Thoa mở hộp ra ghế.
-
-## Đợt 3 (18/11 khuya): nghe lại thoại + soát logic kịch bản
+## Shot làm lại, đợt 2 (`_tools/build_shots_3.py`, REDO)
 | Shot | Lỗi | Xử lý |
 |---|---|---|
-| 01-08 | Bản làm lại hôm nay đổi câu thành "hợp đồng ghi rõ: không được để lộ" → shot sau (01-09 "Gấp… đôi ạ?") mất nghĩa | Làm lại với câu gốc "lộ thì đền gấp đôi", tăng lên 5 giây cho khỏi cụt |
-| 13-01 | "Bao nhiêu tiền?" nói lí nhí, gần như không nghe rõ | Làm lại |
-| 17-01 | "Điều thứ ba bà bỏ" sai logic (đưa chìa khóa tủ = bỏ điều hai) | Làm lại: "Điều thứ hai bà bỏ." |
-| 19-05 | Mất câu cuối "Ông chỉ có cháu." (câu chốt của phim) | Làm lại, tách 3 câu có ngắt nghỉ |
-| 20-10 | Ông lặp "nhớ đường về" hai lần | Làm lại |
+| 18-05 | Người ngồi tiền cảnh là thanh niên giống Minh, không phải ông | Ông đội mũ len ngồi tiền cảnh |
+| 18-08, 18-10 | 18-06 Minh ngồi xuống cạnh ông, 18-08/18-10 lại đứng | Cả hai ngồi bệt trước mộ |
+| 20-02 | Đạt cầm lái, thêm người lạ | Minh áo len kem lái, Đạt ngồi sau |
+| 01-08 | Bản đợt 1 đổi câu → 01-09 "Gấp… đôi ạ?" mất nghĩa; bản gốc bị cụt | Câu gốc "lộ thì đền gấp đôi", 5 giây |
+| 13-01 | "Bao nhiêu tiền?" nói lí nhí | Làm lại |
+| 17-01 | "Điều thứ ba bà bỏ" sai logic (đưa chìa khóa tủ = bỏ điều hai) | "Điều thứ hai bà bỏ." |
+| 19-05 | Mất câu chốt "Ông chỉ có cháu." | Tách 3 câu có ngắt nghỉ |
+| 20-10 | Lặp "nhớ đường về" | Làm lại |
+| 10-01, 14-04 | Viền đen | Phóng 8% khi ghép |
+| 16-01…16-07 | Di ảnh bố Minh khác nhau giữa các shot | Ghi nhận, chưa sửa |
 
-Thẻ chữ thời gian sửa theo trục của kịch bản (Đạt mặc bomber suốt ngày 26 nên cảnh 02–04 cùng ngày 26; bốn đêm đóng ghế 26–29).
-Kịch bản `kich-ban/` đã cập nhật: thoại khớp 100% với prompt phim (máy so từng shot), thêm `canh-01b.md`, `canh-18b.md`, đánh dấu bỏ cảnh 00.
+Thoại 09-03, 10-01, 13-02, 14-08 đã đổi so với bản 2 vì Flow từ chối câu gốc. Logic đền tiền vẫn khớp: 01-08 → 04-11 → 13-03.
 
-## Việc trên Flow khi đăng nhập lại
-1. Render 25 shot của `_tools/build_shots_3.py`: 16 shot cảnh mới (01b, 18b) + 9 shot làm lại (01-08, 13-01, 17-01, 18-05, 18-08, 18-10, 19-05, 20-02, 20-10). Cần ảnh nhân vật "Bà Thoa · Cầm điện thoại" (đã tạo).
-2. Tải 39 clip làm lại hôm nay (bỏ 01-08 bản đổi câu) + 25 clip trên.
-3. Soát 8 khung/shot + nghe lại thoại cho 64 clip mới.
-4. `python3 _tools/ghep_tung_phan.py norm` (lặp tới "còn 0") rồi `concat`.
+## Phân cảnh mới
+- **01b · Học làm cháu trên xe buýt về làng** (9 shot, 43s): bà Mận kiểm tra bài, Đạt sờ cằm nhẵn "Nhưng cằm cháu làm gì có sẹo hả bà?", trả lời "Lạc ạ!", tập gọi "Ông ơi!" làm gà trong lồng kêu toáng, cả xe quay lại.
+- **18b · Những đêm đóng ghế** (7 shot, 36s): ông bào gỗ trong đêm, ghi sổ "Thằng bé tên Đạt. Mồ côi. Ăn được lạc.", đắp chăn cho Đạt, bà hỏi "Ông đóng ghế cho ai thế?" ("Cho đứa nào cần ghế."), gửi hộp qua tường nhờ bà Thoa "Tối ba mươi, mang ra bến xe hộ tôi". Trả ở 19-07.
+
+## Quy trình
+1. Tải clip từ Flow về Downloads với tên `V3-<shot>_<id8>.mp4`, rồi `python3 _tools/gom_clip.py` (bản mới nhất mỗi shot thắng).
+2. `python3 _tools/ghep_tung_phan.py norm` (lặp tới "còn 0") rồi `concat`.
+
+## Đợt 4 (18/11 đêm, máy Mac mới): render, tải, soát, ghép
+- Render 25 shot của `build_shots_3.py` + làm lại 3 shot sau khi soát: **18b-01** (dính logo kênh "VTV5" và viền đen), **10-07** (viền/khung lệch), **03-06** (hai lần mất câu chốt "Mẹ ạ!", lần ba đổi thành "Dạ, mẹ cháu tên là Mẹ ạ!" thì đủ câu).
+- Tải đủ 229 clip từ Flow về `clips/` (`_tools/gom_tam.py` ghép file tải tạm của app với mã shot, kiểm tra thời lượng; `clips/_ids.json` ghi id Flow của từng shot). Clip cảnh 00–06 đối chiếu hình với bản cũ trên mac-mini: khớp.
+- Soát 8 khung/shot + nghe lại thoại cho 50 clip mới: thoại đều khớp kịch bản.
+- Ghép: tự đo viền đen từng clip rồi phóng vừa đủ để mất viền (chỉ khi viền đối xứng). Bản `Hop_Dong_Lam_Chau_FULL.mp4`: 17 phút 57 giây, 229 shot + tiêu đề + 20 thẻ chữ.
+- Còn để ý, chưa sửa: 01b-07 người nói là đàn ông trung niên (kịch bản ghi bà cụ, vẫn hợp lý); 02-04 ghế ông sơn chưa nhỏ hẳn; di ảnh bố Minh cảnh 16 mỗi shot một kiểu.
 
 ## Đợt 5 (19/11, mac-mini): tải lại toàn bộ, soát lại, dựng lại
 - Tải lại 229 clip từ Flow (bản mới nhất của từng shot; 59 shot cảnh 01–06 dùng bản gốc đã có trong Downloads, 01-11 và 03-13 dùng bản đã sửa logo). Bảng mã → video id: `clips/_ids.json`.

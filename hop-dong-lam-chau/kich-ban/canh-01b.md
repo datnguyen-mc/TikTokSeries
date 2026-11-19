@@ -1,6 +1,6 @@
 # Cảnh 01b · Học làm cháu
 
-**Hồi 1 · Cháu thuê** · trưa 26 Tết, trên xe buýt từ bến xe huyện về làng · ~43 giây · 9 shot · *Cảnh thêm ở bản V3.1, chưa render*
+**Hồi 1 · Cháu thuê** · trưa 26 Tết, trên xe buýt từ bến xe huyện về làng · ~43 giây · 9 shot · *Cảnh thêm ở bản V3.1*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

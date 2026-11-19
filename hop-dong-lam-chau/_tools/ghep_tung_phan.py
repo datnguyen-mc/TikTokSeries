@@ -3,14 +3,20 @@
   python3 ghep_tung_phan.py norm    -> chuẩn hoá clip (cắt đúng giây, phóng bỏ viền, ghi tên nhân vật) vào film/v3/_norm2/
   python3 ghep_tung_phan.py concat  -> nối thành film/v3/Hop_Dong_Lam_Chau_FULL.mp4, kèm thẻ chữ thời gian/nơi chốn
 Kế hoạch dựng (bỏ cảnh nào, thẻ chữ, tên nhân vật) nằm trong dung_phim.py."""
-import os, sys, time, subprocess
+import os, sys, time, subprocess, glob
 from concurrent.futures import ThreadPoolExecutor
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 import ghep_phim as G
 import dung_phim as D
 NORM = os.path.join(G.ROOT, "film", "v3", "_norm2"); os.makedirs(NORM, exist_ok=True)
-FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
-FONT_B = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
+def _font(names):
+    for n in names:
+        for d in ("/usr/share/fonts", "/System/Library/Fonts", "/Library/Fonts"):
+            g = glob.glob(f"{d}/**/{n}", recursive=True)
+            if g: return g[0]
+    return None
+FONT = _font(["DejaVuSerif.ttf", "Times New Roman.ttf", "Georgia.ttf"])
+FONT_B = _font(["DejaVuSerif-Bold.ttf", "Times New Roman Bold.ttf", "Georgia Bold.ttf"]) or FONT
 W, H, FPS = G.W, G.H, G.FPS
 
 def esc(t):
@@ -72,7 +78,7 @@ def one(job):
     except ValueError: pass
     r = subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", os.path.join(G.CLIPS, f"{c}.mp4"), "-t", str(d), "-vf", vf_for(c),
         "-af", "aresample=48000,apad", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-threads", "2",
-        "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2", tmp], capture_output=True, text=True)
+        "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2", "-t", str(d), tmp], capture_output=True, text=True)
     if r.returncode: return c + " LỖI " + r.stderr[-300:]
     os.replace(tmp, dst); return c
 
@@ -87,7 +93,9 @@ def card(name, text, d=2.4, size=46):
 
 def norm(budget=150):
     t0 = time.time(); P = plan()
-    jobs = [(c, d) for sc in P for c, d in P[sc] if not os.path.exists(os.path.join(NORM, f"{c}.mp4"))]
+    miss = [c for sc in P for c, _ in P[sc] if not os.path.exists(os.path.join(G.CLIPS, f"{c}.mp4"))]
+    if miss: print("Thiếu clip:", " ".join(miss))
+    jobs = [(c, d) for sc in P for c, d in P[sc] if c not in miss and not os.path.exists(os.path.join(NORM, f"{c}.mp4"))]
     blk = os.path.join(NORM, "_black.mp4")
     if not os.path.exists(blk): G.black(blk)
     card("_title.mp4", D.TITLE, d=3.5, size=64)

@@ -1,13 +1,13 @@
-# Đề xuất thêm cảnh (mỗi cảnh = 1 clip 15s) — 18/11/2026
+# 7 cảnh thêm (đã duyệt 18/11/2026) — câu lệnh đầy đủ trong `flow_15s_fix/`
 
-| # | Chèn sau | Tên | Nội dung & thoại |
+| Clip | Vị trí trong phim | Tên | Thoại |
 |---|---|---|---|
-| A | 06-4 | Âm mưu trong xe | Đêm mưa, trong xe sang: Hưng đưa Mai Anh thẻ "huấn luyện viên phục hồi". Mai Anh: "Lỡ chị ấy nhận ra em thì sao?" — Hưng cười: "Người mất trí thì nhận ra ai?" |
-| B | 08-4 | Quân tập tán vợ | Văn phòng, Tuấn dạy Quân cười trước gương. Tuấn: "Anh cười tự nhiên lên! Đừng như đi họp cổ đông!" — Quân nhe răng gượng gạo. |
-| C | 10-4 | Suýt lộ | Đêm, Linh ngân nga bài hát đám cưới của hai người; Quân đứng ở cửa: "Bài này… sao em còn nhớ?" — Linh giật mình: "Nghe trên mạng thôi." |
-| D | 15-3 | Album cưới | Quân một mình trên sofa lúc nửa đêm, lật album ảnh cưới: "Mười năm… anh đánh rơi em ở đâu?" |
-| E | 19-3 | Linh phản công | Đêm, Linh trong phòng làm việc gọi điện, mặt sáng bởi màn hình laptop: "Mười giờ sáng mai. Chuẩn bị hồ sơ quỹ. Tôi sẽ đến." (không lộ danh tính chủ tịch) |
-| F | 21-4 | Hưng sụp đổ | Hưng một mình trong thang máy kính đi xuống, nới cà vạt, điện thoại rung liên hồi không dám nghe. |
-| G | 23-4 | Bún chả | Khang và Mai Anh ở quán bún chả vỉa hè. Mai Anh: "Cả năm thật à?" — Khang: "Tôi nói là làm." Hai người cùng cười. |
+| 06-5 | Cuối Phần 6 (thay 06-4) | Âm mưu trong xe | Hưng: "Mai Anh. Từ mai em là huấn luyện viên phục hồi của vợ hắn." / Mai Anh: "Lỡ chị ấy nhận ra em thì sao?" / Hưng: "Người mất trí thì nhận ra ai? Lần này, phải có ảnh." |
+| 08-5 | **Đầu Phần 9** (trước buổi hẹn) | Quân tập tán vợ | Tuấn: "Anh cười tự nhiên lên! Đừng như đi họp cổ đông!" / Quân: "Thế này… được chưa? Hay thế này?" / Tuấn: "Trời ơi, nhìn như đòi nợ ấy anh ạ!" |
+| 10-5 | Cuối Phần 10 | Suýt lộ | Quân: "Bài hát đám cưới mình… sao em còn nhớ?" / Linh: "Nghe trên mạng thôi! Tôi đi ngủ đây." |
+| 15-4 | Cuối Phần 15 | Album cưới | Quân: "Mười năm… anh đánh rơi em ở chỗ nào thế?" |
+| 19-4 | Cuối Phần 19 | Linh phản công | Linh: "Mười giờ sáng mai. Chuẩn bị đủ hồ sơ." … "Tôi sẽ tự đến." |
+| 21-5 | Cuối Phần 21 | Hưng sụp đổ | (không thoại — thang máy kính, điện thoại rung không dám nghe) |
+| 23-5 | Cuối Phần 23 | Bún chả | Mai Anh: "Cả năm thật à anh?" / Khang: "Tôi nói là làm." / Mai Anh: "Thế mai mình ăn phở nhé!" |
 
-Ngoài ra khi ghép: thêm thẻ tên phần 2 giây ("Phần 4 · Bác sĩ đồng phạm"), cắt khoảng lặng thừa cuối clip, bỏ khung đen và chữ "Quân" lọt vào hình ở bản 3 phút đầu.
+Ghi chú dựng: 08-5 chuyển sang đầu Phần 9 để không chen sau câu treo của Phần 8; 06-4 bỏ vì trùng ý với 06-5.

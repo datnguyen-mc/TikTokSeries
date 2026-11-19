@@ -1,6 +1,6 @@
 # Cảnh 18b · Những đêm đóng ghế
 
-**Hồi 3 · Hai đứa cháu** · các đêm 26 → 29 Tết (hồi tưởng, chèn sau lúc Đạt lặng lẽ đi) · ~36 giây · 7 shot · *Cảnh thêm ở bản V3.1, chưa render*
+**Hồi 3 · Hai đứa cháu** · các đêm 26 → 29 Tết (hồi tưởng, chèn sau lúc Đạt lặng lẽ đi) · ~36 giây · 7 shot · *Cảnh thêm ở bản V3.1*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

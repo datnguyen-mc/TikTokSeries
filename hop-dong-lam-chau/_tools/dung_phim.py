@@ -1,6 +1,6 @@
 """Kế hoạch dựng bản V3.1 (sau góp ý 18/11): phim chạy theo thời gian, có chữ dẫn truyện.
 - Bỏ cảnh 00 (mở đầu kể trước, trùng gần hết cảnh 11).
-- Chèn thẻ chữ thời gian/nơi chốn trước các shot mốc (CARDS).
+- Chèn thẻ chữ thời gian/nơi chốn trước các shot mốc (CARDS), theo trục thời gian của kịch bản.
 - Ghi tên nhân vật ở lần xuất hiện đầu (NAMES).
 - Phóng nhẹ các shot có viền đen mỏng để mất viền (CROP)."""
 CUT_SCENES = {"00"}

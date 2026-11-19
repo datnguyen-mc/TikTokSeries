@@ -117,6 +117,9 @@ REDO = [
     ("20-10", "Nhớ đường về", 5, "MAM_GIAOTHUA", ["OT4"], "85mm close-up, very slow push-in",
      "OngThinh looks at Minh, eyes wet, voice firm; he says the line once and then stays silent",
      [("OT4", "Đi đâu thì đi. Nhớ đường về.")], ""),
+    ("01-08", "Điều năm", 5, "BENXE", [BM1], "65mm close-up, locked off",
+     "BaMan lowers the paper and looks up over it, suddenly very matter-of-fact, finishing the sentence completely",
+     [(BM1, "Điều năm, công ty cậu ghi: lộ thì đền gấp đôi.")], ""),
 ]
 
 FIX = ("16:9 full frame edge to edge: no black letterbox bars, no rounded corners, no border, no picture-in-picture frame. "

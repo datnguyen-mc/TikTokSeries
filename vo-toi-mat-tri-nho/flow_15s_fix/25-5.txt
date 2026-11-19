@@ -1,0 +1,38 @@
+A 15-second live-action film sequence of 3 shots, 16:9 widescreen, 24 fps, with hard cuts only at 5.5s, 9.5s; one place and one moment, sound and action continuous across the cuts.
+
+[STYLE]
+Photorealistic live-action Vietnamese romantic comedy-drama with a thriller edge, with the look of an ARRI Alexa 35 anamorphic feature film, 24 fps; rich teal-and-amber grade, motivated practical light, natural skin texture with pores, subtle 35mm film grain, shallow depth of field with creamy oval bokeh, gentle halation. Real actors, believable understated performances, a premium theatrical feature — never CGI, never an advertisement.
+
+[LOCATION]
+A luxurious rooftop restaurant terrace at night above a wide city lake, privately booked: one candlelit table with white linen, a glass balustrade, golden city lights and the dark lake far below, potted olive trees, warm string lights, a private brass elevator; warm candle-gold light with city bokeh.
+
+[CHARACTERS]
+Keep every face, hairstyle and outfit exactly consistent. Attached reference images show faces and clothes only — never copy their backgrounds, and never flash the studio reference portrait; the characters are already in place in the very first frame.
+- @Bong = Bống, the little girl: an adorable 7-year-old Vietnamese girl with a round rosy face, huge sparkling dark eyes, straight black bangs and two high pigtails, a gap-toothed grin; wears a puffy pink tulle party dress with a big bow. Attached image: "Bống · Váy công chúa".
+- @Tuan = Tuấn, the assistant: a cheerful 35-year-old Vietnamese man with boyish good looks, clean-shaven face with deep dimples, bright lively eyes, thick slightly wavy black hair, a stocky friendly build; wears a loud tropical floral shirt and white chinos. Attached image: "Tuấn · Sơ mi hoa".
+- @Linh = Linh, the wife: a breathtakingly beautiful 32-year-old Vietnamese woman, former fashion model, tall and graceful, flawless luminous fair skin, long silky straight black hair, large bright almond-shaped dark eyes, high cheekbones, rosy lips, a radiant smile; wears a floor-length deep-red silk gown with long sleeves, ruby drop earrings, a cherry-blossom hairpin. Attached image: "Linh · Lụa đỏ".
+Nobody else appears in focus.
+
+[SHOT LIST — hard cuts only at the marked seconds]
+- Shot 1, 0–5.5s: 35mm medium two-shot of the little girl and her mother at the table, both faces readable, a completely static frame.
+- Shot 2, 5.5–9.5s: 85mm close-up on the assistant, eyes in sharp focus, background melting into bokeh, a completely static frame.
+- Shot 3, 9.5–15s: 100mm macro insert shot, a slow pull-back.
+- Whoever is speaking has the face clearly on screen in that shot; the camera keeps one side of the line so eyelines match across the cuts.
+
+[TIMELINE — second by second]
+Emotion shows through physical cues (breathing, eyes, jaw, hands, posture); one clear action per beat.
+- 0–5.5s (Shot 1): Beside her smiling mother, Bong points her cake fork across the table at Tuan; @Bong speaks, face clearly on screen.
+- 5.5–9.5s (CUT to Shot 2): Tuan coughs on his cake, then bursts out laughing. No one speaks.
+- 9.5–15s (CUT to Shot 3): Final shot: Linh's hand sets the cherry-blossom hairpin on the bouquet of red roses; slow pull back as fireworks reflect on the lake. No one speaks. The sequence settles on this as its final frame.
+
+[AUDIO]
+- Dialogue in Vietnamese with exact lip-sync, 1 spoken turn in this order, each said exactly once (no subtitles):
+- Turn 1, 0.3–2.7s, spoken in frame by @Bong (girl of 7, high clear child's voice, bright and earnest, speaking quickly in short lively phrases, every word clear, cheeky): "Thế chú mắc thử đi! Biết đâu chú lấy được vợ!"
+- Throughout, only the person whose turn it is moves the lips while anyone else listens with the mouth closed; real breaths and tiny natural hesitations, close, natural dialogue sound with a little room tone — it sounds like real actors talking, never like a voice-over or text-to-speech.
+- Voices: every character speaks standard Hà Nội Northern Vietnamese (never Southern or Central accents), says each word once and clearly, and different characters sound clearly different in pitch, age and texture.
+- All speech is over by 2.7s; outside the turns above nobody says a word, and no line is ever repeated to fill the time.
+- Speak only the Vietnamese words inside the double quotes, once, with natural Northern Vietnamese tones; never read these directions, names or tags aloud.
+- SFX: a soft city hum far below, a light night breeze, candle flames fluttering, faint glassware. No music.
+
+[AVOID]
+Visible film cameras, tripods, light stands, boom microphones, film crew or any filmmaking equipment anywhere in the frame, camera viewfinder or recording overlays, phone camera interfaces, the same character appearing twice in one shot, On-screen text of any kind (subtitles, captions, titles, watermarks, logos), readable writing, blurry faces, distorted hands, background music, letterbox bars, cuts at any other moment, extra people in focus, face, hair or costume changes, robotic or text-to-speech sounding voices, flat monotone delivery, slurred speech, repeated, stuttered or echoed words, the line spoken twice, an off-screen narrator or voice-over, Southern or Central Vietnamese accents.

@@ -24,7 +24,8 @@ def esc(t):
 
 def plan():
     P = G.plan()
-    return {sc: [(c, d) for c, d in shots if c not in D.CUT_SHOTS] for sc, shots in P.items() if sc not in D.CUT_SCENES}
+    dur = getattr(D, "DUR", {})
+    return {sc: [(c, dur.get(c, d)) for c, d in shots if c not in D.CUT_SHOTS] for sc, shots in P.items() if sc not in D.CUT_SCENES}
 
 def bars(c):
     """Đo viền đen (đen tuyền, cố định qua 6 khung) ở 4 cạnh, theo pixel trên khung 320x180."""
@@ -117,7 +118,19 @@ def concat():
             segs.append(os.path.join(NORM, f"{c}.mp4"))
     lst = os.path.join(NORM, "list.txt"); open(lst, "w").writelines(f"file '{s}'\n" for s in segs)
     out = os.path.join(G.ROOT, "film", "v3", "Hop_Dong_Lam_Chau_FULL.mp4")
-    G.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", "-movflags", "+faststart", out])
+    # Hình: nối copy. Tiếng: dựng lại chính xác từng mẫu theo số khung hình của từng đoạn
+    # (concat copy tiếng AAC làm dư ~1 gói/đoạn -> tiếng lệch dần, có máy phát bị mất tiếng)
+    vtmp = out + ".v.mp4"; araw = out + ".a.raw"
+    G.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-an", "-c", "copy", vtmp])
+    with open(araw, "wb") as fa:
+        for sg in segs:
+            nf = int(subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v", "-count_packets", "-show_entries",
+                 "stream=nb_read_packets", "-of", "csv=p=0", sg], capture_output=True, text=True).stdout.strip())
+            fa.write(subprocess.run(["ffmpeg", "-v", "error", "-i", sg, "-vn", "-ac", "2", "-ar", "48000", "-af",
+                 f"apad,atrim=end_sample={nf * 48000 // FPS}", "-f", "s16le", "-"], capture_output=True).stdout)
+    G.run(["ffmpeg", "-y", "-v", "error", "-i", vtmp, "-f", "s16le", "-ar", "48000", "-ac", "2", "-i", araw, "-map", "0:v", "-map", "1:a",
+           "-c:v", "copy", "-c:a", "aac", "-b:a", "256k", "-movflags", "+faststart", out])
+    os.replace(vtmp, os.path.join(NORM, "_last_video_only.mp4")); os.replace(araw, os.path.join(NORM, "_last_audio.raw"))
     print("Xong:", out, len(segs), "đoạn")
 
 if __name__ == "__main__":

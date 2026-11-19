@@ -56,3 +56,16 @@ Thoại 09-03, 10-01, 13-02, 14-08 đã đổi so với bản 2 vì Flow từ ch
 - `ghep_tung_phan.py`: tự đo viền đen từng clip (chỉ cắt khi có viền cả hai phía, khung bo góc cắt sâu thêm), shot ngắn hơn kế hoạch thì cắt theo độ dài clip để không đứng hình/lệch tiếng.
 - Kết quả: `Hop_Dong_Lam_Chau_FULL.mp4` 17:44 (1064 giây), 268 đoạn, hình và tiếng dài bằng nhau.
 - Còn để ngỏ (lỗi nhỏ): 01b-07 người hỏi "Tập đóng phim à cháu?" là một ông khách thay vì bà cụ; di ảnh bố Minh ở cảnh 16 vẫn khác nhau đôi chút giữa các shot.
+
+## Đợt 6 — Sửa lỗi mất tiếng (19/11)
+- Nguyên nhân: nối concat `-c copy` làm dư ~1 gói AAC ở mỗi điểm nối (247 điểm) → track tiếng dài 1074,9 s so với hình 1066,1 s; tiếng lệch dần tới ~8 s cuối phim, có trình phát nuốt mất tiếng.
+- Sửa: dựng lại tiếng chính xác từng mẫu theo số khung hình từng đoạn (_meta/timeline_exact.txt), mux lại với hình gốc. Kiểm tra khớp môi 5 điểm (01-04, 08-03, 13-05, 18-04, 20-09): lệch 0 ms.
+- 21 thẻ tiêu đề/màn đen trước đây im lặng tuyệt đối → lót nhạc Flow Music (đoạn êm của track A), tràn mềm 1,4 s sang đầu cảnh. Không còn đoạn câm >0,4 s (ngưỡng −50 dB). Âm lượng −16,4 LUFS.
+- _tools/ghep_tung_phan.py đã sửa phần concat để không tái phát (bản cũ: .bak). Lưu ý: lót nhạc dưới thẻ chưa nằm trong script — nếu dựng lại cần lót lại.
+- Bản cũ: _cu/Hop_Dong_Lam_Chau_FULL_lech_tieng.mp4
+- Trailer: thay chỗ ngắt nhạc cứng 0,6 s trước tiêu đề bằng đoạn nhạc tắt dần; lấp khoảng hở ở 112 s. Bản cuối: trailer/Hop_Dong_Lam_Chau_Trailer.mp4 (2:01, −14 LUFS).
+
+## Đợt 7 — Soát logo & nhất quán (19/11)
+- Soát 226 shot: soi phóng 4 góc + máy dò vùng đứng yên theo cửa sổ 1,5 s trên toàn thời lượng → không thấy logo kênh truyền hình (chỉ bắt được dòng tên nhân vật do mình chèn).
+- Bà Thoa sai mặt/tóc: 03-02 (tóc bạc búi), 03-05 (người khác, tóc đen thẳng) → thay bằng bản gốc V3 trong Downloads (2108b2d7, 3e4c2652), thoại khớp. 19-06 (tóc bạc búi, không thoại) → bỏ (`CUT_SHOTS`). Bản cũ ở `clips/_cu/`.
+- Dựng lại FULL (17:42, 267 đoạn, tiếng chuẩn từng mẫu + nhạc dưới thẻ, không đoạn câm). Trailer: thay 03-05 mới (0,6–2,45), bớt đầu 04-01 cho giữ nhịp nhạc.

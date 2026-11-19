@@ -18,9 +18,12 @@ DROP = {"P06-C4"}                       # gộp vào 06-5
 MOVE = {"P08-C5": (9, 0)}               # Quân tập cười → mở đầu Phần 9
 # Đoạn giữ lại của clip nguồn (giây), theo thứ tự phát. Không khai báo = giữ cả clip.
 KEEP = {
- "V3":     [(0, 2.833), (3.042, 999)],            # bỏ khung đen
+ "V3":     [(0, 2.833), (3.042, 61.5), (63.5, 64.54), (67.58, 999)],
+             # bỏ khung đen; bỏ cú ví "bay" vào hất đổ ly khi bàn đã trống (giữ 1s vết rượu loang);
+             # bỏ shot 02-01 (váy trắng Mai Anh dính vết đỏ vô lý)
  "P05-C4": [(1.3, 9.6), (12.0, 999)],             # khung ngắm máy quay 0–1.3; lặp "rất coi trọng gia đình"
  "P07-C1": [(0, 8.1), (12.0, 999)],               # câu lặp méo tiếng 8.3–10.3
+ "P09-C4": [(0, 13.5)],                           # cảnh cuối loé trắng 13.5–15
  "P10-C4": [(0, 13.2)],                           # bỏ cú lia về phòng trống
  "P14-C1": [(0, 8.05), (10.0, 999)],              # câu lạc "còn thư cho vợ"
  "P14-C2": [(3.5, 999)],                          # chữ "@Quan / ARRI" đè hình

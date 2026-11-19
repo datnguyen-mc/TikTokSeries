@@ -20,6 +20,9 @@ def plan():
     out = {}
     for sc, (_, shots) in list(S1.SCENES.items()) + list(S2.SCENES.items()) + list(S3.SCENES.items()):
         out[sc] = [(s[0], s[2]) for s in shots]
+    redo = {s[0]: s[2] for s in S3.REDO}   # shot làm lại có thể dài hơn bản cũ
+    for sc in out:
+        out[sc] = [(c, redo.get(c, d)) for c, d in out[sc]]
     return dict(sorted(out.items()))
 
 

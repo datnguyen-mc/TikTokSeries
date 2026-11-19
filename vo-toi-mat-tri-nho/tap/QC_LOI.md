@@ -1,3 +1,43 @@
+# Dựng lại bản 3 — 19/11/2026 (máy Mac mini)
+
+**File:** `tap/Vo_toi_mat_tri_nho_FULL_v3.mp4` (25 phút 18 giây, 1280×720, 24 khung/giây) và 23 file từng phần trong `tap/phan_v3/`.
+**Cách dựng:** `python3 tap/make_full3.py seg → full → full2` (`parts` cho file từng phần). Dữ liệu sửa hình theo từng shot: `tap/fix_v3.json`.
+
+Lưu ý: toàn bộ file mp4 trên máy này đã bị xoá sau lần `git pull` lúc 01:11 (mp4 không nằm trong git). Đã tải lại toàn bộ clip từ Flow và tách vào `clips/full_p04_p25/` bằng `clips/organize_zip.py` (nay nhận cả tên R3, R4…).
+
+## Render lại hôm nay (5 clip × 60 tín dụng = 300 tín dụng)
+| Clip | Lỗi cũ | Kết quả |
+|---|---|---|
+| 23-1 (R3) | Mất câu "Hợp đồng thử việc làm chồng. Sáu tháng." | Đạt — nghe rõ câu mở, điều một, "Đồng ý" |
+| 20-1 (R2) | Mất "Giám đốc ngoại tình." | Vẫn mất câu này; khi dựng cắt câu lặp, đưa ảnh trên màn chiếu vào giữa: "Vợ mất trí." → ảnh → "Quỹ Hoa Anh Đào sẽ rút vốn." |
+| 11-1 (R) | Câu chốt "…với đối tác Nhật" bị cụt | Đạt phần lớn: "…hay đi họp với đối tác của mình" (khác kịch bản 1 chữ, nghĩa giữ nguyên) |
+| 10-4 (R) | Mất "không còn tỉnh táo" | Đạt câu chính; mất vế "Rồi gạt cô ấy ra" (vẫn hiểu). Có dấu ✦ + chữ "24 fps" góc phải → đã xoá khi dựng; bỏ 1,8s cuối (lia về phòng trống) |
+| 25-6 (mới) | Kết phim không có trẻ em | Đạt: Tuấn cười một mình → kẹp tóc hoa anh đào trên bó hồng → hai vợ chồng ngắm pháo hoa |
+
+## Sửa khi dựng (không tốn tín dụng)
+| Loại | Clip | Xử lý |
+|---|---|---|
+| Viền đen trên/dưới, khung bo góc, viền hai bên | 04-1 04-2 04-3 05-1 05-4 06-1 07-1 07-2 07-3 07-4 08-2 08-4 09-2 09-3 09-4 10-5 12-1 13-2 13-3 15-3 16-1 16-2 17-4 18-1 18-3 21-4 21-5 22-1 24-1 24-2 25-1 và 20 shot trong bản V3 | Cắt vào khung hình sạch theo từng shot, giữ 16:9, phóng lại 1280×720 (máy dò tự động, đã soát lại 2 lần: không còn viền) |
+| Dấu ✦ (Gemini) chép từ ảnh nhân vật | 04-3, 08-1, 10-1, 10-4, 11-2 | Xoá (delogo) đúng vị trí, đúng đoạn |
+| Chữ "Quan" trên hình | Bản V3 159,2–160,4s | Phóng nhẹ shot đó để chữ ra ngoài khung (không còn vệt mờ) |
+| Khung đen | Bản V3 2,83s | Cắt |
+| Cảnh ví hất đổ ly rượu vô lý (bàn đã trống, ví "bay" vào khung) | Bản V3, phút 1:04–1:06 | Bỏ cú hất, giữ 1s vết rượu loang sau khi Linh rời bàn |
+| Váy trắng Mai Anh dính vết đỏ (shot 02-01) | Bản V3, phút 1:06–1:09 | Bỏ shot, vào thẳng cận Mai Anh |
+| Loé trắng cuối phần 9 | 09-4 13,5–15s | Cắt |
+| Dải chữ máy quay "24 fps · ALEXA 35 · 00.45mm" ở mép trên | 20-4 (0–3,9s) | Phóng nhẹ shot để đẩy dải chữ ra ngoài khung |
+| Thoại lặp / chữ đè / khung ngắm | 05-4, 07-1, 14-1, 14-2, 22-1 | Cắt đoạn lỗi (đã nghe lại sau khi cắt: câu liền mạch) |
+| Máy quay / đèn chiếu / cảnh thừa | 17-4 (sau 11s), 18-3 (sau 13,45s), 21-4 (sau 10,95s) | Cắt |
+| Kết phim | 25-5 (giữ 0–5,5s) + 25-6 | |
+
+## Còn để nguyên (nhỏ, chấp nhận)
+- 20-1: thiếu câu "Giám đốc ngoại tình" (ý vẫn rõ nhờ ảnh trên màn chiếu).
+- 20-2: vật mờ tiền cảnh hình chữ ∩ trong 3 giây.
+- 23-4: trứng ốp hoà vào lịch; 25-4: một cú hoà hình ngắn trong cảnh Tuấn và Bống.
+- Lặp chữ nhẹ ở 08-5, 14-3, 19-2, 22-2.
+- Âm lượng toàn phim −18 LUFS (đủ nghe; nếu đăng nền tảng yêu cầu −14 thì chuẩn lại).
+
+---
+
 # Kiểm tra lỗi toàn phim — cập nhật 18/11/2026 (tối)
 
 Đã soát: hình (283 shot + 1 khung/2 giây cho 35 clip giữ lại + 4 khung/giây cho bản V3), thoại (chuyển giọng thành chữ cả 80 clip + bản V3, so với kịch bản).

@@ -6,7 +6,7 @@
 CUT_SCENES = {"00"}
 # Bỏ khi soát 19/11: 02-04 (ghế ông sơn thành ghế to, lệch với 02-01/02-02), 12-02 (ghế "trẻ con" lại cỡ người lớn),
 # 16-01 (di ảnh đen trắng, khác hẳn di ảnh màu ở 16-02…16-07)
-CUT_SHOTS = {"02-04", "12-02", "16-01"}
+CUT_SHOTS = {"02-04", "12-02", "16-01", "19-06"}
 
 TITLE = "HỢP ĐỒNG LÀM CHÁU"
 CARDS = {
@@ -43,3 +43,6 @@ CROP = {"01-11", "02-06", "02-07", "02-09", "04-09", "07-07", "07-08", "07-09", 
 
 # phóng tay cho clip có khung viền kiểu cuộn phim (máy không đo được): tỉ lệ giữ lại
 MANUAL_CROP = {"20-06": 0.88}
+
+# độ dài riêng (giây) cho shot mà câu thoại dài hơn bảng shot
+DUR = {"14-07": 8}

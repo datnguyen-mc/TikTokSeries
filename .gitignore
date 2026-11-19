@@ -55,3 +55,12 @@ human-exe/**/*.aiff
 filmcraft/
 *.mp4.bak
 *.mov
+
+# Film-edit intermediates: >100 MB (GitHub rejects) or just wrap ignored media
+*.raw
+**/_cu_tmp_*
+**/_meta/*.flac
+**/_meta/*.m4a
+**/_trailer/src.tar
+**/_models/*.onnx
+*.py.bak

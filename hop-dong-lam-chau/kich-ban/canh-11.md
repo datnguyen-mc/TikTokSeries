@@ -1,6 +1,6 @@
 # Cảnh 11 · Hai thằng Minh
 
-**Hồi 2 · Cháu giả, Tết thật** · sáng 29 Tết · B5 cổng nhà · ~30 giây · 9 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 2 · Cháu giả, Tết thật** · sáng 29 Tết · B5 cổng nhà · ~30 giây · 9 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

@@ -2,31 +2,47 @@
 
 *Sinh bởi `_tools/build_kich_ban.py` từ `CAU_CHUYEN_v2.md` (bản 2) và `film/v3/SHOTS.md`. Sửa trong script rồi chạy lại.*
 
-**21 đoạn (cảnh 00 mở đầu + 20 cảnh) · 219 shot · ~15 phút 54 giây.**
+**Bản V3.1: 22 cảnh (01–20 + hai cảnh thêm 01b, 18b; bỏ cảnh 00) · 229 shot · ~16 phút 53 giây, chưa tính thẻ chữ.**
 
 | Cảnh | Tên | Hồi | Thời điểm | Shot | Giây | Trạng thái |
 |---|---|---|---|---|---|---|
-| [00](canh-00.md) | Mở đầu | Mở đầu | sáng 29 Tết (chớp tới) | 6 | 20 | Đã render (V3) |
+| ~~[00](canh-00.md)~~ | ~~Mở đầu~~ | — | — | 6 | 20 | **Bỏ ở V3.1** (trùng cảnh 11) |
 | [01](canh-01.md) | Đơn hàng cháu đích tôn | Hồi 1 · Cháu thuê | sáng 26 Tết | 18 | 71 | Đã render (V3) |
+| [01b](canh-01b.md) | Học làm cháu | Hồi 1 · Cháu thuê | trưa 26 Tết, xe buýt về làng | 9 | 43 | **Thêm ở V3.1**, chưa render |
 | [02](canh-02.md) | Mười năm mà mày lùn đi à? | Hồi 1 · Cháu thuê | chiều 26 Tết | 14 | 54 | Đã render (V3) |
 | [03](canh-03.md) | Thi kiến thức cháu đích tôn | Hồi 1 · Cháu thuê | chiều 26 Tết, tiếp liền cảnh 02 | 16 | 58 | Đã render (V3) |
 | [04](canh-04.md) | Dị ứng theo yêu cầu | Hồi 1 · Cháu thuê | chiều tối 26 Tết, đến đêm | 13 | 61 | Đã render (V3) |
 | [05](canh-05.md) | Cành đào xấu nhất chợ | Hồi 1 · Cháu thuê | sáng 27 Tết | 10 | 53 | Đã render (V3) |
 | [06](canh-06.md) | Gói bánh chưng | Hồi 2 · Cháu giả, Tết thật | chiều 27 Tết | 12 | 59 | Đã render (V3) |
-| [07](canh-07.md) | Đêm canh nồi bánh | Hồi 2 · Cháu giả, Tết thật | đêm 27 Tết | 10 | 44 | Chưa quay — bảng shot đề xuất |
-| [08](canh-08.md) | Hai triệu người xem | Hồi 2 · Cháu giả, Tết thật | rạng sáng 28 Tết, ca đêm | 7 | 30 | Chưa quay — bảng shot đề xuất |
-| [09](canh-09.md) | Tảo mộ | Hồi 2 · Cháu giả, Tết thật | chiều 28 Tết | 6 | 26 | Chưa quay — bảng shot đề xuất |
-| [10](canh-10.md) | Lý do thật của bà | Hồi 2 · Cháu giả, Tết thật | tối 28 Tết | 8 | 37 | Chưa quay — bảng shot đề xuất |
-| [11](canh-11.md) | Hai thằng Minh | Hồi 2 · Cháu giả, Tết thật | sáng 29 Tết | 9 | 30 | Chưa quay — bảng shot đề xuất |
-| [12](canh-12.md) | Bữa sáng của anh shipper | Hồi 2 · Cháu giả, Tết thật | sáng 29 Tết | 12 | 46 | Chưa quay — bảng shot đề xuất |
-| [13](canh-13.md) | Ba mươi triệu | Hồi 3 · Hai đứa cháu | trưa 29 Tết | 7 | 31 | Chưa quay — bảng shot đề xuất |
-| [14](canh-14.md) | Livestream bóc phốt | Hồi 3 · Hai đứa cháu | chiều 29 Tết | 9 | 43 | Chưa quay — bảng shot đề xuất |
-| [15](canh-15.md) | Bà khoe cháu đi Nhật | Hồi 3 · Hai đứa cháu | chiều 29 Tết, tiếp liền | 8 | 37 | Chưa quay — bảng shot đề xuất |
-| [16](canh-16.md) | Đêm hai mươi chín năm ấy | Hồi 3 · Hai đứa cháu | chiều 29 Tết | 9 | 45 | Chưa quay — bảng shot đề xuất |
-| [17](canh-17.md) | Cái tủ gỗ | Hồi 3 · Hai đứa cháu | chiều 30 Tết | 11 | 50 | Chưa quay — bảng shot đề xuất |
-| [18](canh-18.md) | Ông nói với con trai | Hồi 3 · Hai đứa cháu | hoàng hôn tất niên (chiều 30) | 13 | 64 | Chưa quay — bảng shot đề xuất |
-| [19](canh-19.md) | Phong bao thứ mười một | Hồi 3 · Hai đứa cháu | tối 30 Tết, sát giao thừa | 9 | 43 | Chưa quay — bảng shot đề xuất |
-| [20](canh-20.md) | Xông đất | Hồi 3 · Hai đứa cháu | giao thừa → sáng mùng 1 | 12 | 52 | Chưa quay — bảng shot đề xuất |
+| [07](canh-07.md) | Đêm canh nồi bánh | Hồi 2 · Cháu giả, Tết thật | đêm 27 Tết | 10 | 44 | Đã render (V3) |
+| [08](canh-08.md) | Hai triệu người xem | Hồi 2 · Cháu giả, Tết thật | rạng sáng 28 Tết, ca đêm | 7 | 30 | Đã render (V3) |
+| [09](canh-09.md) | Tảo mộ | Hồi 2 · Cháu giả, Tết thật | chiều 28 Tết | 6 | 26 | Đã render (V3) |
+| [10](canh-10.md) | Lý do thật của bà | Hồi 2 · Cháu giả, Tết thật | tối 28 Tết | 8 | 37 | Đã render (V3) |
+| [11](canh-11.md) | Hai thằng Minh | Hồi 2 · Cháu giả, Tết thật | sáng 29 Tết | 9 | 30 | Đã render (V3) |
+| [12](canh-12.md) | Bữa sáng của anh shipper | Hồi 2 · Cháu giả, Tết thật | sáng 29 Tết | 12 | 46 | Đã render (V3) |
+| [13](canh-13.md) | Ba mươi triệu | Hồi 3 · Hai đứa cháu | trưa 29 Tết | 7 | 31 | Đã render (V3) |
+| [14](canh-14.md) | Livestream bóc phốt | Hồi 3 · Hai đứa cháu | chiều 29 Tết | 9 | 43 | Đã render (V3) |
+| [15](canh-15.md) | Bà khoe cháu đi Nhật | Hồi 3 · Hai đứa cháu | chiều 29 Tết, tiếp liền | 8 | 37 | Đã render (V3) |
+| [16](canh-16.md) | Đêm hai mươi chín năm ấy | Hồi 3 · Hai đứa cháu | chiều 29 Tết | 9 | 45 | Đã render (V3) |
+| [17](canh-17.md) | Cái tủ gỗ | Hồi 3 · Hai đứa cháu | chiều 30 Tết | 11 | 50 | Đã render (V3) |
+| [18](canh-18.md) | Ông nói với con trai | Hồi 3 · Hai đứa cháu | hoàng hôn tất niên (chiều 30) | 13 | 64 | Đã render (V3) |
+| [18b](canh-18b.md) | Những đêm đóng ghế | Hồi 3 · Hai đứa cháu | đêm 26 → 29 Tết (hồi tưởng) | 7 | 36 | **Thêm ở V3.1**, chưa render |
+| [19](canh-19.md) | Phong bao thứ mười một | Hồi 3 · Hai đứa cháu | tối 30 Tết, sát giao thừa | 9 | 43 | Đã render (V3) |
+| [20](canh-20.md) | Xông đất | Hồi 3 · Hai đứa cháu | giao thừa → sáng mùng 1 | 12 | 52 | Đã render (V3) |
+
+## Bản V3.1 (18/11 tối): rà phim đã quay và chỉnh kịch bản
+
+**Dựng lại cho dễ theo dõi:** bỏ cảnh 00; phim chạy đúng thứ tự thời gian theo trục ở bảng trên; có thẻ chữ thời gian/nơi chốn và tên nhân vật ở lần đầu xuất hiện (`_tools/dung_phim.py`).
+
+**Thoại đã đổi so với bản 2** (Flow từ chối câu gốc vì cho là vi phạm chính sách): 09-03, 10-01, 13-02, 14-08 (đã sửa trong các file cảnh). Logic đền tiền vẫn khớp: 01-08 "lộ thì đền gấp đôi" → 04-11 "Ba mươi triệu… em biết rồi anh" → 13-03 "Tôi trả ba mươi. Đủ đền."
+
+**Lỗi logic sửa thêm:** 17-01 bà đưa chìa khóa tủ gỗ là bỏ **điều hai** (không lên gác mở tủ), không phải điều ba. Đã sửa câu thành "Điều thứ hai bà bỏ." và đưa vào danh sách làm lại.
+
+**Thoại phim lệch kịch bản (nghe lại bằng máy):** 19-05 mất câu cuối "Ông chỉ có cháu."; 20-10 lặp "nhớ đường về" hai lần; 01-08 bị cụt sau "lộ thì…"; 13-01 "Bao nhiêu tiền?" nói lí nhí. Cả bốn đưa vào danh sách làm lại.
+
+**Gài – trả mới:** cảnh 01b gài sẵn sẹo ở cằm và dị ứng lạc (Đạt trả lời "Lạc ạ!" rồi đến cảnh 03 vẫn ăn kẹo lạc). Cảnh 18b trả cho "tiếng bào gỗ" (03→04) và "Ông đóng bốn đêm" (19-07): bốn đêm 26, 27, 28, 29.
+
+Danh sách đầy đủ shot làm lại: `film/v3/REVIEW_V3_1.md`.
 
 ## Kết quả rà kịch bản (18/11/2026)
 

@@ -1,0 +1,3054 @@
+{
+"order": [
+[
+"01",
+"01-01",
+4
+],
+[
+"01",
+"01-02",
+3
+],
+[
+"01",
+"01-03",
+4
+],
+[
+"01",
+"01-04",
+5
+],
+[
+"01",
+"01-05",
+3
+],
+[
+"01",
+"01-06",
+5
+],
+[
+"01",
+"01-07",
+4
+],
+[
+"01",
+"01-08",
+4
+],
+[
+"01",
+"01-09",
+3
+],
+[
+"01",
+"01-10",
+5
+],
+[
+"01",
+"01-11",
+4
+],
+[
+"01",
+"01-12",
+4
+],
+[
+"01",
+"01-13",
+3
+],
+[
+"01",
+"01-14",
+3
+],
+[
+"01",
+"01-15",
+5
+],
+[
+"01",
+"01-16",
+4
+],
+[
+"01",
+"01-17",
+5
+],
+[
+"01",
+"01-18",
+3
+],
+[
+"01b",
+"01b-01",
+6
+],
+[
+"01b",
+"01b-02",
+4
+],
+[
+"01b",
+"01b-03",
+5
+],
+[
+"01b",
+"01b-04",
+4
+],
+[
+"01b",
+"01b-05",
+4
+],
+[
+"01b",
+"01b-06",
+6
+],
+[
+"01b",
+"01b-07",
+4
+],
+[
+"01b",
+"01b-08",
+6
+],
+[
+"01b",
+"01b-09",
+4
+],
+[
+"02",
+"02-01",
+5
+],
+[
+"02",
+"02-02",
+3
+],
+[
+"02",
+"02-03",
+4
+],
+[
+"02",
+"02-04",
+3
+],
+[
+"02",
+"02-05",
+4
+],
+[
+"02",
+"02-06",
+5
+],
+[
+"02",
+"02-07",
+3
+],
+[
+"02",
+"02-08",
+5
+],
+[
+"02",
+"02-09",
+4
+],
+[
+"02",
+"02-10",
+3
+],
+[
+"02",
+"02-11",
+4
+],
+[
+"02",
+"02-12",
+5
+],
+[
+"02",
+"02-13",
+3
+],
+[
+"02",
+"02-14",
+3
+],
+[
+"03",
+"03-01",
+4
+],
+[
+"03",
+"03-02",
+5
+],
+[
+"03",
+"03-03",
+3
+],
+[
+"03",
+"03-04",
+4
+],
+[
+"03",
+"03-05",
+3
+],
+[
+"03",
+"03-06",
+4
+],
+[
+"03",
+"03-07",
+3
+],
+[
+"03",
+"03-08",
+4
+],
+[
+"03",
+"03-09",
+3
+],
+[
+"03",
+"03-10",
+3
+],
+[
+"03",
+"03-11",
+3
+],
+[
+"03",
+"03-12",
+4
+],
+[
+"03",
+"03-13",
+4
+],
+[
+"03",
+"03-14",
+3
+],
+[
+"03",
+"03-15",
+5
+],
+[
+"03",
+"03-16",
+3
+],
+[
+"04",
+"04-01",
+4
+],
+[
+"04",
+"04-02",
+5
+],
+[
+"04",
+"04-03",
+4
+],
+[
+"04",
+"04-04",
+4
+],
+[
+"04",
+"04-05",
+3
+],
+[
+"04",
+"04-06",
+5
+],
+[
+"04",
+"04-07",
+3
+],
+[
+"04",
+"04-08",
+6
+],
+[
+"04",
+"04-09",
+4
+],
+[
+"04",
+"04-10",
+3
+],
+[
+"04",
+"04-11",
+12
+],
+[
+"04",
+"04-12",
+5
+],
+[
+"04",
+"04-13",
+3
+],
+[
+"05",
+"05-01",
+5
+],
+[
+"05",
+"05-02",
+8
+],
+[
+"05",
+"05-03",
+4
+],
+[
+"05",
+"05-04",
+3
+],
+[
+"05",
+"05-05",
+5
+],
+[
+"05",
+"05-06",
+5
+],
+[
+"05",
+"05-07",
+5
+],
+[
+"05",
+"05-08",
+4
+],
+[
+"05",
+"05-09",
+6
+],
+[
+"05",
+"05-10",
+8
+],
+[
+"06",
+"06-01",
+8
+],
+[
+"06",
+"06-02",
+4
+],
+[
+"06",
+"06-03",
+5
+],
+[
+"06",
+"06-04",
+3
+],
+[
+"06",
+"06-05",
+3
+],
+[
+"06",
+"06-06",
+6
+],
+[
+"06",
+"06-07",
+4
+],
+[
+"06",
+"06-08",
+3
+],
+[
+"06",
+"06-09",
+5
+],
+[
+"06",
+"06-10",
+4
+],
+[
+"06",
+"06-11",
+10
+],
+[
+"06",
+"06-12",
+4
+],
+[
+"07",
+"07-01",
+4
+],
+[
+"07",
+"07-02",
+5
+],
+[
+"07",
+"07-03",
+6
+],
+[
+"07",
+"07-04",
+5
+],
+[
+"07",
+"07-05",
+5
+],
+[
+"07",
+"07-06",
+3
+],
+[
+"07",
+"07-07",
+4
+],
+[
+"07",
+"07-08",
+5
+],
+[
+"07",
+"07-09",
+4
+],
+[
+"07",
+"07-10",
+3
+],
+[
+"08",
+"08-01",
+4
+],
+[
+"08",
+"08-02",
+5
+],
+[
+"08",
+"08-03",
+4
+],
+[
+"08",
+"08-04",
+6
+],
+[
+"08",
+"08-05",
+4
+],
+[
+"08",
+"08-06",
+4
+],
+[
+"08",
+"08-07",
+3
+],
+[
+"09",
+"09-01",
+4
+],
+[
+"09",
+"09-02",
+4
+],
+[
+"09",
+"09-03",
+7
+],
+[
+"09",
+"09-04",
+4
+],
+[
+"09",
+"09-05",
+4
+],
+[
+"09",
+"09-06",
+3
+],
+[
+"10",
+"10-01",
+6
+],
+[
+"10",
+"10-02",
+4
+],
+[
+"10",
+"10-03",
+7
+],
+[
+"10",
+"10-04",
+6
+],
+[
+"10",
+"10-05",
+4
+],
+[
+"10",
+"10-06",
+3
+],
+[
+"10",
+"10-07",
+4
+],
+[
+"10",
+"10-08",
+3
+],
+[
+"11",
+"11-01",
+4
+],
+[
+"11",
+"11-02",
+4
+],
+[
+"11",
+"11-03",
+3
+],
+[
+"11",
+"11-04",
+4
+],
+[
+"11",
+"11-05",
+3
+],
+[
+"11",
+"11-06",
+3
+],
+[
+"11",
+"11-07",
+2
+],
+[
+"11",
+"11-08",
+4
+],
+[
+"11",
+"11-09",
+3
+],
+[
+"12",
+"12-01",
+5
+],
+[
+"12",
+"12-02",
+3
+],
+[
+"12",
+"12-03",
+4
+],
+[
+"12",
+"12-04",
+3
+],
+[
+"12",
+"12-05",
+4
+],
+[
+"12",
+"12-06",
+3
+],
+[
+"12",
+"12-07",
+3
+],
+[
+"12",
+"12-08",
+5
+],
+[
+"12",
+"12-09",
+4
+],
+[
+"12",
+"12-10",
+4
+],
+[
+"12",
+"12-11",
+5
+],
+[
+"12",
+"12-12",
+3
+],
+[
+"13",
+"13-01",
+4
+],
+[
+"13",
+"13-02",
+4
+],
+[
+"13",
+"13-03",
+5
+],
+[
+"13",
+"13-04",
+4
+],
+[
+"13",
+"13-05",
+7
+],
+[
+"13",
+"13-06",
+4
+],
+[
+"13",
+"13-07",
+3
+],
+[
+"14",
+"14-01",
+6
+],
+[
+"14",
+"14-02",
+4
+],
+[
+"14",
+"14-03",
+5
+],
+[
+"14",
+"14-04",
+3
+],
+[
+"14",
+"14-05",
+4
+],
+[
+"14",
+"14-06",
+6
+],
+[
+"14",
+"14-07",
+7
+],
+[
+"14",
+"14-08",
+3
+],
+[
+"14",
+"14-09",
+5
+],
+[
+"15",
+"15-01",
+3
+],
+[
+"15",
+"15-02",
+5
+],
+[
+"15",
+"15-03",
+6
+],
+[
+"15",
+"15-04",
+3
+],
+[
+"15",
+"15-05",
+6
+],
+[
+"15",
+"15-06",
+7
+],
+[
+"15",
+"15-07",
+3
+],
+[
+"15",
+"15-08",
+4
+],
+[
+"16",
+"16-01",
+4
+],
+[
+"16",
+"16-02",
+6
+],
+[
+"16",
+"16-03",
+7
+],
+[
+"16",
+"16-04",
+5
+],
+[
+"16",
+"16-05",
+4
+],
+[
+"16",
+"16-06",
+5
+],
+[
+"16",
+"16-07",
+4
+],
+[
+"16",
+"16-08",
+4
+],
+[
+"16",
+"16-09",
+6
+],
+[
+"17",
+"17-01",
+5
+],
+[
+"17",
+"17-02",
+3
+],
+[
+"17",
+"17-03",
+4
+],
+[
+"17",
+"17-04",
+4
+],
+[
+"17",
+"17-05",
+6
+],
+[
+"17",
+"17-06",
+8
+],
+[
+"17",
+"17-07",
+4
+],
+[
+"17",
+"17-08",
+5
+],
+[
+"17",
+"17-09",
+4
+],
+[
+"17",
+"17-10",
+3
+],
+[
+"17",
+"17-11",
+4
+],
+[
+"18",
+"18-01",
+5
+],
+[
+"18",
+"18-02",
+5
+],
+[
+"18",
+"18-03",
+8
+],
+[
+"18",
+"18-04",
+7
+],
+[
+"18",
+"18-05",
+3
+],
+[
+"18",
+"18-06",
+4
+],
+[
+"18",
+"18-07",
+4
+],
+[
+"18",
+"18-08",
+4
+],
+[
+"18",
+"18-09",
+5
+],
+[
+"18",
+"18-10",
+5
+],
+[
+"18",
+"18-11",
+6
+],
+[
+"18",
+"18-12",
+4
+],
+[
+"18",
+"18-13",
+4
+],
+[
+"18b",
+"18b-01",
+5
+],
+[
+"18b",
+"18b-02",
+6
+],
+[
+"18b",
+"18b-03",
+6
+],
+[
+"18b",
+"18b-04",
+4
+],
+[
+"18b",
+"18b-05",
+4
+],
+[
+"18b",
+"18b-06",
+5
+],
+[
+"18b",
+"18b-07",
+6
+],
+[
+"19",
+"19-01",
+4
+],
+[
+"19",
+"19-02",
+5
+],
+[
+"19",
+"19-03",
+4
+],
+[
+"19",
+"19-04",
+5
+],
+[
+"19",
+"19-05",
+8
+],
+[
+"19",
+"19-06",
+4
+],
+[
+"19",
+"19-07",
+6
+],
+[
+"19",
+"19-08",
+4
+],
+[
+"19",
+"19-09",
+3
+],
+[
+"20",
+"20-01",
+4
+],
+[
+"20",
+"20-02",
+3
+],
+[
+"20",
+"20-03",
+5
+],
+[
+"20",
+"20-04",
+4
+],
+[
+"20",
+"20-05",
+5
+],
+[
+"20",
+"20-06",
+4
+],
+[
+"20",
+"20-07",
+5
+],
+[
+"20",
+"20-08",
+3
+],
+[
+"20",
+"20-09",
+6
+],
+[
+"20",
+"20-10",
+5
+],
+[
+"20",
+"20-11",
+4
+],
+[
+"20",
+"20-12",
+4
+]
+],
+"shots": {
+"00-01": {
+"sc": "00",
+"name": "Cổng mở",
+"dur": 4,
+"act": "Dat stands on a short bamboo ladder hanging a red lantern; the old gate creaks open and Minh stands in it, backpack on one shoulder; Dat freezes with the lantern in mid-air",
+"dlg": []
+},
+"00-02": {
+"sc": "00",
+"name": "Đứa nào cháu thật",
+"dur": 3,
+"act": "BaThoa pops up over the low brick wall, her single phone raised high on its selfie stick, mouth dropping open",
+"dlg": [
+"Thế đứa nào là cháu thật?"
+]
+},
+"00-03": {
+"sc": "00",
+"name": "Hai người nhìn nhau",
+"dur": 3,
+"act": "Dat stares back down at Minh, the red lantern swaying gently in his hand",
+"dlg": []
+},
+"00-04": {
+"sc": "00",
+"name": "Minh vào ăn sáng",
+"dur": 4,
+"act": "OngThinh steps out onto the veranda leaning on his walking stick, looks from one young man to the other off-screen, then turns warmly toward camera-left",
+"dlg": [
+"Minh, vào ăn sáng con."
+]
+},
+"00-05": {
+"sc": "00",
+"name": "Minh chết lặng",
+"dur": 3,
+"act": "Minh stands frozen in the gateway, stunned and silent",
+"dlg": []
+},
+"00-06": {
+"sc": "00",
+"name": "Xe khách phanh",
+"dur": 3,
+"act": "An old coach rolls in and stops hard in front of camera, dust swirling around its front wheel; the folding door opens",
+"dlg": []
+},
+"01-01": {
+"sc": "01",
+"name": "Đạt xuống xe",
+"dur": 4,
+"act": "Dat hops down from the coach step in his try-hard outfit and looks around the crowd",
+"dlg": []
+},
+"01-02": {
+"sc": "01",
+"name": "Tập câu chào",
+"dur": 3,
+"act": "Dat practises an exaggerated warm grin to himself, mouthing the words under his breath",
+"dlg": [
+"Ông ơi, cháu về rồi… Ông ơi!"
+]
+},
+"01-03": {
+"sc": "01",
+"name": "Bà túm tay áo",
+"dur": 4,
+"act": "BaMan pushes through the crowd, grabs Dat's sleeve and tugs him toward a concrete pillar",
+"dlg": [
+"Cậu Đạt phải không? Ra đây, ra đây!"
+]
+},
+"01-04": {
+"sc": "01",
+"name": "Bà dúi phong bì",
+"dur": 5,
+"act": "BaMan glances around, then presses a thick red envelope into Dat's hands and folds his fingers over it",
+"dlg": [
+"Năm ngày thôi. Cháu làm cháu nội tôi, đừng để ông biết."
+]
+},
+"01-05": {
+"sc": "01",
+"name": "Phong bì dày",
+"dur": 3,
+"act": "Dat's thumb flicks the edge of the thick red envelope, feeling its weight",
+"dlg": []
+},
+"01-06": {
+"sc": "01",
+"name": "Đọc hợp đồng",
+"dur": 5,
+"act": "BaMan holds a folded sheet of paper close to her face (writing never readable) and recites it in a solemn sing-song like a temple prayer",
+"dlg": [
+"Một, không để ông biết. Hai, không lên gác mở cái tủ gỗ."
+]
+},
+"01-07": {
+"sc": "01",
+"name": "Phải đi trước giao thừa",
+"dur": 4,
+"act": "BaMan keeps reciting, eyes half closed",
+"dlg": [
+"Ba, phải đi trước giao thừa."
+]
+},
+"01-08": {
+"sc": "01",
+"name": "Điều năm",
+"dur": 4,
+"act": "BaMan lowers the paper and looks up over it, suddenly very matter-of-fact",
+"dlg": [
+"Điều năm, công ty cậu ghi: lộ thì đền gấp đôi."
+]
+},
+"01-09": {
+"sc": "01",
+"name": "Gấp đôi ạ",
+"dur": 3,
+"act": "Dat's grin freezes; he swallows hard",
+"dlg": [
+"Gấp… đôi ạ?"
+]
+},
+"01-10": {
+"sc": "01",
+"name": "Ông hay lẫn",
+"dur": 5,
+"act": "BaMan speaks quietly, eyes wet and worried, twisting the strap of her cloth bag",
+"dlg": [
+"Từ hôm tai biến ông hay lẫn. Hôm trước còn gọi tôi bằng tên thằng con."
+]
+},
+"01-11": {
+"sc": "01",
+"name": "Ông nhớ từng tí",
+"dur": 4,
+"act": "BaMan looks straight at Dat, very serious",
+"dlg": [
+"Nhưng chuyện thằng Minh thì ông nhớ từng tí."
+]
+},
+"01-12": {
+"sc": "01",
+"name": "Anh Minh thế nào",
+"dur": 4,
+"act": "Dat leans in, eager, notebook-style attentive",
+"dlg": [
+"Thế anh Minh là người thế nào hả bà?"
+]
+},
+"01-13": {
+"sc": "01",
+"name": "Nó hiền ít nói",
+"dur": 3,
+"act": "BaMan gives a small proud smile",
+"dlg": [
+"Nó hiền, ít nói."
+]
+},
+"01-14": {
+"sc": "01",
+"name": "Ít nói thì diễn được",
+"dur": 3,
+"act": "Dat flashes a confident thumbs-up and a wink",
+"dlg": [
+"Ít nói thì cháu diễn được."
+]
+},
+"01-15": {
+"sc": "01",
+"name": "Gọi về mái ấm",
+"dur": 5,
+"act": "Alone by the coach, Dat holds an old phone to his ear (screen never visible), speaking softly with a tender smile",
+"dlg": [
+"Cô ơi, cháu chuyển tiền rồi. Cô mua bánh chưng cho các em nhé."
+]
+},
+"01-16": {
+"sc": "01",
+"name": "Các em có Tết",
+"dur": 4,
+"act": "Dat's voice softens, his eyes glistening a little",
+"dlg": [
+"Năm nay các em có Tết rồi cô ạ."
+]
+},
+"01-17": {
+"sc": "01",
+"name": "Lộ là đuổi ra đường",
+"dur": 5,
+"act": "BaMan suddenly grabs Dat's hand with both of hers and grips it hard, looking up at him with fierce, frightened eyes",
+"dlg": [
+"Lộ ra là ông đuổi cả hai bà cháu ra đường đấy."
+]
+},
+"01-18": {
+"sc": "01",
+"name": "Không còn đường lùi",
+"dur": 3,
+"act": "Dat's smile fades; he looks toward the road out of town",
+"dlg": []
+},
+"02-01": {
+"sc": "02",
+"name": "Ông sơn ghế bé",
+"dur": 5,
+"act": "OngThinh sits on a low stool in the middle of the courtyard, carefully repainting a tiny child-sized wooden chair, totally absorbed",
+"dlg": []
+},
+"02-02": {
+"sc": "02",
+"name": "Nét cọ",
+"dur": 3,
+"act": "OngThinh's knotted carpenter's hand draws a slow stroke of paint along the tiny chair's backrest",
+"dlg": []
+},
+"02-03": {
+"sc": "02",
+"name": "Ông ơi cháu về rồi",
+"dur": 4,
+"act": "Dat bursts through the brick gate with his arms flung wide and a huge over-acted grin, backpack bouncing",
+"dlg": [
+"Ông ơi! Cháu về rồi!"
+]
+},
+"02-04": {
+"sc": "02",
+"name": "Cọ dừng lại",
+"dur": 3,
+"act": "OngThinh's brush stops mid-stroke; he does not turn around",
+"dlg": []
+},
+"02-05": {
+"sc": "02",
+"name": "Cái ôm cứng đơ",
+"dur": 4,
+"act": "Dat throws his arms around OngThinh from the side; the old man goes stiff as a plank, the brush frozen in mid-air",
+"dlg": []
+},
+"02-06": {
+"sc": "02",
+"name": "Mày là",
+"dur": 5,
+"act": "OngThinh slowly looks up at the young man for a long, unreadable moment",
+"dlg": [
+"Mày là…"
+]
+},
+"02-07": {
+"sc": "02",
+"name": "Bà nín thở",
+"dur": 3,
+"act": "BaMan stands just inside the gate clutching her bag, holding her breath",
+"dlg": []
+},
+"02-08": {
+"sc": "02",
+"name": "Mười năm lùn đi",
+"dur": 5,
+"act": "OngThinh squints, completely unimpressed, and goes back to painting",
+"dlg": [
+"…thằng Minh. Mười năm mà mày lùn đi à?"
+]
+},
+"02-09": {
+"sc": "02",
+"name": "Ăn uống kham khổ",
+"dur": 4,
+"act": "BaMan forces a too-bright laugh, flapping one hand",
+"dlg": [
+"Thành phố người ta ăn uống kham khổ."
+]
+},
+"02-10": {
+"sc": "02",
+"name": "Kham khổ lắm ạ",
+"dur": 3,
+"act": "Dat laughs along a beat too late, nodding hard",
+"dlg": [
+"Dạ… kham khổ lắm ông ạ."
+]
+},
+"02-11": {
+"sc": "02",
+"name": "Ghế của ai",
+"dur": 4,
+"act": "Dat crouches beside the tiny chair, pointing at it with a curious grin; OngThinh keeps painting",
+"dlg": [
+"Ghế của ai mà bé thế hả ông?"
+]
+},
+"02-12": {
+"sc": "02",
+"name": "Một thằng không ngồi nữa",
+"dur": 5,
+"act": "OngThinh puts down the brush and speaks without looking up, then slowly stands with a hand on his knee",
+"dlg": [
+"Của một thằng không ngồi nữa."
+]
+},
+"02-13": {
+"sc": "02",
+"name": "Ông liếc cằm",
+"dur": 3,
+"act": "As he turns away, OngThinh's sharp eyes flick down for a split second toward the young man's chin off-screen",
+"dlg": []
+},
+"02-14": {
+"sc": "02",
+"name": "Đạt ngơ ngác",
+"dur": 3,
+"act": "Dat is left crouching alone beside the tiny wet chair, grin slowly fading",
+"dlg": []
+},
+"03-01": {
+"sc": "03",
+"name": "Bà Thoa lên live",
+"dur": 4,
+"act": "BaThoa pops up over the wall, her one phone on its selfie stick held high, talking brightly into it like a TV host",
+"dlg": [
+"Các cháu ơi, xem live với bà nhé!"
+]
+},
+"03-02": {
+"sc": "03",
+"name": "Mười năm mới về",
+"dur": 5,
+"act": "BaThoa turns the selfie stick to show the courtyard behind her, eyebrows dancing",
+"dlg": [
+"Cháu đích tôn nhà ông Thịnh mười năm mới về này!"
+]
+},
+"03-03": {
+"sc": "03",
+"name": "Đạt vẫy máy",
+"dur": 3,
+"act": "Dat spots the phone, straightens his collar and waves at it with a stiff, over-eager grin",
+"dlg": [
+"Dạ… cháu chào cả nhà ạ!"
+]
+},
+"03-04": {
+"sc": "03",
+"name": "Bà hỏi tí",
+"dur": 4,
+"act": "BaThoa squeezes through a gap in the wall into the courtyard and marches toward Dat, her one phone held out in front",
+"dlg": [
+"Đứng đấy! Bà hỏi tí!"
+]
+},
+"03-05": {
+"sc": "03",
+"name": "Mẹ mày tên gì",
+"dur": 3,
+"act": "BaThoa thrusts the phone toward Dat's face",
+"dlg": [
+"Mẹ mày tên gì?"
+]
+},
+"03-06": {
+"sc": "03",
+"name": "Mẹ ạ",
+"dur": 4,
+"act": "Dat blinks, thinking hard, then answers with a hopeful smile",
+"dlg": [
+"Dạ… mẹ cháu tên là… Mẹ ạ!"
+]
+},
+"03-07": {
+"sc": "03",
+"name": "Bà Mận sặc",
+"dur": 3,
+"act": "BaMan, holding a tea tray in the doorway, chokes and coughs into her hand, cups rattling",
+"dlg": []
+},
+"03-08": {
+"sc": "03",
+"name": "Đái dầm",
+"dur": 4,
+"act": "BaThoa narrows her eyes and fires the next question, grinning",
+"dlg": [
+"Năm lớp mấy mày đái dầm ở nhà bà?"
+]
+},
+"03-09": {
+"sc": "03",
+"name": "Mồ hôi",
+"dur": 3,
+"act": "Dat stands frozen, a bead of sweat sliding down his temple, smile stuck in place",
+"dlg": []
+},
+"03-10": {
+"sc": "03",
+"name": "Ngã cây gì",
+"dur": 3,
+"act": "BaThoa leans in with a sly grin",
+"dlg": [
+"Thế hồi bé mày ngã cây gì?"
+]
+},
+"03-11": {
+"sc": "03",
+"name": "Đạt cứng họng",
+"dur": 3,
+"act": "Dat opens his mouth but nothing comes out; his eyes dart around the courtyard in panic",
+"dlg": []
+},
+"03-12": {
+"sc": "03",
+"name": "Cây bưởi",
+"dur": 4,
+"act": "OngThinh keeps pushing his hand plane along a plank, never looking up, and answers flatly",
+"dlg": [
+"Cây bưởi. Nó ngã cây bưởi."
+]
+},
+"03-13": {
+"sc": "03",
+"name": "Ông vẫn nhớ",
+"dur": 4,
+"act": "BaMan whispers to herself in quiet surprise, eyes softening",
+"dlg": [
+"Ông vẫn nhớ cái đấy cơ à…"
+]
+},
+"03-14": {
+"sc": "03",
+"name": "Nhai kẹo lạc",
+"dur": 3,
+"act": "Dat relaxes, grabs a piece of peanut brittle and chews happily",
+"dlg": []
+},
+"03-15": {
+"sc": "03",
+"name": "Dị ứng lạc",
+"dur": 5,
+"act": "BaThoa slowly lowers her phone, eyes narrowing at something off-screen, and speaks with relish",
+"dlg": [
+"Lạ nhỉ. Thằng Minh hồi bé dị ứng lạc cơ mà?"
+]
+},
+"03-16": {
+"sc": "03",
+"name": "Đạt đơ người",
+"dur": 3,
+"act": "Dat freezes mid-chew, cheeks full, eyes wide",
+"dlg": []
+},
+"04-01": {
+"sc": "04",
+"name": "Phun kẹo lạc",
+"dur": 4,
+"act": "Dat spits the peanut brittle into his palm and clutches his throat, wildly over-acting",
+"dlg": [
+"Ối! Ngứa! Ngứa quá!"
+]
+},
+"04-02": {
+"sc": "04",
+"name": "Lăn ra phản",
+"dur": 5,
+"act": "Dat flops onto a bamboo daybed, scratching his neck furiously, legs kicking like a stage actor",
+"dlg": []
+},
+"04-03": {
+"sc": "04",
+"name": "Dị ứng thật à",
+"dur": 4,
+"act": "BaThoa takes a step back, lowering her single phone on its selfie stick, suddenly unsure",
+"dlg": [
+"Ơ… dị ứng thật à?"
+]
+},
+"04-04": {
+"sc": "04",
+"name": "Bà về đây",
+"dur": 4,
+"act": "BaThoa backs out through the gap in the low wall, waving her free hand, muttering",
+"dlg": [
+"Thôi bà về, bà về…"
+]
+},
+"04-05": {
+"sc": "04",
+"name": "Hé một mắt",
+"dur": 3,
+"act": "Dat, still lying on the daybed, cracks open one eye to check she has gone",
+"dlg": []
+},
+"04-06": {
+"sc": "04",
+"name": "Ăn đi khỏi rồi",
+"dur": 5,
+"act": "Without looking up, OngThinh slides a plate of peanut brittle across the bench toward Dat, then goes back to his plane",
+"dlg": [
+"Ăn đi.",
+"Khỏi rồi."
+]
+},
+"04-07": {
+"sc": "04",
+"name": "Đạt nhìn đĩa lạc",
+"dur": 3,
+"act": "Dat stares at the plate, totally confused",
+"dlg": []
+},
+"04-08": {
+"sc": "04",
+"name": "Ông lẫn thật rồi",
+"dur": 6,
+"act": "BaMan stirs a pot, then wipes her eye with the corner of her apron",
+"dlg": [
+"Ông lẫn thật rồi. Đến cả chuyện thằng cháu dị ứng cũng quên."
+]
+},
+"04-09": {
+"sc": "04",
+"name": "Lên gác xép",
+"dur": 4,
+"act": "Dat climbs up into the attic with a small oil lamp, ducking under the beams, and notices the padlocked wooden cabinet",
+"dlg": []
+},
+"04-10": {
+"sc": "04",
+"name": "Ổ khoá",
+"dur": 3,
+"act": "Dat's hand reaches toward the rusty padlock on the cabinet, hesitates, then pulls back",
+"dlg": []
+},
+"04-11": {
+"sc": "04",
+"name": "Gọi cho sếp",
+"dur": 12,
+"act": "Dat sits on the reed mat with his back to the cabinet, an old phone pressed to his ear (screen never visible), speaking quietly, the over-acting gone",
+"dlg": [
+"Ba mươi triệu… em biết rồi anh.",
+"Tiền cọc em gửi về mái ấm rồi. Em nhận vụ này vì tiền.",
+"Với lại… em muốn biết Tết có ông bà nó thế nào."
+]
+},
+"04-12": {
+"sc": "04",
+"name": "Ông đứng dưới cầu thang",
+"dur": 5,
+"act": "OngThinh stands silently at the bottom of the attic stairs in the dark, a hand plane in his hand, listening; he coughs softly once",
+"dlg": []
+},
+"04-13": {
+"sc": "04",
+"name": "Đạt sững lại",
+"dur": 3,
+"act": "Dat freezes, phone still at his ear, eyes turning toward the stairs",
+"dlg": []
+},
+"05-01": {
+"sc": "05",
+"name": "Chợ hoa",
+"dur": 5,
+"act": "The flower market bustles, a sea of pink peach blossoms and kumquat trees",
+"dlg": []
+},
+"05-02": {
+"sc": "05",
+"name": "Hai ông cháu đi chợ",
+"dur": 8,
+"act": "OngThinh walks slowly with his stick through the market lane, Dat beside him gawking at the blossoms; neither speaks",
+"dlg": []
+},
+"05-03": {
+"sc": "05",
+"name": "Mày chọn đi",
+"dur": 4,
+"act": "OngThinh stops and speaks without looking at Dat",
+"dlg": [
+"Mày chọn đi. Như mọi năm."
+]
+},
+"05-04": {
+"sc": "05",
+"name": "Như mọi năm",
+"dur": 3,
+"act": "Dat's eyes dart around in panic",
+"dlg": []
+},
+"05-05": {
+"sc": "05",
+"name": "Cành đào khẳng khiu",
+"dur": 5,
+"act": "Dat drifts past lush full branches and stops at one scrawny, crooked peach branch leaning alone against a wall",
+"dlg": []
+},
+"05-06": {
+"sc": "05",
+"name": "Không ai mua thì buồn",
+"dur": 5,
+"act": "Dat lifts the crooked branch gently and smiles at it",
+"dlg": [
+"Cành này không ai mua thì nó buồn."
+]
+},
+"05-07": {
+"sc": "05",
+"name": "Ông khựng lại",
+"dur": 5,
+"act": "OngThinh freezes; his eyes widen, then slowly fill with tears",
+"dlg": []
+},
+"05-08": {
+"sc": "05",
+"name": "Trả tiền không mặc cả",
+"dur": 4,
+"act": "OngThinh silently hands folded notes to a vendor whose face is out of frame, without bargaining",
+"dlg": []
+},
+"05-09": {
+"sc": "05",
+"name": "Về thôi cháu",
+"dur": 6,
+"act": "OngThinh turns to Dat with red eyes and speaks low; Dat, holding the branch, is stunned",
+"dlg": [
+"Về thôi, cháu."
+]
+},
+"05-10": {
+"sc": "05",
+"name": "Đi về giữa chợ",
+"dur": 8,
+"act": "They walk away down the market lane, Dat carrying the crooked branch over his shoulder, OngThinh a step ahead",
+"dlg": []
+},
+"06-01": {
+"sc": "06",
+"name": "Tay ông gói bánh",
+"dur": 8,
+"act": "OngThinh's knotted hands fold dong leaves into a square wooden mould, add sticky rice, mung beans and pork, then tie bamboo strings into a perfectly square cake",
+"dlg": []
+},
+"06-02": {
+"sc": "06",
+"name": "Bánh méo như gối",
+"dur": 4,
+"act": "Dat proudly holds up his own cake: lumpy and pillow-shaped",
+"dlg": []
+},
+"06-03": {
+"sc": "06",
+"name": "Các cụ tưởng nghèo",
+"dur": 5,
+"act": "OngThinh glances at it, deadpan",
+"dlg": [
+"Bánh này mà đặt lên bàn thờ, các cụ tưởng nhà mình nghèo."
+]
+},
+"06-04": {
+"sc": "06",
+"name": "Bà cười",
+"dur": 3,
+"act": "BaMan laughs behind her hand",
+"dlg": []
+},
+"06-05": {
+"sc": "06",
+"name": "Méo nhưng chắc",
+"dur": 3,
+"act": "Dat pats his lumpy cake, grinning",
+"dlg": [
+"Méo nhưng mà chắc ạ!"
+]
+},
+"06-06": {
+"sc": "06",
+"name": "Bố thằng Minh gói vuông nhất",
+"dur": 6,
+"act": "OngThinh ties a string, his voice softening",
+"dlg": [
+"Ngày xưa bố thằng Minh gói vuông nhất làng."
+]
+},
+"06-07": {
+"sc": "06",
+"name": "Bố cháu mất thế nào",
+"dur": 4,
+"act": "Dat, absorbed, blurts out the question",
+"dlg": [
+"Bố cháu… mất thế nào hả ông?"
+]
+},
+"06-08": {
+"sc": "06",
+"name": "Bà đánh rơi lạt",
+"dur": 3,
+"act": "Bamboo strings slip from BaMan's fingers onto the leaves; her hands freeze",
+"dlg": []
+},
+"06-09": {
+"sc": "06",
+"name": "Hỏi như người ngoài",
+"dur": 5,
+"act": "OngThinh keeps tying, never looking up",
+"dlg": [
+"Mày hỏi như người ngoài ấy."
+]
+},
+"06-10": {
+"sc": "06",
+"name": "Đạt cúi đầu",
+"dur": 4,
+"act": "Dat's face falls; he looks down at his lumpy cake",
+"dlg": []
+},
+"06-11": {
+"sc": "06",
+"name": "Ba người im lặng",
+"dur": 10,
+"act": "The three of them keep wrapping in silence around the pile of leaves; only the strings and leaves make sound",
+"dlg": []
+},
+"06-12": {
+"sc": "06",
+"name": "Ngón tay trên nút lạt",
+"dur": 4,
+"act": "OngThinh's thumb rests on the knot of a square cake; his hand stops, lost in memory",
+"dlg": []
+},
+"07-01": {
+"sc": "07",
+"name": "Lửa củi, nồi bánh sôi",
+"dur": 4,
+"act": "Flames lick the blackened pot; water bubbles over the lid edge; sparks drift up into the dark",
+"dlg": []
+},
+"07-02": {
+"sc": "07",
+"name": "Hai ông cháu bên lửa",
+"dur": 5,
+"act": "OngThinh and Dat sit on two low stools by the fire, firelight on their faces, silent",
+"dlg": []
+},
+"07-03": {
+"sc": "07",
+"name": "Mười năm trước",
+"dur": 6,
+"act": "OngThinh stares into the fire and speaks slowly",
+"dlg": [
+"Mười năm trước, đám ma bố nó. Ông cãi nhau với mẹ nó."
+]
+},
+"07-04": {
+"sc": "07",
+"name": "Đi rồi thì đừng về",
+"dur": 5,
+"act": "OngThinh's jaw tightens as he repeats his own old words",
+"dlg": [
+"Ông bảo nó: đi rồi thì đừng về."
+]
+},
+"07-05": {
+"sc": "07",
+"name": "Nó nghe thật",
+"dur": 5,
+"act": "OngThinh pokes the fire with a stick; his voice cracks slightly",
+"dlg": [
+"Ông nói câu đấy. Nó nghe thật."
+]
+},
+"07-06": {
+"sc": "07",
+"name": "Đạt nhìn ông",
+"dur": 3,
+"act": "Dat watches the old man, his playful mask slipping",
+"dlg": []
+},
+"07-07": {
+"sc": "07",
+"name": "Ông có giận cháu không",
+"dur": 4,
+"act": "Dat asks quietly, half in role, half himself",
+"dlg": [
+"Ông… ông có giận cháu không?"
+]
+},
+"07-08": {
+"sc": "07",
+"name": "Ông giận ông",
+"dur": 5,
+"act": "OngThinh keeps his eyes on the fire as he answers; Dat turns toward him",
+"dlg": [
+"Ông không giận cháu. Ông giận ông."
+]
+},
+"07-09": {
+"sc": "07",
+"name": "Đạt khóc thật",
+"dur": 4,
+"act": "Tears run down Dat's face; he wipes them roughly with his oversized sleeve and looks away",
+"dlg": []
+},
+"07-10": {
+"sc": "07",
+"name": "Màn hình sáng sau rào",
+"dur": 3,
+"act": "In the dark garden behind the wall, BaThoa's face is lit only by her phone screen, silently filming",
+"dlg": []
+},
+"08-01": {
+"sc": "08",
+"name": "Chảo lửa bùng",
+"dur": 4,
+"act": "A wok flares with a burst of flame; Minh tosses it with a flat, expressionless face",
+"dlg": []
+},
+"08-02": {
+"sc": "08",
+"name": "Mùng hai bay rồi",
+"dur": 5,
+"act": "A coworker leans in and jokes; Minh answers without looking up from the wok",
+"dlg": [
+"Mùng hai bay rồi mà vẫn đứng bếp à?",
+"Không có ai để chào."
+]
+},
+"08-03": {
+"sc": "08",
+"name": "Giờ nghỉ cửa sau",
+"dur": 4,
+"act": "Minh sits on an upturned crate at the back door, cap off, drinking water, exhausted",
+"dlg": []
+},
+"08-04": {
+"sc": "08",
+"name": "Hai triệu view",
+"dur": 6,
+"act": "The coworker shows Minh a phone with a glowing screen; Minh glances at it",
+"dlg": [
+"Ông cụ khóc bên nồi bánh chưng với cháu đích tôn, hai triệu view rồi. Sao giống ông mày kể thế?"
+]
+},
+"08-05": {
+"sc": "08",
+"name": "Ánh màn hình trên mặt",
+"dur": 4,
+"act": "Minh takes the phone; the screen glow lights his face; his eyes harden",
+"dlg": []
+},
+"08-06": {
+"sc": "08",
+"name": "Thằng đấy là ai",
+"dur": 4,
+"act": "Minh stares at the screen and speaks very quietly",
+"dlg": [
+"Thằng đấy… là ai?"
+]
+},
+"08-07": {
+"sc": "08",
+"name": "Cởi tạp dề",
+"dur": 3,
+"act": "Minh stands, pulls off his apron in one motion and tosses it on the crate",
+"dlg": []
+},
+"09-01": {
+"sc": "09",
+"name": "Khói hương ngang ruộng",
+"dur": 4,
+"act": "Thin incense smoke drifts sideways across the stubble fields between the tombs",
+"dlg": []
+},
+"09-02": {
+"sc": "09",
+"name": "Đạt trước mộ",
+"dur": 4,
+"act": "Dat stands alone before a whitewashed tomb with a small oval portrait photo of a man, holding three lit incense sticks",
+"dlg": []
+},
+"09-03": {
+"sc": "09",
+"name": "Cháu mượn tên",
+"dur": 7,
+"act": "Dat bows his head over the incense and whispers sincerely to the grave",
+"dlg": [
+"Cháu xin lỗi chú. Mấy hôm nay cháu ở nhà chú. Cháu sẽ tử tế."
+]
+},
+"09-04": {
+"sc": "09",
+"name": "Ông đứng sau lưng",
+"dur": 4,
+"act": "OngThinh stands behind Dat with his stick, having heard everything, face unreadable",
+"dlg": []
+},
+"09-05": {
+"sc": "09",
+"name": "Bàn tay trên vai",
+"dur": 4,
+"act": "OngThinh steps forward and silently rests his hand on Dat's shoulder",
+"dlg": []
+},
+"09-06": {
+"sc": "09",
+"name": "Đạt quay lại",
+"dur": 3,
+"act": "Dat turns his head, startled, searching the old man's face",
+"dlg": []
+},
+"10-01": {
+"sc": "10",
+"name": "Đạt xách ba lô",
+"dur": 6,
+"act": "Dat stands in the kitchen doorway with his backpack on, voice tight",
+"dlg": [
+"Bà ơi, cháu không giấu được nữa. Cháu xin lỗi bà, cháu sẽ làm lụng trả lại."
+]
+},
+"10-02": {
+"sc": "10",
+"name": "Bà giữ tay",
+"dur": 4,
+"act": "BaMan drops her ladle and grabs Dat's wrist with both hands",
+"dlg": []
+},
+"10-03": {
+"sc": "10",
+"name": "Đêm nào ông cũng ra cổng",
+"dur": 7,
+"act": "BaMan speaks through tears, still holding his wrist",
+"dlg": [
+"Năm ngoái ông tai biến. Bác sĩ dặn đừng để ông buồn. Mà đêm nào ông cũng ra cổng ngồi."
+]
+},
+"10-04": {
+"sc": "10",
+"name": "Mười năm không hồi âm",
+"dur": 6,
+"act": "BaMan lifts her old phone and looks at it",
+"dlg": [
+"Bà nhắn cho thằng Minh mười năm, không một lần nó trả lời."
+]
+},
+"10-05": {
+"sc": "10",
+"name": "Tết cuối",
+"dur": 4,
+"act": "BaMan's voice drops to a whisper",
+"dlg": [
+"Bà sợ Tết này là Tết cuối của ông."
+]
+},
+"10-06": {
+"sc": "10",
+"name": "Đặt ba lô xuống",
+"dur": 3,
+"act": "Dat slowly slips the backpack off his shoulder and sets it on the floor",
+"dlg": []
+},
+"10-07": {
+"sc": "10",
+"name": "Xe khách đầu làng",
+"dur": 4,
+"act": "A coach pulls up under the banyan tree at the village entrance in the dark, headlights cutting the mist",
+"dlg": []
+},
+"10-08": {
+"sc": "10",
+"name": "Đôi giày bước xuống",
+"dur": 3,
+"act": "Black leather boots step down onto the road; a backpack strap swings; his face is never seen",
+"dlg": []
+},
+"11-01": {
+"sc": "11",
+"name": "Treo đèn lồng",
+"dur": 4,
+"act": "Dat stands on tiptoe on a bamboo ladder, humming, hanging a red lantern over the gate",
+"dlg": []
+},
+"11-02": {
+"sc": "11",
+"name": "Cổng mở",
+"dur": 4,
+"act": "The gate swings open; Minh stands in it with his backpack; Dat freezes on the ladder",
+"dlg": []
+},
+"11-03": {
+"sc": "11",
+"name": "Đứa nào cháu thật",
+"dur": 3,
+"act": "BaThoa pops up over the wall with her phone raised, gasping",
+"dlg": [
+"Thế đứa nào là cháu thật?"
+]
+},
+"11-04": {
+"sc": "11",
+"name": "Anh shipper",
+"dur": 4,
+"act": "Dat forces a bright smile down at the stranger",
+"dlg": [
+"Anh… anh là shipper giao đào phải không ạ?"
+]
+},
+"11-05": {
+"sc": "11",
+"name": "Tôi là cháu nhà này",
+"dur": 3,
+"act": "Minh answers flatly, eyes on Dat",
+"dlg": [
+"Tôi là cháu nhà này."
+]
+},
+"11-06": {
+"sc": "11",
+"name": "Rơi rổ bánh",
+"dur": 3,
+"act": "BaMan, coming out with a basket of cakes, drops it; cakes tumble onto the bricks",
+"dlg": []
+},
+"11-07": {
+"sc": "11",
+"name": "Vết sẹo",
+"dur": 2,
+"act": "A small pale scar on the left of Minh's chin, catching the morning light",
+"dlg": []
+},
+"11-08": {
+"sc": "11",
+"name": "Minh vào ăn sáng",
+"dur": 4,
+"act": "OngThinh steps onto the veranda with his stick, looks from one young man to the other, then turns warmly toward camera-left",
+"dlg": [
+"Minh, vào ăn sáng con."
+]
+},
+"11-09": {
+"sc": "11",
+"name": "Minh chết lặng",
+"dur": 3,
+"act": "Minh stands frozen in the gateway, breath misting",
+"dlg": []
+},
+"12-01": {
+"sc": "12",
+"name": "Mâm cơm bốn người",
+"dur": 5,
+"act": "OngThinh eats calmly; Dat sits stiffly beside him; awkward silence",
+"dlg": []
+},
+"12-02": {
+"sc": "12",
+"name": "Ghế bé để trống",
+"dur": 3,
+"act": "The tiny empty child-sized wooden chair beside the table",
+"dlg": []
+},
+"12-03": {
+"sc": "12",
+"name": "Cháu nội dị ứng lạc",
+"dur": 4,
+"act": "Minh puts down his chopsticks and asks evenly",
+"dlg": [
+"Cháu nghe nói cháu nội ông dị ứng lạc?"
+]
+},
+"12-04": {
+"sc": "12",
+"name": "Khỏi rồi",
+"dur": 3,
+"act": "OngThinh answers without looking up",
+"dlg": [
+"Ừ. Khỏi rồi."
+]
+},
+"12-05": {
+"sc": "12",
+"name": "Minh ăn lạc",
+"dur": 4,
+"act": "Minh deliberately takes a piece of peanut brittle and eats it, staring at the old man",
+"dlg": []
+},
+"12-06": {
+"sc": "12",
+"name": "Cổ tay nổi mẩn",
+"dur": 3,
+"act": "Small red blotches rise on Minh's wrist",
+"dlg": []
+},
+"12-07": {
+"sc": "12",
+"name": "Ông quay đi",
+"dur": 3,
+"act": "OngThinh's eyes flick to the wrist, then he turns his face away",
+"dlg": []
+},
+"12-08": {
+"sc": "12",
+"name": "Bà ôm cháu trong bếp",
+"dur": 5,
+"act": "In the smoky kitchen BaMan hugs Minh tightly, crying without a sound",
+"dlg": []
+},
+"12-09": {
+"sc": "12",
+"name": "Đổi số năm thứ hai",
+"dur": 4,
+"act": "Minh speaks softly over her shoulder",
+"dlg": [
+"Con đổi số từ năm thứ hai, bà ạ."
+]
+},
+"12-10": {
+"sc": "12",
+"name": "Mười năm tin nhắn",
+"dur": 4,
+"act": "BaMan looks down at her old phone, its glowing screen unreadable, realisation dawning",
+"dlg": []
+},
+"12-11": {
+"sc": "12",
+"name": "Không muốn nhận",
+"dur": 5,
+"act": "Minh asks the question that hurts",
+"dlg": [
+"Ông không nhận ra con, hay ông không muốn nhận?"
+]
+},
+"12-12": {
+"sc": "12",
+"name": "Ông lẫn rồi",
+"dur": 3,
+"act": "BaMan shakes her head sadly",
+"dlg": [
+"Ông lẫn rồi con ạ."
+]
+},
+"13-01": {
+"sc": "13",
+"name": "Bao nhiêu tiền",
+"dur": 4,
+"act": "Minh grabs Dat by the collar of his red jacket, then lets go immediately; no blows. Minh asks clearly and coldly",
+"dlg": [
+"Bao nhiêu tiền?"
+]
+},
+"13-02": {
+"sc": "13",
+"name": "Đền ba mươi",
+"dur": 4,
+"act": "Dat straightens his collar and answers honestly",
+"dlg": [
+"Mười lăm triệu. Hợp đồng ghi rõ."
+]
+},
+"13-03": {
+"sc": "13",
+"name": "Tôi trả ba mươi",
+"dur": 5,
+"act": "Minh pulls out his phone and holds it out, screen glowing",
+"dlg": [
+"Tôi trả ba mươi. Đủ đền. Đi đi."
+]
+},
+"13-04": {
+"sc": "13",
+"name": "Đạt nhìn màn hình",
+"dur": 4,
+"act": "Dat stares at the glowing phone for a long moment, tempted, then slowly puts his hands in his pockets",
+"dlg": []
+},
+"13-05": {
+"sc": "13",
+"name": "Thế anh khác gì em",
+"dur": 7,
+"act": "Dat looks up at Minh, quiet and steady",
+"dlg": [
+"Anh vắng mười năm, giờ trả tiền để ông có cháu à? Thế anh khác gì em?"
+]
+},
+"13-06": {
+"sc": "13",
+"name": "Hai người đứng thở",
+"dur": 4,
+"act": "The two young men stand facing each other, breathing hard, neither moving",
+"dlg": []
+},
+"13-07": {
+"sc": "13",
+"name": "Cháu thuê",
+"dur": 3,
+"act": "BaThoa clutches her phone to her chest, eyes shining with gossip",
+"dlg": [
+"Cháu thuê!"
+]
+},
+"14-01": {
+"sc": "14",
+"name": "Bóc phốt giữa sân",
+"dur": 6,
+"act": "BaThoa stands in the middle of the courtyard announcing into her phone on its selfie stick",
+"dlg": [
+"Các cháu ơi, cháu đích tôn nhà ông Thịnh là cháu thuê!"
+]
+},
+"14-02": {
+"sc": "14",
+"name": "Xóm kéo đến",
+"dur": 4,
+"act": "Neighbours crowd the gate and wall, whispering; one elderly neighbour shakes his head",
+"dlg": [
+"Tội ông, lẫn rồi nên bị lừa."
+]
+},
+"14-03": {
+"sc": "14",
+"name": "Cháu lừa ông bà",
+"dur": 5,
+"act": "Dat steps forward in front of everyone, head high",
+"dlg": [
+"Cháu lừa ông bà. Ông bà không biết gì."
+]
+},
+"14-04": {
+"sc": "14",
+"name": "Minh im lặng",
+"dur": 3,
+"act": "Minh stands to the side, jaw clenched, silent",
+"dlg": []
+},
+"14-05": {
+"sc": "14",
+"name": "Ông chống gậy ra sân",
+"dur": 4,
+"act": "OngThinh walks slowly out to the middle of the courtyard with his stick; the crowd hushes",
+"dlg": []
+},
+"14-06": {
+"sc": "14",
+"name": "Tôi quên tắt bếp",
+"dur": 6,
+"act": "OngThinh speaks to the crowd, calm and dry",
+"dlg": [
+"Tôi quên tắt bếp. Tôi quên cả tên bà nhà tôi."
+]
+},
+"14-07": {
+"sc": "14",
+"name": "Cái sẹo cây bưởi",
+"dur": 7,
+"act": "OngThinh's eyes go to Minh as he speaks",
+"dlg": [
+"Nhưng thằng cháu tôi có cái sẹo ở cằm, ngã cây bưởi năm tám tuổi, chính tôi cõng nó đi khâu."
+]
+},
+"14-08": {
+"sc": "14",
+"name": "Cằm nhẵn thín",
+"dur": 3,
+"act": "OngThinh lifts his chin toward Dat",
+"dlg": [
+"Còn cậu này, cằm nhẵn thín."
+]
+},
+"14-09": {
+"sc": "14",
+"name": "Biết từ lúc qua cổng",
+"dur": 5,
+"act": "OngThinh says the last line slowly, looking straight ahead",
+"dlg": [
+"Tôi biết từ lúc nó bước qua cổng."
+]
+},
+"15-01": {
+"sc": "15",
+"name": "Cả xóm im lặng",
+"dur": 3,
+"act": "The whole crowd stands frozen in silence",
+"dlg": []
+},
+"15-02": {
+"sc": "15",
+"name": "Ông biết mà ông vẫn",
+"dur": 5,
+"act": "BaMan sinks down onto the veranda step, staring at her husband",
+"dlg": [
+"Thế… ông biết mà ông vẫn…"
+]
+},
+"15-03": {
+"sc": "15",
+"name": "Cháu đi Nhật",
+"dur": 6,
+"act": "OngThinh turns to BaThoa",
+"dlg": [
+"Bà khoe cháu đi Nhật năm năm nay, nó gọi về được mấy lần?"
+]
+},
+"15-04": {
+"sc": "15",
+"name": "Tay bà Thoa run",
+"dur": 3,
+"act": "BaThoa's hand trembles on the selfie stick; her thumb taps the phone screen off",
+"dlg": []
+},
+"15-05": {
+"sc": "15",
+"name": "Có người nghe tôi nói",
+"dur": 6,
+"act": "BaThoa speaks quietly for the first time, eyes lowered",
+"dlg": [
+"Nó đổi số rồi. Tôi live… là để có người nghe tôi nói."
+]
+},
+"15-06": {
+"sc": "15",
+"name": "Nó ngồi canh nồi bánh",
+"dur": 7,
+"act": "OngThinh speaks softly, then his voice catches",
+"dlg": [
+"Tôi biết nó giả. Nhưng nó ngồi canh nồi bánh với tôi. Còn thằng thật thì mười năm…"
+]
+},
+"15-07": {
+"sc": "15",
+"name": "Ông nhìn Minh",
+"dur": 3,
+"act": "For the first time OngThinh looks straight at Minh",
+"dlg": []
+},
+"15-08": {
+"sc": "15",
+"name": "Ông bảo con đừng về",
+"dur": 4,
+"act": "Minh explodes, voice breaking",
+"dlg": [
+"Ông bảo con đừng về cơ mà!"
+]
+},
+"16-01": {
+"sc": "16",
+"name": "Di ảnh, khói hương",
+"dur": 4,
+"act": "The framed portrait of the kind 45-year-old man on the altar, incense smoke rising straight",
+"dlg": []
+},
+"16-02": {
+"sc": "16",
+"name": "Đám tang năm ấy",
+"dur": 6,
+"act": "Minh stands before the altar, speaking to the old man behind him without turning",
+"dlg": [
+"Con mười tám tuổi, đứng ở đám tang bố, nghe ông nói câu ấy."
+]
+},
+"16-03": {
+"sc": "16",
+"name": "Con về một lần rồi",
+"dur": 7,
+"act": "Minh turns around, eyes wet",
+"dlg": [
+"Con về một lần rồi. Năm năm trước, đêm hai mươi chín. Con đứng ở cổng, thấy ông ngồi đấy."
+]
+},
+"16-04": {
+"sc": "16",
+"name": "Ông đứng dậy đi vào",
+"dur": 5,
+"act": "Minh's voice drops",
+"dlg": [
+"Ông nhìn con… rồi ông đứng dậy đi vào."
+]
+},
+"16-05": {
+"sc": "16",
+"name": "Ông sững người",
+"dur": 4,
+"act": "OngThinh is stunned; his lips part but no words come",
+"dlg": []
+},
+"16-06": {
+"sc": "16",
+"name": "Mùng hai con bay",
+"dur": 5,
+"act": "Minh steadies himself",
+"dlg": [
+"Mùng hai con bay. Con về để chào ông."
+]
+},
+"16-07": {
+"sc": "16",
+"name": "Thế thì chào đi",
+"dur": 4,
+"act": "OngThinh turns his back to Minh, pride locking his throat",
+"dlg": [
+"Thế thì chào đi."
+]
+},
+"16-08": {
+"sc": "16",
+"name": "Xách ba lô ra cổng",
+"dur": 4,
+"act": "Minh shoulders his backpack and strides toward the gate",
+"dlg": []
+},
+"16-09": {
+"sc": "16",
+"name": "Đạt chặn cổng",
+"dur": 6,
+"act": "Dat steps into the gateway, blocking Minh's way",
+"dlg": [
+"Anh có biết đêm nào ông cũng ngồi ở cái cổng này không?"
+]
+},
+"17-01": {
+"sc": "17",
+"name": "Chìa khóa",
+"dur": 5,
+"act": "BaMan presses an old iron key into Dat's palm and closes his fingers over it",
+"dlg": [
+"Cháu mở đi. Điều thứ hai bà bỏ."
+]
+},
+"17-02": {
+"sc": "17",
+"name": "Ổ khóa bật",
+"dur": 3,
+"act": "The rusty padlock clicks open in Dat's hands; the cabinet doors creak",
+"dlg": []
+},
+"17-03": {
+"sc": "17",
+"name": "Mười phong bao",
+"dur": 4,
+"act": "Inside the cabinet: ten red lucky-money envelopes stacked neatly, no readable writing",
+"dlg": []
+},
+"17-04": {
+"sc": "17",
+"name": "Mười tấm vé xe",
+"dur": 4,
+"act": "Beside them a bundle of ten old coach tickets tied with string, no readable writing",
+"dlg": []
+},
+"17-05": {
+"sc": "17",
+"name": "Năm nào cũng mua vé",
+"dur": 6,
+"act": "BaMan touches the tickets",
+"dlg": [
+"Năm nào ông cũng mua vé. Ra đến bến lại quay về."
+]
+},
+"17-06": {
+"sc": "17",
+"name": "Đứng ngoài cửa kính",
+"dur": 8,
+"act": "BaMan looks at Minh as she speaks",
+"dlg": [
+"Chỉ có một năm ông lên đến tận nơi. Đứng ngoài cửa kính nhìn con nấu bếp. Về bảo tôi: nó mặc áo trắng, đẹp như bố nó."
+]
+},
+"17-07": {
+"sc": "17",
+"name": "Tấm vé bấm lỗ",
+"dur": 4,
+"act": "Minh turns over one ticket: it has a punched hole; the others are untouched",
+"dlg": []
+},
+"17-08": {
+"sc": "17",
+"name": "Cùng năm ấy",
+"dur": 5,
+"act": "Minh whispers, realising",
+"dlg": [
+"Năm năm trước… Cùng năm ấy con cũng về."
+]
+},
+"17-09": {
+"sc": "17",
+"name": "Minh vỡ òa",
+"dur": 4,
+"act": "Minh clutches the bundle of tickets to his chest and breaks down crying",
+"dlg": []
+},
+"17-10": {
+"sc": "17",
+"name": "Ông đâu",
+"dur": 3,
+"act": "BaMan hurries down into the courtyard, looking around",
+"dlg": [
+"Ông đâu?"
+]
+},
+"17-11": {
+"sc": "17",
+"name": "Ghế ở cổng trống",
+"dur": 4,
+"act": "The small worn chair by the gate stands empty, the walking stick leaning against it",
+"dlg": []
+},
+"18-01": {
+"sc": "18",
+"name": "Chạy dọc bờ ruộng",
+"dur": 5,
+"act": "Minh runs along the earthen path between the fields, coat flapping",
+"dlg": []
+},
+"18-02": {
+"sc": "18",
+"name": "Ông ngồi trước mộ",
+"dur": 5,
+"act": "In the distance OngThinh sits alone on the ground before his son's tomb, no walking stick",
+"dlg": []
+},
+"18-03": {
+"sc": "18",
+"name": "Tao không biết nói",
+"dur": 8,
+"act": "OngThinh talks to the gravestone with the small portrait",
+"dlg": [
+"Thằng Minh về rồi. Tao không biết nói với nó thế nào."
+]
+},
+"18-04": {
+"sc": "18",
+"name": "Mười năm tập một câu",
+"dur": 7,
+"act": "OngThinh's voice shakes",
+"dlg": [
+"Mười năm tao tập mỗi một câu mà đến lúc gặp thì không nói được."
+]
+},
+"18-05": {
+"sc": "18",
+"name": "Minh đứng sau lưng",
+"dur": 3,
+"act": "OngThinh sits on the ground in the soft foreground facing the tomb, seen from behind; Minh stands sharp a few steps behind him, having heard everything",
+"dlg": []
+},
+"18-06": {
+"sc": "18",
+"name": "Ngồi xuống cạnh ông",
+"dur": 4,
+"act": "Minh sits down on the ground beside his grandfather; neither looks at the other",
+"dlg": []
+},
+"18-07": {
+"sc": "18",
+"name": "Sẹo còn không",
+"dur": 4,
+"act": "OngThinh asks without turning his head",
+"dlg": [
+"Sẹo còn không?"
+]
+},
+"18-08": {
+"sc": "18",
+"name": "Ông chạm vào sẹo",
+"dur": 4,
+"act": "Sitting side by side on the ground before the tomb, Minh tilts his chin toward his grandfather; OngThinh's knotted fingers reach over and touch the small scar",
+"dlg": []
+},
+"18-09": {
+"sc": "18",
+"name": "Chớp lui: cõng cháu",
+"dur": 5,
+"act": "Twenty years earlier, a younger OngThinh runs along the field path carrying a crying 8-year-old boy on his back, a gauze patch on the boy's chin",
+"dlg": []
+},
+"18-10": {
+"sc": "18",
+"name": "Ông xin lỗi",
+"dur": 5,
+"act": "Sitting side by side on the ground before the tomb, OngThinh finally says it without looking at him; Minh answers gently",
+"dlg": [
+"Ông xin lỗi.",
+"Con về rồi mà ông."
+]
+},
+"18-11": {
+"sc": "18",
+"name": "Cõng ông qua bờ ruộng",
+"dur": 6,
+"act": "Minh carries his grandfather on his back along the field path toward the village, against the orange sky",
+"dlg": []
+},
+"18-12": {
+"sc": "18",
+"name": "Áo len của bố",
+"dur": 4,
+"act": "BaMan hands Minh an old cream cable-knit sweater; Minh, now wearing it, holds the sleeve to his face",
+"dlg": []
+},
+"18-13": {
+"sc": "18",
+"name": "Đạt khép cổng",
+"dur": 4,
+"act": "At dusk Dat, backpack on, quietly pulls the gate closed behind him without a word",
+"dlg": []
+},
+"19-01": {
+"sc": "19",
+"name": "Bến xe vắng",
+"dur": 4,
+"act": "Dat sits alone on a bench in the empty station, backpack at his feet",
+"dlg": []
+},
+"19-02": {
+"sc": "19",
+"name": "Gọi về mái ấm",
+"dur": 5,
+"act": "Dat smiles bravely into his phone",
+"dlg": [
+"Các em ăn Tết vui không cô?"
+]
+},
+"19-03": {
+"sc": "19",
+"name": "Xe máy phóng đến",
+"dur": 4,
+"act": "A motorbike swerves into the station; Minh in a helmet and the cream sweater brakes hard",
+"dlg": []
+},
+"19-04": {
+"sc": "19",
+"name": "Phong bao thứ mười một",
+"dur": 5,
+"act": "Minh holds out a brand-new red lucky-money envelope to Dat",
+"dlg": []
+},
+"19-05": {
+"sc": "19",
+"name": "Ông chỉ có cháu",
+"dur": 8,
+"act": "Minh delivers his grandfather's message slowly, pausing between sentences; the last sentence is said softly, looking straight at Dat",
+"dlg": [
+"Ông bảo hợp đồng hết hạn rồi.",
+"Nhưng ông chưa ký hợp đồng nào cả.",
+"Ông chỉ có cháu."
+]
+},
+"19-06": {
+"sc": "19",
+"name": "Bà Thoa mở hộp",
+"dur": 4,
+"act": "BaThoa, just off a motorbike taxi, opens a big cardboard box",
+"dlg": []
+},
+"19-07": {
+"sc": "19",
+"name": "Chiếc ghế thứ hai",
+"dur": 6,
+"act": "Inside the box a new small wooden chair, wood shavings still on it; BaThoa speaks warmly",
+"dlg": [
+"Ông đóng bốn đêm. Ông bảo đóng cho thằng cháu chưa từng có ghế."
+]
+},
+"19-08": {
+"sc": "19",
+"name": "Còn mười phút",
+"dur": 4,
+"act": "Dat glances at the station clock with no readable numbers, tears in his eyes",
+"dlg": [
+"Không kịp đâu."
+]
+},
+"19-09": {
+"sc": "19",
+"name": "Minh nổ máy",
+"dur": 3,
+"act": "Minh revs the engine and tosses Dat a spare helmet; Dat catches it",
+"dlg": []
+},
+"20-01": {
+"sc": "20",
+"name": "Pháo hoa xa",
+"dur": 4,
+"act": "OngThinh and BaMan stand on the veranda in their festive clothes, fireworks blooming far away",
+"dlg": []
+},
+"20-02": {
+"sc": "20",
+"name": "Xe dừng đầu ngõ",
+"dur": 3,
+"act": "A motorbike stops at the end of the lane just as the fireworks peak: Minh in his cream sweater is driving, Dat in his red puffer jacket sits behind him, both in helmets",
+"dlg": []
+},
+"20-03": {
+"sc": "20",
+"name": "Hai đứa xông đất",
+"dur": 5,
+"act": "OngThinh calls out across the courtyard",
+"dlg": [
+"Năm nay nhà này hai đứa xông đất."
+]
+},
+"20-04": {
+"sc": "20",
+"name": "Bước qua cổng",
+"dur": 4,
+"act": "Minh and Dat step through the gate together, side by side",
+"dlg": []
+},
+"20-05": {
+"sc": "20",
+"name": "Mâm cơm giao thừa",
+"dur": 5,
+"act": "The New Year's Eve table: square cakes, the crooked peach branch, two chairs; the grandparents sit",
+"dlg": []
+},
+"20-06": {
+"sc": "20",
+"name": "Minh ngồi ghế bé",
+"dur": 4,
+"act": "Minh, tall and broad, squeezes onto the tiny child-sized chair, knees up; he laughs",
+"dlg": []
+},
+"20-07": {
+"sc": "20",
+"name": "Đạt, ngồi đây con",
+"dur": 5,
+"act": "OngThinh pats the brand-new chair and calls Dat by his real name for the first time",
+"dlg": [
+"Đạt. Ngồi đây con."
+]
+},
+"20-08": {
+"sc": "20",
+"name": "Bà Thoa cuối mâm",
+"dur": 3,
+"act": "BaThoa sits at the end of the table, smiling, no phone in her hands",
+"dlg": []
+},
+"20-09": {
+"sc": "20",
+"name": "Mười cái Tết",
+"dur": 6,
+"act": "OngThinh places ten red envelopes into Minh's hands",
+"dlg": [
+"Mười cái Tết. Cầm lấy."
+]
+},
+"20-10": {
+"sc": "20",
+"name": "Nhớ đường về",
+"dur": 5,
+"act": "OngThinh looks at Minh, eyes wet, voice firm; he says the line once and then stays silent",
+"dlg": [
+"Đi đâu thì đi. Nhớ đường về."
+]
+},
+"20-11": {
+"sc": "20",
+"name": "Ảnh mùng 1",
+"dur": 4,
+"act": "On New Year's morning BaThoa raises her phone to take a family photo, teasing",
+"dlg": [
+"Thế đứa nào là cháu thật?"
+]
+},
+"20-12": {
+"sc": "20",
+"name": "Cả hai",
+"dur": 4,
+"act": "OngThinh stands at the gate between his grandsons (Minh at the edge of frame, soft), smiles and answers",
+"dlg": [
+"Cả hai."
+]
+},
+"01b-01": {
+"sc": "01b",
+"name": "Bài học trên xe",
+"dur": 6,
+"act": "BaMan and Dat sit squeezed side by side on a worn bus seat; BaMan unfolds a creased sheet of paper (writing never readable) and pushes it at him",
+"dlg": [
+"Học thuộc đi. Mười năm của nó, cháu có năm ngày."
+]
+},
+"01b-02": {
+"sc": "01b",
+"name": "Câu hỏi đầu tiên",
+"dur": 4,
+"act": "BaMan quizzes him like a strict teacher, eyes narrowed",
+"dlg": [
+"Thằng Minh có cái sẹo ở đâu?"
+]
+},
+"01b-03": {
+"sc": "01b",
+"name": "Cằm nhẵn",
+"dur": 5,
+"act": "Dat rubs his own smooth, scar-free chin with two fingers, suddenly worried",
+"dlg": [
+"Nhưng cằm cháu làm gì có sẹo hả bà?"
+]
+},
+"01b-04": {
+"sc": "01b",
+"name": "Ông mắt kém",
+"dur": 4,
+"act": "BaMan waves the worry away with one hand, not quite convinced herself",
+"dlg": [
+"Ông mắt kém rồi, không nhìn ra đâu."
+]
+},
+"01b-05": {
+"sc": "01b",
+"name": "Dị ứng gì",
+"dur": 4,
+"act": "BaMan fires the next question; Dat answers instantly like a quiz-show contestant, raising a finger",
+"dlg": [
+"Nó dị ứng gì?",
+"Lạc ạ!"
+]
+},
+"01b-06": {
+"sc": "01b",
+"name": "Tập gọi ông",
+"dur": 6,
+"act": "Dat clears his throat, spreads his arms wide and calls out in a huge sugary over-acted voice; the caged rooster at his feet flaps and squawks",
+"dlg": [
+"Ông ơi! Cháu về rồi đây ông ơi!"
+]
+},
+"01b-07": {
+"sc": "01b",
+"name": "Cả xe quay lại",
+"dur": 4,
+"act": "Several passengers turn around in their seats to stare; one elderly woman across the aisle, face soft and out of focus, chuckles",
+"dlg": [
+"Tập đóng phim à cháu?"
+]
+},
+"01b-08": {
+"sc": "01b",
+"name": "Ít nói thôi",
+"dur": 6,
+"act": "BaMan pinches Dat's arm and hisses at him; he winces, nods and mimes zipping his lips shut",
+"dlg": [
+"Nhỏ thôi! Ông nó ít nói, cháu cũng phải ít nói."
+]
+},
+"01b-09": {
+"sc": "01b",
+"name": "Xe về làng",
+"dur": 4,
+"act": "The old bus rattles along the road between the fields toward the village gate hung with red lanterns",
+"dlg": []
+},
+"18b-01": {
+"sc": "18b",
+"name": "Bào gỗ trong đêm",
+"dur": 5,
+"act": "Alone under the single bulb, OngThinh pushes a hand plane along a fresh pale plank; long curls of wood shavings fall to the bricks",
+"dlg": []
+},
+"18b-02": {
+"sc": "18b",
+"name": "Cuốn sổ",
+"dur": 6,
+"act": "OngThinh licks the tip of his carpenter's pencil and writes slowly in a small worn notebook (writing never readable), murmuring each word to himself",
+"dlg": [
+"Thằng bé tên Đạt. Mồ côi. Ăn được lạc."
+]
+},
+"18b-03": {
+"sc": "18b",
+"name": "Đắp chăn",
+"dur": 6,
+"act": "Dat sleeps curled on the bamboo daybed; OngThinh comes over quietly with the oil lamp, looks at him for a long moment and pulls the thin blanket up over the young man's shoulders",
+"dlg": []
+},
+"18b-04": {
+"sc": "18b",
+"name": "Ghép chân ghế",
+"dur": 4,
+"act": "OngThinh's knotted hands tap the last leg into a small new wooden chair with a mallet, then press down on the seat to test it; it holds firm",
+"dlg": []
+},
+"18b-05": {
+"sc": "18b",
+"name": "Bà hỏi",
+"dur": 4,
+"act": "BaMan, a shawl over her shoulders, stands in the dark doorway watching him and whispers",
+"dlg": [
+"Ông đóng ghế cho ai thế?"
+]
+},
+"18b-06": {
+"sc": "18b",
+"name": "Cho đứa nào cần",
+"dur": 5,
+"act": "OngThinh keeps sanding the chair without looking up; the corner of his mouth lifts into the smallest smile",
+"dlg": [
+"Cho đứa nào cần ghế."
+]
+},
+"18b-07": {
+"sc": "18b",
+"name": "Gửi qua tường",
+"dur": 6,
+"act": "OngThinh lifts a cardboard box tied with string over the low wall into BaThoa's arms; she tucks her phone away, startled, and takes it",
+"dlg": [
+"Tối ba mươi, mang ra bến xe hộ tôi."
+]
+}
+}
+}

@@ -54,3 +54,4 @@ human-exe/**/*.aiff
 # Nested repo (storytold/filmcraft) and video backups
 filmcraft/
 *.mp4.bak
+*.mov

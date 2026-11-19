@@ -1,6 +1,6 @@
 # Cảnh 19 · Phong bao thứ mười một
 
-**Hồi 3 · Hai đứa cháu** · tối 30 Tết, sát giao thừa · B8 bến xe huyện · ~43 giây · 9 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 3 · Hai đứa cháu** · tối 30 Tết, sát giao thừa · B8 bến xe huyện · ~43 giây · 9 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

@@ -1,6 +1,6 @@
 # Cảnh 14 · Livestream bóc phốt
 
-**Hồi 3 · Hai đứa cháu** · chiều 29 Tết · B1 sân nhà, cả xóm · ~43 giây · 9 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 3 · Hai đứa cháu** · chiều 29 Tết · B1 sân nhà, cả xóm · ~43 giây · 9 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 
@@ -17,7 +17,7 @@
 - Hàng xóm kéo đến chật cổng. Có người nói: "Tội ông, lẫn rồi nên bị lừa."
 - Đạt bước ra nhận hết: "Cháu lừa ông bà. Ông bà không biết gì." Minh im lặng.
 
-**Câu treo:** Cú lật. Ông chống gậy ra giữa sân: "Tôi quên tắt bếp. Tôi quên cả tên bà nhà tôi. Nhưng thằng cháu tôi có cái sẹo ở cằm, ngã cây bưởi năm tám tuổi, chính tôi cõng nó đi khâu. Thằng này cằm nhẵn thín. Tôi biết từ lúc nó bước qua cổng."
+**Câu treo:** Cú lật. Ông chống gậy ra giữa sân: "Tôi quên tắt bếp. Tôi quên cả tên bà nhà tôi. Nhưng thằng cháu tôi có cái sẹo ở cằm, ngã cây bưởi năm tám tuổi, chính tôi cõng nó đi khâu. Còn cậu này, cằm nhẵn thín. Tôi biết từ lúc nó bước qua cổng."
 
 ## Bảng shot
 
@@ -30,7 +30,7 @@
 | 14-05 | Ông chống gậy ra sân | 4 | Ông Thịnh · Áo bông xanh | — |
 | 14-06 | Tôi quên tắt bếp | 6 | Ông Thịnh · Áo bông xanh | Ông Thịnh: Tôi quên tắt bếp. Tôi quên cả tên bà nhà tôi. |
 | 14-07 | Cái sẹo cây bưởi | 7 | Ông Thịnh · Áo bông xanh | Ông Thịnh: Nhưng thằng cháu tôi có cái sẹo ở cằm, ngã cây bưởi năm tám tuổi, chính tôi cõng nó đi khâu. |
-| 14-08 | Cằm nhẵn thín | 3 | Đạt · Áo phao đỏ | Ông Thịnh: Thằng này cằm nhẵn thín. |
+| 14-08 | Cằm nhẵn thín | 3 | Đạt · Áo phao đỏ | Ông Thịnh: Còn cậu này, cằm nhẵn thín. |
 | 14-09 | Biết từ lúc qua cổng | 5 | Ông Thịnh · Áo bông xanh | Ông Thịnh: Tôi biết từ lúc nó bước qua cổng. |
 
 Thoại ghi "(ngoài hình)" là người không gắn nhân vật; khi viết prompt cho Omni nên để họ ở rìa khung, mờ, hoặc thu tiếng sau.

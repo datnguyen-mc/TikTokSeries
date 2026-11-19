@@ -1,5 +1,7 @@
 # Cảnh 00 · Mở đầu
 
+> **Đã bỏ khỏi bản V3.1:** cảnh mở đầu chớp tới trùng gần hết cảnh 11, người xem dễ rối. Phim nay chạy theo thời gian, mở từ bến xe sáng 26 Tết.
+
 **Mở đầu** · sáng 29 Tết (chớp tới) · B5 cổng nhà · ~20 giây · 6 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)

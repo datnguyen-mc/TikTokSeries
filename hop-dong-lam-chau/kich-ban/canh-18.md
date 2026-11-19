@@ -1,6 +1,6 @@
 # Cảnh 18 · Ông nói với con trai
 
-**Hồi 3 · Hai đứa cháu** · hoàng hôn tất niên (chiều 30) · B7 nghĩa trang, bờ ruộng · ~64 giây · 13 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 3 · Hai đứa cháu** · hoàng hôn tất niên (chiều 30) · B7 nghĩa trang, bờ ruộng · ~64 giây · 13 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

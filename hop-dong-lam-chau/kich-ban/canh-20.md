@@ -1,6 +1,6 @@
 # Cảnh 20 · Xông đất
 
-**Hồi 3 · Hai đứa cháu** · giao thừa → sáng mùng 1 · B5 cổng, B2 mâm cơm · ~52 giây · 12 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 3 · Hai đứa cháu** · giao thừa → sáng mùng 1 · B5 cổng, B2 mâm cơm · ~52 giây · 12 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

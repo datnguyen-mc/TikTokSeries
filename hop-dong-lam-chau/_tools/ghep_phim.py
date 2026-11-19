@@ -10,6 +10,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import build_shots as S1
 import build_shots_2 as S2
+import build_shots_3 as S3
 
 CLIPS = os.path.join(ROOT, "film", "v3", "clips")
 W, H, FPS = 1280, 720, 24
@@ -17,7 +18,7 @@ W, H, FPS = 1280, 720, 24
 
 def plan():
     out = {}
-    for sc, (_, shots) in list(S1.SCENES.items()) + list(S2.SCENES.items()):
+    for sc, (_, shots) in list(S1.SCENES.items()) + list(S2.SCENES.items()) + list(S3.SCENES.items()):
         out[sc] = [(s[0], s[2]) for s in shots]
     return dict(sorted(out.items()))
 

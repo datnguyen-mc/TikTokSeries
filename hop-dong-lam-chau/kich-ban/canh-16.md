@@ -1,6 +1,6 @@
 # Cảnh 16 · Đêm hai mươi chín năm ấy
 
-**Hồi 3 · Hai đứa cháu** · chiều 29 Tết · B2 gian thờ; B5 cổng · ~45 giây · 9 shot · *Chưa quay — bảng shot đề xuất*
+**Hồi 3 · Hai đứa cháu** · chiều 29 Tết · B2 gian thờ; B5 cổng · ~45 giây · 9 shot · *Đã render (V3)*
 
 ## Nhân vật & bộ đồ (tên trên Flow)
 

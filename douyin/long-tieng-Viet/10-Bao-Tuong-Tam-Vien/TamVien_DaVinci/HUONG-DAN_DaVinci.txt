@@ -1,0 +1,17 @@
+MỞ PROJECT "BẢO TƯỢNG · TÂM VIÊN" TRONG DAVINCI RESOLVE
+
+1. Các file trong thư mục TamVien_DaVinci:
+   - TamVien_audio.wav      : âm thanh hoàn chỉnh = nhạc nền + hiệu ứng gốc (đã tách bỏ giọng Trung) + lồng tiếng Việt
+   - TamVien_phu-de.srt     : phụ đề tiếng Việt
+   - TamVien_project.fcpxml : timeline dựng sẵn
+
+2. Project dùng trực tiếp video gốc douyin/10-7681545594736872731.mp4 (giữ nguyên, không sửa),
+   clip được phóng to 1.21 lần để che phụ đề tiếng Trung; tiếng gốc của clip đã tắt (-96dB),
+   chỉ nghe TamVien_audio.wav.
+   Lưu ý: các thẻ chữ thư pháp tiếng Trung (tựa phim, địa danh, tên nhân vật) vẫn còn trong video gốc;
+   bản MP4 hoàn chỉnh đã làm mờ và thay bằng chữ Việt.
+
+3. DaVinci Resolve > File > Import > Timeline... > chọn TamVien_project.fcpxml.
+   Nếu báo thiếu media, bấm Relink và trỏ tới thư mục douyin (video gốc) và TamVien_DaVinci (âm thanh).
+
+4. Phụ đề: kéo TamVien_phu-de.srt từ Media Pool vào timeline.

@@ -37,3 +37,4 @@
 - [Tập 33 — Ba Mit đi gặt mướn xa về & Món quà con thích nhứt](tap-33/README.md)
 - [Tập 34 — Bó bông mua tặng cô Hai & Người thầy chưa từng đi học](tap-34/README.md)
 - [Tập 35 — Chèo xuồng đi chợ ghe mua quà Noel & Ba ông già Noel y chang nhau](tap-35/README.md)
+- [Tập 36 — Lần đầu thấy biển Vũng Tàu & Ba Mit giữ cái nền nhà cát](tap-36/README.md)

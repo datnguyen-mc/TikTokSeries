@@ -35,7 +35,7 @@ EDL = [
  ("card", [("NHƯNG CÓ KẺ MUỐN", 44, 0.22, "SemiBold"), ("CÔ KHÔNG BAO GIỜ NHỚ LẠI", 44, 0.22, "SemiBold")], 2.6, "braam"),
  ("shot", "P05-C4", 2.0, 5.0, "threat", "I hear your wife lost her memory. What a pity."),
  ("shot", "P12-C4", 0.3, 3.9, "threat", "He wants photos of me and Quân inside your house."),
- ("shot", "P18-C2", 10.5, 13.8, "threat", "A photo doesn't need to be true. Just convincing enough."),
+ ("shot", "P18-C2", 10.5, 14.45, "threat", "A photo doesn't need to be true. Just convincing enough."),
  ("shot", "P20-C1", 3.6, 8.4, "threat", "A wife who's lost her mind."),
  ("shot", "P19-C1", 9.6, 13.4, "threat", "I've lost so much, sweetie. Even your mom."),
  ("shot", "P20-C2", 9.2, 15.0, "threat", "And I'm turning down the fund's money.|I won't trade my wife for money."),
@@ -90,13 +90,12 @@ def music_flow():
     anchors = [(0.0, 1.0), (by["hit"]["start"], 40.0), (by["braam"]["start"], 56.0), (t_cl, 73.5), (t_sil, 81.5)]
     plan = []
     for (ta, ma), (tb, mb) in zip(anchors, anchors[1:]):
-        d = (mb - ma) - (tb - ta); k2 = round(d / 2) * 2
-        j = k2 if abs(d - k2) <= 0.5 else round(d / 0.5) * 0.5
-        r = d - j; ma2 = ma + r
-        if abs(j) < 1e-6: plan.append((ta, tb, ma2)); continue
-        mid = round(((ma2 + mb) / 2) / 2) * 2
-        if j < 0: mid = max(mid, math.ceil((ma2 + abs(j) + 2) / 2) * 2)
-        tm = ta + (mid - ma2); plan += [(ta, tm, ma2), (tm, tb, mid + j)]
+        d = (mb - ma) - (tb - ta); j = round(d / 2) * 2; r = d - j      # nhảy theo ô nhịp 2s; phần lẻ r dồn vào điểm nối
+        if ta == 0.0: plan.append((0.0, tb, ma + d)); continue           # đoạn đầu: chỉ cần khớp mốc cuối
+        if abs(d) < 0.05: plan.append((ta, tb, ma)); continue
+        mid = round(((ma + mb) / 2) / 2) * 2
+        if j < 0: mid = max(mid, math.ceil((ma + abs(j) + 2) / 2) * 2)
+        tm = ta + (mid - ma); plan += [(ta, tm, ma), (tm, tb, mid + j + r)]
         print(f"  đoạn {ta:.2f}–{tb:.2f}: {'bỏ' if j > 0 else 'lặp'} {abs(j):.1f}s nhạc tại M{mid:.1f}, lệch {r:+.2f}s")
     plan.append((t_ht, T, 88.0))
     xf = int(0.08 * SR)
@@ -146,7 +145,7 @@ def ass(cues, path):
     def ts(t): h = int(t // 3600); m = int(t % 3600 // 60); s = t % 60; return f"{h}:{m:02d}:{s:05.2f}"
     head = ("[Script Info]\nScriptType: v4.00+\nPlayResX: 1280\nPlayResY: 720\n\n[V4+ Styles]\n"
             "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
-            f"Style: Sub,Lato,25,&H00F0F0F0,&H00F0F0F0,&H00000000,&H64000000,0,0,0,0,100,100,0.3,0,1,1.2,0.6,2,80,80,{BAR + 22},1\n\n"
+            f"Style: Sub,Lato,27,&H00F0F0F0,&H00F0F0F0,&H00000000,&H64000000,0,0,0,0,100,100,0.3,0,1,1.2,0.6,2,80,80,{BAR + 22},1\n\n"
             "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
     open(path, "w").write(head + "".join(f"Dialogue: 0,{ts(a)},{ts(b)},Sub,,0,0,0,,{t}\n" for a, b, t in cues))
 if __name__ == "__main__":

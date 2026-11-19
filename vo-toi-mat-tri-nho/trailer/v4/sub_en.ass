@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Lato,27,&H00F0F0F0,&H00F0F0F0,&H00000000,&H64000000,0,0,0,0,100,100,0.3,0,1,1.2,0.6,2,80,80,114,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.55,0:00:11.85,Sub,,0,0,0,,Ms. Linh! Mr. Quân had an urgent meeting with\Na Japanese partner. He sent these for you.
+Dialogue: 0,0:00:12.00,0:00:13.20,Sub,,0,0,0,,Oh, did he?
+Dialogue: 0,0:00:13.31,0:00:20.32,Sub,,0,0,0,,Since when do Japanese partners wear white\Ndresses and hang on my husband's arm?
+Dialogue: 0,0:00:20.40,0:00:23.20,Sub,,0,0,0,,Then I'll go down and say\Nhello to this Japanese partner.
+Dialogue: 0,0:00:23.44,0:00:26.40,Sub,,0,0,0,,Which pillar? This hotel is\Nnothing but pillars, darling!
+Dialogue: 0,0:00:26.69,0:00:28.40,Sub,,0,0,0,,Who... are you?
+Dialogue: 0,0:00:28.48,0:00:31.65,Sub,,0,0,0,,Let go of me! I don't even have a boyfriend!
+Dialogue: 0,0:00:31.73,0:00:35.84,Sub,,0,0,0,,Retrograde amnesia. She's forgotten\Nexactly the last ten years.
+Dialogue: 0,0:00:36.49,0:00:38.65,Sub,,0,0,0,,Exactly the ten years she's been married to me?
+Dialogue: 0,0:00:41.13,0:00:44.34,Sub,,0,0,0,,You can leave the suitcase there, driver. Thank you.
+Dialogue: 0,0:00:44.42,0:00:48.34,Sub,,0,0,0,,I remember everything. Even the pillar in the lobby.
+Dialogue: 0,0:00:48.42,0:00:51.80,Sub,,0,0,0,,I want to see what he chooses\Nwhen he thinks no one is watching.
+Dialogue: 0,0:00:52.17,0:00:56.20,Sub,,0,0,0,,Five points. Minus five for being ten years late.
+Dialogue: 0,0:00:59.19,0:01:02.11,Sub,,0,0,0,,I hear your wife lost her memory. What a pity.
+Dialogue: 0,0:01:02.19,0:01:05.69,Sub,,0,0,0,,He wants photos of me and Quân inside your house.
+Dialogue: 0,0:01:05.98,0:01:09.05,Sub,,0,0,0,,A photo doesn't need to be\Ntrue. Just convincing enough.
+Dialogue: 0,0:01:10.62,0:01:11.89,Sub,,0,0,0,,A wife who's lost her mind.
+Dialogue: 0,0:01:14.57,0:01:18.24,Sub,,0,0,0,,I've lost so much, sweetie. Even your mom.
+Dialogue: 0,0:01:18.32,0:01:20.31,Sub,,0,0,0,,And I'm turning down the fund's money.
+Dialogue: 0,0:01:20.36,0:01:22.64,Sub,,0,0,0,,I won't trade my wife for money.
+Dialogue: 0,0:01:28.11,0:01:30.03,Sub,,0,0,0,,Whatever needs remembering, I remember very well.
+Dialogue: 0,0:01:32.91,0:01:37.12,Sub,,0,0,0,,Twenty-two-year-old girl... will you marry me?
+Dialogue: 0,0:01:37.20,0:01:40.41,Sub,,0,0,0,,I can't forget. But I can be selective.
+Dialogue: 0,0:01:50.39,0:01:54.23,Sub,,0,0,0,,Break the rules, and this time\Nthe memory loss will be real.

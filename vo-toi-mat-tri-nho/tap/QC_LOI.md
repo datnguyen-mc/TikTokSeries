@@ -5,6 +5,12 @@
 
 Lưu ý: toàn bộ file mp4 trên máy này đã bị xoá sau lần `git pull` lúc 01:11 (mp4 không nằm trong git). Đã tải lại toàn bộ clip từ Flow và tách vào `clips/full_p04_p25/` bằng `clips/organize_zip.py` (nay nhận cả tên R3, R4…).
 
+## Bản sửa 19/11 (tối) — cảnh thoại giữ người đang nói trong khung
+Render lại trên Flow 9 clip (540 tín dụng): 09-1…09-4 (cảnh hẹn bờ hồ: đồ trên bàn cố định, hội thoại quay hai người/cận đúng người nói), 14-2, 22-1, 23-1, 08-1 (2 lần — lần đầu Mai Anh nói câu của Linh).
+Khi dựng: 09-2 lật ngang cho đúng trục với 09-1/09-3; 09-4 bỏ shot đầu (khung ngắm + chữ "24 fps"); 22-1 bỏ shot đầu (giao diện máy quay); 08-1 bỏ câu "ly hôn" bị nói lặp trong shot hai người.
+Câu lệnh: flow_fix2/gen.py → fix2.json. Clip cũ lưu ở clips/full_p04_p25/_old_1911/.
+Trailer bản 4 (kiểu trailer chiếu rạp, 2.39:1, thẻ chữ vàng nền tàn lửa, phụ đề tiếng Anh): trailer/v4/make_trailer4.py → Trailer_Vo_toi_mat_tri_nho_v4.mp4.
+
 ## Render lại hôm nay (5 clip × 60 tín dụng = 300 tín dụng)
 | Clip | Lỗi cũ | Kết quả |
 |---|---|---|

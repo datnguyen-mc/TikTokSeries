@@ -69,3 +69,7 @@ Thoại 09-03, 10-01, 13-02, 14-08 đã đổi so với bản 2 vì Flow từ ch
 - Soát 226 shot: soi phóng 4 góc + máy dò vùng đứng yên theo cửa sổ 1,5 s trên toàn thời lượng → không thấy logo kênh truyền hình (chỉ bắt được dòng tên nhân vật do mình chèn).
 - Bà Thoa sai mặt/tóc: 03-02 (tóc bạc búi), 03-05 (người khác, tóc đen thẳng) → thay bằng bản gốc V3 trong Downloads (2108b2d7, 3e4c2652), thoại khớp. 19-06 (tóc bạc búi, không thoại) → bỏ (`CUT_SHOTS`). Bản cũ ở `clips/_cu/`.
 - Dựng lại FULL (17:42, 267 đoạn, tiếng chuẩn từng mẫu + nhạc dưới thẻ, không đoạn câm). Trailer: thay 03-05 mới (0,6–2,45), bớt đầu 04-01 cho giữ nhịp nhạc.
+
+## Đợt 8 — Làm lại 15-07 (19/11)
+- 15-07 "Ông nhìn Minh": bản cũ quay qua vai, ông quay mặt nhìn ra ngoài chứ không nhìn Minh. Tạo lại trên Flow (hai nhân vật tham chiếu, khung ngang hai người đối diện, ông ngẩng lên nhìn thẳng Minh), chọn bản 209437f7, kéo dài 4 s (`DUR`). Bản cũ ở `clips/_cu/`.
+- Dựng lại FULL (tiếng chuẩn từng mẫu + nhạc dưới thẻ, không đoạn câm).

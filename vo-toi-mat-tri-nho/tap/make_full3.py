@@ -23,18 +23,19 @@ KEEP = {
              # bỏ shot 02-01 (váy trắng Mai Anh dính vết đỏ vô lý)
  "P05-C4": [(1.3, 9.6), (12.0, 999)],             # khung ngắm máy quay 0–1.3; lặp "rất coi trọng gia đình"
  "P07-C1": [(0, 8.1), (12.0, 999)],               # câu lặp méo tiếng 8.3–10.3
- "P09-C4": [(0, 13.5)],                           # cảnh cuối loé trắng 13.5–15
+ "P08-C1": [(0, 3.9), (6.0, 999)],                 # bản R4 (19/11): Linh nói câu "ly hôn" hai lần — giữ lần nói trong cận Linh
+ "P09-C4": [(4.958, 999)],                         # bản R (19/11): bỏ shot đầu có khung ngắm + chữ "24 fps"
  "P10-C4": [(0, 13.2)],                           # bỏ cú lia về phòng trống
  "P14-C1": [(0, 8.05), (10.0, 999)],              # câu lạc "còn thư cho vợ"
- "P14-C2": [(3.5, 999)],                          # chữ "@Quan / ARRI" đè hình
  "P17-C4": [(0, 11.0)],                           # đèn chiếu lọt khung
  "P18-C3": [(0, 13.45)],                          # bỏ cú lia sang rèm cửa
  "P20-C1": [(0, 5.9), (11.0, 13.6), (5.9, 8.2)],  # "Vợ mất trí." → ảnh trên màn chiếu → "Quỹ Hoa Anh Đào sẽ rút vốn."; bỏ câu lặp
  "P21-C4": [(0, 10.95)],                          # chân máy quay
- "P22-C1": [(3.0, 8.6), (11.0, 999)],             # chữ đè 0–3; câu Linh ngoài hình rồi lặp lại
+ "P22-C1": [(3.0, 999)],                           # bản R3 (19/11): shot đầu có giao diện máy quay
  "P25-C5": [(0, 5.5)],                            # phần sau thay bằng 25-6
 }
-NOCROP = {"P20-C1"}                     # góc tối là nội dung cảnh (màn chiếu)
+NOCROP = {"P20-C1"}
+HFLIP = {"P09-C2"}                      # bản R (19/11) quay ngược trục: lật ngang cho khớp 09-1/09-3                     # góc tối là nội dung cảnh (màn chiếu)
 def run(c):
     r = subprocess.run(c, capture_output=True, text=True)
     if r.returncode: sys.exit("ffmpeg lỗi:\n" + " ".join(c)[-1800:] + "\n" + r.stderr[-1500:])
@@ -87,7 +88,7 @@ def pieces(name):
     return out
 def build(name, src, dst, grade):
     fx = FIX[name]; pcs = pieces(name); kf = keep_frames(name)
-    pre = [f"fps={FPS}", f"scale={W}:{H}"]
+    pre = [f"fps={FPS}", f"scale={W}:{H}"] + (["hflip"] if name in HFLIP else [])
     for fa, fb, x, y, w, h in fx["delogo"]:
         x, y = max(1, x), max(1, y); w, h = min(w, W - 1 - x), min(h, H - 1 - y)
         pre.append(f"delogo=x={x}:y={y}:w={w}:h={h}:enable='between(n,{fa},{fb-1})'")
@@ -106,7 +107,7 @@ def build(name, src, dst, grade):
     run(["ffmpeg","-y","-i",src,"-filter_complex",";".join(g),"-map","[v]","-map","[a]","-c:v","libx264","-preset","medium","-crf","16",
          "-c:a","pcm_s16le","-ar",str(SR),"-ac","2","-shortest",part])
     os.replace(part, dst)
-def sig(name): return json.dumps([pieces(name), FIX[name]["delogo"]])
+def sig(name): return json.dumps([pieces(name), FIX[name]["delogo"], name in HFLIP])
 def seg(limit=150):
     os.makedirs(TMP, exist_ok=True); t0 = time.time(); todo = 0
     jobs = [("V3", V3SRC, False)] + [(c, os.path.join(CL, c + ".mp4"), True) for cs in order().values() for c in cs]

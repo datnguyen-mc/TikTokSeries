@@ -63,7 +63,6 @@ file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/
 file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/S06_C10.mp4'
 file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/S06_C11.mp4'
 file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/S07_C01.mp4'
-file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/S07_C02.mp4'
 file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/S07_C03.mp4'
 file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/S07_C04.mp4'
 file '/sessions/rcw-01tjpomueyv1uagntr2lbrkw/mnt/TikTokSeries/nga-re/build/full/S07_C05.mp4'

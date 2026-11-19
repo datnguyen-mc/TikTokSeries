@@ -1,4 +1,4 @@
-import os,subprocess,sys
+import os,subprocess,sys,fixes
 F="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"; FB="/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
 V=["-c:v","libx264","-preset","veryfast","-crf","20","-pix_fmt","yuv420p","-r","24","-video_track_timescale","12288"]
 A=["-c:a","aac","-b:a","160k","-ar","48000","-ac","2"]
@@ -21,6 +21,7 @@ CAP={"S04_C11":("Mẩu giấy: “Cố lên sếp.”",3.5,6.8),"S05_C05":("Tin 
 "S08_C03":("Trâm: “Không sao ạ.”",3.5,5.8),"S08_C07":("“Con gái tròn 9 tuổi. Cảm ơn bố đã về sớm.”",2.0,9.0),"S08_C08":("Cuộc gọi đến: Mẹ",1.0,6.0),
 "S08_C09":("Trâm: “Anh vui nhé.”",4.5,8.0),"S09_C04":("Trâm: “Em nhớ anh. Mai gặp chỗ cũ nhé.”",1.5,5.5),
 "S13_C07":("Sóc: “Mẹ ơi mẹ đừng khóc nữa. Con xin lỗi vì con xem điện thoại của bố.”",1.5,8.5)}
+CUT={"S12_C05":(7.35,8.62)}
 SCENE_START={"S01_C01","S02_C01","S03_C01","S04_C01","S05_C01","S06_C01","S07_C01","S08_C01","S09_C01","S10_C01","S11_C01","S12_C01","S13_C01","S14_C01","S15_C01","S16_C01","S17_C01","S18_C01"}
 clips=sorted(f[:-4] for f in os.listdir("clips"))
 last={}
@@ -32,6 +33,9 @@ for c in clips:
     if os.path.exists(out) and os.path.getsize(out)>10000: continue
     d=float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",f"clips/{c}.mp4"],capture_output=True,text=True).stdout)
     vf=[];af=[]
+    if c in CUT:
+        a,b=CUT[c]; vf.append(f"select='not(between(t,{a},{b}))',setpts=N/FRAME_RATE/TB"); af.append(f"aselect='not(between(t,{a},{b}))',asetpts=N/SR/TB"); d-=(b-a)
+    if fixes.pre(c): vf.append(fixes.pre(c))
     if c in SCENE_START: vf.append("fade=in:st=0:d=0.5"); af.append("afade=in:st=0:d=0.3")
     if last[c[:3]]==c:
         fd=2.0 if c=="S18_C13" else 0.5
@@ -46,5 +50,5 @@ for c in clips:
 card("build/full/zz1_quote.mp4",["Một lời nói thật khó nói hôm nay","đỡ đau hơn mười lời nói dối dễ nói."],7,[40,40]); parts.append("build/full/zz1_quote.mp4")
 card("build/full/zz2_end.mp4",["NGÃ RẼ","Hình ảnh và giọng nói tạo bằng AI · 2026"],5,[80,26]); parts.append("build/full/zz2_end.mp4")
 open("build/full.txt","w").write("".join(f"file '{os.path.abspath(p)}'\n" for p in parts))
-run(["-f","concat","-safe","0","-i","build/full.txt","-c:v","copy","-af","loudnorm=I=-16:TP=-1.5:LRA=11","-c:a","aac","-b:a","192k","-ar","48000","-movflags","+faststart","nga-re_phim_v3.mp4"])
+run(["-f","concat","-safe","0","-i","build/full.txt","-c:v","copy","-af","loudnorm=I=-16:TP=-1.5:LRA=11","-c:a","aac","-b:a","192k","-ar","48000","-movflags","+faststart","nga-re_phim_v6.mp4"])
 print("DONE",flush=True)

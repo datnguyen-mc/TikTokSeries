@@ -18,6 +18,8 @@ STUDIO = "HIDDEN CINEMA"
 # (loại, ...) — shot: (nguồn, vào, ra, đoạn, phụ đề Anh)
 EDL = [
  ("black", 1.6, "cold"),
+# LƯU Ý (19/11 tối): mốc "V3" ở đây theo b3/V3 TRƯỚC khi sửa bó hoa (bản V3 cũ đã xoá 19/11).
+# Bản V3 mới cắt 2s đầu 01-12 nên 40.1–64.5s lệch −2s; nếu dựng lại trailer phải dời 41.3–48.4 và 58.1–61.0.
  ("shot", "V3", 0.0, 2.8, "cold", ""),
  ("card", [(STUDIO, 40, 0.32, "SemiBold"), ("TRÂN TRỌNG GIỚI THIỆU", 26, 0.42, "Medium")], 2.8, "cold"),
  ("shot", "V3", 9.5, 15.6, "setup", "Ms. Linh! Mr. Quân had an urgent meeting with a Japanese partner. He sent these for you.|Oh, did he?"),

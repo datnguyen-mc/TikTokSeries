@@ -1,0 +1,21 @@
+A single continuous 6-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama with a gentle comic bite: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light, soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] The same small countryside bookshop reopened, bright and warm: one side still tall pale-green wooden shelves full of books, the other side a neat row of new desktop computers on wooden tables, young adult villagers working at them, warm sunlight, potted plants, a small framed scrap of yellowed paper on the wall.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @CoGai = Cô gái lạ, a young woman from the village (a 19-year-old Vietnamese young woman, round face, short bob haircut, shy eyes); wears a faded blue factory-worker shirt, black trousers, plastic sandals. No attached image.
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] over-the-shoulder shot toward the counter.
+
+[ACTION] A young woman of 19 sets a few crumpled small banknotes on the counter and holds up a blue book, toward a young woman behind the counter.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–3.4s, @CoGai (young woman of 19, soft hopeful voice, hopeful, shy): Chị ơi, chị giữ cuốn này cho em mấy hôm được không ạ?
+After the last word nobody speaks until 6.0s. Never read these directions aloud.
+
+[SOUND] keyboards clicking, soft laughter, the ceiling fan, a bicycle bell outside. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, maps, contracts, screens, boxes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; children or minors; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

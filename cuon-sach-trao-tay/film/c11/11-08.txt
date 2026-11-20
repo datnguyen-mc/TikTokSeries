@@ -1,0 +1,21 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama with a gentle comic bite: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light, soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] An old three-room tile-roofed village house in the Northern Vietnamese countryside: a brick-paved yard with a jackfruit tree, a low brick gate, a porch with wooden pillars; inside, a dim central room with a wooden cabinet, a family altar and an old beige desktop computer with a bulky CRT monitor under a cloth cover.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @Khang = Khang, the founder of a tech group (a composed 44-year-old Vietnamese man, medium build with a slightly full face, rectangular black-framed glasses, short neat black hair greying at the temples, clean-shaven, calm tired intelligent eyes); wears a plain white linen shirt with sleeves rolled up, beige chino trousers, brown leather loafers, a silver wristwatch. Attached image: "Khang · Sơ mi về quê".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] 50mm medium shot.
+
+[ACTION] @Khang looks off toward the dark market road.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–1.5s, @Khang (man of 44, low calm baritone, few words, long pauses, quiet): Cho tôi đến sáng mai.
+After the last word nobody speaks until 4.0s. Never read these directions aloud.
+
+[SOUND] crickets, a car engine idling, a dog barking far away. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, maps, contracts, screens, boxes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; children or minors; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

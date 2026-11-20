@@ -1,0 +1,20 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama with a gentle comic bite: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light, soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A top-floor glass meeting room in a modern city office tower: a long dark walnut table, black leather chairs, floor-to-ceiling windows over a hazy grey skyline, cool steel-blue daylight, everything minimal and expensive.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @Khang = Khang, the founder of a tech group (a composed 44-year-old Vietnamese man, medium build with a slightly full face, rectangular black-framed glasses, short neat black hair greying at the temples, clean-shaven, calm tired intelligent eyes); wears a tailored navy-blue suit over a crisp white shirt, no tie, a silver wristwatch, polished black shoes. Attached image: "Khang · Vest họp".
+- @Tung = Tùng, Khang's finance director (a sharp 38-year-old Vietnamese man, lean, slicked-back black hair, thin metal-framed glasses, a neatly trimmed short beard, alert eyes); wears a slim charcoal-grey suit, a white shirt, a dark-blue tie, a thin smartwatch. Attached image: "Tùng · Vest xám".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] wide shot down the long walnut table toward the windows.
+
+[ACTION] @Tung slides a thick folder across the table to @Khang, who sits at the head of the table, back to the skyline.
+
+[DIALOGUE] None. Nobody speaks in this shot.
+
+[SOUND] air-conditioning hum, faint city traffic far below, a pen tapping glass. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, maps, contracts, screens, boxes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; children or minors; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

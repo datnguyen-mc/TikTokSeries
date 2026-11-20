@@ -1,0 +1,21 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama with a gentle comic bite: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light, soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement. This is a memory from twenty-five years ago: warmer golden grade, slightly faded colours, thicker film grain.
+
+[PLACE] The same small countryside bookshop twenty-five years ago, bright and full: tall wooden shelves freshly painted pale green and packed with books, a clean glass display counter, a slow ceiling fan, dusty sunbeams slanting in through the open shopfront, a village road with bicycles outside.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @KhangTre = Khang lúc trẻ, young Khang (a slim young adult Vietnamese man, sun-tanned skin, high cheekbones, rimless glasses, neat side-parted short black hair, bright curious eyes, a shy smile); wears a slightly yellowed old white short-sleeved shirt, navy-black trousers frayed at the hem, brown sandals with heel straps, a faded canvas backpack. Attached image: "Khang trẻ · Sơ mi trắng cũ".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] wide shot from inside toward the sunlit street.
+
+[ACTION] @KhangTre bows quickly and runs out into the sun with the book.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–1.5s, @KhangTre (young man of 19, light clear tenor, shy and polite, bright, over his shoulder): Cháu cảm ơn cô ạ!
+After the last word nobody speaks until 4.0s. Never read these directions aloud.
+
+[SOUND] cicadas, a slow ceiling fan ticking, a bicycle bell outside, pages turning. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, maps, contracts, screens, boxes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; children or minors; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

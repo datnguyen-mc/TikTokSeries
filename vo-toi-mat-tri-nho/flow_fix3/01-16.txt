@@ -1,0 +1,23 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] A frame from a premium Vietnamese theatrical feature film, shot on ARRI Alexa 35 with vintage anamorphic lenses, 24 fps, 16:9: real film actors with natural skin texture, pores and micro-expressions, subtle restrained performances, motivated practical key light with soft negative fill, deep shadows and glowing highlights, rich teal-and-amber grade, gentle halation, fine 35mm film grain, shallow depth of field with creamy oval bokeh. Romantic comedy-drama with a thriller edge — never CGI, never a video game, never an advertisement, never a TV soap look.
+
+[PLACE] A luxurious rooftop restaurant terrace at night above a wide city lake, privately booked: one candlelit table with white linen, a glass balustrade, golden city lights and the dark lake far below, potted olive trees, warm string lights, a private brass elevator; warm candle-gold light with city bokeh. The attached image "Bối cảnh · Sân thượng" shows this exact set: match its architecture, furniture, colours and light, seen from this shot's camera angle; never show the reference image itself.
+
+[PROPS] Continuity: the candlelit table now holds one big bouquet of ninety-nine deep-red roses wrapped in cream paper with a red satin ribbon, lying on its side across one end of the white tablecloth with a few loose red petals — exactly as Linh just laid it down. The bouquet stays on the table, clearly visible whenever the table is in frame, for the whole shot. Also on the table: glass candle holders, white plates, wine glasses.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly; only face and clothes come from it, never its background.
+- @Linh = Linh, the wife: a breathtakingly beautiful 32-year-old Vietnamese woman, former fashion model, tall and graceful, flawless luminous fair skin, long silky straight black hair, large bright almond-shaped dark eyes, high cheekbones, rosy lips, a radiant smile; wears a floor-length emerald-green satin evening gown with thin straps, diamond drop earrings, a slim gold clutch, a small cherry-blossom hairpin. Attached image: "Linh · Dạ hội xanh".
+Nobody else is in focus.
+
+[CAMERA] 50mm medium shot of @Linh (the wife); a smooth tracking move that follows the action.
+
+[ACTION] Linh, seated at the candlelit table right beside the red rose bouquet lying on it, picks up her gold clutch, rises and walks toward the brass elevator, never hurrying; the bouquet stays on the table.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, spoken on camera by @Linh (woman of 32, warm low alto with a soft husky edge, elegant and unhurried, never raises her voice, crisp Hà Nội diction, speaking slowly and softly with small natural pauses, gracious and deadly), said exactly once from 0.3s to 3.1s: "Thế thì chị xuống chào đối tác Nhật một câu."
+Only @Linh moves the lips. After the last word nobody speaks again until 4.0s.
+Voice: standard Hà Nội Northern Vietnamese with natural Northern tones (never Southern or Central accents); a real actor recorded close on set with a little room tone, real breaths and tiny natural hesitations — never a voice-over or text-to-speech. Speak only the Vietnamese words inside the double quotes, once; never read these directions, names or tags aloud.
+
+[SOUND] a soft city hum far below, a light night breeze, candle flames fluttering, faint glassware. No music.
+
+[AVOID] On-screen text, subtitles, captions, logos, watermarks, readable writing on paper, screens or signs; any cut or second camera angle; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flat TV lighting; robotic or text-to-speech sounding voices; flat monotone delivery; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents. Also avoid: an empty table without the rose bouquet; the bouquet disappearing, moving, shrinking or changing colour; pink flowers or a small bouquet; anyone holding flowers or wrapping paper; camera brand logos or recording overlays; black bars or rounded frame borders.

@@ -1,5 +1,16 @@
 # Dựng lại bản 3 — 19/11/2026 (máy Mac mini)
 
+### 19/11 (tối) — Sửa cảnh đặt hoa (Phần 1–3, ~0:36 bản full)
+- Lỗi: cảnh V3_01-10 (bó hoa trên bàn) không khớp — tay áo xanh dài + bó hoa nhỏ màu hồng, không phải Linh đầm xanh hai dây.
+- Render lại 2 bản 3s trên Flow (18 credit), chọn Ra: Linh đầm ngọc lục bảo hai dây đặt bó 99 hồng đỏ giấy kem nơ đỏ lên bàn nến.
+- Bản cũ: clips/v3_old_1911/; V3 cũ: _qc/V3_3phut_cu.mp4. Dựng lại V3, FULL_v3 (25.30 phút) và toàn bộ các phần.
+- Trailer v3/v4 không dùng cảnh này → không cần dựng lại.
+- Tiếp (người dùng báo): bó hoa đặt xuống bàn rồi biến mất ở các cảnh sau. Render lại bằng Omni 1.1 Flash (4s, x2): 01-11, 01-14, 01-16, 01-17 với bó hồng nằm trên bàn (7 bản tải được; chọn 01-11 Ha, 01-14 Ha, 01-16 Hb, 01-17 Ha cắt 1.0–4.0s).
+  Kiểm tra thoại bằng ASR: đúng câu, người nói trong khung. 01-12: bỏ 2s đầu (bàn trống). Xoá bord cũ của 01-17 trong fix_v3.json; KEEP V3 = (0,2.833),(3.042,40.333),(42.333,64.54),(67.58,999).
+  Bản cũ: clips/v3_old_1911/, tap/_qc/V3_3phut_truoc_hoa.mp4, _qc/fix_v3_truoc_hoa.json. Còn lại: nền mờ ở 01-13 và 01-15 (cận Linh) thấy bàn không rõ bó hoa.
+- 19/11 tối: P08-C1 còn sót mẩu "…ly hôn" trước câu thoại của Linh (bản R4 nói 2 lần) → KEEP P08-C1 = (0,3.5),(7.7,999). Đã dựng lại FULL_v3 (25.26 phút) và phần 8.
+- 19/11 tối: dựng 10 Shorts dọc 9:16 (shorts/, build_shorts.py + spec.json, mô tả trong shorts/MO_TA_SHORTS.md).
+
 **File:** `tap/Vo_toi_mat_tri_nho_FULL_v3.mp4` (25 phút 18 giây, 1280×720, 24 khung/giây) và 23 file từng phần trong `tap/phan_v3/`.
 **Cách dựng:** `python3 tap/make_full3.py seg → full → full2` (`parts` cho file từng phần). Dữ liệu sửa hình theo từng shot: `tap/fix_v3.json`.
 

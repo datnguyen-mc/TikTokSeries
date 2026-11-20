@@ -1,0 +1,31 @@
+{
+ "film": "Ngã Rẽ",
+ "hashtags": "#ngare #phimngan #phimviet #giadinh #honnhan #ngoaitinh #baihoccuocsong #phimAI",
+ "schedule": {"start": "2026-11-26", "slots": ["09:00", "17:00"]},
+ "parts": [
+  {"n":1,"slug":"me-oi-nhin-tranh-con-ve","star":true,"hook":"Con khoe tranh vẽ cả nhà. Mẹ chỉ nhìn điện thoại.","title":"Con gái khoe tranh vẽ gia đình, mẹ không ngẩng lên","clips":["S01_C03","S01_C04","S01_C05","S01_C06","S01_C07","S01_C08","S01_C11"],
+   "desc":"Bữa tối nhà Diệp. Bé Sóc vẽ cả nhà ba người rồi giơ lên khoe, còn mẹ vừa dọn cơm vừa dán mắt vào điện thoại công việc. Con bé lặng lẽ cầm cục tẩy. Một gia đình bắt đầu xa nhau từ những bữa cơm như thế."},
+  {"n":2,"slug":"ly-ca-phe-co-len-sep","star":false,"hook":"Một ly cà phê và mẩu giấy “Cố lên sếp”.","title":"Cô nhân viên trẻ mang cà phê cho sếp đang kiệt sức","clips":["S04_C02","S04_C03","S04_C04","S04_C05","S04_C06","S04_C09","S04_C11"],
+   "desc":"Khang ngồi lại văn phòng với đống giấy tờ. Trâm, cô nhân viên trẻ, mang vào một ly cà phê và vài câu hỏi han. Lâu rồi mới có người hỏi anh có mệt không. Trên ly cà phê hôm sau có mẩu giấy: “Cố lên sếp.” Mọi chuyện bắt đầu từ một sự quan tâm rất nhỏ."},
+  {"n":3,"slug":"muoi-nam-ngay-cuoi","star":true,"hook":"Kỷ niệm 10 năm ngày cưới. Chồng về khi nến đã tắt.","title":"10 năm ngày cưới, chiếc bánh nằm trong tủ lạnh","clips":["S05_C01","S05_C02","S05_C03","S05_C05","S05_C07","S05_C09","S05_C12"],
+   "desc":"Diệp và bé Sóc chuẩn bị bánh kỷ niệm 10 năm ngày cưới, chờ bố về. Tin nhắn “Anh về chưa” gõ xong rồi không gửi. Con ngủ gục trên bàn. Khi Khang về tới, hai vợ chồng đứng cách nhau một gian bếp, và chiếc bánh “10 năm” nằm nguyên trong tủ lạnh."},
+  {"n":4,"slug":"con-mua-truoc-cong-truong","star":false,"hook":"Bố mẹ đều “bận họp”. Con đứng chờ dưới mưa.","title":"Bố mẹ đùn nhau đón con, bé đứng chờ dưới mưa","clips":["S06_C04","S06_C05","S06_C06","S06_C07","S06_C09","S06_C10","S06_C11"],
+   "desc":"Trời đổ mưa. Diệp nhắn chồng: “Về đón con, em họp muộn.” Khang trả lời: “Anh cũng họp. Nhờ bà ngoại đón nhé.” Rồi anh che mưa đưa cô đồng nghiệp ra xe. Ở cổng trường, bé Sóc ôm cặp đứng chờ một mình."},
+  {"n":5,"slug":"anh-khong-qua-duoc","star":true,"hook":"“Anh không qua được. Sinh nhật Sóc.”","title":"Người thứ ba ngồi một mình trong phòng trọ","clips":["S08_C01","S08_C02","S08_C03","S08_C07","S08_C08","S08_C09"],
+   "desc":"Ba tháng sau. Trâm dọn sẵn bữa tối trong phòng trọ thì nhận tin: “Anh không qua được. Sinh nhật Sóc. Anh xin lỗi.” Cô trả lời “Không sao ạ”, rồi nhìn tấm ảnh gia đình người ta mừng con gái tròn 9 tuổi. Mẹ gọi tới, cô không dám nghe. Làm người đến sau là luôn phải nói “Anh vui nhé.”"},
+  {"n":6,"slug":"con-gai-doc-duoc-tin-nhan","star":true,"hook":"Con gái 9 tuổi mở điện thoại của bố.","title":"Bé gái vô tình đọc tin nhắn “Em nhớ anh” trong máy bố","clips":["S09_C03","S09_C04","S09_C05","S09_C06","S09_C07","S09_C08","S09_C09","S09_C10","S09_C11"],
+   "desc":"Sóc cầm điện thoại của bố chơi thì một tin nhắn hiện lên: “Em nhớ anh. Mai gặp chỗ cũ nhé.” Khang chạy vào giật lại máy, lúng túng trước ánh mắt con. Mẹ bước ra từ bếp. Có những bí mật người lớn giấu rất kỹ, nhưng trẻ con lại là người thấy trước."},
+  {"n":7,"slug":"vo-hoi-thang","star":true,"hook":"“Cô ấy là ai?” Người chồng không trả lời được.","title":"Vợ hỏi thẳng chồng về tin nhắn lạ","clips":["S10_C02","S10_C03","S10_C05","S10_C07","S10_C08","S10_C09","S10_C10"],
+   "desc":"Đêm đó, trong phòng ngủ, Diệp hỏi thẳng. Khang cúi đầu. Không có đập phá, chỉ có một người vợ cố giữ giọng bình tĩnh và một người chồng không dám nhìn lên. Ngoài cửa, bé Sóc ôm gối đứng nghe."},
+  {"n":8,"slug":"o-tiem-toc","star":false,"hook":"Ở tiệm tóc, cô biết người kia là ai.","title":"Người vợ tìm ra danh tính người thứ ba ở tiệm tóc","clips":["S12_C01","S12_C02","S12_C04","S12_C05","S12_C06","S12_C07","S12_C08"],
+   "desc":"Diệp ghé tiệm tóc quen. Chị chủ tiệm nhìn tấm ảnh trong điện thoại, nhận ra cô gái và nổi nóng thay cho Diệp. Người ngoài cuộc thì muốn làm cho ra lẽ, cho cả công ty biết. Còn người trong cuộc chỉ ngồi im, tay nắm chặt điện thoại."},
+  {"n":9,"slug":"go-cua-phong-tro","star":true,"hook":"Người vợ đến gõ cửa phòng trọ của cô gái ấy.","title":"Vợ tìm đến tận phòng trọ gặp người thứ ba","clips":["S13_C04","S13_C05","S13_C06","S13_C08","S14_C03","S14_C05","S14_C06"],
+   "desc":"Diệp tìm tới dãy trọ. Trâm đang tưới cây thì quay lại, nhận ra ngay người đứng trước mặt. Không có đánh ghen. Hai người phụ nữ vào phòng, đứng đối diện nhau, và người vợ bắt đầu nói bằng giọng rất nhỏ."},
+  {"n":10,"slug":"chiec-nhan-tren-san-thuong","star":true,"hook":"Anh tháo nhẫn cưới ra. Cô gái lắc đầu.","title":"Trên sân thượng, người thứ ba nói lời dừng lại","clips":["S15_C02","S15_C03","S15_C04","S15_C06","S15_C09","S15_C11"],
+   "desc":"Sân thượng, đêm thành phố sáng đèn. Khang nói anh sẽ lựa chọn. Trâm nhìn anh rất lâu rồi lắc đầu: cô đã gặp vợ anh, đã thấy con gái anh. Còn lại một mình, Khang đứng cầm chiếc nhẫn cưới trong lòng bàn tay."},
+  {"n":11,"slug":"bo-don-con-o-cong-truong","star":false,"hook":"Lần đầu sau nhiều tháng, bố đứng chờ ở cổng trường.","title":"Bố đến đón, con gái hỏi một câu khiến anh nghẹn lời","clips":["S17_C03","S17_C04","S17_C05","S17_C06","S17_C07","S17_C08"],
+   "desc":"Tan học. Sóc bước ra và thấy bố đứng chờ ở cổng trường, điều lâu rồi không có. Khang ngồi xuống ngang tầm mắt con. Con bé hỏi một câu rất thật thà, và người bố phải mất một lúc mới trả lời được."},
+  {"n":12,"slug":"bua-com-ba-nguoi","star":false,"hook":"Bữa cơm ba người. Không ai nhìn điện thoại.","title":"Bữa cơm đầu tiên sau biến cố: gia đình ngồi lại với nhau","clips":["S18_C01","S18_C03","S18_C07","S18_C10","S18_C11","S18_C13"],
+   "desc":"Vẫn gian bếp ấy, nhưng lần này cả ba người ngồi cùng bàn. Chưa ai tha thứ xong, chưa ai hết buồn. Chỉ có bức tranh gia đình của Sóc được vẽ lại, và hai người lớn lần đầu chịu ngồi yên nghe con nói. Ngã rẽ nào cũng có đường quay về, nếu còn muốn quay về."}
+ ]
+}

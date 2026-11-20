@@ -73,7 +73,7 @@ def vf_for(c):
 
 def one(job):
     c, d = job; dst = os.path.join(NORM, f"{c}.mp4"); tmp = dst + ".part.mp4"
-    vd = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "format=duration", "-of", "csv=p=0",
+    vd = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=duration", "-of", "csv=p=0",
                          os.path.join(G.CLIPS, f"{c}.mp4")], capture_output=True, text=True).stdout.strip()
     try: d = min(float(d), float(vd) - 0.04)   # clip ngắn hơn kế hoạch: cắt theo clip, tránh hình đứng / lệch tiếng
     except ValueError: pass
@@ -121,7 +121,8 @@ def concat():
     # Hình: nối copy. Tiếng: dựng lại chính xác từng mẫu theo số khung hình của từng đoạn
     # (concat copy tiếng AAC làm dư ~1 gói/đoạn -> tiếng lệch dần, có máy phát bị mất tiếng)
     vtmp = out + ".v.mp4"; araw = out + ".a.raw"
-    G.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-an", "-c", "copy", vtmp])
+    G.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-an", "-vf", f"setpts=N/({FPS}*TB)", "-vsync", "passthrough",
+           "-video_track_timescale", "24000", "-c:v", "libx264", "-preset", "veryfast", "-crf", "17", "-pix_fmt", "yuv420p", vtmp])  # mốc hình liền mạch, khớp tiếng
     with open(araw, "wb") as fa:
         for sg in segs:
             nf = int(subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v", "-count_packets", "-show_entries",

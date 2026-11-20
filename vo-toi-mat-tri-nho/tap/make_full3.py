@@ -7,7 +7,7 @@ Dữ liệu sửa hình: tap/fix_v3.json (shot, viền đen, hộp delogo cho t�
 import glob, os, subprocess, sys, json, re, time
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 TMP = os.path.join(os.path.expanduser("~"), "b3"); CL = os.path.join(ROOT, "clips", "full_p04_p25")
-V3SRC = os.path.join(HERE, "_v3_src.mov")           # bản V3 3 phút đã chuẩn hoá (dựng lại: make_v3.py)
+V3SRC = os.path.join(HERE, "Vo_toi_mat_tri_nho_V3_3phut.mp4")   # bản V3 3 phút (dựng lại: make_v3.py seg + join)
 OUT = os.path.join(HERE, "Vo_toi_mat_tri_nho_FULL_v3.mp4"); PH = os.path.join(HERE, "phan_v3")
 FONT = "/usr/share/fonts/truetype/google-fonts/Lora-Variable.ttf"
 W, H, FPS, SR = 1280, 720, 24, 48000
@@ -18,12 +18,13 @@ DROP = {"P06-C4"}                       # gộp vào 06-5
 MOVE = {"P08-C5": (9, 0)}               # Quân tập cười → mở đầu Phần 9
 # Đoạn giữ lại của clip nguồn (giây), theo thứ tự phát. Không khai báo = giữ cả clip.
 KEEP = {
- "V3":     [(0, 2.833), (3.042, 61.5), (63.5, 64.54), (67.58, 999)],
-             # bỏ khung đen; bỏ cú ví "bay" vào hất đổ ly khi bàn đã trống (giữ 1s vết rượu loang);
+ "V3":     [(0, 2.833), (3.042, 40.333), (42.333, 64.54), (67.58, 999)],
+             # bỏ khung đen; 01-12: bỏ 2s đầu (bàn trống, bản cũ trước khi có bó hoa);
+             # 01-11/14/16/17 render lại 19/11 với bó hồng trên bàn (01-17 giữ cả shot);
              # bỏ shot 02-01 (váy trắng Mai Anh dính vết đỏ vô lý)
  "P05-C4": [(1.3, 9.6), (12.0, 999)],             # khung ngắm máy quay 0–1.3; lặp "rất coi trọng gia đình"
  "P07-C1": [(0, 8.1), (12.0, 999)],               # câu lặp méo tiếng 8.3–10.3
- "P08-C1": [(0, 3.9), (6.0, 999)],                 # bản R4 (19/11): Linh nói câu "ly hôn" hai lần — giữ lần nói trong cận Linh
+ "P08-C1": [(0, 3.5), (7.7, 999)],                 # bản R4 (19/11): Linh nói câu "ly hôn" hai lần — giữ lần nói trong cận Linh (19/11 tối: bỏ hẳn mẩu "…ly hôn" sót lại)
  "P09-C4": [(4.958, 999)],                         # bản R (19/11): bỏ shot đầu có khung ngắm + chữ "24 fps"
  "P10-C4": [(0, 13.2)],                           # bỏ cú lia về phòng trống
  "P14-C1": [(0, 8.05), (10.0, 999)],              # câu lạc "còn thư cho vợ"
@@ -112,6 +113,7 @@ def seg(limit=150):
     os.makedirs(TMP, exist_ok=True); t0 = time.time(); todo = 0
     jobs = [("V3", V3SRC, False)] + [(c, os.path.join(CL, c + ".mp4"), True) for cs in order().values() for c in cs]
     for name, src, grade in jobs:
+        if not os.path.exists(src): print("THIẾU nguồn", src); todo += 1; continue
         dst = os.path.join(TMP, name + ".mov"); sg = dst + ".sig"
         if os.path.exists(dst) and os.path.getmtime(dst) > os.path.getmtime(src) and os.path.exists(sg) and open(sg).read() == sig(name): continue
         if time.time() - t0 > limit: todo += 1; continue

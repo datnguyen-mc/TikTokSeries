@@ -73,3 +73,23 @@ Thoại 09-03, 10-01, 13-02, 14-08 đã đổi so với bản 2 vì Flow từ ch
 ## Đợt 8 — Làm lại 15-07 (19/11)
 - 15-07 "Ông nhìn Minh": bản cũ quay qua vai, ông quay mặt nhìn ra ngoài chứ không nhìn Minh. Tạo lại trên Flow (hai nhân vật tham chiếu, khung ngang hai người đối diện, ông ngẩng lên nhìn thẳng Minh), chọn bản 209437f7, kéo dài 4 s (`DUR`). Bản cũ ở `clips/_cu/`.
 - Dựng lại FULL (tiếng chuẩn từng mẫu + nhạc dưới thẻ, không đoạn câm).
+
+## Đợt 9 — Sửa lệch hình/thoại (19/11)
+- Nguyên nhân: 5 shot (04-02, 04-06, 04-08, 05-01, 05-02) clip gốc 4 s nhưng kế hoạch 5–8 s → hình dừng ở 4 s còn tiếng được đệm dài; khi nối, hình bị chừa trống 1–4 s mỗi chỗ → từ ~phút 4 hình chậm hơn tiếng tới ~9 s, thoại lệch miệng.
+- Thêm: 01-08 và 14-07 trong _norm2 là bản cũ ngắn 1 s (mất đuôi "gấp đôi", "đi khâu") → dựng lại đủ 5 s / 8 s.
+- Sửa: cắt tiếng 5 shot trên bằng đúng hình; `one()` đo độ dài theo luồng hình; dựng hình bằng cách giải mã từng đoạn ra khung rồi mã hoá liền mạch (`_meta/pipe_enc.sh`), tiếng cắt theo đúng số khung từng đoạn.
+- Kết quả: FULL 17:36 (25.344 khung), hình = tiếng, mốc thời gian đều; so 12 điểm rải khắp phim: hình đúng khung, tiếng lệch 0 ms. Bản lỗi cũ: `_cu/FULL_lech_hinh_9s.mp4`.
+
+## Đợt 10 — Làm lại 3 cảnh mở đầu (19/11)
+- 01-01 (Đạt xuống xe) tự nhảy góc máy giữa clip ở giây 2,3; 01-02 mặt Đạt khác 01-01; 01-03 người qua đường che Bà Mận và Đạt.
+- Tạo lại trên Flow bằng Omni 1.1 Flash (theo yêu cầu), mỗi cảnh 2 bản, máy liền một góc (01-01 dolly tiến chậm; 01-02, 01-03 chân máy cố định, không ai che). Chọn: 01-01 bản B, 01-02 bản B (bản A lặp câu 3 lần), 01-03 bản B. 01-02 kéo 4 s (`DUR`), 01-01 phóng 8% bỏ viền bo góc (`MANUAL_CROP`).
+- Dựng lại FULL (17:37, 25.365 khung, hình = tiếng, mốc thời gian đều); trailer v2 thay cảnh 01-01 mới.
+
+## Đợt 11 — Làm lại 18-11 (19/11)
+- 18-11 "Cõng ông qua bờ ruộng" (~15:04): tư thế cõng sai (máy sau lưng Minh mà mặt ông quay về máy, ba lô kẹp giữa hai người, chân ông chạm đất).
+- Tạo lại bằng Omni 1.1 (6 s, 2 bản): khung ngang, ông áp lưng Minh ôm qua vai, chân lơ lửng, ba lô đeo trước ngực. Chọn bản ad448fb2 (cận hơn, thấy mặt ông). Bản cũ ở `clips/_cu/`.
+- Dựng lại FULL. Tín dụng Flow đã hết sau lượt này.
+
+## Đợt 12 — Shorts + sửa 17-06 (19/11)
+- 17-06: clip Flow bị cụt giữa chữ "bố" ("đẹp như b…") → kết cảnh ở 7,32 s sau "nó mặc áo trắng" (`DUR`). Đã dựng lại FULL.
+- 4 shorts dọc 9:16 trong `shorts/` (mô tả đăng bài: `shorts/MO_TA_SHORTS.md`).

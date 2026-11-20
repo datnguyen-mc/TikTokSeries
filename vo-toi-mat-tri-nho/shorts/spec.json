@@ -1,0 +1,824 @@
+[
+ {
+  "id": "01",
+  "part": "Phần 1",
+  "slug": "99_bong_hong_thieu_mot_bong",
+  "hook": [
+   "10 NĂM NGÀY CƯỚI",
+   "CHỒNG GỬI HOA… THAY MÌNH"
+  ],
+  "segs": [
+   [
+    "V3",
+    8.874,
+    16.958
+   ],
+   [
+    "V3",
+    19.958,
+    36.124
+   ],
+   [
+    "V3",
+    40.124,
+    47.208
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    9.6,
+    10.6,
+    "Chị Linh ơi!"
+   ],
+   [
+    0,
+    10.7,
+    13.9,
+    "Anh Quân họp gấp với đối tác Nhật,\ngửi chị bó hoa này ạ!"
+   ],
+   [
+    0,
+    14.4,
+    15.7,
+    "Thế cơ à?"
+   ],
+   [
+    1,
+    21.2,
+    24.8,
+    "Mười năm ngày cưới,\nchồng chị gửi hoa thay mình à?"
+   ],
+   [
+    1,
+    25.9,
+    29.0,
+    "Dạ, chín mươi chín bông,\nem đếm hai lần rồi ạ!"
+   ],
+   [
+    1,
+    29.1,
+    30.4,
+    "Chín mươi chín."
+   ],
+   [
+    1,
+    30.5,
+    32.9,
+    "Thiếu đúng một bông là anh ấy."
+   ],
+   [
+    2,
+    42.6,
+    46.5,
+    "Đối tác Nhật gì mà mặc váy trắng,\nkhoác tay chồng chị thế kia?"
+   ]
+  ]
+ },
+ {
+  "id": "02",
+  "part": "Phần 2",
+  "slug": "anh_la_ai_nhi",
+  "hook": [
+   "BẮT QUẢ TANG CHỒNG…",
+   "VỢ BỖNG QUÊN SẠCH"
+  ],
+  "segs": [
+   [
+    "V3",
+    88.543,
+    122.834
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    89.4,
+    90.4,
+    "Vợ ơi!"
+   ],
+   [
+    0,
+    90.5,
+    92.5,
+    "Sao em lại xuống đây?"
+   ],
+   [
+    0,
+    92.9,
+    94.6,
+    "Em xuống chào đối tác Nhật."
+   ],
+   [
+    0,
+    94.7,
+    97.4,
+    "Cô ấy sau cái cột kia,\nphải không anh?"
+   ],
+   [
+    0,
+    97.8,
+    100.6,
+    "Cột nào? Khách sạn này\ntoàn cột thôi em ạ!"
+   ],
+   [
+    0,
+    101.0,
+    104.4,
+    "Ừ. Mà cột nào cũng\nđi giày cao gót trắng."
+   ],
+   [
+    0,
+    109.0,
+    111.7,
+    "Anh… em chóng mặt quá."
+   ],
+   [
+    0,
+    112.6,
+    115.6,
+    "Linh! Linh ơi! Em làm sao thế?"
+   ],
+   [
+    0,
+    116.5,
+    119.2,
+    "Anh… là ai nhỉ?"
+   ]
+  ]
+ },
+ {
+  "id": "03",
+  "part": "Phần 3",
+  "slug": "bo_tay_ra_toi_chua_co_nguoi_yeu",
+  "hook": [
+   "TỈNH DẬY SAU CÚ NGẤT",
+   "VỢ QUÊN ĐÚNG 10 NĂM LẤY CHỒNG"
+  ],
+  "segs": [
+   [
+    "V3",
+    128.876,
+    162.168
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    129.2,
+    132.4,
+    "Bỏ tay ra!\nTôi còn chưa có người yêu đâu đấy!"
+   ],
+   [
+    0,
+    132.8,
+    135.8,
+    "Người yêu gì?\nAnh là chồng em!"
+   ],
+   [
+    0,
+    136.2,
+    139.95,
+    "Chồng á? Tôi mới hai mươi hai tuổi,\nđang đi thi người mẫu cơ mà!"
+   ],
+   [
+    0,
+    140.3,
+    143.0,
+    "Bống thì tôi nhớ. Còn…"
+   ],
+   [
+    0,
+    143.2,
+    145.6,
+    "Nhớ con mà không nhớ bố nó à?"
+   ],
+   [
+    0,
+    149.4,
+    153.5,
+    "Mất trí nhớ ngược dòng. Chị ấy quên\nđúng mười năm gần nhất."
+   ],
+   [
+    0,
+    154.6,
+    157.1,
+    "Đúng mười năm lấy tôi?\nSao quên…"
+   ],
+   [
+    0,
+    157.2,
+    158.6,
+    "Có chọn lọc, anh ạ."
+   ],
+   [
+    0,
+    158.9,
+    161.7,
+    "Cái gì đau quá,\nnão tự cất đi."
+   ]
+  ]
+ },
+ {
+  "id": "04",
+  "part": "Phần 4",
+  "slug": "dien_vien_xuat_sac_nhat_nam",
+  "hook": [
+   "TƯỞNG VỢ MẤT TRÍ NHỚ…",
+   "HOÁ RA CÔ ẤY ĐANG DIỄN"
+  ],
+  "segs": [
+   [
+    "P04-C1",
+    3.0,
+    15.0
+   ],
+   [
+    "P04-C2",
+    0,
+    15.0
+   ],
+   [
+    "P04-C3",
+    0,
+    5.0
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    4.6,
+    5.7,
+    "Đi chưa?"
+   ],
+   [
+    0,
+    7.0,
+    8.0,
+    "Đi rồi."
+   ],
+   [
+    0,
+    8.0,
+    10.1,
+    "Diễn viên xuất sắc nhất năm."
+   ],
+   [
+    0,
+    10.7,
+    12.2,
+    "Tớ ngất có đẹp không?"
+   ],
+   [
+    0,
+    12.2,
+    14.3,
+    "Tớ tập ở nhà ba lần đấy!"
+   ],
+   [
+    1,
+    0.1,
+    2.1,
+    "Tớ thấy tận mắt rồi, Khang ạ."
+   ],
+   [
+    1,
+    3.0,
+    5.1,
+    "Anh ấy với cô váy trắng."
+   ],
+   [
+    1,
+    5.4,
+    8.4,
+    "Thế sao không làm ầm lên?\nCậu có đủ bằng chứng mà."
+   ],
+   [
+    1,
+    9.6,
+    11.4,
+    "Làm ầm thì mất chồng."
+   ],
+   [
+    1,
+    11.7,
+    14.5,
+    "Diễn thì biết anh ấy\nthật lòng đến đâu."
+   ],
+   [
+    2,
+    0.3,
+    4.9,
+    "Được. Bệnh án ghi:\nmất trí nhớ có chọn lọc."
+   ]
+  ]
+ },
+ {
+  "id": "05",
+  "part": "Phần 5",
+  "slug": "anh_tai_xe",
+  "hook": [
+   "VỢ NHỚ HẾT CẢ NHÀ…",
+   "TRỪ ĐÚNG ANH CHỒNG"
+  ],
+  "segs": [
+   [
+    "P05-C1",
+    3.6,
+    15.0
+   ],
+   [
+    "P05-C2",
+    0,
+    15.0
+   ],
+   [
+    "P05-C3",
+    4.0,
+    12.4
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    3.7,
+    6.0,
+    "Mẹ ơi! Mẹ về rồi!"
+   ],
+   [
+    0,
+    6.9,
+    8.2,
+    "Bống của mẹ."
+   ],
+   [
+    0,
+    8.3,
+    12.2,
+    "Thích sữa dâu, sợ sâu róm,\nmê truyện cổ tích."
+   ],
+   [
+    0,
+    12.3,
+    15.0,
+    "Thế còn bố?\nMẹ có nhớ bố không?"
+   ],
+   [
+    1,
+    3.1,
+    6.7,
+    "Anh tài xế để vali ở đấy được rồi.\nCảm ơn anh."
+   ],
+   [
+    1,
+    7.0,
+    10.5,
+    "Tài xế? Anh là chồng em!\nAnh xây cái nhà này!"
+   ],
+   [
+    1,
+    10.6,
+    14.5,
+    "Phòng ngủ tôi lấy.\nAnh ngủ sô pha nhé, anh hàng xóm."
+   ],
+   [
+    2,
+    4.2,
+    7.6,
+    "Mai họp quỹ…\nnhớ mang con dấu…"
+   ],
+   [
+    2,
+    10.7,
+    12.3,
+    "Họp quỹ… nào?"
+   ]
+  ]
+ },
+ {
+  "id": "06",
+  "part": "Phần 8",
+  "slug": "don_ly_hon_thanh_thuyen_giay",
+  "hook": [
+   "TIỂU TAM DỤ VỢ KÝ ĐƠN LY HÔN",
+   "VÀ CÁI KẾT"
+  ],
+  "segs": [
+   [
+    "P08-C1",
+    0,
+    10.79
+   ],
+   [
+    "P08-C2",
+    0,
+    14.0
+   ],
+   [
+    "P08-C3",
+    8.0,
+    13.0
+   ],
+   [
+    "P08-C4",
+    4.0,
+    8.4
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    0.5,
+    3.4,
+    "Chị ký giúp em vào\nphiếu tập phục hồi này nhé."
+   ],
+   [
+    0,
+    3.8,
+    6.3,
+    "Phiếu tập gì mà có chỗ ghi…\nly hôn?"
+   ],
+   [
+    1,
+    0.2,
+    3.7,
+    "Dạ… thủ tục thôi chị!\nAi tập cũng ký!"
+   ],
+   [
+    1,
+    9.2,
+    11.8,
+    "Muốn ly hôn thì\nphải cưới tôi trước đã."
+   ],
+   [
+    1,
+    11.9,
+    13.6,
+    "Tôi còn chưa chồng mà."
+   ],
+   [
+    3,
+    4.2,
+    5.9,
+    "Có người muốn tôi ký."
+   ],
+   [
+    3,
+    6.0,
+    8.3,
+    "Và người đó\nkhông phải chồng tôi."
+   ]
+  ]
+ },
+ {
+  "id": "07",
+  "part": "Phần 12",
+  "slug": "phi_tra_lam_em",
+  "hook": [
+   "VỢ CHÍNH GẶP TIỂU TAM",
+   "KHÔNG HẮT NƯỚC, CHỈ HỎI 1 CÂU"
+  ],
+  "segs": [
+   [
+    "P12-C1",
+    2.6,
+    15.0
+   ],
+   [
+    "P12-C2",
+    0,
+    15.0
+   ],
+   [
+    "P12-C3",
+    5.4,
+    12.6
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    2.9,
+    5.2,
+    "Chị định hắt nước\nvào mặt em à?"
+   ],
+   [
+    0,
+    6.5,
+    8.2,
+    "Phí trà lắm em."
+   ],
+   [
+    0,
+    9.6,
+    11.3,
+    "Chị chỉ hỏi một câu."
+   ],
+   [
+    0,
+    11.7,
+    14.4,
+    "Ai trả tiền cho em\nđến gần chồng chị?"
+   ],
+   [
+    1,
+    2.3,
+    7.0,
+    "Em nợ… anh Hưng\nmột khoản rất lớn."
+   ],
+   [
+    1,
+    9.0,
+    13.1,
+    "Anh ta bảo làm xong việc này\nthì xoá nợ cho em."
+   ],
+   [
+    2,
+    5.5,
+    7.6,
+    "Anh ta còn bảo em làm gì nữa?"
+   ],
+   [
+    2,
+    7.8,
+    9.1,
+    "Tối thứ bảy."
+   ],
+   [
+    2,
+    9.7,
+    12.5,
+    "Anh ta cài người\nngoài cửa sổ nhà chị."
+   ]
+  ]
+ },
+ {
+  "id": "08",
+  "part": "Phần 17",
+  "slug": "anh_chon_vo_anh",
+  "hook": [
+   "TIỂU TAM ĐẾN TẬN NHÀ LÚC NỬA ĐÊM",
+   "ANH CHỒNG CHỌN AI?"
+  ],
+  "segs": [
+   [
+    "P17-C1",
+    5.5,
+    15.0
+   ],
+   [
+    "P17-C2",
+    0,
+    15.0
+   ],
+   [
+    "P17-C3",
+    0,
+    7.6
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    7.5,
+    9.5,
+    "Em không đi đâu nữa."
+   ],
+   [
+    1,
+    0.3,
+    1.7,
+    "Em vào đây làm gì?"
+   ],
+   [
+    1,
+    1.9,
+    3.7,
+    "Vợ anh đang ở trên lầu!"
+   ],
+   [
+    1,
+    4.3,
+    6.4,
+    "Anh bảo ly thân rồi cơ mà."
+   ],
+   [
+    1,
+    6.5,
+    8.1,
+    "Hay anh nói dối em?"
+   ],
+   [
+    2,
+    0.2,
+    1.7,
+    "Anh xin lỗi em."
+   ],
+   [
+    2,
+    2.5,
+    4.3,
+    "Anh đã nói dối em."
+   ],
+   [
+    2,
+    4.9,
+    6.8,
+    "Anh chọn vợ anh."
+   ]
+  ]
+ },
+ {
+  "id": "09",
+  "part": "Phần 20–21",
+  "slug": "chu_tich_quy_la_vo",
+  "hook": [
+   "CẢ HỘI ĐỒNG CHỜ CHỦ TỊCH QUỸ",
+   "NGƯỜI BƯỚC VÀO LÀ… VỢ ANH"
+  ],
+  "segs": [
+   [
+    "P20-C2",
+    8.4,
+    15.0
+   ],
+   [
+    "P20-C3",
+    2.5,
+    15.0
+   ],
+   [
+    "P20-C4",
+    3.8,
+    8.0
+   ],
+   [
+    "P21-C1",
+    0,
+    10.2
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    8.7,
+    11.2,
+    "Nhưng tôi từ chối luôn\ntiền của quỹ."
+   ],
+   [
+    0,
+    11.3,
+    13.7,
+    "Tôi không đem vợ ra đổi tiền."
+   ],
+   [
+    1,
+    7.1,
+    8.6,
+    "Chủ tịch… đến rồi."
+   ],
+   [
+    2,
+    4.3,
+    5.1,
+    "Anh Quân."
+   ],
+   [
+    2,
+    5.1,
+    7.4,
+    "Anh vừa qua vòng phỏng vấn."
+   ],
+   [
+    3,
+    0.1,
+    3.1,
+    "Bà ấy mất trí nhớ!\nBệnh án ghi rõ!"
+   ],
+   [
+    3,
+    3.1,
+    4.0,
+    "Có chọn lọc."
+   ],
+   [
+    3,
+    4.0,
+    6.1,
+    "Cái gì cần nhớ,\ntôi nhớ rất kỹ."
+   ],
+   [
+    3,
+    6.1,
+    7.6,
+    "Anh Hưng xem kỹ đi."
+   ],
+   [
+    3,
+    7.7,
+    10.1,
+    "Tấm nào chồng tôi\ncũng lùi lại."
+   ]
+  ]
+ },
+ {
+  "id": "10",
+  "part": "Phần 22–23",
+  "slug": "hop_dong_thu_viec_lam_chong",
+  "hook": [
+   "VỢ BẮT CHỒNG KÝ",
+   "HỢP ĐỒNG THỬ VIỆC LÀM CHỒNG"
+  ],
+  "segs": [
+   [
+    "P22-C3",
+    4.9,
+    11.0
+   ],
+   [
+    "P23-C1",
+    0,
+    15.0
+   ],
+   [
+    "P23-C2",
+    0,
+    12.0
+   ]
+  ],
+  "cues": [
+   [
+    0,
+    5.0,
+    6.6,
+    "Em không quên được đâu."
+   ],
+   [
+    0,
+    6.6,
+    8.4,
+    "Nhưng em có thể chọn lọc…"
+   ],
+   [
+    0,
+    8.8,
+    10.7,
+    "…nếu anh ký cái này."
+   ],
+   [
+    1,
+    0.4,
+    2.5,
+    "Hợp đồng thử việc làm chồng."
+   ],
+   [
+    1,
+    2.8,
+    4.1,
+    "Sáu tháng."
+   ],
+   [
+    1,
+    4.4,
+    8.0,
+    "Điều một: sáng nào cũng\nđưa con đi học."
+   ],
+   [
+    1,
+    9.7,
+    12.3,
+    "Đồng ý! Điều hai?"
+   ],
+   [
+    2,
+    0.3,
+    2.0,
+    "Điện thoại không cài mật khẩu."
+   ],
+   [
+    2,
+    2.1,
+    5.2,
+    "Điều ba: họp đối tác Nhật\nphải mang vợ theo."
+   ],
+   [
+    2,
+    5.3,
+    7.0,
+    "Đối tác Nhật là em mà!"
+   ],
+   [
+    2,
+    7.5,
+    10.4,
+    "Điều cuối: vi phạm thì\nanh mất trí nhớ."
+   ],
+   [
+    2,
+    10.4,
+    11.9,
+    "Lần này là thật."
+   ]
+  ]
+ }
+]

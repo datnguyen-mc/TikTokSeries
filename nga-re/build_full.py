@@ -50,5 +50,5 @@ for c in clips:
 card("build/full/zz1_quote.mp4",["Một lời nói thật khó nói hôm nay","đỡ đau hơn mười lời nói dối dễ nói."],7,[40,40]); parts.append("build/full/zz1_quote.mp4")
 card("build/full/zz2_end.mp4",["NGÃ RẼ","Hình ảnh và giọng nói tạo bằng AI · 2026"],5,[80,26]); parts.append("build/full/zz2_end.mp4")
 open("build/full.txt","w").write("".join(f"file '{os.path.abspath(p)}'\n" for p in parts))
-run(["-f","concat","-safe","0","-i","build/full.txt","-c:v","copy","-af","loudnorm=I=-16:TP=-1.5:LRA=11","-c:a","aac","-b:a","192k","-ar","48000","-movflags","+faststart","nga-re_phim_v6.mp4"])
+run(["-f","concat","-safe","0","-i","build/full.txt","-c:v","copy","-af","loudnorm=I=-16:TP=-1.5:LRA=11","-c:a","aac","-b:a","192k","-ar","48000","-movflags","+faststart","phim/full/nga-re_phim_v10.mp4"])
 print("DONE",flush=True)

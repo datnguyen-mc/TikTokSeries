@@ -84,5 +84,5 @@ for bt in booms:
     ins+=["-i","build/tr4/boom.wav"]; fc+=f"[{k}:a]volume=0.9,adelay={int(bt*1000)}|{int(bt*1000)}[s{k}];"; lab.append(f"[s{k}]"); k+=1
 ins+=["-i","build/tr4/riser.wav"]; fc+=f"[{k}:a]volume=0.5,adelay={int(riser_at*1000)}|{int(riser_at*1000)}[s{k}];"; lab.append(f"[s{k}]")
 fc+="".join(lab)+f"amix=inputs={len(lab)}:normalize=0[m];[0:a]asplit[d1][d2];[m][d1]sidechaincompress=threshold=0.03:ratio=5:attack=40:release=500[md];[d2][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=13[a]"
-run(ins+["-filter_complex",fc,"-map","0:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","192k","-ar","48000","-movflags","+faststart","nga-re_trailer_v5.mp4"])
+run(ins+["-filter_complex",fc,"-map","0:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","192k","-ar","48000","-movflags","+faststart","phim/trailer/nga-re_trailer_v6.mp4"])
 print("booms",booms,"blacks",blacks,"DONE")

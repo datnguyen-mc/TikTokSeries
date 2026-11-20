@@ -158,63 +158,63 @@
   "segs": [
    [
     "V3",
-    128.876,
-    162.168
+    125.876,
+    160.5
    ]
   ],
   "cues": [
    [
     0,
-    129.2,
-    132.4,
+    126.2,
+    129.4,
     "Bỏ tay ra!\nTôi còn chưa có người yêu đâu đấy!"
    ],
    [
     0,
-    132.8,
-    135.8,
-    "Người yêu gì?\nAnh là chồng em!"
+    130.0,
+    133.5,
+    "Người yêu gì? Anh là chồng em,\nmười năm rồi!"
    ],
    [
     0,
-    136.2,
-    139.95,
+    133.9,
+    137.6,
     "Chồng á? Tôi mới hai mươi hai tuổi,\nđang đi thi người mẫu cơ mà!"
    ],
    [
     0,
-    140.3,
-    143.0,
-    "Bống thì tôi nhớ. Còn…"
+    137.7,
+    140.9,
+    "Bống thì tôi nhớ.\nCòn anh thì chịu."
    ],
    [
     0,
-    143.2,
-    145.6,
+    141.2,
+    143.5,
     "Nhớ con mà không nhớ bố nó à?"
    ],
    [
     0,
-    149.4,
-    153.5,
+    147.4,
+    151.9,
     "Mất trí nhớ ngược dòng. Chị ấy quên\nđúng mười năm gần nhất."
    ],
    [
     0,
-    154.6,
-    157.1,
-    "Đúng mười năm lấy tôi?\nSao quên…"
+    152.0,
+    155.3,
+    "Đúng mười năm lấy tôi?\nSao quên chính xác thế?"
    ],
    [
     0,
-    157.2,
-    158.6,
+    155.5,
+    157.0,
     "Có chọn lọc, anh ạ."
    ],
    [
     0,
-    158.9,
-    161.7,
+    157.3,
+    160.0,
     "Cái gì đau quá,\nnão tự cất đi."
    ]
   ]
@@ -259,8 +259,8 @@
    ],
    [
     0,
-    8.0,
-    10.1,
+    8.2,
+    10.4,
     "Diễn viên xuất sắc nhất năm."
    ],
    [

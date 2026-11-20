@@ -99,13 +99,13 @@ def build(s):
     g.append(f"color=c=0xF2C14E:s=1080x8:r={FPS}[bar]")
     g.append(f"[m3][bar]overlay=x='-W+W*t/{D:.3f}':y=1912:shortest=1,format=yuv420p[vout]")
     g.append("[ac]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[aout]")
-    out = os.path.join(HERE, f"Short_{s['id']}_{s['slug']}.mp4")
+    out = os.path.join(ROOT, "phim", "shorts", f"Short_{s['id']}_{s['slug']}.mp4")
     run(["ffmpeg", "-y"] + ins + ["-loop", "1", "-i", png, "-filter_complex", ";".join(g), "-map", "[vout]", "-map", "[aout]",
          "-t", f"{D:.3f}", "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-profile:v", "high", "-r", str(FPS),
          "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", out + ".part.mp4"])
     os.replace(out + ".part.mp4", out); print("xong", os.path.basename(out), f"{D:.1f}s", flush=True)
 if __name__ == "__main__":
-    S = json.load(open(os.path.join(HERE, "spec.json"), encoding="utf-8"))
+    S = json.load(open(os.path.join(HERE, "shorts_spec.json"), encoding="utf-8"))
     want = set(sys.argv[1:])
     for s in S:
         if not want or s["id"] in want: build(s)

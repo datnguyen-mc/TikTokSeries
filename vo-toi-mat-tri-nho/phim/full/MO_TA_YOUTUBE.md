@@ -1,7 +1,7 @@
 # VỢ TÔI MẤT TRÍ NHỚ CÓ CHỌN LỌC — Mô tả đăng YouTube
 
 File đăng:
-- Phim đầy đủ: `phim/full/Vo_toi_mat_tri_nho_FULL.mp4` (25:10)
+- Phim đầy đủ: `phim/full/Vo_toi_mat_tri_nho_FULL.mp4` (25:09)
 - Trailer: `trailer/v4/Trailer_Vo_toi_mat_tri_nho_v4.mp4` (1:58, phụ đề tiếng Anh in sẵn)
 - 10 Shorts: `phim/shorts/` (tiêu đề, mô tả, hashtag riêng trong `phim/shorts/MO_TA_SHORTS.md`)
 
@@ -31,30 +31,30 @@ Một bộ phim hài – tình cảm gia đình về sự tha thứ có điều 
 
 🎬 CHƯƠNG
 0:00 Phần 1 – 99 bông hồng và một lời nói dối
-1:05 Phần 2 – Anh là ai nhỉ?
-2:08 Phần 3 – Quên đúng mười năm
-3:04 Phần 4 – Bác sĩ đồng phạm
-4:07 Phần 5 – Anh tài xế
+1:02 Phần 2 – Anh là ai nhỉ?
+2:06 Phần 3 – Quên đúng mười năm
+3:03 Phần 4 – Bác sĩ đồng phạm
+4:06 Phần 5 – Anh tài xế
 5:05 Phần 6 – Phó tổng mỉm cười
-6:08 Phần 7 – Tiểu tam vào nhà
-7:07 Phần 8 – Đơn ly hôn thành thuyền giấy
+6:07 Phần 7 – Tiểu tam vào nhà
+7:06 Phần 8 – Đơn ly hôn thành thuyền giấy
 8:02 Phần 9 – Buổi hẹn đầu tiên, lần thứ hai
-9:15 Phần 10 – Tình địch áo blouse trắng
-10:31 Phần 11 – Lớp yoga của tiểu tam
+9:14 Phần 10 – Tình địch áo blouse trắng
+10:30 Phần 11 – Lớp yoga của tiểu tam
 11:18 Phần 12 – Hai người đàn bà, một bàn trà
-12:21 Phần 13 – Liên minh váy trắng
-13:09 Phần 14 – Hai phong bì, một cú nhầm
-14:08 Phần 15 – Lá thư thật
+12:20 Phần 13 – Liên minh váy trắng
+13:08 Phần 14 – Hai phong bì, một cú nhầm
+14:07 Phần 15 – Lá thư thật
 15:10 Phần 16 – Bống biết hết
-15:58 Phần 17 – Đêm thứ bảy
+15:57 Phần 17 – Đêm thứ bảy
 16:56 Phần 18 – Sáng thứ hai
 17:42 Phần 19 – Bống lỡ miệng
 18:40 Phần 20 – Cuộc họp mười giờ
-19:39 Phần 21 – Chủ tịch là vợ
+19:38 Phần 21 – Chủ tịch là vợ
 20:52 Phần 22 – Màn cầu hôn lần hai
-21:37 Phần 23 – Hợp đồng thử việc làm chồng
+21:36 Phần 23 – Hợp đồng thử việc làm chồng
 22:54 Phần 24 – Sáu tháng sau
-23:42 Phần 25 – Kỷ niệm mười một năm
+23:41 Phần 25 – Kỷ niệm mười một năm
 
 👥 NHÂN VẬT
 Linh – người vợ, cựu người mẫu, "mất trí nhớ có chọn lọc"

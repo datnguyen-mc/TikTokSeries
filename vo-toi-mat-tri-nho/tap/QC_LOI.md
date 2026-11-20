@@ -1,5 +1,19 @@
 # Dựng lại bản 3 — 19/11/2026 (máy Mac mini)
 
+## 20/11 (tối) — Render lại bằng 52/63 credit còn lại (Omni 1.1 Flash, x1)
+- 01-01 mở đầu: chân quần trắng + giày cao gót đỏ (khớp Linh chủ tịch ở Phần 20), thay quần da đen.
+- 03-03 (Quân "…mười năm rồi!"), 03-05 (Linh "Bống thì tôi nhớ. Còn anh thì chịu."), 03-09 (Quân "…Sao quên chính xác thế?"): đủ câu, không còn bị cắt. Clip dài hơn → đã dời mốc fix_v3 V3 (shots/bord), bỏ mcrop chữ "Quan" ở 03-09.
+- 03-08 Khang đeo kính (render 6s, cắt 5.2s; có viền cuộn phim → bord [3728,3854,6,6,46,12,10]).
+- P04-C1: thay đoạn Khang 6.92–10.5s bằng bản mới đeo kính (crop viền đen trên/dưới), giữ nguyên độ dài 15s.
+- 02-04 Mai Anh nói trơn, bỏ cắt câu vấp. Bỏ shot 01-06 (Tuấn cầm nắm hồng nhỏ).
+- Full 25:09, −14 LUFS. Dựng lại Short 03, 04. Mốc chương YouTube đã cập nhật.
+
+## 20/11 — Gộp bản sửa (máy Mac METACREW)
+- Bó hoa Phần 1: tải lại từ Flow 01-10 Ra, 01-11 Ha, 01-14 Ha, 01-16 Hb, 01-17 Ha (cắt 1.0–4.0s). 01-11 bản tải có viền phim ở mép trái/phải → thêm bord V3 [872,968,4,4,50,30,8]. Dựng lại V3_3phut.mp4.
+- Sửa mức A: xoá logo ✦ P24-C2 (delogo 41–71), cắt cú biến bàn thành mặt hồ cuối P08-C4, bỏ 3 câu lặp (V3 02-04, P14-C3, P19-C2), P13-C3 lật ngang, P19-C3 bỏ shot vest buổi sáng, thẻ HẾT (T99).
+- Âm lượng bản full: nén nhẹ + giới hạn đỉnh + loudnorm 2 lượt → −14 LUFS, đỉnh −1.1 dBTP, LRA 14.4 (trước: −18 LUFS, LRA 18). Lệnh: full → full2m → full2.
+- Đầu ra: phim/full/Vo_toi_mat_tri_nho_FULL.mp4 (25:10), phim/shorts/. Script Shorts: tap/build_shorts.py + tap/shorts_spec.json (mốc V3 trong spec theo bản trước khi cắt câu vấp 02-04: từ 72.5s về sau lệch −0.94s).
+
 ### 19/11 (tối) — Sửa cảnh đặt hoa (Phần 1–3, ~0:36 bản full)
 - Lỗi: cảnh V3_01-10 (bó hoa trên bàn) không khớp — tay áo xanh dài + bó hoa nhỏ màu hồng, không phải Linh đầm xanh hai dây.
 - Render lại 2 bản 3s trên Flow (18 credit), chọn Ra: Linh đầm ngọc lục bảo hai dây đặt bó 99 hồng đỏ giấy kem nơ đỏ lên bàn nến.
@@ -104,3 +118,5 @@ Trailer bản 4 (kiểu trailer chiếu rạp, 2.39:1, thẻ chữ vàng nền t
 - Nghe lại thoại bản mới: đã sửa 10-1, 11-2, 12-1, 04-3, 05-4, 15-2, 23-2. Còn lặp nhẹ kiểu nói nhấn (14-1, 14-3, 19-2) — giữ. Câu lặp/lộn xộn ở 05-4, 07-1, 22-1 cắt bỏ khi dựng (KEEP trong `make_full2.py`). 23-1 bản mới vẫn thiếu câu "Hợp đồng thử việc làm chồng. Sáu tháng." (hình tờ giấy + 22-3 đã gợi đủ).
 - Còn nhỏ, chưa sửa: 06-2 Hưng vẫn đứng trong phòng khi Tuấn nói; 20-2 có mảng sáng mờ ở tiền cảnh 9–15s; 17-4 cảnh cuối là đèn máy chiếu.
 - Phim mới: `tap/Vo_toi_mat_tri_nho_FULL_v2.mp4` (25,5 phút, có thẻ tên phim + 22 thẻ tên phần).
+
+- 20/11: Thay cảnh mở đầu V3_01-01 (quần trắng → đầm xanh lục bảo + giày đỏ, khớp cảnh Linh ngồi bàn sân thượng). Omni 1.1 4s, 7 tín dụng. FULL dựng lại 25:09, -14.0 LUFS.

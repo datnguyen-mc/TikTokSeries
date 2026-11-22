@@ -1,0 +1,2390 @@
+{
+ "version": 1,
+ "rev": 272,
+ "width": 1280,
+ "height": 720,
+ "fps": 24,
+ "background": "black",
+ "tracks": [
+  {
+   "id": "v0",
+   "kind": "video",
+   "clips": [
+    {
+     "kind": "media",
+     "id": "clip_66c5d220",
+     "startSec": 0,
+     "effects": [],
+     "mediaId": "m_e1f8d266f6aa",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_586391d4",
+     "startSec": 6.04,
+     "effects": [],
+     "mediaId": "m_652d493aca48",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a5d7e6eb",
+     "startSec": 12.08,
+     "effects": [],
+     "mediaId": "m_2ee11e308c8c",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "color",
+     "id": "clip_32403d08",
+     "startSec": 16.11,
+     "effects": [],
+     "color": "black",
+     "durationSec": 5
+    },
+    {
+     "kind": "media",
+     "id": "clip_5bad8336",
+     "startSec": 21.11,
+     "effects": [],
+     "mediaId": "m_92ac99a9d78b",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_70c2f4a3",
+     "startSec": 25.14,
+     "effects": [],
+     "mediaId": "m_5de6470dd5a6",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_79733818",
+     "startSec": 29.17,
+     "effects": [],
+     "mediaId": "m_fe1a98ba86b4",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_de2d4c28",
+     "startSec": 35.21,
+     "effects": [],
+     "mediaId": "m_abdaedb341d2",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_525aa0a7",
+     "startSec": 39.24,
+     "effects": [],
+     "mediaId": "m_fe8e5e61858e",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_198cb280",
+     "startSec": 45.28,
+     "effects": [],
+     "mediaId": "m_d2789dff0917",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_5928fceb",
+     "startSec": 49.31,
+     "effects": [],
+     "mediaId": "m_d8f2aaac522c",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_b81c607d",
+     "startSec": 55.35,
+     "effects": [],
+     "mediaId": "m_cdf071f382d5",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_d76e993c",
+     "startSec": 59.38,
+     "effects": [],
+     "mediaId": "m_5ef94bb27642",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_40dc4d28",
+     "startSec": 63.410000000000004,
+     "effects": [],
+     "mediaId": "m_d565d645742c",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_c2db9a6d",
+     "startSec": 69.45,
+     "effects": [],
+     "mediaId": "m_36295f972eb8",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_9a76354b",
+     "startSec": 74.49000000000001,
+     "effects": [],
+     "mediaId": "m_de2ad0f5ba62",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_f793556f",
+     "startSec": 80.53000000000002,
+     "effects": [],
+     "mediaId": "m_3ae11d324c88",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_0c634a40",
+     "startSec": 84.56000000000002,
+     "effects": [],
+     "mediaId": "m_d9a091df0b3f",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_32af0155",
+     "startSec": 89.60000000000002,
+     "effects": [],
+     "mediaId": "m_c454abdff107",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_9525de8f",
+     "startSec": 95.64000000000003,
+     "effects": [],
+     "mediaId": "m_b86ab8cf7085",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_4fd0f92f",
+     "startSec": 100.68000000000004,
+     "effects": [],
+     "mediaId": "m_5ed1bd2cda98",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_29ab6b65",
+     "startSec": 105.72000000000004,
+     "effects": [],
+     "mediaId": "m_83f09fe92bd1",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_4ced12ea",
+     "startSec": 109.75000000000004,
+     "effects": [],
+     "mediaId": "m_fde3cbf6dda5",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_435f8d71",
+     "startSec": 113.78000000000004,
+     "effects": [],
+     "mediaId": "m_270b9e8bacda",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e9f2748e",
+     "startSec": 117.81000000000004,
+     "effects": [],
+     "mediaId": "m_def1312dbc30",
+     "sourceInSec": 0,
+     "sourceOutSec": 8.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_6a48ee6e",
+     "startSec": 125.85000000000005,
+     "effects": [],
+     "mediaId": "m_8c7303a7b2d1",
+     "sourceInSec": 0,
+     "sourceOutSec": 15.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_aa0300bc",
+     "startSec": 140.89000000000004,
+     "effects": [],
+     "mediaId": "m_eecee70d93b3",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e05f9695",
+     "startSec": 144.92000000000004,
+     "effects": [],
+     "mediaId": "m_13390d1a10aa",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_2c8f2451",
+     "startSec": 148.95000000000005,
+     "effects": [],
+     "mediaId": "m_d2e5e8bb6443",
+     "sourceInSec": 0,
+     "sourceOutSec": 15.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_6f7b1fe2",
+     "startSec": 163.99000000000004,
+     "effects": [],
+     "mediaId": "m_06e356aa02a2",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_29d9fd62",
+     "startSec": 169.03000000000003,
+     "effects": [],
+     "mediaId": "m_06e0c45d734c",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_057b1e30",
+     "startSec": 174.07000000000002,
+     "effects": [],
+     "mediaId": "m_c84f246d489f",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_b08e0561",
+     "startSec": 178.10000000000002,
+     "effects": [],
+     "mediaId": "m_5d8963b25e38",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_9dc5cd9c",
+     "startSec": 184.14000000000001,
+     "effects": [],
+     "mediaId": "m_ff883142a708",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_90578daf",
+     "startSec": 188.17000000000002,
+     "effects": [],
+     "mediaId": "m_bad25a51b914",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_b77ae007",
+     "startSec": 192.20000000000002,
+     "effects": [],
+     "mediaId": "m_d66b86ed56d1",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_f18ac4a8",
+     "startSec": 196.23000000000002,
+     "effects": [],
+     "mediaId": "m_4bd113922332",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_600ae905",
+     "startSec": 200.26000000000002,
+     "effects": [],
+     "mediaId": "m_9af532855140",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_28aa521b",
+     "startSec": 205.3,
+     "effects": [],
+     "mediaId": "m_7de2771a8ba3",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_9547f9c5",
+     "startSec": 209.33,
+     "effects": [],
+     "mediaId": "m_b9e00e4c24ca",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_f79f3299",
+     "startSec": 213.36,
+     "effects": [],
+     "mediaId": "m_5128156f7037",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_246bb71f",
+     "startSec": 217.39000000000001,
+     "effects": [],
+     "mediaId": "m_4e6a5ed66000",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_7e5202e7",
+     "startSec": 221.42000000000002,
+     "effects": [],
+     "mediaId": "m_347a12d24fe4",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_ce54e95b",
+     "startSec": 227.46,
+     "effects": [],
+     "mediaId": "m_cf4fef8d8420",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_be7a1bd5",
+     "startSec": 231.49,
+     "effects": [],
+     "mediaId": "m_3a78df1c06c9",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_2dc08ae4",
+     "startSec": 235.52,
+     "effects": [],
+     "mediaId": "m_0cd55f3ebdb7",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_59c26917",
+     "startSec": 240.56,
+     "effects": [],
+     "mediaId": "m_6a81bd898596",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_41b57c76",
+     "startSec": 244.59,
+     "effects": [],
+     "mediaId": "m_6f9a7b1fee10",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_dde3b52e",
+     "startSec": 248.62,
+     "effects": [],
+     "mediaId": "m_24d15e4e6277",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_acef4369",
+     "startSec": 252.65,
+     "effects": [],
+     "mediaId": "m_2e6ecca59924",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_867ab68f",
+     "startSec": 256.68,
+     "effects": [],
+     "mediaId": "m_66cffb4e5697",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_746693a7",
+     "startSec": 260.71,
+     "effects": [],
+     "mediaId": "m_f5741208fe97",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_94e34c79",
+     "startSec": 264.73999999999995,
+     "effects": [],
+     "mediaId": "m_49bd49309c5e",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_8d7a1f61",
+     "startSec": 268.7699999999999,
+     "effects": [],
+     "mediaId": "m_f892cc28fb6d",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_4ea25651",
+     "startSec": 272.7999999999999,
+     "effects": [],
+     "mediaId": "m_dfca7b10aabe",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_33566fcc",
+     "startSec": 276.82999999999987,
+     "effects": [],
+     "mediaId": "m_b55be8e71151",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_ef146748",
+     "startSec": 281.8699999999999,
+     "effects": [],
+     "mediaId": "m_5bdbc64707fa",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a999ac22",
+     "startSec": 287.9099999999999,
+     "effects": [],
+     "mediaId": "m_a1112d381cde",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_9dd027b5",
+     "startSec": 291.9399999999999,
+     "effects": [],
+     "mediaId": "m_05a7b1430f65",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_b03f52be",
+     "startSec": 297.9799999999999,
+     "effects": [],
+     "mediaId": "m_78a383221784",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_3c1d42e2",
+     "startSec": 302.0099999999999,
+     "effects": [],
+     "mediaId": "m_dc1bcf5089b6",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a53707a6",
+     "startSec": 307.0499999999999,
+     "effects": [],
+     "mediaId": "m_b5f89eae9725",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_140befe6",
+     "startSec": 311.07999999999987,
+     "effects": [],
+     "mediaId": "m_610486c46621",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_0f0e56cd",
+     "startSec": 315.10999999999984,
+     "effects": [],
+     "mediaId": "m_461efc4f9fdc",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_d59ad93e",
+     "startSec": 319.1399999999998,
+     "effects": [],
+     "mediaId": "m_ad2ab545f3fa",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_83dc68b9",
+     "startSec": 323.1699999999998,
+     "effects": [],
+     "mediaId": "m_ead6b95f01ed",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_1537c71c",
+     "startSec": 327.19999999999976,
+     "effects": [],
+     "mediaId": "m_6153fdac5638",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e7a0adfe",
+     "startSec": 331.22999999999973,
+     "effects": [],
+     "mediaId": "m_e0ee14308814",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_f32cb7a9",
+     "startSec": 335.2599999999997,
+     "effects": [],
+     "mediaId": "m_d34825a2817c",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_265c00ec",
+     "startSec": 340.2999999999997,
+     "effects": [],
+     "mediaId": "m_00464b2f1acb",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_3563cebf",
+     "startSec": 345.33999999999975,
+     "effects": [],
+     "mediaId": "m_6950ceaf9249",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_a82166e9",
+     "startSec": 349.3699999999997,
+     "effects": [],
+     "mediaId": "m_31be1c30b850",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_905d788f",
+     "startSec": 354.40999999999974,
+     "effects": [],
+     "mediaId": "m_d0e5f415f494",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_814bc121",
+     "startSec": 358.4399999999997,
+     "effects": [],
+     "mediaId": "m_2530d04b04ff",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_4ed24138",
+     "startSec": 363.47999999999973,
+     "effects": [],
+     "mediaId": "m_3f8d18ee4ee6",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_30300253",
+     "startSec": 367.5099999999997,
+     "effects": [],
+     "mediaId": "m_cb3ddef86325",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_2a6ffc15",
+     "startSec": 371.5399999999997,
+     "effects": [],
+     "mediaId": "m_de1a68588c37",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_9895662b",
+     "startSec": 376.5799999999997,
+     "effects": [],
+     "mediaId": "m_ae4c1a107019",
+     "sourceInSec": 0,
+     "sourceOutSec": 7.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_614caf45",
+     "startSec": 383.6199999999997,
+     "effects": [],
+     "mediaId": "m_fe7add461ed1",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_6a200cd4",
+     "startSec": 387.6499999999997,
+     "effects": [],
+     "mediaId": "m_0d935df6915a",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_df3f15bd",
+     "startSec": 392.6899999999997,
+     "effects": [],
+     "mediaId": "m_35d708af95dd",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_709accec",
+     "startSec": 396.7199999999997,
+     "effects": [],
+     "mediaId": "m_28c9e128fc64",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_9cd53a73",
+     "startSec": 400.74999999999966,
+     "effects": [],
+     "mediaId": "m_699e241281cb",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_901c0fde",
+     "startSec": 404.77999999999963,
+     "effects": [],
+     "mediaId": "m_2e08134b601f",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_4128c494",
+     "startSec": 408.8099999999996,
+     "effects": [],
+     "mediaId": "m_4a9754e26263",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_188dea79",
+     "startSec": 413.8499999999996,
+     "effects": [],
+     "mediaId": "m_99c0b32ef178",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_d79cdc81",
+     "startSec": 417.8799999999996,
+     "effects": [],
+     "mediaId": "m_ca470cbce872",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_5c54c589",
+     "startSec": 423.9199999999996,
+     "effects": [],
+     "mediaId": "m_65b25baee663",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_275b4ab1",
+     "startSec": 427.9499999999996,
+     "effects": [],
+     "mediaId": "m_0e0ffef50804",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a592d9a2",
+     "startSec": 432.9899999999996,
+     "effects": [],
+     "mediaId": "m_dafe924f5d09",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_664c8893",
+     "startSec": 437.0199999999996,
+     "effects": [],
+     "mediaId": "m_3e3502dfd01b",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_fefbafdc",
+     "startSec": 443.0599999999996,
+     "effects": [],
+     "mediaId": "m_effbe5849931",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_001a298e",
+     "startSec": 447.0899999999996,
+     "effects": [],
+     "mediaId": "m_80fea43f6c3a",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_9164dd01",
+     "startSec": 452.1299999999996,
+     "effects": [],
+     "mediaId": "m_7118e2b6f071",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a4f7f9f1",
+     "startSec": 458.1699999999996,
+     "effects": [],
+     "mediaId": "m_dd89e9089372",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_8716e2e1",
+     "startSec": 462.1999999999996,
+     "effects": [],
+     "mediaId": "m_f9197871a388",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_3397d428",
+     "startSec": 466.22999999999956,
+     "effects": [],
+     "mediaId": "m_77399b594182",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_80314656",
+     "startSec": 470.25999999999954,
+     "effects": [],
+     "mediaId": "m_a22fdc2742b6",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_98c5f9e9",
+     "startSec": 476.29999999999956,
+     "effects": [],
+     "mediaId": "m_656d37768562",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e88baefb",
+     "startSec": 480.32999999999953,
+     "effects": [],
+     "mediaId": "m_7e44a8fb8b52",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_180839bd",
+     "startSec": 484.3599999999995,
+     "effects": [],
+     "mediaId": "m_0049e2f2b3f8",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_6243b45e",
+     "startSec": 488.3899999999995,
+     "effects": [],
+     "mediaId": "m_8138f5d1965e",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_30b928b8",
+     "startSec": 492.41999999999945,
+     "effects": [],
+     "mediaId": "m_87670657a8c7",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_24600d85",
+     "startSec": 496.4499999999994,
+     "effects": [],
+     "mediaId": "m_40ecd30a92b7",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_fb22db66",
+     "startSec": 501.48999999999944,
+     "effects": [],
+     "mediaId": "m_0d9f2b7430f4",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_8030a4d3",
+     "startSec": 507.52999999999946,
+     "effects": [],
+     "mediaId": "m_624f891e5090",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_7e7cb8de",
+     "startSec": 512.5699999999995,
+     "effects": [],
+     "mediaId": "m_2e805f45c9ec",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_24d82d12",
+     "startSec": 516.5999999999995,
+     "effects": [],
+     "mediaId": "m_8210abc7862f",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_bddecf53",
+     "startSec": 521.6399999999994,
+     "effects": [],
+     "mediaId": "m_ea7e0299a045",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_9a7f2e6c",
+     "startSec": 525.6699999999994,
+     "effects": [],
+     "mediaId": "m_73fdcc0b2dfa",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_9f8bda85",
+     "startSec": 531.7099999999994,
+     "effects": [],
+     "mediaId": "m_031e5c65c82e",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_e30e4fb3",
+     "startSec": 537.7499999999993,
+     "effects": [],
+     "mediaId": "m_6943dad11913",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_53b48d1e",
+     "startSec": 541.7799999999993,
+     "effects": [],
+     "mediaId": "m_0585b5838b02",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_83d5ce3e",
+     "startSec": 545.8099999999993,
+     "effects": [],
+     "mediaId": "m_9756558bff09",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_087a4476",
+     "startSec": 549.8399999999992,
+     "effects": [],
+     "mediaId": "m_f70f8d302450",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_f9e8ff7b",
+     "startSec": 554.8799999999992,
+     "effects": [],
+     "mediaId": "m_178de71c006e",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e9d1d3a8",
+     "startSec": 558.9099999999992,
+     "effects": [],
+     "mediaId": "m_e44502fba495",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_7538e443",
+     "startSec": 562.9399999999991,
+     "effects": [],
+     "mediaId": "m_33d62243b6ba",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e627eddc",
+     "startSec": 566.9699999999991,
+     "effects": [],
+     "mediaId": "m_44f575884899",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_0930eb7e",
+     "startSec": 572.0099999999991,
+     "effects": [],
+     "mediaId": "m_9130c4e2840b",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_baed01fe",
+     "startSec": 576.039999999999,
+     "effects": [],
+     "mediaId": "m_aade876864f1",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_039feabe",
+     "startSec": 580.069999999999,
+     "effects": [],
+     "mediaId": "m_871b6426b637",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_c44ce4f0",
+     "startSec": 585.109999999999,
+     "effects": [],
+     "mediaId": "m_0f0a5275ce72",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_02e5afca",
+     "startSec": 589.139999999999,
+     "effects": [],
+     "mediaId": "m_97a0de391795",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_0aed2556",
+     "startSec": 594.1799999999989,
+     "effects": [],
+     "mediaId": "m_9a7c7bb23c44",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_5d1d31e3",
+     "startSec": 599.2199999999989,
+     "effects": [],
+     "mediaId": "m_c0560febf028",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_2a884243",
+     "startSec": 603.2499999999989,
+     "effects": [],
+     "mediaId": "m_338b9a4f9e11",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_77f734c1",
+     "startSec": 607.2799999999988,
+     "effects": [],
+     "mediaId": "m_20c031793a95",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_23fca2e4",
+     "startSec": 611.3099999999988,
+     "effects": [],
+     "mediaId": "m_6ebddb3b5742",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_5d62da67",
+     "startSec": 615.3399999999988,
+     "effects": [],
+     "mediaId": "m_b68ce69ca3fb",
+     "sourceInSec": 0,
+     "sourceOutSec": 7.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_ba154623",
+     "startSec": 622.3799999999987,
+     "effects": [],
+     "mediaId": "m_d0e7edaae6da",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_b10b9754",
+     "startSec": 626.4099999999987,
+     "effects": [],
+     "mediaId": "m_07092a3bb88b",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_e6bbd33b",
+     "startSec": 631.4499999999987,
+     "effects": [],
+     "mediaId": "m_d4a2966cd0ac",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_f4c1488b",
+     "startSec": 637.4899999999986,
+     "effects": [],
+     "mediaId": "m_bd612d941a0f",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_f3b687d3",
+     "startSec": 642.5299999999986,
+     "effects": [],
+     "mediaId": "m_1f43023f3b28",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e285c6bf",
+     "startSec": 646.5599999999986,
+     "effects": [],
+     "mediaId": "m_32bcdb6ad5a1",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_66d8cf81",
+     "startSec": 652.5999999999985,
+     "effects": [],
+     "mediaId": "m_4a3bee3621dd",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_3da2216a",
+     "startSec": 656.6299999999985,
+     "effects": [],
+     "mediaId": "m_4367f0849b6c",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_63a04aac",
+     "startSec": 661.6699999999985,
+     "effects": [],
+     "mediaId": "m_e5fde1f682c9",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_c898daeb",
+     "startSec": 665.6999999999985,
+     "effects": [],
+     "mediaId": "m_581bcea0b4e4",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_d172c9a6",
+     "startSec": 669.7299999999984,
+     "effects": [],
+     "mediaId": "m_db0163492945",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_45ebe651",
+     "startSec": 673.7599999999984,
+     "effects": [],
+     "mediaId": "m_fa2057d3f6e2",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_a8351920",
+     "startSec": 677.7899999999984,
+     "effects": [],
+     "mediaId": "m_1e5e40efa7bc",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_d24600b3",
+     "startSec": 681.8199999999983,
+     "effects": [],
+     "mediaId": "m_047636d3d1cf",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_e2114a09",
+     "startSec": 685.8499999999983,
+     "effects": [],
+     "mediaId": "m_9855fbac5141",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_91e994d7",
+     "startSec": 689.8799999999983,
+     "effects": [],
+     "mediaId": "m_03155b71be0c",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_7970d632",
+     "startSec": 693.9099999999983,
+     "effects": [],
+     "mediaId": "m_cc43af1c690a",
+     "sourceInSec": 0,
+     "sourceOutSec": 7.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_cec1b505",
+     "startSec": 700.9499999999982,
+     "effects": [],
+     "mediaId": "m_381e8936c574",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_001e06d4",
+     "startSec": 704.9799999999982,
+     "effects": [],
+     "mediaId": "m_39220582d597",
+     "sourceInSec": 0,
+     "sourceOutSec": 7.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_2eafe79e",
+     "startSec": 712.0199999999982,
+     "effects": [],
+     "mediaId": "m_ac87b0fb4daf",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_1ccc1a04",
+     "startSec": 716.0499999999981,
+     "effects": [],
+     "mediaId": "m_fff2baa1977b",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_28fb02c0",
+     "startSec": 721.0899999999981,
+     "effects": [],
+     "mediaId": "m_58df92501a29",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_42ebdb9e",
+     "startSec": 725.1199999999981,
+     "effects": [],
+     "mediaId": "m_51f843a9d5a3",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_371595d2",
+     "startSec": 730.159999999998,
+     "effects": [],
+     "mediaId": "m_ac1cc80a3fd3",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_2ba78bd9",
+     "startSec": 734.189999999998,
+     "effects": [],
+     "mediaId": "m_e20ba60e3b20",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_84073fb8",
+     "startSec": 738.219999999998,
+     "effects": [],
+     "mediaId": "m_6a6a6a0f4e10",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_bbd77aa8",
+     "startSec": 743.259999999998,
+     "effects": [],
+     "mediaId": "m_8103ea7a7e63",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_3c5e0d08",
+     "startSec": 747.2899999999979,
+     "effects": [],
+     "mediaId": "m_36d3bc8eadf1",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_151096a3",
+     "startSec": 751.3199999999979,
+     "effects": [],
+     "mediaId": "m_5169511a508d",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_61527f92",
+     "startSec": 755.3499999999979,
+     "effects": [],
+     "mediaId": "m_b1d7b552dfcd",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_1d32be16",
+     "startSec": 759.3799999999978,
+     "effects": [],
+     "mediaId": "m_8b98447dcc19",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_ad8e24c6",
+     "startSec": 764.4199999999978,
+     "effects": [],
+     "mediaId": "m_52a5fffaea2c",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_1c3170e8",
+     "startSec": 768.4499999999978,
+     "effects": [],
+     "mediaId": "m_36cc1c21c510",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_7eb0cf9d",
+     "startSec": 772.4799999999977,
+     "effects": [],
+     "mediaId": "m_c61b0723532f",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_ee6daaed",
+     "startSec": 776.5099999999977,
+     "effects": [],
+     "mediaId": "m_6f742451ca7a",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_e0077f1a",
+     "startSec": 781.5499999999977,
+     "effects": [],
+     "mediaId": "m_c9f300c3290d",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_c0de70bb",
+     "startSec": 786.5899999999976,
+     "effects": [],
+     "mediaId": "m_71ec383aeb8d",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a788a3a8",
+     "startSec": 791.6299999999976,
+     "effects": [],
+     "mediaId": "m_7d8ede0fe94e",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_9f6f61e6",
+     "startSec": 795.6599999999976,
+     "effects": [],
+     "mediaId": "m_5fe4bb1e5fd3",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_ef7e6865",
+     "startSec": 799.6899999999976,
+     "effects": [],
+     "mediaId": "m_3e4718277bb4",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_4c8b366c",
+     "startSec": 803.7199999999975,
+     "effects": [],
+     "mediaId": "m_53f6f9628f59",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_0828ab2f",
+     "startSec": 807.7499999999975,
+     "effects": [],
+     "mediaId": "m_02ded0a368e7",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_be2f916d",
+     "startSec": 811.7799999999975,
+     "effects": [],
+     "mediaId": "m_598e2cf863e7",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_4939e715",
+     "startSec": 815.8099999999974,
+     "effects": [],
+     "mediaId": "m_bcaf995e5c07",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_261cd055",
+     "startSec": 819.8399999999974,
+     "effects": [],
+     "mediaId": "m_a0b86ffe65b7",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_645b165f",
+     "startSec": 823.8699999999974,
+     "effects": [],
+     "mediaId": "m_acc2841a610d",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_6f943b94",
+     "startSec": 828.9099999999974,
+     "effects": [],
+     "mediaId": "m_7f8a5856442f",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_20b3fc24",
+     "startSec": 832.9399999999973,
+     "effects": [],
+     "mediaId": "m_5ac2d419f976",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_44af033b",
+     "startSec": 836.9699999999973,
+     "effects": [],
+     "mediaId": "m_e4b6c78767fd",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_fb4f613a",
+     "startSec": 842.0099999999973,
+     "effects": [],
+     "mediaId": "m_db2cd5487e46",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_43681ba4",
+     "startSec": 846.0399999999972,
+     "effects": [],
+     "mediaId": "m_00834bf8d99f",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_91a14bdf",
+     "startSec": 851.0799999999972,
+     "effects": [],
+     "mediaId": "m_ff847a179101",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_8811153d",
+     "startSec": 855.1099999999972,
+     "effects": [],
+     "mediaId": "m_fe435edf6663",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_1f988115",
+     "startSec": 859.1399999999971,
+     "effects": [],
+     "mediaId": "m_04e42d1d74e4",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_dcc2b28b",
+     "startSec": 863.1699999999971,
+     "effects": [],
+     "mediaId": "m_b8a44a704d87",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_9d0993b5",
+     "startSec": 867.1999999999971,
+     "effects": [],
+     "mediaId": "m_394afada7168",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_65bab40b",
+     "startSec": 871.2299999999971,
+     "effects": [],
+     "mediaId": "m_75b089b2a0a4",
+     "sourceInSec": 0,
+     "sourceOutSec": 7.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_695b74cb",
+     "startSec": 878.269999999997,
+     "effects": [],
+     "mediaId": "m_07f9b002db22",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_91b4b51b",
+     "startSec": 882.299999999997,
+     "effects": [],
+     "mediaId": "m_ed4f300a3ee6",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_0043e74c",
+     "startSec": 886.329999999997,
+     "effects": [],
+     "mediaId": "m_3a211523194e",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_c8f41d8d",
+     "startSec": 890.359999999997,
+     "effects": [],
+     "mediaId": "m_fc1cb765d4cc",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_de8e8996",
+     "startSec": 896.3999999999969,
+     "effects": [],
+     "mediaId": "m_8962cdf52cb0",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_d2b9f917",
+     "startSec": 901.4399999999969,
+     "effects": [],
+     "mediaId": "m_c893cc318de5",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_65c0f8ea",
+     "startSec": 905.4699999999968,
+     "effects": [],
+     "mediaId": "m_8e3169961593",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_da387b1c",
+     "startSec": 911.5099999999968,
+     "effects": [],
+     "mediaId": "m_c9430063103b",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_81709dfb",
+     "startSec": 916.5499999999968,
+     "effects": [],
+     "mediaId": "m_ce2a0a9d4890",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_68b70760",
+     "startSec": 921.5899999999967,
+     "effects": [],
+     "mediaId": "m_eddbd4bc30db",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_67272546",
+     "startSec": 925.6199999999967,
+     "effects": [],
+     "mediaId": "m_c9e8af8ba011",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_ef07e8a1",
+     "startSec": 929.6499999999967,
+     "effects": [],
+     "mediaId": "m_e47f87ae85dd",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_2ad82c29",
+     "startSec": 933.6799999999967,
+     "effects": [],
+     "mediaId": "m_413d9fee1bb7",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_35a97f63",
+     "startSec": 938.7199999999966,
+     "effects": [],
+     "mediaId": "m_2c2995c3098f",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_47693d98",
+     "startSec": 942.7499999999966,
+     "effects": [],
+     "mediaId": "m_71894bdd2e81",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_a39a0e57",
+     "startSec": 946.7799999999966,
+     "effects": [],
+     "mediaId": "m_18c1a076f16b",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_dcb137d4",
+     "startSec": 951.8199999999965,
+     "effects": [],
+     "mediaId": "m_186d423ea927",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_04be1d50",
+     "startSec": 955.8499999999965,
+     "effects": [],
+     "mediaId": "m_6b7e68db6ef8",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_fd46d58c",
+     "startSec": 960.8899999999965,
+     "effects": [],
+     "mediaId": "m_72f4b3bcdab6",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_8225cda4",
+     "startSec": 965.9299999999964,
+     "effects": [],
+     "mediaId": "m_bce167fb7785",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_2d18a5c5",
+     "startSec": 971.9699999999964,
+     "effects": [],
+     "mediaId": "m_512bc2b66706",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_3627071f",
+     "startSec": 975.9999999999964,
+     "effects": [],
+     "mediaId": "m_101e4d0b690b",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_b8b33ca3",
+     "startSec": 980.0299999999963,
+     "effects": [],
+     "mediaId": "m_a5ededd0c70f",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_986896e0",
+     "startSec": 984.0599999999963,
+     "effects": [],
+     "mediaId": "m_847c1059c0d1",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a369dd46",
+     "startSec": 989.0999999999963,
+     "effects": [],
+     "mediaId": "m_f4c25a8a076f",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_41fe2993",
+     "startSec": 993.1299999999962,
+     "effects": [],
+     "mediaId": "m_eb955d53c56b",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_f613d1eb",
+     "startSec": 998.1699999999962,
+     "effects": [],
+     "mediaId": "m_fe4dd0bd8af3",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_ebb84a3a",
+     "startSec": 1002.1999999999962,
+     "effects": [],
+     "mediaId": "m_93e59e766bd0",
+     "sourceInSec": 0,
+     "sourceOutSec": 7.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_da6349fb",
+     "startSec": 1009.2399999999961,
+     "effects": [],
+     "mediaId": "m_373d2ede2006",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_7a3bb6f9",
+     "startSec": 1013.2699999999961,
+     "effects": [],
+     "mediaId": "m_d713b110167e",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_52879ce7",
+     "startSec": 1017.2999999999961,
+     "effects": [],
+     "mediaId": "m_cff6a2bf5d86",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_51ea6858",
+     "startSec": 1021.3299999999961,
+     "effects": [],
+     "mediaId": "m_10438604972b",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_1c381aaa",
+     "startSec": 1026.369999999996,
+     "effects": [],
+     "mediaId": "m_09b9c2e0115c",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_20afae72",
+     "startSec": 1030.399999999996,
+     "effects": [],
+     "mediaId": "m_1a05fd8b8347",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_39a5d8d8",
+     "startSec": 1036.439999999996,
+     "effects": [],
+     "mediaId": "m_082162b10a30",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_35c34154",
+     "startSec": 1040.469999999996,
+     "effects": [],
+     "mediaId": "m_3196fdf7ca7d",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_4e2cdf5b",
+     "startSec": 1044.499999999996,
+     "effects": [],
+     "mediaId": "m_abf689d77a62",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_bbc439a6",
+     "startSec": 1048.5299999999959,
+     "effects": [],
+     "mediaId": "m_aa9673bb8e1f",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a0767992",
+     "startSec": 1053.5699999999958,
+     "effects": [],
+     "mediaId": "m_934c18804de2",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_1d9db78f",
+     "startSec": 1058.6099999999958,
+     "effects": [],
+     "mediaId": "m_be0aa8b327f6",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_1197f63e",
+     "startSec": 1063.6499999999958,
+     "effects": [],
+     "mediaId": "m_deb5853eaabe",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_76c63961",
+     "startSec": 1069.6899999999957,
+     "effects": [],
+     "mediaId": "m_1a9f6966acb5",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_bb446994",
+     "startSec": 1074.7299999999957,
+     "effects": [],
+     "mediaId": "m_189901d6109d",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_1a7c808c",
+     "startSec": 1078.7599999999957,
+     "effects": [],
+     "mediaId": "m_7847e9bd00bc",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_b484277e",
+     "startSec": 1083.7999999999956,
+     "effects": [],
+     "mediaId": "m_3af14de24816",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_4368411c",
+     "startSec": 1087.8299999999956,
+     "effects": [],
+     "mediaId": "m_d5b23d0aabb7",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_3528178d",
+     "startSec": 1092.8699999999956,
+     "effects": [],
+     "mediaId": "m_901b79c746c7",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_23b037e6",
+     "startSec": 1096.8999999999955,
+     "effects": [],
+     "mediaId": "m_c15432c5889e",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_56250fd6",
+     "startSec": 1102.9399999999955,
+     "effects": [],
+     "mediaId": "m_eada4f14fa7f",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_01cba157",
+     "startSec": 1107.9799999999955,
+     "effects": [],
+     "mediaId": "m_f39e0bd18b2c",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_241b5a0d",
+     "startSec": 1112.0099999999954,
+     "effects": [],
+     "mediaId": "m_35148c44bc19",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_00971a99",
+     "startSec": 1116.0399999999954,
+     "effects": [],
+     "mediaId": "m_3e674aea622a",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_ee86c9cf",
+     "startSec": 1120.0699999999954,
+     "effects": [],
+     "mediaId": "m_ccca14190ced",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_0d1baa75",
+     "startSec": 1124.0999999999954,
+     "effects": [],
+     "mediaId": "m_6388f1b455aa",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_8f8a8a7a",
+     "startSec": 1129.1399999999953,
+     "effects": [],
+     "mediaId": "m_7589dc11c182",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_5607c901",
+     "startSec": 1134.1799999999953,
+     "effects": [],
+     "mediaId": "m_7ad3a8dc99cd",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_a641b025",
+     "startSec": 1139.2199999999953,
+     "effects": [],
+     "mediaId": "m_8d74cf39b79c",
+     "sourceInSec": 0,
+     "sourceOutSec": 6.04
+    },
+    {
+     "kind": "media",
+     "id": "clip_f5c1684d",
+     "startSec": 1145.2599999999952,
+     "effects": [],
+     "mediaId": "m_99bc2e13bc3b",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_f2153dfe",
+     "startSec": 1149.2899999999952,
+     "effects": [],
+     "mediaId": "m_ad3f23d1c2bb",
+     "sourceInSec": 0,
+     "sourceOutSec": 4.03
+    },
+    {
+     "kind": "media",
+     "id": "clip_ee5fcd4a",
+     "startSec": 1153.3199999999952,
+     "effects": [],
+     "mediaId": "m_40432d39f76b",
+     "sourceInSec": 0,
+     "sourceOutSec": 5.04
+    },
+    {
+     "kind": "color",
+     "id": "clip_46806f33",
+     "startSec": 1158.3599999999951,
+     "effects": [],
+     "color": "black",
+     "durationSec": 6
+    }
+   ],
+   "transitions": [
+    {
+     "afterClipId": "clip_087a4476",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_180839bd",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_1ccc1a04",
+     "kind": "fadeblack",
+     "durationSec": 0.8
+    },
+    {
+     "afterClipId": "clip_20afae72",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_275b4ab1",
+     "kind": "dissolve",
+     "durationSec": 0.4
+    },
+    {
+     "afterClipId": "clip_28aa521b",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_2a884243",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_32403d08",
+     "kind": "fadeblack",
+     "durationSec": 1
+    },
+    {
+     "afterClipId": "clip_63a04aac",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_81709dfb",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_8225cda4",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_94e34c79",
+     "kind": "fadewhite",
+     "durationSec": 1
+    },
+    {
+     "afterClipId": "clip_a5d7e6eb",
+     "kind": "fadeblack",
+     "durationSec": 1.2
+    },
+    {
+     "afterClipId": "clip_ad8e24c6",
+     "kind": "fadeblack",
+     "durationSec": 1.2
+    },
+    {
+     "afterClipId": "clip_b484277e",
+     "kind": "fadeblack",
+     "durationSec": 1
+    },
+    {
+     "afterClipId": "clip_c2db9a6d",
+     "kind": "dissolve",
+     "durationSec": 0.6
+    },
+    {
+     "afterClipId": "clip_c44ce4f0",
+     "kind": "fadewhite",
+     "durationSec": 0.8
+    },
+    {
+     "afterClipId": "clip_d59ad93e",
+     "kind": "fadeblack",
+     "durationSec": 1.2
+    },
+    {
+     "afterClipId": "clip_e05f9695",
+     "kind": "fadewhite",
+     "durationSec": 1
+    },
+    {
+     "afterClipId": "clip_e9d1d3a8",
+     "kind": "fadewhite",
+     "durationSec": 0.8
+    },
+    {
+     "afterClipId": "clip_ee5fcd4a",
+     "kind": "fadeblack",
+     "durationSec": 1.6
+    }
+   ],
+   "muted": false
+  },
+  {
+   "id": "TXT",
+   "kind": "video",
+   "clips": [
+    {
+     "kind": "text",
+     "id": "clip_a029b8d9",
+     "startSec": 17.01,
+     "effects": [],
+     "text": "CUỐN SÁCH TRAO TAY",
+     "durationSec": 3.2,
+     "style": {
+      "fontSize": 46,
+      "color": "#efe6d2",
+      "background": null,
+      "anchor": "center"
+     }
+    },
+    {
+     "kind": "text",
+     "id": "clip_df0aef38",
+     "startSec": 1159.26,
+     "effects": [],
+     "text": "CUỐN SÁCH TRAO TAY",
+     "durationSec": 4.2,
+     "style": {
+      "fontSize": 40,
+      "color": "#efe6d2",
+      "background": null,
+      "anchor": "center"
+     }
+    }
+   ],
+   "transitions": [],
+   "muted": false
+  }
+ ]
+}

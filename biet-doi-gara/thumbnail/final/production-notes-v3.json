@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "version": 3,
+  "title": "CHUYẾN XE VỀ NHÀ",
+  "jobs": [
+    {
+      "n": 3,
+      "refs": [
+        "/Users/iseul-a/Documents/TikTokSeries/biet-doi-gara/thumbnail/references/s24.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/biet-doi-gara/thumbnail/references/s11.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/biet-doi-gara/thumbnail/final/tap-01-master-v2.png"
+      ],
+      "prompt": "Create a new polished cinematic Vietnamese YouTube film poster, landscape 16:9, photographic live action, authentic cast identities from provided frame references. Strong dramatic composition with visual storytelling, readable faces, realistic anatomy, expressive performance. Natural skin color, muted petrol shadows and soft silver light with restrained warm practical accents, fine grain. No glossy game render, no orange skin, no giant fire, no glass-crack split-face, no collage of floating heads. The LAST reference is typography style reference ONLY: use its exquisite ivory hand-painted Vietnamese title lettering and graceful roadlike swash, scaled modestly (about 32% canvas width), elegant and integrated. Exact title \"CHUYẾN XE VỀ NHÀ\" on two lines, all accents accurate. Small enamel red episode plaque, safe margins. No English text, no extra slogans, no watermark, no duration. New episode three key art: betrayal discovered at family table. Cinematic wide-angle low viewpoint from edge of garage dinner table. A large grey mechanical espionage glove with a tiny red indicator has just been placed beside an untouched white rice bowl in extreme foreground center-right. Its steel fingers point into frame toward bearded Hai in leather apron, sitting right midground with wounded anxious eyes, face large and sharply readable. Thang grey temple olive work jacket stands left midground with palm planted firmly on table, looking directly at Hai with restrained suspicion. Pendant lamp isolates glove and bowl, garage deep in shadow, rain at doorway. Composition forms powerful triangle between clue and two men, human emotional thriller. Optional subtle reflection of red indicator in bowl rim, no impossible miniature worlds. Ivory title in spacious upper left dark area, hook under title exact \"AI ĐÃ BÁN ĐỨNG CẢ NHÀ?\" Episode badge upper right exact \"TẬP 03\". Only these three text elements. Clearly recognizable Vietnamese cast, believable finger count and glove is detached object not severed hand."
+    },
+    {
+      "n": 4,
+      "refs": [
+        "/Users/iseul-a/Documents/TikTokSeries/biet-doi-gara/thumbnail/references/s03.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/biet-doi-gara/thumbnail/references/s11.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/biet-doi-gara/thumbnail/references/s27.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/biet-doi-gara/thumbnail/final/tap-01-master-v2.png"
+      ],
+      "prompt": "Create a new polished cinematic Vietnamese YouTube film poster, landscape 16:9, photographic live action, authentic cast identities from provided frame references. Strong dramatic composition with visual storytelling, readable faces, realistic anatomy, expressive performance. Natural skin color, muted petrol shadows and soft silver light with restrained warm practical accents, fine grain. No glossy game render, no orange skin, no giant fire, no glass-crack split-face, no collage of floating heads. The LAST reference is typography style reference ONLY: use its exquisite ivory hand-painted Vietnamese title lettering and graceful roadlike swash, scaled modestly (about 32% canvas width), elegant and integrated. Exact title \"CHUYẾN XE VỀ NHÀ\" on two lines, all accents accurate. Small enamel red episode plaque, safe margins. No English text, no extra slogans, no watermark, no duration. New final episode key art: explosive emotional getaway at wet container port without flames. Dynamic low three-quarter viewpoint just beside open passenger door of a black coupe, car filling lower left foreground, rain beads and ivory headlights. Thang olive work jacket grey temple on right foreground supports rescued Khoi mustard hoodie round glasses by the shoulder, both half-body faces LARGE, Khoi exhausted looking toward open car, Thang alert turning back toward danger. Lan bob white jacket seated visible at wheel ready to drive. Distant grey armored pursuers between containers, small out-of-focus menacing silhouettes and headlights, no guns. Wind, mist, diagonally leading dock lines, clock-is-ticking sense and physical movement, one coherent photographed action moment. Deep wet petrol background with restrained red tail light. Title upper left in clean mist-dark negative space above car, ivory elegant road-swash lettering, only 32 percent width. Hook under title exact \"CÒN THIẾU MỘT NGƯỜI!\" Small upper right red enamel badge exact \"TẬP 04 • CUỐI\". Three text elements only. No reaching hands composition, no family table in port, no literal magic portal, no tiny duplicate people. Crisp human eyes and natural face lighting."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese romantic drama on cold December nights: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth; motivated practical light (warm bus ceiling lights, streetlamps, Christmas fairy lights, amber hazard lights) against cool blue night; soft haze in the cold damp air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh of Christmas lights. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement. Classic film coverage: over-the-shoulder reverses, profiles and three-quarter angles, faces framed through soft foreground objects (grab poles, seat backs, fogged glass, rain on windows), slow dolly or gentle handheld drift; never a flat frontal news-interview framing.
+
+[PLACE] A quiet hospital room at night lit by a single warm bedside lamp: an old iron hospital bed with white sheets, a drip stand, a wooden chair pulled close to the bed, a small bedside cabinet, a window with blurred Christmas lights far outside, the door half open to the corridor.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @OngKhanh = Ông Khánh, an old retired tram driver who rides the night bus (a thin, upright 78-year-old Vietnamese man, sharp clean-shaven face with deep lines, neatly combed thin white hair, bushy white eyebrows, clear wry eyes); wears a blue-and-white striped hospital gown with a thin grey hospital blanket over his shoulders. Attached image: "Ông Khánh · Áo bệnh viện".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] 85mm close-up of @OngKhanh on the pillow, from slightly above at an angle.
+
+[ACTION] @OngKhanh speaks without opening his eyes.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–1.1s, @OngKhanh (man of 78, dry slow voice with a slight tremor, wry, dry, cracked): Tôi chưa ngủ.
+After the last word nobody speaks until 5.0s. Never read these directions aloud.
+
+[SOUND] a slow monitor beep, a quiet room, cathedral bells ringing midnight far away. No music.
+
+[AVOID] Flat frontal TV-interview framing with the camera staring straight at a face; On-screen text, burned-in subtitles or captions, a lower-third title showing a character's name or age, @-handles written on screen, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.

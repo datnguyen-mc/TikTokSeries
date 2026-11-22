@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1920" height="1080"/>
+<format id="r2" frameDuration="1/30s" width="1920" height="1080"/>
+<asset id="r3" name="FLU_teaser1" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser1.mp4"/></asset>
+<asset id="r4" name="FLU_teaser2" start="0s" duration="3/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser2.mp4"/></asset>
+<asset id="r5" name="FLU_teaser3" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser3.mp4"/></asset>
+<asset id="r6" name="FLU_teaser4" start="0s" duration="3/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser4.mp4"/></asset>
+<asset id="r7" name="FLU_teaser5" start="0s" duration="3/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser5.mp4"/></asset>
+<asset id="r8" name="FLU_teaser6" start="0s" duration="8/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser6.mp4"/></asset>
+<asset id="r9" name="FLU_hook" start="0s" duration="4s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_hook.mp4"/></asset>
+<asset id="r10" name="FLU_ch00" start="0s" duration="188/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch00.mp4"/></asset>
+<asset id="r11" name="FLU_ch01" start="0s" duration="53s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch01.mp4"/></asset>
+<asset id="r12" name="FLU_ch02" start="0s" duration="244/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch02.mp4"/></asset>
+<asset id="r13" name="FLU_ch03" start="0s" duration="773/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch03.mp4"/></asset>
+<asset id="r14" name="FLU_ch04" start="0s" duration="113/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch04.mp4"/></asset>
+<asset id="r15" name="FLU_ch05" start="0s" duration="601/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch05.mp4"/></asset>
+<asset id="r16" name="FLU_ch06" start="0s" duration="677/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch06.mp4"/></asset>
+<asset id="r17" name="FLU_ch07" start="0s" duration="278/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch07.mp4"/></asset>
+<asset id="r18" name="FLU_ch08" start="0s" duration="597/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch08.mp4"/></asset>
+<asset id="r19" name="FLU_ch09" start="0s" duration="109/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch09.mp4"/></asset>
+<asset id="r20" name="FLU_ch10" start="0s" duration="1921/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch10.mp4"/></asset>
+<asset id="r21" name="FLU_ch11" start="0s" duration="409/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch11.mp4"/></asset>
+<asset id="r22" name="FLU_ch12" start="0s" duration="286/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch12.mp4"/></asset>
+<asset id="r23" name="FLU_ch13" start="0s" duration="251/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch13.mp4"/></asset>
+<asset id="r24" name="FLU_endcard" start="0s" duration="10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_endcard.mp4"/></asset>
+<effect id="r25" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r26" name="Audio Crossfade" uid="FFAudioTransition"/>
+</resources>
+<library><event name="MakeMyClip"><project name="CUM1918_Phim_16x9"><sequence format="r1" duration="22709/30s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="r3" offset="0s" name="FLU_teaser1" start="0s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r4" offset="13/10s" name="FLU_teaser2" start="1/10s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="5/2s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r5" offset="13/5s" name="FLU_teaser3" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="37/10s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r6" offset="19/5s" name="FLU_teaser4" start="1/10s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r7" offset="51/10s" name="FLU_teaser5" start="1/10s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="63/10s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r8" offset="32/5s" name="FLU_teaser6" start="1/10s" duration="3/2s" format="r2"></asset-clip>
+<asset-clip ref="r9" offset="79/10s" name="FLU_hook" start="0s" duration="19/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="23/2s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r10" offset="117/10s" name="FLU_ch00" start="1/5s" duration="223/6s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="146/3s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r11" offset="733/15s" name="FLU_ch01" start="1/5s" duration="1577/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3037/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r12" offset="3043/30s" name="FLU_ch02" start="1/5s" duration="242/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4489/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r13" offset="899/6s" name="FLU_ch03" start="1/5s" duration="767/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6023/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r14" offset="6029/30s" name="FLU_ch04" start="1/5s" duration="841/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1541/6s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r15" offset="7711/30s" name="FLU_ch05" start="1/5s" duration="1787/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3163/10s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r16" offset="1583/5s" name="FLU_ch06" start="3/10s" duration="223/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="5414/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r17" offset="1806/5s" name="FLU_ch07" start="4/15s" duration="551/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4161/10s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r18" offset="4163/10s" name="FLU_ch08" start="1/5s" duration="1777/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="7129/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r19" offset="7133/15s" name="FLU_ch09" start="4/15s" duration="1621/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="15881/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r20" offset="15887/30s" name="FLU_ch10" start="1/5s" duration="1907/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="8893/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r21" offset="8897/15s" name="FLU_ch11" start="4/15s" duration="1219/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="10112/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r22" offset="3372/5s" name="FLU_ch12" start="4/15s" duration="170/3s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="21923/30s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r23" offset="10966/15s" name="FLU_ch13" start="3/10s" duration="97/6s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="22409/30s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r24" offset="22417/30s" name="FLU_endcard" start="4/15s" duration="146/15s" format="r2"></asset-clip>
+</spine></sequence></project></event></library>
+</fcpxml>

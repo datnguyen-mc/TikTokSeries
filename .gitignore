@@ -64,3 +64,11 @@ filmcraft/
 **/_trailer/src.tar
 **/_models/*.onnx
 *.py.bak
+
+# Temp render/QC artifacts
+*.tar
+**/_tmp/
+**/_tmp_render_*/
+.doctor-*
+**/.doctor-*
+**/_parts/*.part*

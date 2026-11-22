@@ -1,0 +1,20 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese romantic drama on cold December nights: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth; motivated practical light (warm bus ceiling lights, streetlamps, Christmas fairy lights, amber hazard lights) against cool blue night; soft haze in the cold damp air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh of Christmas lights. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement. Classic film coverage: over-the-shoulder reverses, profiles and three-quarter angles, faces framed through soft foreground objects (grab poles, seat backs, fogged glass, rain on windows), slow dolly or gentle handheld drift; never a flat frontal news-interview framing. This is a memory from fifty years ago: warm sepia-golden grade, faded colours, thicker film grain, softer edges; a period-correct old city, no modern objects.
+
+[PLACE] Inside a small old wooden single-car Vietnamese city tram fifty years ago at night (the kind with a trolley pole on overhead wires): wooden slat benches along the sides, brass handrails, dim yellow bulbs, open windows with wooden frames, the driver's brass controls at the front, a quiet old city outside with few lights and bare trees; no readable signs or numbers.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @OngKhanhTre = Ông Khánh lúc trẻ, young Khánh, a night tram driver fifty years ago (a lean 28-year-old Vietnamese man, sharp clean-shaven face, thick black hair combed back, bushy black eyebrows, earnest shy eyes); wears a plain faded khaki cotton work jacket with plain buttons and no insignia, a soft plain khaki peaked cap with no badge, dark trousers, worn leather shoes. Attached image: "Ông Khánh trẻ · Áo lái tàu điện".
+- @BaHangTre = Bà Hằng lúc trẻ, young Hằng, a nurse fifty years ago (a slender 24-year-old Vietnamese woman, soft oval face, long black hair in a low braid, gentle sleepy eyes, a dimple in her left cheek when she smiles); wears an old-fashioned white cotton nurse's uniform dress, a white nurse's cap, a thin dark-blue knitted cardigan, a cloth shoulder bag. Attached image: "Bà Hằng trẻ · Áo y tá xưa".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] medium two-shot inside the tram.
+
+[ACTION] @BaHangTre is fast asleep on the wooden bench with her eyes closed the whole time; @OngKhanhTre takes a new red knitted scarf from his jacket and, with trembling hands, wraps it around her neck.
+
+[DIALOGUE] None. Nobody speaks in this shot.
+
+[SOUND] an old tram's iron wheels clacking and creaking, a small bell ding, a quiet night city. No music.
+
+[AVOID] the young nurse awake or with her eyes open; Flat frontal TV-interview framing with the camera staring straight at a face; On-screen text, burned-in subtitles or captions, a lower-third title showing a character's name or age, @-handles written on screen, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.

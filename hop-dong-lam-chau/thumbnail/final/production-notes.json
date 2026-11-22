@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "review": "Read story and project README, inspected sampled actual video frames; not full audiovisual review.",
+  "jobs": [
+    {
+      "key": "hop-1",
+      "project": "hop-dong-lam-chau",
+      "slug": "hai-dua-chau",
+      "refs": [
+        "/Users/iseul-a/Documents/TikTokSeries/hop-dong-lam-chau/thumbnail/references/01-03.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/hop-dong-lam-chau/thumbnail/references/02-04.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/hop-dong-lam-chau/thumbnail/references/19-05.jpg"
+      ],
+      "prompt": "Create premium 16:9 Vietnamese cinematic film YouTube key art, photorealistic actors faithful to supplied reference faces, refined natural skin, film grain, strong clear emotional expressions and phone-readable visual hierarchy. Designed film poster, not a generic screenshot. Accurate Vietnamese typography, no watermark, no English, no episode numbering, no duration, no extra captions, no black bars. Title compact about 34 percent width, visually integrated and never covering faces.  Family dramedy at Vietnamese northern rural Tet, muted brick red, old timber brown, ivory paper and soft winter daylight, natural skin no orange gold wash. Unique custom title exact \"HỢP ĐỒNG\" / \"LÀM CHÁU\": elegantly expressive Vietnamese brush-script with confident fine-to-thick strokes, muted cinnabar ink on ivory paper, slight handwritten contract signature flourish and delicate peach twig motif. No embossed gold, no action stone letters.  Concept THE TWO GRANDSONS. At old house doorway, elderly white-haired thin-mustache grandfather in brown shirt sits foreground right with knowing ambiguous slight smile, inviting with one open hand. Young Dat in olive bomber white shirt stands center anxious, and real Minh from third reference wearing cream cable sweater stands just behind doorway left startled hurt. Three faces clear and distinct, no duplicate men. Foreground table corner holds unopened red envelope and a folded contract. Across lower left a curled ivory contract sheet makes natural title area. Title HỢP ĐỒNG / LÀM CHÁU elegantly on paper, hook exact \"ĐỨA NÀO LÀ CHÁU THẬT?\" small cinnabar beneath. Delicate peach blossoms out of focus upper edge, discreet red lantern, composition conveys grandfather choosing between two men, not hostility. References1 young bomber,2 grandfather,3 cream sweater."
+    },
+    {
+      "key": "hop-2",
+      "project": "hop-dong-lam-chau",
+      "slug": "chau-thue-tet-that",
+      "refs": [
+        "/Users/iseul-a/Documents/TikTokSeries/hop-dong-lam-chau/thumbnail/references/01-03.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/hop-dong-lam-chau/thumbnail/references/02-04.jpg"
+      ],
+      "prompt": "Create premium 16:9 Vietnamese cinematic film YouTube key art, photorealistic actors faithful to supplied reference faces, refined natural skin, film grain, strong clear emotional expressions and phone-readable visual hierarchy. Designed film poster, not a generic screenshot. Accurate Vietnamese typography, no watermark, no English, no episode numbering, no duration, no extra captions, no black bars. Title compact about 34 percent width, visually integrated and never covering faces.  Family dramedy at Vietnamese northern rural Tet, muted brick red, old timber brown, ivory paper and soft winter daylight, natural skin no orange gold wash. Unique custom title exact \"HỢP ĐỒNG\" / \"LÀM CHÁU\": elegantly expressive Vietnamese brush-script with confident fine-to-thick strokes, muted cinnabar ink on ivory paper, slight handwritten contract signature flourish and delicate peach twig motif. No embossed gold, no action stone letters.  Concept A RENTED GRANDSON, A REAL FAMILY. Close secret exchange at rural bus station before Tet: grandmother from ref1 maroon quilt coat brown headscarf leans toward young Dat olive bomber with worried hopeful eyes, pressing a thick plain cream envelope and folded contract into his hands. Their natural Vietnamese faces large in right half. Through the curved opening of envelope in lower foreground, a subtle optical double-exposure reveals a lonely grandfather from ref2 waiting beside TWO handmade wooden chairs in a quiet tiled courtyard. Beautiful coherent conceptual poster about buying company, not a fantasy portal. Left upper negative space textured ivory contract paper integrates elegant cinnabar title HỢP ĐỒNG / LÀM CHÁU; small hook \"15 TRIỆU ĐỂ CÓ MỘT ĐỨA CHÁU\". No money denominations elsewhere, no fake long text. Sparse peach blossom branch and red envelope echo Tet, emotional bittersweet restraint."
+    }
+  ]
+}

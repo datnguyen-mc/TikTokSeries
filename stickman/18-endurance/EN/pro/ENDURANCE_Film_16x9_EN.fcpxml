@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1920" height="1080"/>
+<format id="r2" frameDuration="1/30s" width="1920" height="1080"/>
+<asset id="r3" name="END_EN_teaser1" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser1.mp4"/></asset>
+<asset id="r4" name="END_EN_teaser2" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser2.mp4"/></asset>
+<asset id="r5" name="END_EN_teaser3" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser3.mp4"/></asset>
+<asset id="r6" name="END_EN_teaser4" start="0s" duration="8/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser4.mp4"/></asset>
+<asset id="r7" name="END_EN_teaser5" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser5.mp4"/></asset>
+<asset id="r8" name="END_EN_teaser6" start="0s" duration="19/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser6.mp4"/></asset>
+<asset id="r9" name="END_EN_hook" start="0s" duration="4s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_hook.mp4"/></asset>
+<asset id="r10" name="END_EN_ch00" start="0s" duration="136/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch00.mp4"/></asset>
+<asset id="r11" name="END_EN_ch01" start="0s" duration="393/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch01.mp4"/></asset>
+<asset id="r12" name="END_EN_ch02" start="0s" duration="827/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch02.mp4"/></asset>
+<asset id="r13" name="END_EN_ch03" start="0s" duration="139/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch03.mp4"/></asset>
+<asset id="r14" name="END_EN_ch04" start="0s" duration="1193/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch04.mp4"/></asset>
+<asset id="r15" name="END_EN_ch05" start="0s" duration="133/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch05.mp4"/></asset>
+<asset id="r16" name="END_EN_ch06" start="0s" duration="637/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch06.mp4"/></asset>
+<asset id="r17" name="END_EN_ch07" start="0s" duration="701/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch07.mp4"/></asset>
+<asset id="r18" name="END_EN_ch08" start="0s" duration="368/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch08.mp4"/></asset>
+<asset id="r19" name="END_EN_ch09" start="0s" duration="1151/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch09.mp4"/></asset>
+<asset id="r20" name="END_EN_ch10" start="0s" duration="364/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch10.mp4"/></asset>
+<asset id="r21" name="END_EN_ch11" start="0s" duration="404/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch11.mp4"/></asset>
+<asset id="r22" name="END_EN_ch12" start="0s" duration="801/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch12.mp4"/></asset>
+<asset id="r23" name="END_EN_ch13" start="0s" duration="33/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch13.mp4"/></asset>
+<asset id="r24" name="END_EN_endcard" start="0s" duration="10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_endcard.mp4"/></asset>
+<effect id="r25" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r26" name="Audio Crossfade" uid="FFAudioTransition"/>
+</resources>
+<library><event name="MakeMyClip"><project name="ENDURANCE_Film_16x9_EN"><sequence format="r1" duration="28513/30s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="r3" offset="0s" name="END_EN_teaser1" start="0s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r4" offset="13/10s" name="END_EN_teaser2" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="12/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r5" offset="5/2s" name="END_EN_teaser3" start="1/10s" duration="7/6s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="53/15s" duration="4/15s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r6" offset="11/3s" name="END_EN_teaser4" start="2/15s" duration="41/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="74/15s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r7" offset="151/30s" name="END_EN_teaser5" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="92/15s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r8" offset="187/30s" name="END_EN_teaser6" start="1/10s" duration="9/5s" format="r2"></asset-clip>
+<asset-clip ref="r9" offset="241/30s" name="END_EN_hook" start="0s" duration="113/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="173/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r10" offset="59/5s" name="END_EN_ch00" start="4/15s" duration="133/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="381/10s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r11" offset="192/5s" name="END_EN_ch01" start="3/10s" duration="78s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1161/10s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r12" offset="582/5s" name="END_EN_ch02" start="3/10s" duration="1231/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1189/6s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r13" offset="2977/15s" name="END_EN_ch03" start="3/10s" duration="689/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4006/15s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r14" offset="8021/30s" name="END_EN_ch04" start="3/10s" duration="79s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3461/10s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r15" offset="10391/30s" name="END_EN_ch05" start="4/15s" duration="329/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4117/10s" duration="9/10s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r16" offset="2473/6s" name="END_EN_ch06" start="7/15s" duration="944/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2374/5s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r17" offset="4751/10s" name="END_EN_ch07" start="3/10s" duration="1042/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2721/5s" duration="7/10s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r18" offset="16337/30s" name="END_EN_ch08" start="11/30s" duration="1094/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3086/5s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r19" offset="1235/2s" name="END_EN_ch09" start="3/10s" duration="1142/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2080/3s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r20" offset="20809/30s" name="END_EN_ch10" start="3/10s" duration="1082/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3827/5s" duration="7/10s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r21" offset="22973/30s" name="END_EN_ch11" start="11/30s" duration="80s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="8453/10s" duration="9/10s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r22" offset="25373/30s" name="END_EN_ch12" start="7/15s" duration="396/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="27737/30s" duration="4/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r23" offset="27749/30s" name="END_EN_ch13" start="2/5s" duration="473/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="28213/30s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r24" offset="14111/15s" name="END_EN_endcard" start="3/10s" duration="97/10s" format="r2"></asset-clip>
+</spine></sequence></project></event></library>
+</fcpxml>

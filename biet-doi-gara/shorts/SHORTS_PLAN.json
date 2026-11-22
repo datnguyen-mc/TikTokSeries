@@ -1,0 +1,510 @@
+{
+ "series": "biet-doi-gara",
+ "film_title": "Biệt Đội Gara",
+ "tag": "BIỆT ĐỘI GARA",
+ "style": {
+  "tag_bg": "#C62828",
+  "accent": "#00E5FF"
+ },
+ "speaker_colors": {},
+ "match_script": false,
+ "fixes": {
+  "20.5": {
+   "crop": [
+    1052,
+    592,
+    114,
+    10
+   ]
+  },
+  "29.6": {
+   "crop": [
+    1216,
+    684,
+    32,
+    18
+   ]
+  },
+  "29.3": {
+   "crop": [
+    1280,
+    530,
+    0,
+    95
+   ]
+  },
+  "40.3": {
+   "crop": [
+    1280,
+    540,
+    0,
+    90
+   ]
+  }
+ },
+ "subtitle_replace": {
+  "^ROLL CỦA TUÔI$": "Drone của tui!",
+  "\\bLõi 7\\b": "Lõi Bảy",
+  "\\bLỗi của em\\b": "Lõi của em",
+  "\\bmất lỗi rồi\\b": "mất lõi rồi",
+  "^Lỗi gió$": "Lõi gió…",
+  "\\bGió đỏ toàn lực xả ra\\b": "Gió Đỏ, toàn lực xả ga!",
+  "\\blõi bẫy\\b": "lõi Bảy",
+  "\\bĐừng hồng\\b": "Đừng hòng",
+  "\\bbác Bảy Giữ lại mau\\b": "bác Bảy! Giữ lại mau!",
+  "\\bphi thương\\b": "phi thường",
+  "\\bcũng mất bức thư\\b": "cuỗm mất bức thư",
+  "\\btắt bếp gắt nồi\\b": "tắt bếp nồi",
+  "\\bThắng Thằng$": "Thắng! Thằng",
+  "\\bDằn co\\b": "Giằng co",
+  "\\bĐứng yên Tín hiệu\\b": "Đứng yên! Tín hiệu",
+  "^Hoa tao đã$": "Qua tao đã!",
+  "\\bTăng tốc lên thắng\\b": "Tăng tốc lên Thắng!",
+  "\\bNhớ tao không thắng 15 năm rồi\\b": "Nhớ tao không Thắng? 15 năm rồi!",
+  "\\bLão Bảy Thiên Vị\\b": "Lão Bảy thiên vị!",
+  "\\bxét đánh\\b": "sét đánh",
+  "^Anh thắng thôi đi\\b": "Anh Thắng, thôi đi",
+  "\\b2 \\.4GHz\\b": "2.4 GHz",
+  "\\bgiỏi hắc lắm\\b": "giỏi hack lắm",
+  "^Bài lên nào!": "Bay lên nào!",
+  "^Thì Lan ơi\\b": "Chị Lan ơi",
+  "\\bngọt sức\\b": "ngọt xớt",
+  "\\bCáo băng\\b": "Cáo Băng",
+  "^Ừ Lan Cố lên$": "Ừ, Lan, cố lên!",
+  "\\bAnh Thắng ơi Em tin anh\\b": "Anh Thắng ơi! Em tin anh",
+  "\\banh ơi Bể cả\\b": "anh ơi! Bể cả",
+  "\\bcoi chừng Đập bay\\b": "coi chừng! Đập bay",
+  "\\bcho tao Đi theo tao!": "cho tao! Đi theo tao!"
+ },
+ "full_movie_url": "",
+ "full_movie_line": "🎬 Trọn bộ 10 tập có trên kênh YouTube, tìm “Biệt Đội Gara”",
+ "final_cta": "🎬 Xem trọn bộ 10 tập trên kênh YouTube.",
+ "final_badge": "XEM FULL PHIM",
+ "final_end_text": "Xem trọn bộ [10 TẬP]\ntrên kênh YouTube",
+ "hashtags": {
+  "tiktok": [
+   "#bietdoigara",
+   "#phimhanhdong",
+   "#phimngan"
+  ],
+  "youtube": [
+   "#bietdoigara",
+   "#phimhanhdong",
+   "#phimngan"
+  ],
+  "facebook": [
+   "#BietDoiGara",
+   "#PhimHanhDong",
+   "#PhimNgan",
+   "#SieuAnhHung"
+  ]
+ },
+ "schedule": {
+  "start": "2026-11-14",
+  "per_day": 2,
+  "times": [
+   "11:00",
+   "19:00"
+  ]
+ },
+ "readme_intro": [
+  "# Biệt Đội Gara — Shorts cho TikTok, YouTube Shorts, Facebook Reels",
+  "",
+  "Đây là bản cắt **12 khoảnh khắc hay nhất** của series 10 tập, không phải cả phim: cướp phá gara, biến hình, đua cứu em út, trùm Sói Xám lộ mặt, nghi oan trong nhà, mất giáp, rượt đuổi ở cảng và cái kết. Mỗi phần là một mạch liền 40–60 giây (4–6 clip liên tiếp), mở bằng câu thoại hoặc hành động gây tò mò, kết bằng câu chốt hoặc cliffhanger, đăng nối tiếp theo thứ tự truyện.",
+  "",
+  "- **Khung hình:** 1080×1920, 24 fps. Cảnh phim 16:9 để nguyên khung ở giữa, nền là chính cảnh đó làm mờ; không cắt mất nhân vật ở hai mép.",
+  "- **Chữ trên video:** nhãn đỏ “BIỆT ĐỘI GARA • PHẦN N” và câu hook ở trên khung phim (cụm nhấn màu xanh băng); phụ đề khớp tiếng ở dưới khung phim (chữ trắng); 2,5 giây cuối, hook đổi thành “CÒN TIẾP » PHẦN N+1” kèm hook của phần sau, phần cuối đổi thành “XEM FULL PHIM”. Mọi chữ nằm ngoài vùng nút bấm và caption của TikTok/Reels.",
+  "- **Phụ đề:** lấy từ tiếng thật trong clip (Whisper, giọng miền Nam). Phim không có kịch bản trong repo nên phụ đề giữ chữ Whisper nghe được (`match_script: false`); tên riêng và chữ nghe nhầm sửa bằng `subtitle_replace` sau khi duyệt.",
+  "- **Âm thanh:** chuẩn hoá −14 LUFS (mức TikTok/YouTube/Facebook dùng).",
+  "- **Nhịp:** khoảng lặng cuối mỗi clip được cắt còn 1 giây (clip cuối của phần giữ 1,8 giây cho câu chốt ngấm); clip có đuôi nói lặp thì cắt trước đoạn lặp.",
+  "- **Đầu ra:** video nằm phẳng trong `shorts/` dạng `NN-<slug>.mp4`; lịch đăng và caption TikTok / YouTube / Facebook của mọi phần nằm trong `README.md` này.",
+  "",
+  "Dựng lại (sau khi sửa plan hoặc render lại clip):",
+  "",
+  "```bash",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py biet-doi-gara            # tất cả",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py biet-doi-gara --only 3   # một phần",
+  "WHISPER_PYTHON=~/.venvs/whisper/bin/python ./flowkit/venv/bin/python flowkit/scripts/make_shorts.py biet-doi-gara --captions # chỉ ghi lại README",
+  "```",
+  "",
+  "Nội dung từng phần (clip, hook, caption, lịch) nằm trong `SHORTS_PLAN.json`."
+ ],
+ "readme_notes": [
+  "⭐ = phần có hook mạnh nhất, nên dồn tương tác hoặc chạy quảng cáo trước.",
+  "",
+  "## Cách đăng",
+  "",
+  "- **TikTok:** đăng theo thứ tự, gom vào Playlist “Biệt Đội Gara”. Ghim 3 phần ⭐ lên trang cá nhân.",
+  "- **YouTube Shorts:** dán tiêu đề + mô tả ở dưới; điền link playlist trọn bộ 10 tập vào `full_movie_url` trong plan rồi chạy `--captions` để mọi mô tả có link. Dùng “Related video” của Shorts trỏ về tập 1.",
+  "- **Facebook Reels:** dán caption; tắt phụ đề tự động vì phụ đề đã in sẵn trên video.",
+  "- Mỗi ngày 2 phần (11:00 và 19:00), 3 nền tảng cùng giờ, bắt đầu 14/11. Đổi ngày bắt đầu ở `schedule.start` rồi chạy `--captions`.",
+  "",
+  "## Cần kiểm tra trước khi đăng",
+  "",
+  "- **Hook và caption viết theo shot list của prompt**, không theo kịch bản (repo không có). Từ cảnh 07 trở đi shot list dùng khung câu mẫu (“tiếng gầm rú động cơ”, “không gian xưởng gara”…) cả ở cảnh thoại, nên hình thật có thể khác mô tả: xem lại từng phần, nhất là phần 4–12, và sửa caption nếu cảnh không khớp.",
+  "- **Chưa duyệt bản Whisper:** `subtitle_replace` và `fixes` đang để trống. Tên riêng dễ bị nghe sai: Thắng, Khôi, Hải, Minh, Tú, Hùng, Bác Bảy, Sói Xám, Găng Xám, Hắc Phong, Cáo Băng, Lõi Bảy. Ở clip 11.1 (phần 4) câu “Thắng không ăn!” là phanh không ăn, không phải tên anh cả.",
+  "- **Clip chưa render:** 11.4–11.6 và toàn bộ cảnh 12–15 (đoạn cứu Tú) chưa có, nên không có short nào từ đoạn này; phần 4 dừng ở câu “Cúp vô địch để làm gì khi mất đi người nhà?”.",
+  "- **Clip chỉ có prompt thô, không có shot list:** 16.5, 17.1, 18.1, 18.3, 19.2, 20.2, 21.2, 25.5, 28.6, 29.1, 30.3, 32.1, 33.4, 34.3, 36.1, 41.6, 43.1, 44.2, 45.4; clip 44.1 dùng prompt chung chung. Không short nào dùng các clip này.",
+  "- 10.6 bỏ khỏi phần 4: clip có phụ đề in cứng (“Lan: Tú mất lái rồi anh Thắng!”) và không có thoại.",
+  "- 20.5 bỏ khỏi phần 5: bản render cho anh Hải nói thoại của Hùng (“Lão giấu 5 chiếc lõi giáp…”); 20.2 cũng bị lỗi này. Nên render lại hai clip này trong phim full."
+ ],
+ "shorts": [
+  {
+   "n": 1,
+   "slug": "cuop-pha-gara-giua-bua-com",
+   "top": true,
+   "title": "Cướp phá cửa gara giữa bữa cơm, đòi bức thư của Bác Bảy",
+   "hook": "Cướp phá gara giữa bữa cơm,\nđòi [BỨC THƯ] của Bác Bảy",
+   "segments": [
+    {
+     "clip": "02.1"
+    },
+    {
+     "clip": "02.2"
+    },
+    {
+     "clip": "02.3"
+    },
+    {
+     "clip": "02.4"
+    },
+    {
+     "clip": "02.5"
+    },
+    {
+     "clip": "02.6"
+    }
+   ],
+   "caption": "Cả nhà đang ăn cơm thì cửa cuốn gara bị xe tải giật bung, bốn tên Găng Xám tràn vào đòi chiếc hộp sắt chứa bức thư của Bác Bảy. Anh Hải cầm cờ lê đỡ đòn, Lan tung cước giữ xe của ba: “Đừng hòng đụng vô xe của ba tao, gãy răng ráng chịu nha mấy cưng!” Bức thư bị cướp mất, nhưng chiếc hộp vỡ ra năm khối lõi phát sáng…",
+   "question": "Năm khối lõi phát sáng đó là gì nhỉ?",
+   "yt_title": "Cướp phá cửa gara giữa bữa cơm chỉ để lấy một bức thư | Biệt Đội Gara P1",
+   "tags": [
+    "#giadinh",
+    "#sieuanhhung"
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "loi-bay-khoi-dong",
+   "title": "“Lõi Bảy, khởi động!” Bốn anh em thợ máy biến hình",
+   "hook": "Thợ sửa xe hô một câu,\nhóa [CHIẾN BINH GIÁP]",
+   "segments": [
+    {
+     "clip": "03.3"
+    },
+    {
+     "clip": "03.4"
+    },
+    {
+     "clip": "03.5"
+    },
+    {
+     "clip": "03.6"
+    }
+   ],
+   "caption": "Nhớ lời Bác Bảy dặn phải bảo vệ nhau khi nhà gặp nạn, Thắng giơ cao nắm đấm: “Lõi Bảy, khởi động!” Giáp nano đỏ đen bọc kín người anh cả, rồi tới Lan, anh Hải và Khôi. Cả nhà lao đi đuổi theo xe tải cướp thư… còn Khôi vẫn lo nồi thịt kho chưa tắt bếp.",
+   "question": "Bạn thích bộ giáp của ai nhất?",
+   "yt_title": "“Lõi Bảy, khởi động!” Bốn anh em thợ máy biến hình chiến binh giáp | Biệt Đội Gara P2",
+   "tags": [
+    "#bienhinh",
+    "#sieuanhhung"
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "buc-thu-rach-doi",
+   "title": "Giành lại di thư Bác Bảy, ai ngờ chỉ còn một nửa",
+   "hook": "Giành lại di thư Bác Bảy,\nai ngờ [CHỈ CÒN MỘT NỬA]",
+   "segments": [
+    {
+     "clip": "04.4"
+    },
+    {
+     "clip": "04.5"
+    },
+    {
+     "clip": "04.6"
+    },
+    {
+     "clip": "05.1"
+    }
+   ],
+   "caption": "Thắng tung một cú đấm chặn đứng xe tải bọc thép, giật lại bức thư kẹt trên gương: “Định chạy đi đâu với thư của nhà tao?” Nhưng thư đã rách làm đôi, nửa trong tay chỉ còn dòng chữ về cảng container Sài Gòn và chiếc lõi thứ năm. Rồi một chùm đèn pha rọi tới, một cô gái lạ cầm máy dò bước xuống.",
+   "question": "Nửa bức thư kia viết gì mà tụi cướp phải giành?",
+   "yt_title": "Một cú đấm chặn đứng xe tải, giành lại di thư thì chỉ còn một nửa | Biệt Đội Gara P3",
+   "tags": [
+    "#dithu",
+    "#plottwist"
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "cup-vo-dich-de-lam-gi",
+   "top": true,
+   "title": "Sắp về nhất, anh hỏi: Cúp vô địch để làm gì?",
+   "hook": "Sắp về nhất, anh hỏi:\n[CÚP VÔ ĐỊCH] để làm gì?",
+   "segments": [
+    {
+     "clip": "10.5"
+    },
+    {
+     "clip": "11.1"
+    },
+    {
+     "clip": "11.2"
+    },
+    {
+     "clip": "11.3"
+    }
+   ],
+   "caption": "Tú, đứa em út của gara, bị ép đua chiếc xe gài khóa xung điện. Thắng dùng thân xe chặn chiếc bán tải chơi xấu: “Muốn đụng em tao hả? Qua tao đã!” Rồi xe Tú mất thắng lao về phía vực taluy, vạch đích chỉ còn 200 mét, và Thắng ngoái nhìn qua gương chiếu hậu.",
+   "question": "Là bạn, bạn chọn cúp hay chọn người nhà?",
+   "yt_title": "Sắp về nhất vẫn ngoái lại: “Cúp vô địch để làm gì khi mất đi người nhà?” | Biệt Đội Gara P4",
+   "tags": [
+    "#duaxe",
+    "#tinhanhem"
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "soi-xam-thao-mat-na",
+   "title": "Trùm Sói Xám tháo mặt nạ: sư huynh mất tích 15 năm",
+   "hook": "Trùm Sói Xám tháo mặt nạ:\n[SƯ HUYNH] mất tích 15 năm",
+   "segments": [
+    {
+     "clip": "20.3"
+    },
+    {
+     "clip": "20.4"
+    },
+    {
+     "clip": "20.6"
+    },
+    {
+     "clip": "21.1"
+    }
+   ],
+   "caption": "Giữa kho xe trộm, mặt nạ của trùm Sói Xám tách đôi, lộ ra gương mặt đầy sẹo của Hùng: “Nhớ tao không Thắng? Mười lăm năm rồi!” Lan nghẹn giọng khuyên anh quay đầu, nhưng Hùng chỉ ra lệnh: “Bắt sống tụi nó cho tao!” Cả đám Găng Xám ùa tới, và cả nhà gara lao vào trận.",
+   "question": "Hùng đáng giận hay đáng thương?",
+   "yt_title": "Trùm Sói Xám tháo mặt nạ, hóa ra là sư huynh mất tích 15 năm | Biệt Đội Gara P5",
+   "tags": [
+    "#plottwist",
+    "#phandien"
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "con-chip-trong-gang-tay",
+   "title": "Nghi oan anh Hải phản bội, hóa ra là con chip nghe lén",
+   "hook": "Nghi oan anh Hải phản bội,\nhóa ra là [CON CHIP]",
+   "segments": [
+    {
+     "clip": "24.4"
+    },
+    {
+     "clip": "24.5"
+    },
+    {
+     "clip": "24.6"
+    },
+    {
+     "clip": "25.1"
+    },
+    {
+     "clip": "25.2"
+    },
+    {
+     "clip": "25.3"
+    }
+   ],
+   "caption": "Bị nghi báo tin cho Sói Xám, anh Hải quỳ trước bàn kỷ niệm của Bác Bảy mà thề: “Em mà phản bội cái nhà này, sét đánh chết em liền!” Lan khóc bênh anh, Thắng buông tay hỏi tin lộ từ đâu. Đúng lúc đó máy của Khôi báo sóng lạ, và Minh xé lớp lót chiếc găng xám treo trên tường: một con chip nghe lén đang chớp đèn đỏ.",
+   "question": "Bạn từng nghi oan người thân chưa?",
+   "yt_title": "Cả nhà nghi anh Hải phản bội, hóa ra thủ phạm là con chip trong găng tay | Biệt Đội Gara P6",
+   "tags": [
+    "#nghioan",
+    "#giadinh"
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "khoi-bi-bat-coc",
+   "title": "Bị trùm Sói Xám bắt đi, cậu út kịp gài một con bọ",
+   "hook": "Bị trùm bắt đi, cậu út\nkịp gài [MỘT CON BỌ]",
+   "segments": [
+    {
+     "clip": "26.6"
+    },
+    {
+     "clip": "27.1"
+    },
+    {
+     "clip": "27.2"
+    },
+    {
+     "clip": "27.3"
+    },
+    {
+     "clip": "27.4"
+    }
+   ],
+   "caption": "Sói Xám từ mái nhà nhảy xuống, đá văng bàn máy tính, bóp nát drone rồi xách Khôi đi để mở khóa hệ thống tàu. Bị nhấc bổng giữa không trung, Khôi vẫn lén gắn con drone bọ cánh cứng tí hon vào áo khoác của hắn: “Chết mày với tao nghe con sói già...” Rồi cậu bị mang qua lỗ thủng mái nhà, gào gọi anh chị giữa màn mưa.",
+   "question": "Con bọ của Khôi sẽ giúp gì cho cả nhà?",
+   "yt_title": "Bị trùm Sói Xám bắt cóc, cậu út kịp gài một con bọ lên người hắn | Biệt Đội Gara P7",
+   "tags": [
+    "#batcoc",
+    "#hacker"
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "lan-mat-loi-giap",
+   "title": "Lan bị giật mất lõi giáp giữa cơn mưa",
+   "hook": "Bị giật mất lõi giáp,\n[GIÁP CÁO] tan biến",
+   "segments": [
+    {
+     "clip": "29.3"
+    },
+    {
+     "clip": "29.4"
+    },
+    {
+     "clip": "29.5"
+    },
+    {
+     "clip": "29.6"
+    },
+    {
+     "clip": "30.1"
+    },
+    {
+     "clip": "30.2"
+    }
+   ],
+   "caption": "Trên mái nhà giữa mưa bão, găng tay Sói Xám truyền luồng điện đen ép lõi giáp nhả ra rồi giật phăng khỏi cổ tay Lan. Giáp Cáo tan thành ánh sáng, Lan trượt khỏi mép mái, Thắng lao tới ôm kịp em gái. “Em mất lõi rồi... Giáp của em... mất thật rồi anh ơi...”",
+   "question": "Không còn giáp, Lan có quay lại chiến đấu không?",
+   "yt_title": "Bị trùm giật mất lõi giáp giữa mưa bão, Giáp Cáo tan biến | Biệt Đội Gara P8",
+   "tags": [
+    "#xucdong",
+    "#anhhung"
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "xe-bay-qua-dau-dich",
+   "title": "Xả nitro lõi đỏ, xe đua bay qua đầu xe địch",
+   "hook": "Xả nitro lõi đỏ,\nxe [BAY QUA ĐẦU] địch",
+   "segments": [
+    {
+     "clip": "39.2"
+    },
+    {
+     "clip": "39.3"
+    },
+    {
+     "clip": "39.4"
+    },
+    {
+     "clip": "39.5"
+    },
+    {
+     "clip": "39.6"
+    }
+   ],
+   "caption": "Hai xe bán tải bọc thép chắn kín cầu dẫn vào cảng. Thắng chạm lõi đỏ vào nút nitro: “Gió Đỏ, toàn lực xả ga!” Chiếc Hắc Phong phụt lửa, lao lên gờ dốc bay vút qua đầu bọn cướp đang há hốc mồm, rồi tiếp đất ngọt xớt.",
+   "question": "Cú bay này bạn chấm mấy điểm?",
+   "yt_title": "Xả nitro lõi đỏ, xe đua bay vút qua đầu xe địch | Biệt Đội Gara P9",
+   "tags": [
+    "#xebay",
+    "#nitro"
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "luon-qua-gam-xe-cau",
+   "title": "Mất giáp vẫn lái xe của ba luồn qua gầm xe cẩu",
+   "hook": "Không còn giáp, cô lái xe\nluồn [QUA GẦM XE CẨU]",
+   "segments": [
+    {
+     "clip": "40.2"
+    },
+    {
+     "clip": "40.3"
+    },
+    {
+     "clip": "40.4"
+    },
+    {
+     "clip": "40.5"
+    },
+    {
+     "clip": "40.6"
+    }
+   ],
+   "caption": "Không còn giáp, Lan lái chiếc hatchback trắng của ba bám sát đầu kéo của Sói Xám để cứu Khôi. Hắn ép cô về phía dãy container, trước mặt là gầm xe cẩu chỉ cao 1m30, Lan giật phanh tay, nghiêng xe luồn qua: “Qua gầm ngọt xớt!” Cô tạt đầu chặn xe hắn… nhưng hắn vẫn lao thẳng lên tàu.",
+   "question": "Tay lái cỡ này, ai còn dám chê tay lái nữ?",
+   "yt_title": "Mất giáp vẫn lái xe của ba luồn qua gầm xe cẩu chỉ cao 1m30 | Biệt Đội Gara P10",
+   "tags": [
+    "#laixe",
+    "#taylainu"
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "cao-bang-tro-lai",
+   "top": true,
+   "title": "Tay trần giật lại lõi giáp: Cáo Băng trở lại",
+   "hook": "Tay trần giật lại lõi giáp,\n[CÁO BĂNG] trở lại",
+   "segments": [
+    {
+     "clip": "43.2"
+    },
+    {
+     "clip": "43.3"
+    },
+    {
+     "clip": "43.4"
+    },
+    {
+     "clip": "43.5"
+    },
+    {
+     "clip": "43.6"
+    }
+   ],
+   "caption": "Không giáp, chỉ bằng tay trần và đòn khóa Vovinam, Lan giật phăng lõi trắng xanh khỏi găng tay Sói Xám. Lõi nhận lại người chủ, giáp nano bọc kín cô rực rỡ hơn bao giờ hết: “Cáo Băng trở lại rồi đây!” Cả năm chiến binh đứng thành hàng ngang trước mặt hắn.",
+   "question": "Khoảnh khắc này có làm bạn nổi da gà không?",
+   "yt_title": "Tay trần giật lại lõi giáp từ tay trùm phản diện: Cáo Băng trở lại! | Biệt Đội Gara P11",
+   "tags": [
+    "#comeback",
+    "#bienhinh"
+   ]
+  },
+  {
+   "n": 12,
+   "slug": "ve-nha-an-com-di-con",
+   "title": "Lời nhắn của người thầy khiến trùm phản diện quỳ khóc",
+   "hook": "“Về nhà ăn cơm đi con”,\ntrùm phản diện [BẬT KHÓC]",
+   "segments": [
+    {
+     "clip": "44.3"
+    },
+    {
+     "clip": "44.4"
+    },
+    {
+     "clip": "44.5"
+    },
+    {
+     "clip": "44.6"
+    }
+   ],
+   "caption": "Giáp sói vỡ vụn, Hùng quỵ gối, nửa bức thư còn lại rơi khỏi túi áo. Hai mảnh thư khớp lại, hình ảnh Bác Bảy hiện lên: “Hùng ơi... Về nhà ăn cơm đi con. Bác chờ con lâu lắm rồi.” Người sư huynh lầm lỡ gục xuống sàn tàu khóc xin lỗi cả nhà dưới ánh bình minh.",
+   "question": "Câu nói nào của Bác Bảy làm bạn rưng rưng?",
+   "yt_title": "“Về nhà ăn cơm đi con”: lời nhắn khiến trùm phản diện bật khóc | Biệt Đội Gara P12",
+   "tags": [
+    "#xucdong",
+    "#giadinh"
+   ]
+  }
+ ]
+}

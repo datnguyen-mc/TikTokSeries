@@ -1,0 +1,21 @@
+A single continuous 6-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese romantic drama on cold December nights: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth; motivated practical light (warm bus ceiling lights, streetlamps, Christmas fairy lights) against cool blue night; soft haze in the cold damp air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh of Christmas lights. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A city bus depot after midnight: rows of parked buses under orange sodium lights, puddles, a small glass dispatcher's booth with a cluttered desk, an electric kettle, instant noodle cups, a tiny plastic Christmas tree with blinking coloured lights, a two-way radio base station with a handset; outside the booth, a cardboard box lined with an old blanket where a brown stray dog nurses four puppies.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @Hung = Hưng, the driver of the last night bus (a lean 32-year-old Vietnamese man, warm tan skin, gentle narrow eyes with faint laugh lines, short slightly untidy black hair, light stubble, a shy lopsided smile); wears a navy-blue padded winter bus-driver uniform jacket with no logo or badge, a light-blue collared shirt underneath, dark-navy trousers, black work shoes. Attached image: "Hưng · Đồng phục lái xe".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] medium low-angle shot beside the cardboard box.
+
+[ACTION] @Hung crouches by the cardboard box next to the booth where a brown stray dog nurses four puppies, and lifts one sleepy puppy gently in his palm.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–2.2s, @Hung (man of 32, soft warm baritone, talks quietly as if to himself, gentle humour, soft): Còn hai đêm nữa thôi, Ngủ Gật ạ.
+After the last word nobody speaks until 6.0s. Never read these directions aloud.
+
+[SOUND] the crackle of a two-way radio, an electric kettle, rain dripping from bus roofs, a puppy whimpering. No music.
+
+[AVOID] On-screen text, burned-in subtitles or captions, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.

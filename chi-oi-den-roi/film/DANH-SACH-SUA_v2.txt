@@ -1,0 +1,34 @@
+CHỊ ƠI, ĐẾN RỒI — BẢN DỰNG v2 (1080p) · danh sách sửa so với v1
+=====================================================================
+File: CHI-OI-DEN-ROI_ban-dung-v2_1080p.mp4 (+ .srt cùng tên) · 19:10 · 1920x1080 · 24fps · AAC 192k · -17 LUFS
+
+1. LỆCH TIẾNG
+- Đo v1: hình–tiếng chỉ lệch ≤1 khung (≤30ms) do ghép AAC kiểu -c copy; thứ gây cảm giác lệch là PHỤ ĐỀ:
+  .srt v1 đặt theo giờ dự kiến trong kịch bản, còn nhân vật nói muộn hơn trung bình 0,5s (có câu >1s) → chữ hiện trước tiếng.
+- v2: hình nối theo từng khung, tiếng PCM nối theo từng mẫu (2000 mẫu/khung), mã hoá AAC 1 lần.
+  Đo lại 25 điểm rải đều phim: hình lệch 0 khung, tiếng +5ms không đổi từ đầu đến cuối.
+- Phụ đề canh theo giờ nói thật đo được ở từng shot (203 câu).
+- Cân âm lượng thoại giữa các shot (±4dB), nhạc giữ như v1.
+
+2. TẠO LẠI TRÊN FLOW (6 shot, 93 credit, đều đạt ở lần 1)
+- 19-09  mất câu "Anh đón em" → tách thành 2 câu, giờ thoại dài hơn; đã nghe đủ "Em… Anh đón em".
+- 03-01  phòng trọ tường kem sạch, khác hẳn các shot khác → tường vôi xanh bong tróc như cả cảnh.
+- 02-06  ngoài cửa sổ trông như ban ngày → đêm, đèn đường, đèn Noel.
+- 17-02, 17-06, 17-12  Đông trông như ngồi ghế khách → ngồi sau vô lăng, máy đặt trên taplô (17-12: tay Hạ nắm tay anh).
+  Bản cũ giữ trong film/clips_v1/.
+
+3. SỬA KHI DỰNG (không tốn credit)
+- 19-01  lật ngang hình: xe buýt hiện đúng phía có cửa (bên phải xe).
+- 07-07  phóng khung 82% để giấu vô lăng hiện trước mặt Hạ.
+- Che chữ/logo: 17-15 logo "VTV" góc trên trái; 15-15 chữ trên kính chòi (mở rộng vùng che); 20-03 bảng chữ trên tàu điện.
+  Giữ các vùng che cũ: 02-12, 05-05, 18-01, 19-06.
+- Màu: tự cân màu/độ sáng từng shot về trung vị cùng cảnh–cùng bối cảnh (±7%), bỏ qua các cảnh hồi tưởng; 20-08 bớt ám xanh lá.
+- Nâng 720p → 1080p (lanczos + làm nét nhẹ).
+- Nhịp: cắt bớt khoảng chết đầu shot (tối đa 0,4s) và đuôi (giữ 1,5s sau câu thoại cuối; shot cuối cảnh giữ thêm).
+  Shot không thoại giữ nguyên. Phim 21:58 → 19:10.
+
+4. ĐÃ SOÁT, GIỮ NGUYÊN
+- Liền mạch từng cảnh: xe buýt (ghế xanh, cột vàng), đồng phục Đông, áo Hạ (khăn kem → khăn đỏ từ cảnh 15),
+  chòi điều độ, nhà bà Huệ, hành lang/phòng bệnh, cổng bệnh viện, sân bay: khớp.
+- Cảnh 10/12: kiến trúc kiểu Pháp ở cổng bệnh viện — hợp với phố cổ Hà Nội, giữ.
+- 08-07: có 1 cú cắt trong clip ở 0,96s (toàn → cận), đọc như một cú dựng, giữ.

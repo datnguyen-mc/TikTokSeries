@@ -1,0 +1,31 @@
+CUỐN SÁCH TRAO TAY — BẢN MỚI V2 (khung 16:9, không viền đen, không phụ đề)
+
+Phim: Cuon-Sach-Trao-Tay_ban-moi-v2_1080p.mp4 (19:07, 1920x1080)
+Ảnh soát toàn bộ 246 shot: review/sheet_00..10.jpg
+
+Đã sửa trong lượt review này:
+- 04-12, 04-14: AI in chữ "@BaHanhTre" và "Ăn cơm đi" vào hình (trước bị viền đen che) -> cắt khung bỏ chữ.
+- 09-05, 09-12, 18-06: Mai lúc đội nón lúc không trong cùng cảnh -> tạo lại, nón đeo sau lưng như các shot khác.
+- 11-01, 11-03, 11-08: cảnh 11 lẫn đêm và chiều -> tạo lại cùng ánh chiều vàng như cả cảnh.
+- Bỏ viền đen 2.35:1, giữ màu điện ảnh, chuyển cảnh và chữ mốc thời gian.
+
+Đã sửa ở các lượt trước: cảnh gõ cửa / mở cửa / ngăn kéo (phút 11), dây buộc túi đỏ, ghế nhựa (phút 13), bông tai (cảnh 4 và cảnh 17), logo VTV, cuộc gọi mở đầu.
+
+Đã soát, không phải sửa: kính của Tùng nhất quán; bà Hạnh đeo bông tai ở cảnh 20; không còn chữ / logo nào khác trong hình.
+
+--- Review chi tiết lần 2 ---
+Ảnh soát: review2/d_00..24.jpg (4 khung/shot cho cả 246 shot)
+- Kiểm thoại tự động 161 shot có lời: không shot nào bị cụt hay lặp lời.
+- Viền đen / góc bo tròn dính trong clip (lộ ra khi bỏ letterbox): 25 shot -> cắt khung bỏ viền
+  (01-03, 01-14, 02-04, 02-05, 02-06, 04-07, 04-08, 04-09, 05-01, 08-10, 10-04, 10-05, 10-07, 10-11, 10-12,
+   11-07, 14-02, 14-06, 15-05, 17-02, 17-09, 17-11, 18-07, 18-09, 18-10).
+- Máy ủi đổi kiểu (lúc bánh lốp, lúc bánh xích): tạo lại 14-07, 15-05, 15-07 -> cùng một máy xúc bánh lốp màu vàng.
+- Biển hiệu chữ vô nghĩa do AI vẽ: tạo lại 14-03, 15-06 không có biển chữ.
+- Tùng ở trong nhà trong khi Khang đứng ngoài sân (sai hướng nhìn): tạo lại 11-05, 11-06 ngoài sân, nắng chiều.
+  11-06 bản mới dính logo VTV góc phải -> đã cắt bỏ; quét lại logo cả 246 shot: không còn.
+Còn để nguyên (nhỏ): 18-12 Mai đội nón rồi chuyển ra sau lưng trong lúc đưa tay; vài biển chữ mờ ở hậu cảnh phố chợ.
+
+--- Lượt nhạc nền + 2 lỗi ---
+- 5:06 (05-10): làm lại — Khang gập cuốn sách xanh kẹp nách, cầm đúng một chiếc chìa khoá xe.
+- 16:18 (18-06): làm lại — Mai cầm tờ giấy ố vàng giống lúc Khang đưa.
+- Thêm nhạc nền 8 bản (xem nhac/BANG-NHAC.txt). Bản không nhạc giữ ở ..._khong-nhac.mp4.

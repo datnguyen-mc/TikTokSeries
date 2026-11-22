@@ -1,0 +1,17 @@
+MỞ PROJECT "VƯỜN THÚ TẬN THẾ" TRONG DAVINCI RESOLVE
+
+Phim này được lắp ráp bằng MakeMyClip Editor (timeline: thẻ tựa > Phần 1, 2, 3 > thẻ "CÒN TIẾP").
+
+1. VuonThu_project.fcpxml là timeline MakeMyClip xuất ra. Các clip nguồn nằm trong
+   TikTokSeries/stickman/_mmc/11-VuonThu/ (ch1-3.mp4) — đã có sẵn lồng tiếng Việt,
+   nhạc nền và phụ đề Việt bên trong. Đừng xóa thư mục đó nếu còn muốn mở project.
+
+2. DaVinci Resolve > File > Import > Timeline... > chọn VuonThu_project.fcpxml.
+   Nếu báo thiếu media, bấm Relink và trỏ tới thư mục stickman/_mmc/11-VuonThu.
+
+3. Khác biệt so với bản MP4:
+   - Trong project, mọi chuyển cảnh được ghi thành Cross Dissolve (FCPXML không mang được slide / wipe / circle);
+     bản MP4 dùng chuyển màn tối (fade to black) giữa các phần.
+   - Chữ tiêu đề trong project là Basic Title, không có nền mờ phía sau như bản MP4.
+
+4. Video gốc douyin/11-7693864944018795402.mp4 được giữ nguyên, không sửa.

@@ -1,0 +1,6402 @@
+{
+  "version": 1,
+  "rev": 246,
+  "entries": [
+    {
+      "id": "op_586b1070",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_e1f8d266f6aa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-01.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:55.014Z"
+    },
+    {
+      "id": "op_a51d2345",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_652d493aca48",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-02.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:55.432Z"
+    },
+    {
+      "id": "op_d3e4fa5e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_2ee11e308c8c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:55.805Z"
+    },
+    {
+      "id": "op_88ae1c68",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_92ac99a9d78b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-04.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:56.364Z"
+    },
+    {
+      "id": "op_b88382fd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_5de6470dd5a6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:56.708Z"
+    },
+    {
+      "id": "op_eea59d41",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_fe1a98ba86b4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-06.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:57.090Z"
+    },
+    {
+      "id": "op_779e100f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_abdaedb341d2",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:57.427Z"
+    },
+    {
+      "id": "op_96d4f15a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_fe8e5e61858e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-08.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:57.803Z"
+    },
+    {
+      "id": "op_ab115fa5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_d2789dff0917",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:58.126Z"
+    },
+    {
+      "id": "op_cd6be124",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_d8f2aaac522c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-10.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:58.475Z"
+    },
+    {
+      "id": "op_721a31db",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_cdf071f382d5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:58.783Z"
+    },
+    {
+      "id": "op_26c3b618",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_5ef94bb27642",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:59.103Z"
+    },
+    {
+      "id": "op_6cffb857",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-13.mp4"
+      },
+      "result": {
+        "mediaId": "m_d565d645742c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-13.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:59.463Z"
+    },
+    {
+      "id": "op_4872c3b5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-14.mp4"
+      },
+      "result": {
+        "mediaId": "m_36295f972eb8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/01-14.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:46:59.811Z"
+    },
+    {
+      "id": "op_f8dc15db",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_de2ad0f5ba62",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-01.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:00.196Z"
+    },
+    {
+      "id": "op_8977a9b4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_3ae11d324c88",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:00.514Z"
+    },
+    {
+      "id": "op_3295713f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_d9a091df0b3f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-03.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:00.850Z"
+    },
+    {
+      "id": "op_739ee4df",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_c454abdff107",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-04.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:01.216Z"
+    },
+    {
+      "id": "op_986e6541",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_b86ab8cf7085",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-05.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:01.571Z"
+    },
+    {
+      "id": "op_5d4a6db8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_5ed1bd2cda98",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-06.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:01.939Z"
+    },
+    {
+      "id": "op_d6e4f3dd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_83f09fe92bd1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:02.281Z"
+    },
+    {
+      "id": "op_0f09345e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_fde3cbf6dda5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:02.610Z"
+    },
+    {
+      "id": "op_43ccd1ba",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_270b9e8bacda",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:02.961Z"
+    },
+    {
+      "id": "op_16a2ede6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_def1312dbc30",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-10.mp4",
+          "durationSec": 8.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:03.371Z"
+    },
+    {
+      "id": "op_9caaf7cd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/output_videos/canh-01_clip-3.mp4"
+      },
+      "result": {
+        "mediaId": "m_8c7303a7b2d1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/output_videos/canh-01_clip-3.mp4",
+          "durationSec": 15.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:04.025Z"
+    },
+    {
+      "id": "op_cfedb488",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_eecee70d93b3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:04.366Z"
+    },
+    {
+      "id": "op_0b584ccc",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-13.mp4"
+      },
+      "result": {
+        "mediaId": "m_13390d1a10aa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/02-13.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:04.701Z"
+    },
+    {
+      "id": "op_24d4b324",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/output_videos/canh-01_clip-4.mp4"
+      },
+      "result": {
+        "mediaId": "m_d2e5e8bb6443",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/output_videos/canh-01_clip-4.mp4",
+          "durationSec": 15.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:05.375Z"
+    },
+    {
+      "id": "op_17cc2a53",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_06e356aa02a2",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-02.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:05.733Z"
+    },
+    {
+      "id": "op_e37c24e6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_06e0c45d734c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:06.101Z"
+    },
+    {
+      "id": "op_88dcd4bd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_c84f246d489f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:06.468Z"
+    },
+    {
+      "id": "op_c3f2eae4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_5d8963b25e38",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-06.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:06.873Z"
+    },
+    {
+      "id": "op_10ca1991",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_ff883142a708",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:07.223Z"
+    },
+    {
+      "id": "op_90aa5a44",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_bad25a51b914",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:07.563Z"
+    },
+    {
+      "id": "op_db802c18",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_d66b86ed56d1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:07.912Z"
+    },
+    {
+      "id": "op_504ebe0b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_4bd113922332",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:08.262Z"
+    },
+    {
+      "id": "op_df8f4c05",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_9af532855140",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-11.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:08.643Z"
+    },
+    {
+      "id": "op_5dd1300c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_7de2771a8ba3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/03-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:09.004Z"
+    },
+    {
+      "id": "op_5e5503f6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_b9e00e4c24ca",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:09.396Z"
+    },
+    {
+      "id": "op_a13c5861",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_5128156f7037",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:09.729Z"
+    },
+    {
+      "id": "op_ab457be9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_4e6a5ed66000",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:10.056Z"
+    },
+    {
+      "id": "op_22487d4f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_347a12d24fe4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-04.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:10.430Z"
+    },
+    {
+      "id": "op_12899382",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_cf4fef8d8420",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:10.776Z"
+    },
+    {
+      "id": "op_949cc40e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_3a78df1c06c9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:11.107Z"
+    },
+    {
+      "id": "op_87cd87f4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_0cd55f3ebdb7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-07.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:11.456Z"
+    },
+    {
+      "id": "op_4b5e953d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_6a81bd898596",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:11.783Z"
+    },
+    {
+      "id": "op_25a918b3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_6f9a7b1fee10",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:12.112Z"
+    },
+    {
+      "id": "op_fd8f5426",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_24d15e4e6277",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:12.493Z"
+    },
+    {
+      "id": "op_56ba5155",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_2e6ecca59924",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:12.840Z"
+    },
+    {
+      "id": "op_3163fbb5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_66cffb4e5697",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:13.156Z"
+    },
+    {
+      "id": "op_8b0c082e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-13.mp4"
+      },
+      "result": {
+        "mediaId": "m_f5741208fe97",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-13.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:13.495Z"
+    },
+    {
+      "id": "op_10d3a21c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-14.mp4"
+      },
+      "result": {
+        "mediaId": "m_49bd49309c5e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/04-14.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:13.843Z"
+    },
+    {
+      "id": "op_157a636e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_f892cc28fb6d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:14.173Z"
+    },
+    {
+      "id": "op_8b7fce85",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_dfca7b10aabe",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:14.488Z"
+    },
+    {
+      "id": "op_f3e590f1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_b55be8e71151",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-03.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:14.851Z"
+    },
+    {
+      "id": "op_428611d6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_5bdbc64707fa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-04.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:15.223Z"
+    },
+    {
+      "id": "op_04010e6a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_a1112d381cde",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:15.542Z"
+    },
+    {
+      "id": "op_edff7742",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_05a7b1430f65",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-06.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:15.902Z"
+    },
+    {
+      "id": "op_a261bccd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_78a383221784",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:16.250Z"
+    },
+    {
+      "id": "op_faea7b3a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_dc1bcf5089b6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-08.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:16.691Z"
+    },
+    {
+      "id": "op_94232a63",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_b5f89eae9725",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:17.026Z"
+    },
+    {
+      "id": "op_c0156b10",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_610486c46621",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:17.366Z"
+    },
+    {
+      "id": "op_fcb267e4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_461efc4f9fdc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:17.710Z"
+    },
+    {
+      "id": "op_60065dac",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_ad2ab545f3fa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/05-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:18.048Z"
+    },
+    {
+      "id": "op_e9cdeb88",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_ead6b95f01ed",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:18.468Z"
+    },
+    {
+      "id": "op_2ae50b10",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_6153fdac5638",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:18.850Z"
+    },
+    {
+      "id": "op_696ebbe6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_e0ee14308814",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:19.242Z"
+    },
+    {
+      "id": "op_ab55997e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_d34825a2817c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:19.624Z"
+    },
+    {
+      "id": "op_57566f85",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_00464b2f1acb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-05.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:19.989Z"
+    },
+    {
+      "id": "op_4f46856a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_6950ceaf9249",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:20.336Z"
+    },
+    {
+      "id": "op_a0577ceb",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_31be1c30b850",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-07.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:20.736Z"
+    },
+    {
+      "id": "op_c0b78c51",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_d0e5f415f494",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:21.090Z"
+    },
+    {
+      "id": "op_46fad803",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_2530d04b04ff",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-09.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:21.459Z"
+    },
+    {
+      "id": "op_d50c7fe2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_3f8d18ee4ee6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:21.803Z"
+    },
+    {
+      "id": "op_ec4e1150",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_cb3ddef86325",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:22.204Z"
+    },
+    {
+      "id": "op_6a040a04",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_de1a68588c37",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/06-12.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:22.609Z"
+    },
+    {
+      "id": "op_64f74019",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_ae4c1a107019",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-01.mp4",
+          "durationSec": 7.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:23.034Z"
+    },
+    {
+      "id": "op_a95d15d2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_fe7add461ed1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:23.378Z"
+    },
+    {
+      "id": "op_c75a3578",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_0d935df6915a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-03.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:23.766Z"
+    },
+    {
+      "id": "op_aacbfa6d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_35d708af95dd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-04.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:24.107Z"
+    },
+    {
+      "id": "op_91cb5d7c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_28c9e128fc64",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:24.497Z"
+    },
+    {
+      "id": "op_57f19a45",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_699e241281cb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:24.915Z"
+    },
+    {
+      "id": "op_251f0ec6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_2e08134b601f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:25.348Z"
+    },
+    {
+      "id": "op_e7ad8c72",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_4a9754e26263",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-08.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:25.785Z"
+    },
+    {
+      "id": "op_e3be8767",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_99c0b32ef178",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:26.120Z"
+    },
+    {
+      "id": "op_35537ff8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_ca470cbce872",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-10.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:26.531Z"
+    },
+    {
+      "id": "op_ec80ca18",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_65b25baee663",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:26.869Z"
+    },
+    {
+      "id": "op_203ab982",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_0e0ffef50804",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/07-12.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:27.258Z"
+    },
+    {
+      "id": "op_d7c740de",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_dafe924f5d09",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:27.611Z"
+    },
+    {
+      "id": "op_54d93cb9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_3e3502dfd01b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-02.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:28.005Z"
+    },
+    {
+      "id": "op_4e1e94c4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_effbe5849931",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:28.336Z"
+    },
+    {
+      "id": "op_5afa1756",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_80fea43f6c3a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:28.690Z"
+    },
+    {
+      "id": "op_eb8a985f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_7118e2b6f071",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-05.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:29.076Z"
+    },
+    {
+      "id": "op_fbfbdb24",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_dd89e9089372",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:29.435Z"
+    },
+    {
+      "id": "op_939ff732",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_f9197871a388",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:29.766Z"
+    },
+    {
+      "id": "op_72e906f0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_77399b594182",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:30.107Z"
+    },
+    {
+      "id": "op_14193ec5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_a22fdc2742b6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-09.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:30.509Z"
+    },
+    {
+      "id": "op_f3c58e90",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_656d37768562",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:30.844Z"
+    },
+    {
+      "id": "op_d5c83379",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_7e44a8fb8b52",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:31.168Z"
+    },
+    {
+      "id": "op_3942a5d1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_0049e2f2b3f8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/08-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:31.552Z"
+    },
+    {
+      "id": "op_02f451d7",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_8138f5d1965e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:31.932Z"
+    },
+    {
+      "id": "op_d9673c43",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_87670657a8c7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:32.314Z"
+    },
+    {
+      "id": "op_fd231f68",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_40ecd30a92b7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-03.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:32.707Z"
+    },
+    {
+      "id": "op_af8c73e2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_0d9f2b7430f4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-04.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:33.138Z"
+    },
+    {
+      "id": "op_ea6ba08b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_624f891e5090",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-05.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:33.487Z"
+    },
+    {
+      "id": "op_ebb0604d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_2e805f45c9ec",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:33.818Z"
+    },
+    {
+      "id": "op_7f903002",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_8210abc7862f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-07.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:34.148Z"
+    },
+    {
+      "id": "op_21d47df3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_ea7e0299a045",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:34.478Z"
+    },
+    {
+      "id": "op_7feee45a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_73fdcc0b2dfa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-09.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:34.879Z"
+    },
+    {
+      "id": "op_82dd789b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_031e5c65c82e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-10.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:35.247Z"
+    },
+    {
+      "id": "op_4d2bcf6a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_6943dad11913",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:35.573Z"
+    },
+    {
+      "id": "op_8171edfc",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_0585b5838b02",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:35.912Z"
+    },
+    {
+      "id": "op_1d251037",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-13.mp4"
+      },
+      "result": {
+        "mediaId": "m_9756558bff09",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-13.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:36.245Z"
+    },
+    {
+      "id": "op_a72c629c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-14.mp4"
+      },
+      "result": {
+        "mediaId": "m_f70f8d302450",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/09-14.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:36.641Z"
+    },
+    {
+      "id": "op_f0d63042",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_178de71c006e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:36.986Z"
+    },
+    {
+      "id": "op_8c340201",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_e44502fba495",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:37.330Z"
+    },
+    {
+      "id": "op_32fc83d8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_33d62243b6ba",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:37.674Z"
+    },
+    {
+      "id": "op_89f32782",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_44f575884899",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:38.066Z"
+    },
+    {
+      "id": "op_2f343985",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_9130c4e2840b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:38.406Z"
+    },
+    {
+      "id": "op_93447379",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_aade876864f1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:38.765Z"
+    },
+    {
+      "id": "op_c2de2ee0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_871b6426b637",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-07.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:39.117Z"
+    },
+    {
+      "id": "op_97ceddb9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_0f0a5275ce72",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:39.482Z"
+    },
+    {
+      "id": "op_d97f7734",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_97a0de391795",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-09.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:39.822Z"
+    },
+    {
+      "id": "op_fbe169a5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_9a7c7bb23c44",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-10.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:40.142Z"
+    },
+    {
+      "id": "op_58da6648",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_c0560febf028",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:40.456Z"
+    },
+    {
+      "id": "op_b568d8da",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_338b9a4f9e11",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/10-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:40.811Z"
+    },
+    {
+      "id": "op_dba8d722",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_20c031793a95",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:41.178Z"
+    },
+    {
+      "id": "op_d45d5ff8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_6ebddb3b5742",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:41.534Z"
+    },
+    {
+      "id": "op_743dba8d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_b68ce69ca3fb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-03.mp4",
+          "durationSec": 7.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:41.904Z"
+    },
+    {
+      "id": "op_0b48c290",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_d0e7edaae6da",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-04.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:42.223Z"
+    },
+    {
+      "id": "op_c0583df9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_07092a3bb88b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-05.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:42.552Z"
+    },
+    {
+      "id": "op_6115906a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_d4a2966cd0ac",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-06.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:42.953Z"
+    },
+    {
+      "id": "op_1a4bed48",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_bd612d941a0f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-07.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:43.291Z"
+    },
+    {
+      "id": "op_2569e683",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_1f43023f3b28",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:43.618Z"
+    },
+    {
+      "id": "op_78fa39ae",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_32bcdb6ad5a1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-09.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:44.034Z"
+    },
+    {
+      "id": "op_dbee819f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_4a3bee3621dd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:44.368Z"
+    },
+    {
+      "id": "op_72e2f716",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_4367f0849b6c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-11.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:44.733Z"
+    },
+    {
+      "id": "op_030b851e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_e5fde1f682c9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/11-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:45.084Z"
+    },
+    {
+      "id": "op_74934051",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_581bcea0b4e4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:45.429Z"
+    },
+    {
+      "id": "op_b53652a9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_db0163492945",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:45.834Z"
+    },
+    {
+      "id": "op_5c2c3e55",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_fa2057d3f6e2",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:46.316Z"
+    },
+    {
+      "id": "op_c0359774",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_1e5e40efa7bc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-04.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:46.725Z"
+    },
+    {
+      "id": "op_0bd0cbaf",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_047636d3d1cf",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:47.098Z"
+    },
+    {
+      "id": "op_033e4fdd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_9855fbac5141",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:47.469Z"
+    },
+    {
+      "id": "op_9b72f6b4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_03155b71be0c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:47.854Z"
+    },
+    {
+      "id": "op_48310ea9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_cc43af1c690a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-08.mp4",
+          "durationSec": 7.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:48.287Z"
+    },
+    {
+      "id": "op_40927d8b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_381e8936c574",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:48.613Z"
+    },
+    {
+      "id": "op_29cb875e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_39220582d597",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-10.mp4",
+          "durationSec": 7.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:49.063Z"
+    },
+    {
+      "id": "op_078fce9c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_ac87b0fb4daf",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:49.406Z"
+    },
+    {
+      "id": "op_f3afdf0f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_fff2baa1977b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/12-12.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:49.769Z"
+    },
+    {
+      "id": "op_f6e8f67b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_58df92501a29",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:50.123Z"
+    },
+    {
+      "id": "op_bee79931",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_51f843a9d5a3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-02.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:50.493Z"
+    },
+    {
+      "id": "op_eb76fa0b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_ac1cc80a3fd3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:50.828Z"
+    },
+    {
+      "id": "op_761b1fdc",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_e20ba60e3b20",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-04.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:51.149Z"
+    },
+    {
+      "id": "op_c74274be",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_6a6a6a0f4e10",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-05.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:51.507Z"
+    },
+    {
+      "id": "op_3ba9b05e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_8103ea7a7e63",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:51.867Z"
+    },
+    {
+      "id": "op_1e209783",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_36d3bc8eadf1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:52.256Z"
+    },
+    {
+      "id": "op_156353e2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_5169511a508d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:52.617Z"
+    },
+    {
+      "id": "op_c0e8dc88",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_b1d7b552dfcd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:52.949Z"
+    },
+    {
+      "id": "op_d3b0a97a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_8b98447dcc19",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-10.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:53.294Z"
+    },
+    {
+      "id": "op_0ffd62b5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_52a5fffaea2c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/13-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:53.631Z"
+    },
+    {
+      "id": "op_1149129b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_36cc1c21c510",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:53.976Z"
+    },
+    {
+      "id": "op_50078313",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_c61b0723532f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:54.313Z"
+    },
+    {
+      "id": "op_c7cbbf90",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_6f742451ca7a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-03.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:54.687Z"
+    },
+    {
+      "id": "op_2198963b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_c9f300c3290d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:55.047Z"
+    },
+    {
+      "id": "op_271f2895",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_71ec383aeb8d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-05.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:55.460Z"
+    },
+    {
+      "id": "op_59e05c48",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_7d8ede0fe94e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:55.795Z"
+    },
+    {
+      "id": "op_858b330e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_5fe4bb1e5fd3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:56.149Z"
+    },
+    {
+      "id": "op_8c7ca5f2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_3e4718277bb4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:56.487Z"
+    },
+    {
+      "id": "op_045a63ee",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_53f6f9628f59",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:56.804Z"
+    },
+    {
+      "id": "op_a88e694c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_02ded0a368e7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:57.174Z"
+    },
+    {
+      "id": "op_8cfb1045",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_598e2cf863e7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/14-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:57.515Z"
+    },
+    {
+      "id": "op_38d79561",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_bcaf995e5c07",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:57.886Z"
+    },
+    {
+      "id": "op_a7aac97b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_a0b86ffe65b7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:58.209Z"
+    },
+    {
+      "id": "op_c3a122f1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_acc2841a610d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-03.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:58.552Z"
+    },
+    {
+      "id": "op_e7b962b6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_7f8a5856442f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-04.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:58.927Z"
+    },
+    {
+      "id": "op_9e4065e3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_5ac2d419f976",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:59.303Z"
+    },
+    {
+      "id": "op_712b1b41",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_e4b6c78767fd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-06.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:47:59.680Z"
+    },
+    {
+      "id": "op_5a1196bb",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_db2cd5487e46",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:00.074Z"
+    },
+    {
+      "id": "op_4b810806",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_00834bf8d99f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-08.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:00.425Z"
+    },
+    {
+      "id": "op_f4af0479",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_ff847a179101",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:00.741Z"
+    },
+    {
+      "id": "op_685e89f3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_fe435edf6663",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:01.086Z"
+    },
+    {
+      "id": "op_fc2c6861",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_04e42d1d74e4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:01.437Z"
+    },
+    {
+      "id": "op_ab04a457",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_b8a44a704d87",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/15-12.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:01.775Z"
+    },
+    {
+      "id": "op_cdf38678",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_394afada7168",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:02.124Z"
+    },
+    {
+      "id": "op_024472ab",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_75b089b2a0a4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-02.mp4",
+          "durationSec": 7.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:02.510Z"
+    },
+    {
+      "id": "op_e166e03b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_07f9b002db22",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:02.847Z"
+    },
+    {
+      "id": "op_6daeb17f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_ed4f300a3ee6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-04.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:03.174Z"
+    },
+    {
+      "id": "op_0db90aac",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_3a211523194e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:03.514Z"
+    },
+    {
+      "id": "op_eb20f21e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_fc1cb765d4cc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-06.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:03.865Z"
+    },
+    {
+      "id": "op_000efbd5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_8962cdf52cb0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-07.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:04.215Z"
+    },
+    {
+      "id": "op_d1d65294",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_c893cc318de5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:04.531Z"
+    },
+    {
+      "id": "op_9920fc19",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_8e3169961593",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-09.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:04.932Z"
+    },
+    {
+      "id": "op_b4e6bc57",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_c9430063103b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-10.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:05.260Z"
+    },
+    {
+      "id": "op_3e7b7463",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_ce2a0a9d4890",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/16-11.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:05.616Z"
+    },
+    {
+      "id": "op_d4c230ab",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_eddbd4bc30db",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:05.968Z"
+    },
+    {
+      "id": "op_def071e2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_c9e8af8ba011",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:06.303Z"
+    },
+    {
+      "id": "op_c63f1111",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_e47f87ae85dd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:06.626Z"
+    },
+    {
+      "id": "op_5f983e2a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_413d9fee1bb7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:06.964Z"
+    },
+    {
+      "id": "op_aafa1b7f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_2c2995c3098f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:07.311Z"
+    },
+    {
+      "id": "op_755173fa",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_71894bdd2e81",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:07.648Z"
+    },
+    {
+      "id": "op_4b7a8b76",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_18c1a076f16b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-07.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:08.028Z"
+    },
+    {
+      "id": "op_fdfe3e13",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_186d423ea927",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:08.389Z"
+    },
+    {
+      "id": "op_ec299997",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_6b7e68db6ef8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-09.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:08.733Z"
+    },
+    {
+      "id": "op_21e1bf5a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_72f4b3bcdab6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-10.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:09.091Z"
+    },
+    {
+      "id": "op_a40920b0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_bce167fb7785",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/17-11.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:09.468Z"
+    },
+    {
+      "id": "op_dfb4d63b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_512bc2b66706",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:09.823Z"
+    },
+    {
+      "id": "op_b51afa42",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_101e4d0b690b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:10.169Z"
+    },
+    {
+      "id": "op_cf1ccf01",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_a5ededd0c70f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:10.505Z"
+    },
+    {
+      "id": "op_805a17c8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_847c1059c0d1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:10.853Z"
+    },
+    {
+      "id": "op_c68a7367",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_f4c25a8a076f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:11.205Z"
+    },
+    {
+      "id": "op_0d2aaf5b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_eb955d53c56b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-06.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:11.575Z"
+    },
+    {
+      "id": "op_d86c6a87",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_fe4dd0bd8af3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:11.920Z"
+    },
+    {
+      "id": "op_dd07efd6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_93e59e766bd0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-08.mp4",
+          "durationSec": 7.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:12.296Z"
+    },
+    {
+      "id": "op_55a77948",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_373d2ede2006",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:12.649Z"
+    },
+    {
+      "id": "op_f5c2b718",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_d713b110167e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-10.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:12.993Z"
+    },
+    {
+      "id": "op_538fcc4c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_cff6a2bf5d86",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:13.344Z"
+    },
+    {
+      "id": "op_3b745ede",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_10438604972b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-12.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:13.708Z"
+    },
+    {
+      "id": "op_05607778",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-13.mp4"
+      },
+      "result": {
+        "mediaId": "m_09b9c2e0115c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-13.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:14.062Z"
+    },
+    {
+      "id": "op_ba97aed8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-14.mp4"
+      },
+      "result": {
+        "mediaId": "m_1a05fd8b8347",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/18-14.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:14.462Z"
+    },
+    {
+      "id": "op_2f893635",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_082162b10a30",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-01.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:14.808Z"
+    },
+    {
+      "id": "op_c51a7e73",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_3196fdf7ca7d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:15.153Z"
+    },
+    {
+      "id": "op_6ad29aff",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_abf689d77a62",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-03.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:15.498Z"
+    },
+    {
+      "id": "op_ed145e98",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_aa9673bb8e1f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:15.844Z"
+    },
+    {
+      "id": "op_31b1bba0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_934c18804de2",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-05.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:16.190Z"
+    },
+    {
+      "id": "op_87d07795",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_be0aa8b327f6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-06.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:16.527Z"
+    },
+    {
+      "id": "op_08177c30",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_deb5853eaabe",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-07.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:16.881Z"
+    },
+    {
+      "id": "op_e07e78f9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_1a9f6966acb5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-08.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:17.224Z"
+    },
+    {
+      "id": "op_5aa7d28c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_189901d6109d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-09.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:17.568Z"
+    },
+    {
+      "id": "op_4c715529",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_7847e9bd00bc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-10.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:17.918Z"
+    },
+    {
+      "id": "op_15bc1cae",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_3af14de24816",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/19-11.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:18.255Z"
+    },
+    {
+      "id": "op_f49e8605",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-01.mp4"
+      },
+      "result": {
+        "mediaId": "m_d5b23d0aabb7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-01.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:18.660Z"
+    },
+    {
+      "id": "op_247a830f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-02.mp4"
+      },
+      "result": {
+        "mediaId": "m_901b79c746c7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-02.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:19.028Z"
+    },
+    {
+      "id": "op_d0662e0d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-03.mp4"
+      },
+      "result": {
+        "mediaId": "m_c15432c5889e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-03.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:19.432Z"
+    },
+    {
+      "id": "op_58cef56b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-04.mp4"
+      },
+      "result": {
+        "mediaId": "m_eada4f14fa7f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-04.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:19.779Z"
+    },
+    {
+      "id": "op_841757ba",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-05.mp4"
+      },
+      "result": {
+        "mediaId": "m_f39e0bd18b2c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-05.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:20.121Z"
+    },
+    {
+      "id": "op_5c0a0e45",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-06.mp4"
+      },
+      "result": {
+        "mediaId": "m_35148c44bc19",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-06.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:20.477Z"
+    },
+    {
+      "id": "op_5272ee0e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-07.mp4"
+      },
+      "result": {
+        "mediaId": "m_3e674aea622a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-07.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:20.818Z"
+    },
+    {
+      "id": "op_bdf440d3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-08.mp4"
+      },
+      "result": {
+        "mediaId": "m_ccca14190ced",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-08.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:21.161Z"
+    },
+    {
+      "id": "op_f6341365",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-09.mp4"
+      },
+      "result": {
+        "mediaId": "m_6388f1b455aa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-09.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:21.530Z"
+    },
+    {
+      "id": "op_bdec9de9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-10.mp4"
+      },
+      "result": {
+        "mediaId": "m_7589dc11c182",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-10.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:21.901Z"
+    },
+    {
+      "id": "op_9d345a6f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-11.mp4"
+      },
+      "result": {
+        "mediaId": "m_7ad3a8dc99cd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-11.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:22.268Z"
+    },
+    {
+      "id": "op_eb8f80b0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-12.mp4"
+      },
+      "result": {
+        "mediaId": "m_8d74cf39b79c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-12.mp4",
+          "durationSec": 6.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:22.622Z"
+    },
+    {
+      "id": "op_12092844",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-13.mp4"
+      },
+      "result": {
+        "mediaId": "m_99bc2e13bc3b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-13.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:22.941Z"
+    },
+    {
+      "id": "op_8632e5a7",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-14.mp4"
+      },
+      "result": {
+        "mediaId": "m_ad3f23d1c2bb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-14.mp4",
+          "durationSec": 4.03,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:48:23.277Z"
+    },
+    {
+      "id": "op_dcc17792",
+      "timestamp": "2026-11-21T13:48:23.630Z",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-15.mp4"
+      },
+      "result": {
+        "mediaId": "m_40432d39f76b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/cuon-sach-trao-tay/film/clips/20-15.mp4",
+          "durationSec": 5.04,
+          "video": {
+            "codec": "h264",
+            "width": 1280,
+            "height": 720,
+            "fps": 24
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      }
+    }
+  ]
+}

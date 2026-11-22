@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1920" height="1080"/>
+<format id="r2" frameDuration="1/30s" width="1920" height="1080"/>
+<asset id="r3" name="A13_EN_teaser1" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser1.mp4"/></asset>
+<asset id="r4" name="A13_EN_teaser2" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser2.mp4"/></asset>
+<asset id="r5" name="A13_EN_teaser3" start="0s" duration="3/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser3.mp4"/></asset>
+<asset id="r6" name="A13_EN_teaser4" start="0s" duration="3/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser4.mp4"/></asset>
+<asset id="r7" name="A13_EN_teaser5" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser5.mp4"/></asset>
+<asset id="r8" name="A13_EN_teaser6" start="0s" duration="3/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser6.mp4"/></asset>
+<asset id="r9" name="A13_EN_hook" start="0s" duration="4s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_hook.mp4"/></asset>
+<asset id="r10" name="A13_EN_ch00" start="0s" duration="931/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch00.mp4"/></asset>
+<asset id="r11" name="A13_EN_ch01" start="0s" duration="1429/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch01.mp4"/></asset>
+<asset id="r12" name="A13_EN_ch02" start="0s" duration="294/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch02.mp4"/></asset>
+<asset id="r13" name="A13_EN_ch03" start="0s" duration="746/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch03.mp4"/></asset>
+<asset id="r14" name="A13_EN_ch04" start="0s" duration="473/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch04.mp4"/></asset>
+<asset id="r15" name="A13_EN_ch05" start="0s" duration="461/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch05.mp4"/></asset>
+<asset id="r16" name="A13_EN_ch06" start="0s" duration="1273/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch06.mp4"/></asset>
+<asset id="r17" name="A13_EN_ch07" start="0s" duration="237/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch07.mp4"/></asset>
+<asset id="r18" name="A13_EN_ch08" start="0s" duration="662/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch08.mp4"/></asset>
+<asset id="r19" name="A13_EN_ch09" start="0s" duration="491/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch09.mp4"/></asset>
+<asset id="r20" name="A13_EN_ch10" start="0s" duration="282/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch10.mp4"/></asset>
+<asset id="r21" name="A13_EN_ch11" start="0s" duration="301/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch11.mp4"/></asset>
+<asset id="r22" name="A13_EN_ch12" start="0s" duration="1657/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch12.mp4"/></asset>
+<asset id="r23" name="A13_EN_ch13" start="0s" duration="131/6s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch13.mp4"/></asset>
+<asset id="r24" name="A13_EN_endcard" start="0s" duration="10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_endcard.mp4"/></asset>
+<effect id="r25" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r26" name="Audio Crossfade" uid="FFAudioTransition"/>
+</resources>
+<library><event name="MakeMyClip"><project name="APOLLO13_Film_16x9"><sequence format="r1" duration="672s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="r3" offset="0s" name="A13_EN_teaser1" start="0s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r4" offset="13/10s" name="A13_EN_teaser2" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="12/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r5" offset="5/2s" name="A13_EN_teaser3" start="1/10s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="37/10s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r6" offset="19/5s" name="A13_EN_teaser4" start="1/10s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r7" offset="51/10s" name="A13_EN_teaser5" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="31/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r8" offset="63/10s" name="A13_EN_teaser6" start="1/10s" duration="7/5s" format="r2"></asset-clip>
+<asset-clip ref="r9" offset="77/10s" name="A13_EN_hook" start="0s" duration="19/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="113/10s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r10" offset="23/2s" name="A13_EN_ch00" start="1/5s" duration="919/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="629/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r11" offset="632/15s" name="A13_EN_ch01" start="1/5s" duration="1417/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="535/6s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r12" offset="2681/30s" name="A13_EN_ch02" start="1/5s" duration="292/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4427/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r13" offset="4433/30s" name="A13_EN_ch03" start="1/5s" duration="148/3s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1969/10s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r14" offset="1971/10s" name="A13_EN_ch04" start="1/5s" duration="703/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="7313/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r15" offset="7319/30s" name="A13_EN_ch05" start="1/5s" duration="228/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4339/15s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r16" offset="8687/30s" name="A13_EN_ch06" start="3/10s" duration="419/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1656/5s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r17" offset="4972/15s" name="A13_EN_ch07" start="4/15s" duration="704/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1891/5s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r18" offset="1892/5s" name="A13_EN_ch08" start="1/5s" duration="437/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2531/6s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r19" offset="4221/10s" name="A13_EN_ch09" start="4/15s" duration="243/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="941/2s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r20" offset="4707/10s" name="A13_EN_ch10" start="1/5s" duration="839/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="15791/30s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r21" offset="15799/30s" name="A13_EN_ch11" start="4/15s" duration="179/3s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="17581/30s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r22" offset="5863/10s" name="A13_EN_ch12" start="4/15s" duration="164/3s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1922/3s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r23" offset="19229/30s" name="A13_EN_ch13" start="3/10s" duration="213/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="662s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r24" offset="9934/15s" name="A13_EN_endcard" start="4/15s" duration="146/15s" format="r2"></asset-clip>
+</spine></sequence></project></event></library>
+</fcpxml>

@@ -1,0 +1,22 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese romantic drama on cold December nights: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth; motivated practical light (warm bus ceiling lights, streetlamps, Christmas fairy lights) against cool blue night; soft haze in the cold damp air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh of Christmas lights. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] Inside an empty mid-size city bus at night in a Northern Vietnamese city in December: worn blue fabric seats in pairs, yellow steel grab poles, a folding front door, warm yellowish ceiling strip lights, windows fogged at the edges with streaks of drizzle, the city sliding past outside in blurred amber streetlights and strings of coloured Christmas fairy lights; a large rectangular rear-view mirror above the windscreen; the driver's seat on the left with a big steering wheel and a small black two-way radio handset on a curly cord clipped to the dashboard; no route numbers or signs anywhere.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @Hung = Hưng, the driver of the last night bus (a lean 32-year-old Vietnamese man, warm tan skin, gentle narrow eyes with faint laugh lines, short slightly untidy black hair, light stubble, a shy lopsided smile); wears a navy-blue padded winter bus-driver uniform jacket with no logo or badge, a light-blue collared shirt underneath, dark-navy trousers, black work shoes. Attached image: "Hưng · Đồng phục lái xe".
+- @An = An, a hospital nurse who rides the last bus home (a slender 28-year-old Vietnamese woman, pale tired oval face, delicate features, dark eyes with faint shadows under them, shoulder-length straight black hair tucked behind her ears, a small mole under her left eye); wears a long camel wool coat over light-blue hospital scrubs, a cream knitted scarf, white nurse's sneakers, a beige canvas tote bag. Attached image: "An · Áo dạ về ca".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] medium two-shot.
+
+[ACTION] @Hung takes the grey hand-knitted gloves from his jacket and puts them into her hands.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–1.7s, @Hung (man of 32, soft warm baritone, talks quietly as if to himself, gentle humour, shy): Mẹ em đan. Bên ấy rét.
+After the last word nobody speaks until 5.0s. Never read these directions aloud.
+
+[SOUND] the bus engine idling, the open door letting in the hush of the alley, a far-off bell. No music.
+
+[AVOID] On-screen text, burned-in subtitles or captions, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.

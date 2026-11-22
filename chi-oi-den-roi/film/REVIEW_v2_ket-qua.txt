@@ -1,0 +1,33 @@
+KẾT QUẢ RÀ BẢN v2 THEO REVIEW_PROMPT.md (254 shot, 4 khung/shot + kịch bản + tiếng + phụ đề)
+=========================================================================================
+Ký hiệu: LỖI <mục> | mô tả | cách sửa
+
+KỸ THUẬT (mục 15)
+- Toàn phim | LỖI 15 | bản 1080p giật: khung B bị phát sai thứ tự sau khi nối luồng h264 | xuất lại chỉ khung I/P; đo 31 điểm: khung tăng đều, không lùi.
+
+ĐÚNG KỊCH BẢN (A)
+- 02-01 | LỖI 1 | ông Khánh xuống xe nhưng không quay lưng; ở lần làm lại đầu ông còn đi vào trong xe | LÀM LẠI: ông đứng ngoài vỉa hè chào, rồi quay lưng đi xa vào màn mưa; dựng giữ trọn shot.
+- 07-09 | LỖI 1/C | Hạ ngồi ghế đôi giữa xe, không phải góc trái băng ghế cuối như 01-08/07-07 | LÀM LẠI (ống kính dài dọc lối đi) → đạt.
+- 12-04 | LỖI 14 | cú cắt ngầm ở 1,92s: ông Khánh đang gục bỗng ngồi thẳng, mở mắt | DỰNG: cắt ở 1,9s.
+
+LIÊN TỤC (C)
+- 11-01 | LỖI 10 | Hạ và Linh đội mũ Noel, nhưng 8 shot sau của cảnh 11 không đội | LÀM LẠI 11-01 không mũ → đạt.
+
+CHỮ / LOGO (D)
+- 12-06 | biển số tuyến "18" + chữ trên bảng LED xe | che mờ.
+- 12-08 | bảng LED xe phía sau | che mờ.
+- 15-15 | chữ ngược trên kính chòi lộ một phần | nới vùng che.
+- 17-08 | số "40" và biển số đuôi xe | che mờ.
+- 18-01 | chữ "TH…" trên bảng LED lộ ở đầu shot | nới vùng che.
+- 19-09, 19-12 | bảng LED xe ở hậu cảnh | che mờ.
+- 19-10 | chữ "DEPARTURES…" trên mặt tiền sân bay + bảng LED xe | che mờ.
+- 20-03 | bảng LED trên tàu điện lộ trước 3,4s | che cả shot.
+
+ĐÃ SOÁT, ĐẠT
+- Hướng xe & cửa: 01-04, 06-04, 07-13, 12-01, 12-02, 14-17, 19-01 (đã lật), 20-05, 20-15 đều đúng xe tay lái thuận, cửa bên phải, chạy bên phải.
+- Mắt nhắm/khóc/ngủ: 01-03, 02-06, 07-07, 14-05, 14-07, 14-08, 18-08 đúng.
+- Trang phục, khăn kem→khăn đỏ (từ cảnh 15), găng len (từ 17-15), khăn len xám của Đông (cảnh 20): khớp.
+- Không có trẻ em trên hình (17-04 chỉ có ba lô; gương 17-05 là bố Đông).
+- Tiếng: hình–tiếng lệch 0 khung; phụ đề canh theo giờ nói thật.
+
+TÍN DỤNG FLOW ĐỢT NÀY: 02-01 (24 + 24), 07-09 (15), 11-01 (12) = 75 credit.

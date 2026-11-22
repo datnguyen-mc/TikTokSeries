@@ -1,0 +1,24 @@
+MỞ PROJECT "HỆ THỐNG SIÊU CẢI TIẾN" TRONG DAVINCI RESOLVE
+
+Phim này được lắp ráp bằng MakeMyClip Editor:
+  mở màn 3 giây (Vương Hoa la hét trong xe tăng) > thẻ tựa "HỆ THỐNG SIÊU CẢI TIẾN"
+  > Phần 1 · Lão binh hồi sinh > Phần 2 · Bí mật trong xe tăng hồng
+  > Phần 3 · Chuyến tàu mười tỷ > Phần 4 · Hình thái bảo trì > thẻ "CÒN TIẾP..."
+
+1. SieuCaiTien_project.fcpxml là timeline MakeMyClip xuất ra. Media nằm trong thư mục media/ ngay cạnh:
+   - SieuCaiTien_main_dub.mp4 : toàn bộ phim đã lồng tiếng Việt, có nhạc nền, phụ đề Việt và thẻ tên nhân vật tiếng Việt
+   - title_card.mp4 / end_card.mp4 : nền đen có hiệu ứng âm thanh cho thẻ tựa và thẻ kết
+   Đừng đổi tên hoặc di chuyển thư mục media/ nếu còn muốn mở project.
+
+2. DaVinci Resolve > File > Import > Timeline... > chọn SieuCaiTien_project.fcpxml.
+   Nếu báo thiếu media, bấm Relink và trỏ tới thư mục media/.
+
+3. Khác biệt so với bản MP4:
+   - Trong project, mọi chuyển cảnh là Cross Dissolve (FCPXML không mang được hiệu ứng fade to black);
+     bản MP4 dùng chuyển màn tối giữa các phần.
+   - Chữ tiêu đề / nhãn phần trong project là Basic Title, không có nền mờ phía sau như bản MP4.
+
+4. SieuCaiTien_phu-de.srt: phụ đề Việt khớp với bản PHIM-FULL (phụ đề đã được in sẵn vào hình,
+   file .srt dùng khi cần đăng phụ đề rời lên YouTube).
+
+5. Video gốc douyin/12-7705636031182347328.mp4 được giữ nguyên, không sửa.

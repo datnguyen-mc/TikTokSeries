@@ -1,0 +1,21 @@
+{
+ "text": "ROLL CỦA TUÔI",
+ "engine": "faster-whisper-large-v3-vad",
+ "words": [
+  {
+   "w": "ROLL",
+   "s": 4.66,
+   "e": 5.18
+  },
+  {
+   "w": "CỦA",
+   "s": 5.18,
+   "e": 5.36
+  },
+  {
+   "w": "TUÔI",
+   "s": 5.36,
+   "e": 5.72
+  }
+ ]
+}

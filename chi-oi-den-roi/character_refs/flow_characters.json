@@ -1,0 +1,140 @@
+[
+ {
+  "code": "DO1",
+  "flow": "Đông · Đồng phục lái xe",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a lean 32-year-old Vietnamese man, warm tan skin, gentle narrow eyes with faint laugh lines, short slightly untidy black hair, light stubble, a shy lopsided smile, wearing a navy-blue padded winter bus-driver uniform jacket with no logo or badge, a light-blue collared shirt underneath, dark-navy trousers, black work shoes; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "DO1B",
+  "flow": "Đông · Đồng phục lái xe · Sau lưng",
+  "base": "Đông · Đồng phục lái xe",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a navy-blue padded winter bus-driver uniform jacket with no logo or badge, a light-blue collared shirt underneath, dark-navy trousers, black work shoes; seen from directly behind, back of the head and shoulders clearly visible, face not visible. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "DO2",
+  "flow": "Đông · Áo phao thường",
+  "base": "Đông · Đồng phục lái xe",
+  "prompt": "Same person, same face and hair, exactly. Now wearing an open dark-grey padded jacket over a grey hoodie, faded jeans, white sneakers. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "DO3",
+  "flow": "Đông · Năm năm sau",
+  "base": "Đông · Đồng phục lái xe",
+  "prompt": "Same person, same face and hair, exactly. Now wearing the same navy-blue padded bus-driver uniform jacket with no logo, a hand-knitted grey wool scarf, a light-blue collared shirt, dark-navy trousers, black work shoes. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HA1",
+  "flow": "Hạ · Áo dạ về ca",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a slender 28-year-old Vietnamese woman, pale tired oval face, delicate features, dark eyes with faint shadows under them, shoulder-length straight black hair tucked behind her ears, a small mole under her left eye, wearing a long camel wool coat over light-blue hospital scrubs, a cream knitted scarf, white nurse's sneakers, a beige canvas tote bag; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "HA1B",
+  "flow": "Hạ · Áo dạ về ca · Sau lưng",
+  "base": "Hạ · Áo dạ về ca",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a long camel wool coat over light-blue hospital scrubs, a cream knitted scarf, white nurse's sneakers, a beige canvas tote bag on her shoulder; seen from directly behind, back of the head and hair clearly visible, face not visible. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HA1K",
+  "flow": "Hạ · Áo dạ về ca · Khăn đỏ",
+  "base": "Hạ · Áo dạ về ca",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a long camel wool coat over light-blue hospital scrubs, a faded red hand-knitted scarf wrapped around her neck over a cream knitted scarf, white nurse's sneakers, a beige canvas tote bag. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HA2",
+  "flow": "Hạ · Đồ trực",
+  "base": "Hạ · Áo dạ về ca",
+  "prompt": "Same person, same face and hair, exactly. Now wearing light-blue hospital scrubs, a short white cardigan, hair tied in a low ponytail, a stethoscope around her neck, white nurse's sneakers. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HA3",
+  "flow": "Hạ · Đồ ở nhà",
+  "base": "Hạ · Áo dạ về ca",
+  "prompt": "Same person, same face and hair, exactly. Now wearing an oversized oatmeal knitted sweater, soft grey pyjama trousers, thick wool socks, hair loose. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HA4",
+  "flow": "Hạ · Đi xa",
+  "base": "Hạ · Áo dạ về ca",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a dark-navy puffer coat, a faded red hand-knitted scarf, grey hand-knitted wool gloves, black jeans, white sneakers. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HA5",
+  "flow": "Hạ · Năm năm sau",
+  "base": "Hạ · Áo dạ về ca",
+  "prompt": "Same person, same face and hair, exactly. Now wearing an elegant charcoal-grey wool coat, a faded red hand-knitted scarf, worn grey hand-knitted wool gloves, black trousers, ankle boots. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "OK1",
+  "flow": "Ông Khánh · Áo dạ khăn đỏ",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a thin, upright 78-year-old Vietnamese man, sharp clean-shaven face with deep lines, neatly combed thin white hair, bushy white eyebrows, clear wry eyes, wearing an old dark-brown wool overcoat, a grey wool flat cap, a faded red hand-knitted women's scarf, dark trousers, old polished leather shoes, holding a battered aluminium thermos; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "OK2",
+  "flow": "Ông Khánh · Năm năm sau",
+  "base": "Ông Khánh · Áo dạ khăn đỏ",
+  "prompt": "Same person, same face and hair, exactly. Now wearing the same old dark-brown wool overcoat, a grey wool flat cap, a plain grey wool scarf, dark trousers, leaning on a wooden walking cane. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "OK3",
+  "flow": "Ông Khánh · Áo bệnh viện",
+  "base": "Ông Khánh · Áo dạ khăn đỏ",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a blue-and-white striped hospital gown with a thin grey hospital blanket over his shoulders. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "OKT",
+  "flow": "Ông Khánh trẻ · Áo lái tàu điện",
+  "base": "Ông Khánh · Áo dạ khăn đỏ",
+  "prompt": "Same man as the attached image, same face shape, bushy eyebrows and features, shown fifty years younger: a lean 28-year-old Vietnamese man, sharp clean-shaven face, thick black hair combed back, bushy black eyebrows, earnest shy eyes, wearing a faded khaki tram-driver's uniform jacket with brass buttons, a matching peaked cap, dark trousers, worn leather shoes. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HGT",
+  "flow": "Bà Hằng trẻ · Áo y tá xưa",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a slender 24-year-old Vietnamese woman, soft oval face, long black hair in a low braid, gentle sleepy eyes, a dimple in her left cheek when she smiles, wearing an old-fashioned white cotton nurse's uniform dress, a white nurse's cap, a thin dark-blue knitted cardigan, a cloth shoulder bag; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "HG1",
+  "flow": "Bà Hằng · Áo bệnh viện",
+  "base": "Bà Hằng trẻ · Áo y tá xưa",
+  "prompt": "Same woman as the attached image, same face shape, dimple and features, shown fifty years older: a frail 74-year-old Vietnamese woman, soft oval face with fine wrinkles, thin white hair, a dimple in her left cheek, wearing a blue-and-white striped hospital gown. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "TO1",
+  "flow": "Anh Toàn · Áo phao bến xe",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a plump, round-faced 46-year-old Vietnamese man, thinning black hair, thick black-rimmed glasses, a cheerful double chin, rosy cheeks, wearing a puffy olive-green padded jacket over a maroon hand-knitted sweater, a black wool beanie, fingerless gloves, dark trousers; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "HE1",
+  "flow": "Bà Huệ · Áo bông ở nhà",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a small, plump 63-year-old Vietnamese woman, round cheerful face, short curly greying hair, sharp lively eyes, laugh lines, wearing a quilted floral cotton jacket, dark cotton trousers, wool socks with plastic slippers, a cloth apron, hair held in a clip; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "HE2",
+  "flow": "Bà Huệ · Áo dài đi lễ",
+  "base": "Bà Huệ · Áo bông ở nhà",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a dark-red velvet áo dài under an open black wool coat, a white lace veil over her hair, a small rosary in her hand. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "LI1",
+  "flow": "Linh · Đồ trực",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a sturdy 28-year-old Vietnamese woman, round face, short bob haircut with straight bangs, big expressive eyes, a wide grin, wearing light-blue hospital scrubs, a short white cardigan, hair clipped up, a stethoscope around her neck; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "BD1",
+  "flow": "Bố Đông · Đồng phục cũ",
+  "base": "Đông · Đồng phục lái xe",
+  "prompt": "A different, older man who is clearly the father of the man in the attached image: the same gentle narrow eyes, face shape and lopsided smile; a lean 42-year-old Vietnamese man with gentle narrow eyes, faint laugh lines and a lopsided smile, short neat black hair, a thin moustache, weathered tan skin, wearing an old-style faded blue bus-driver uniform jacket with no logo, a white collared shirt, dark trousers, worn black shoes. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "LI2",
+  "flow": "Linh · Đồ ngủ",
+  "base": "Linh · Đồ trực",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a pink fleece pyjama set, fluffy socks, hair in a messy bun. Full body, plain light-grey studio background."
+ }
+]

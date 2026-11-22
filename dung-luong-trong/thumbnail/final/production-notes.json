@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "review": "Read story and project README, inspected sampled actual video frames; not full audiovisual review.",
+  "jobs": [
+    {
+      "key": "dung-1",
+      "project": "dung-luong-trong",
+      "slug": "ky-uc-cua-ai",
+      "refs": [
+        "/Users/iseul-a/Documents/TikTokSeries/dung-luong-trong/thumbnail/references/18.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/dung-luong-trong/thumbnail/references/01.jpg"
+      ],
+      "prompt": "Create premium 16:9 Vietnamese cinematic film YouTube key art, photorealistic actors faithful to supplied reference faces, refined natural skin, film grain, strong clear emotional expressions and phone-readable visual hierarchy. Designed film poster, not a generic screenshot. Accurate Vietnamese typography, no watermark, no English, no episode numbering, no duration, no extra captions, no black bars. Title compact about 34 percent width, visually integrated and never covering faces.  Psychological near-future Hanoi thriller, peeling rented room walls, natural slate grey/cold muted violet, faint warm window light. Unique exact title \"DUNG LƯỢNG\" / \"TRỐNG\" in beautifully crafted contemporary condensed ivory typography with deliberate small erased segments and subtle violet registration echoes; still perfectly legible all diacritics, empty rectangular negative space as design motif. Not gold calligraphy, not generic neon cyberpunk.  Concept HIS FACE IS STORAGE. Khai from reference1 messy dark hair stubble orange worn delivery jacket in extreme close portrait on RIGHT, tense sleepless eyes looking directly at viewer, hand touching tiny violet chip at side/back neck. A restrained horizontal band of his temple visually dissolves into the dim abandoned Hanoi apartment corridor with door number \"7.04\", sophisticated photographic double exposure, NOT exposed flesh or injury. Keep most face intact identifiable. A tiny violet female hologram matching ref2 is projected from phone lower center, eerily calm contrasting his terror. LEFT upper dark peeling wall for title DUNG LƯỢNG / TRỐNG, exact small hook \"KÝ ỨC NÀY CỦA AI?\". Minimal pixel removal, no overdone glitch or floating UI, strong ambiguity and space, cold practical light."
+    },
+    {
+      "key": "dung-2",
+      "project": "dung-luong-trong",
+      "slug": "truoc-khi-bi-xoa",
+      "refs": [
+        "/Users/iseul-a/Documents/TikTokSeries/dung-luong-trong/thumbnail/references/18.jpg",
+        "/Users/iseul-a/Documents/TikTokSeries/dung-luong-trong/thumbnail/references/12.jpg"
+      ],
+      "prompt": "Create premium 16:9 Vietnamese cinematic film YouTube key art, photorealistic actors faithful to supplied reference faces, refined natural skin, film grain, strong clear emotional expressions and phone-readable visual hierarchy. Designed film poster, not a generic screenshot. Accurate Vietnamese typography, no watermark, no English, no episode numbering, no duration, no extra captions, no black bars. Title compact about 34 percent width, visually integrated and never covering faces.  Psychological near-future Hanoi thriller, peeling rented room walls, natural slate grey/cold muted violet, faint warm window light. Unique exact title \"DUNG LƯỢNG\" / \"TRỐNG\" in beautifully crafted contemporary condensed ivory typography with deliberate small erased segments and subtle violet registration echoes; still perfectly legible all diacritics, empty rectangular negative space as design motif. Not gold calligraphy, not generic neon cyberpunk.  Concept TEN SECONDS TO ERASE. Dominant old cracked smartphone in foreground LEFT tilted toward viewer, showing live portrait of Khai in orange delivery jacket looking frightened but determined, actual Khai behind it on RIGHT upper half looking toward Vy bob charcoal hoodie beside him, both faces large identifiable. On phone his face is partially erased into pale blank rectangular storage blocks while real face remains intact, conceptual contrast between person and deleted memory. Exact tiny screen countdown \"00:10\" in violet. Phone sits on worn desk in low-rent Hanoi room with barred window, tangled simple cable to a small violet neck patch, one restrained warm bulb, evocative tactile realism. Title DUNG LƯỢNG / TRỐNG compact lower RIGHT in clean deep shadow, stylish missing-letter-segment typography but fully readable, hook exact \"NGỦ DẬY, CÒN LÀ TÔI?\". No additional UI words, no gore, no sci-fi helmets or robots. Elegant asymmetrical thriller poster."
+    }
+  ]
+}

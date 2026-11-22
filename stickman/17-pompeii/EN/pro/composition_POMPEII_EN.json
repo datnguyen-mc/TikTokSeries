@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "rev": 496,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "background": "black",
+  "tracks": [
+    {
+      "id": "v0",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "media",
+          "id": "t1",
+          "startSec": 0,
+          "effects": [],
+          "mediaId": "m_40b112630bf3",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.6
+        },
+        {
+          "kind": "media",
+          "id": "t2",
+          "startSec": 1.6,
+          "effects": [],
+          "mediaId": "m_0fb83562b762",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t3",
+          "startSec": 3,
+          "effects": [],
+          "mediaId": "m_2553f262725e",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t4",
+          "startSec": 4.4,
+          "effects": [],
+          "mediaId": "m_4d4521fd38f8",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t5",
+          "startSec": 5.800000000000001,
+          "effects": [],
+          "mediaId": "m_b4a16dc3cc2e",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t6",
+          "startSec": 7.200000000000001,
+          "effects": [],
+          "mediaId": "m_66a36a048d08",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.9
+        },
+        {
+          "kind": "media",
+          "id": "hookv",
+          "startSec": 9.100000000000001,
+          "effects": [],
+          "mediaId": "m_cd9cabd8f388",
+          "sourceInSec": 0,
+          "sourceOutSec": 2.2
+        },
+        {
+          "kind": "media",
+          "id": "c00",
+          "startSec": 11.3,
+          "effects": [],
+          "mediaId": "m_60a33530d678",
+          "sourceInSec": 0,
+          "sourceOutSec": 27.03
+        },
+        {
+          "kind": "media",
+          "id": "c01",
+          "startSec": 38.33,
+          "effects": [],
+          "mediaId": "m_e2dd770b1552",
+          "sourceInSec": 0,
+          "sourceOutSec": 61.53
+        },
+        {
+          "kind": "media",
+          "id": "c02",
+          "startSec": 99.86,
+          "effects": [],
+          "mediaId": "m_294a7c3683d7",
+          "sourceInSec": 0,
+          "sourceOutSec": 62
+        },
+        {
+          "kind": "media",
+          "id": "c03",
+          "startSec": 161.86,
+          "effects": [],
+          "mediaId": "m_f58b9717edd7",
+          "sourceInSec": 0,
+          "sourceOutSec": 63.67
+        },
+        {
+          "kind": "media",
+          "id": "c04",
+          "startSec": 225.53000000000003,
+          "effects": [],
+          "mediaId": "m_7fb36a3830b0",
+          "sourceInSec": 0,
+          "sourceOutSec": 69.83
+        },
+        {
+          "kind": "media",
+          "id": "c05",
+          "startSec": 295.36,
+          "effects": [],
+          "mediaId": "m_2fad8b003795",
+          "sourceInSec": 0,
+          "sourceOutSec": 75.57
+        },
+        {
+          "kind": "media",
+          "id": "c06",
+          "startSec": 370.93,
+          "effects": [],
+          "mediaId": "m_630eb68b08d3",
+          "sourceInSec": 0,
+          "sourceOutSec": 70.63
+        },
+        {
+          "kind": "media",
+          "id": "c07",
+          "startSec": 441.56,
+          "effects": [],
+          "mediaId": "m_7e1147059c68",
+          "sourceInSec": 0,
+          "sourceOutSec": 70.07
+        },
+        {
+          "kind": "media",
+          "id": "c08",
+          "startSec": 511.63,
+          "effects": [],
+          "mediaId": "m_4bb1d1f9eeed",
+          "sourceInSec": 0,
+          "sourceOutSec": 73.4
+        },
+        {
+          "kind": "media",
+          "id": "c09",
+          "startSec": 585.03,
+          "effects": [],
+          "mediaId": "m_eb64de639cc8",
+          "sourceInSec": 0,
+          "sourceOutSec": 75.37
+        },
+        {
+          "kind": "media",
+          "id": "c10",
+          "startSec": 660.4,
+          "effects": [],
+          "mediaId": "m_55b6d15ce415",
+          "sourceInSec": 0,
+          "sourceOutSec": 74.33
+        },
+        {
+          "kind": "media",
+          "id": "c11",
+          "startSec": 734.73,
+          "effects": [],
+          "mediaId": "m_152dd36b4324",
+          "sourceInSec": 0,
+          "sourceOutSec": 74.77
+        },
+        {
+          "kind": "media",
+          "id": "c12",
+          "startSec": 809.5,
+          "effects": [],
+          "mediaId": "m_3fe9e729fafa",
+          "sourceInSec": 0,
+          "sourceOutSec": 74.8
+        },
+        {
+          "kind": "media",
+          "id": "c13",
+          "startSec": 884.3,
+          "effects": [],
+          "mediaId": "m_a153672a1545",
+          "sourceInSec": 0,
+          "sourceOutSec": 18.83
+        },
+        {
+          "kind": "media",
+          "id": "endv",
+          "startSec": 903.13,
+          "effects": [],
+          "mediaId": "m_894aa718dbcd",
+          "sourceInSec": 0,
+          "sourceOutSec": 8
+        }
+      ],
+      "transitions": [
+        {
+          "afterClipId": "c00",
+          "kind": "fadeblack",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c01",
+          "kind": "dissolve",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c02",
+          "kind": "fadewhite",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c03",
+          "kind": "wipedown",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c04",
+          "kind": "slideleft",
+          "durationSec": 0.5
+        },
+        {
+          "afterClipId": "c05",
+          "kind": "fadeblack",
+          "durationSec": 0.9
+        },
+        {
+          "afterClipId": "c06",
+          "kind": "fadeblack",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c07",
+          "kind": "fadewhite",
+          "durationSec": 0.8
+        },
+        {
+          "afterClipId": "c08",
+          "kind": "circleopen",
+          "durationSec": 0.7
+        },
+        {
+          "afterClipId": "c09",
+          "kind": "dissolve",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c10",
+          "kind": "circleopen",
+          "durationSec": 0.7
+        },
+        {
+          "afterClipId": "c11",
+          "kind": "wipeleft",
+          "durationSec": 0.5
+        },
+        {
+          "afterClipId": "c12",
+          "kind": "fadeblack",
+          "durationSec": 0.9
+        },
+        {
+          "afterClipId": "c13",
+          "kind": "fade",
+          "durationSec": 0.8
+        },
+        {
+          "afterClipId": "hookv",
+          "kind": "fade",
+          "durationSec": 0.5
+        },
+        {
+          "afterClipId": "t1",
+          "kind": "slideleft",
+          "durationSec": 0.2
+        },
+        {
+          "afterClipId": "t2",
+          "kind": "wipeleft",
+          "durationSec": 0.2
+        },
+        {
+          "afterClipId": "t3",
+          "kind": "fadewhite",
+          "durationSec": 0.25
+        },
+        {
+          "afterClipId": "t4",
+          "kind": "slideright",
+          "durationSec": 0.2
+        },
+        {
+          "afterClipId": "t5",
+          "kind": "dissolve",
+          "durationSec": 0.2
+        }
+      ],
+      "muted": false
+    },
+    {
+      "id": "T1",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "text",
+          "id": "clip_97667511",
+          "startSec": 9.3,
+          "effects": [],
+          "text": "THE LAST 32 HOURS OF POMPEII",
+          "durationSec": 1.9,
+          "style": {
+            "fontSize": 96,
+            "color": "#ffd84d",
+            "background": null,
+            "anchor": "center"
+          }
+        },
+        {
+          "kind": "text",
+          "id": "clip_2c3d8223",
+          "startSec": 903.48,
+          "effects": [],
+          "text": "THANKS FOR WATCHING!",
+          "durationSec": 7.4,
+          "style": {
+            "fontSize": 96,
+            "color": "#ffd84d",
+            "background": null,
+            "anchor": "top-center"
+          }
+        }
+      ],
+      "transitions": [],
+      "muted": false
+    },
+    {
+      "id": "T2",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "text",
+          "id": "clip_eacf1001",
+          "startSec": 9.8,
+          "effects": [],
+          "text": "A true story · told by stick figures",
+          "durationSec": 1.4,
+          "style": {
+            "fontSize": 40,
+            "color": "white",
+            "background": null,
+            "anchor": "bottom-center"
+          }
+        },
+        {
+          "kind": "text",
+          "id": "clip_b6d36075",
+          "startSec": 904.18,
+          "effects": [],
+          "text": "If you had lived in Pompeii that day, would you run or stay?\nTell me in the comments!",
+          "durationSec": 6.7,
+          "style": {
+            "fontSize": 54,
+            "color": "white",
+            "background": null,
+            "anchor": "center"
+          }
+        }
+      ],
+      "transitions": [],
+      "muted": false
+    },
+    {
+      "id": "T3",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "text",
+          "id": "clip_5c5f853e",
+          "startSec": 904.78,
+          "effects": [],
+          "text": "Music: Kevin MacLeod (incompetech.com) – licensed under CC BY 4.0\nSound effects: Kenney, rubberduck and other CC0 creators · Background art generated with AI",
+          "durationSec": 6.1,
+          "style": {
+            "fontSize": 30,
+            "color": "#bdbdbd",
+            "background": null,
+            "anchor": "bottom-center"
+          }
+        }
+      ],
+      "transitions": [],
+      "muted": false
+    }
+  ]
+}

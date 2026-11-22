@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "rev": 498,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "background": "black",
+  "tracks": [
+    {
+      "id": "v0",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "media",
+          "id": "t1",
+          "startSec": 0,
+          "effects": [],
+          "mediaId": "m_0deb6b73cde1",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.6
+        },
+        {
+          "kind": "media",
+          "id": "t2",
+          "startSec": 1.6,
+          "effects": [],
+          "mediaId": "m_d09212f353c6",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t3",
+          "startSec": 3,
+          "effects": [],
+          "mediaId": "m_77020bfcd7c3",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t4",
+          "startSec": 4.4,
+          "effects": [],
+          "mediaId": "m_1eea9c8d848a",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t5",
+          "startSec": 5.800000000000001,
+          "effects": [],
+          "mediaId": "m_cbb6ea2d4182",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.4
+        },
+        {
+          "kind": "media",
+          "id": "t6",
+          "startSec": 7.200000000000001,
+          "effects": [],
+          "mediaId": "m_fbea3293a854",
+          "sourceInSec": 0,
+          "sourceOutSec": 1.9
+        },
+        {
+          "kind": "media",
+          "id": "hookv",
+          "startSec": 9.1,
+          "effects": [],
+          "mediaId": "m_cd9cabd8f388",
+          "sourceInSec": 0,
+          "sourceOutSec": 2.2
+        },
+        {
+          "kind": "media",
+          "id": "c00",
+          "startSec": 11.3,
+          "effects": [],
+          "mediaId": "m_d69a227d7901",
+          "sourceInSec": 0,
+          "sourceOutSec": 23.37
+        },
+        {
+          "kind": "media",
+          "id": "c01",
+          "startSec": 34.67,
+          "effects": [],
+          "mediaId": "m_5bcf1896e83b",
+          "sourceInSec": 0,
+          "sourceOutSec": 55.67
+        },
+        {
+          "kind": "media",
+          "id": "c02",
+          "startSec": 90.34,
+          "effects": [],
+          "mediaId": "m_c27515a9098e",
+          "sourceInSec": 0,
+          "sourceOutSec": 55.07
+        },
+        {
+          "kind": "media",
+          "id": "c03",
+          "startSec": 145.41,
+          "effects": [],
+          "mediaId": "m_2cfe73bc143a",
+          "sourceInSec": 0,
+          "sourceOutSec": 59.37
+        },
+        {
+          "kind": "media",
+          "id": "c04",
+          "startSec": 204.78,
+          "effects": [],
+          "mediaId": "m_628a71b008fd",
+          "sourceInSec": 0,
+          "sourceOutSec": 61.67
+        },
+        {
+          "kind": "media",
+          "id": "c05",
+          "startSec": 266.45,
+          "effects": [],
+          "mediaId": "m_0d4e18046a8f",
+          "sourceInSec": 0,
+          "sourceOutSec": 68.17
+        },
+        {
+          "kind": "media",
+          "id": "c06",
+          "startSec": 334.62,
+          "effects": [],
+          "mediaId": "m_7ce21fb89a83",
+          "sourceInSec": 0,
+          "sourceOutSec": 64.1
+        },
+        {
+          "kind": "media",
+          "id": "c07",
+          "startSec": 398.72,
+          "effects": [],
+          "mediaId": "m_35ccc26f50b3",
+          "sourceInSec": 0,
+          "sourceOutSec": 62.47
+        },
+        {
+          "kind": "media",
+          "id": "c08",
+          "startSec": 461.19000000000005,
+          "effects": [],
+          "mediaId": "m_99227a4b0e2b",
+          "sourceInSec": 0,
+          "sourceOutSec": 69.33
+        },
+        {
+          "kind": "media",
+          "id": "c09",
+          "startSec": 530.5200000000001,
+          "effects": [],
+          "mediaId": "m_71e356dd7b22",
+          "sourceInSec": 0,
+          "sourceOutSec": 68.17
+        },
+        {
+          "kind": "media",
+          "id": "c10",
+          "startSec": 598.69,
+          "effects": [],
+          "mediaId": "m_32bda8d78723",
+          "sourceInSec": 0,
+          "sourceOutSec": 67.57
+        },
+        {
+          "kind": "media",
+          "id": "c11",
+          "startSec": 666.26,
+          "effects": [],
+          "mediaId": "m_25e2c41f82db",
+          "sourceInSec": 0,
+          "sourceOutSec": 71.93
+        },
+        {
+          "kind": "media",
+          "id": "c12",
+          "startSec": 738.19,
+          "effects": [],
+          "mediaId": "m_d4e3667d68e5",
+          "sourceInSec": 0,
+          "sourceOutSec": 67.83
+        },
+        {
+          "kind": "media",
+          "id": "c13",
+          "startSec": 806.0200000000001,
+          "effects": [],
+          "mediaId": "m_f6a5aea3730d",
+          "sourceInSec": 0,
+          "sourceOutSec": 17.93
+        },
+        {
+          "kind": "media",
+          "id": "endv",
+          "startSec": 823.95,
+          "effects": [],
+          "mediaId": "m_894aa718dbcd",
+          "sourceInSec": 0,
+          "sourceOutSec": 8
+        }
+      ],
+      "transitions": [
+        {
+          "afterClipId": "c00",
+          "kind": "fadeblack",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c01",
+          "kind": "dissolve",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c02",
+          "kind": "fadewhite",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c03",
+          "kind": "wipedown",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c04",
+          "kind": "slideleft",
+          "durationSec": 0.5
+        },
+        {
+          "afterClipId": "c05",
+          "kind": "fadeblack",
+          "durationSec": 0.9
+        },
+        {
+          "afterClipId": "c06",
+          "kind": "fadeblack",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c07",
+          "kind": "fadewhite",
+          "durationSec": 0.8
+        },
+        {
+          "afterClipId": "c08",
+          "kind": "circleopen",
+          "durationSec": 0.7
+        },
+        {
+          "afterClipId": "c09",
+          "kind": "dissolve",
+          "durationSec": 0.6
+        },
+        {
+          "afterClipId": "c10",
+          "kind": "circleopen",
+          "durationSec": 0.7
+        },
+        {
+          "afterClipId": "c11",
+          "kind": "wipeleft",
+          "durationSec": 0.5
+        },
+        {
+          "afterClipId": "c12",
+          "kind": "fadeblack",
+          "durationSec": 0.9
+        },
+        {
+          "afterClipId": "c13",
+          "kind": "fade",
+          "durationSec": 0.8
+        },
+        {
+          "afterClipId": "hookv",
+          "kind": "fade",
+          "durationSec": 0.5
+        },
+        {
+          "afterClipId": "t1",
+          "kind": "slideleft",
+          "durationSec": 0.2
+        },
+        {
+          "afterClipId": "t2",
+          "kind": "wipeleft",
+          "durationSec": 0.2
+        },
+        {
+          "afterClipId": "t3",
+          "kind": "fadewhite",
+          "durationSec": 0.25
+        },
+        {
+          "afterClipId": "t4",
+          "kind": "slideright",
+          "durationSec": 0.2
+        },
+        {
+          "afterClipId": "t5",
+          "kind": "dissolve",
+          "durationSec": 0.2
+        }
+      ],
+      "muted": false
+    },
+    {
+      "id": "T1",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "text",
+          "id": "clip_433dfdf9",
+          "startSec": 9.3,
+          "effects": [],
+          "text": "32 GI\u1edc CU\u1ed0I C\u00d9NG C\u1ee6A POMPEII",
+          "durationSec": 1.9,
+          "style": {
+            "fontSize": 96,
+            "color": "#ffd84d",
+            "background": null,
+            "anchor": "center"
+          }
+        },
+        {
+          "kind": "text",
+          "id": "clip_90097271",
+          "startSec": 824.3,
+          "effects": [],
+          "text": "C\u1ea2M \u01a0N B\u1ea0N \u0110\u00c3 XEM!",
+          "durationSec": 7.4,
+          "style": {
+            "fontSize": 96,
+            "color": "#ffd84d",
+            "background": null,
+            "anchor": "top-center"
+          }
+        }
+      ],
+      "transitions": [],
+      "muted": false
+    },
+    {
+      "id": "T2",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "text",
+          "id": "clip_786cf652",
+          "startSec": 9.8,
+          "effects": [],
+          "text": "M\u1ed9t c\u00e2u chuy\u1ec7n c\u00f3 th\u1eadt \u00b7 k\u1ec3 b\u1eb1ng ng\u01b0\u1eddi que",
+          "durationSec": 1.4,
+          "style": {
+            "fontSize": 40,
+            "color": "white",
+            "background": null,
+            "anchor": "bottom-center"
+          }
+        },
+        {
+          "kind": "text",
+          "id": "clip_a26447f7",
+          "startSec": 825,
+          "effects": [],
+          "text": "N\u1ebfu \u1edf Pompeii h\u00f4m \u0111\u00f3, b\u1ea1n s\u1ebd ch\u1ea1y hay \u1edf l\u1ea1i?\nH\u00e3y b\u00ecnh lu\u1eadn cho m\u00ecnh bi\u1ebft nh\u00e9!",
+          "durationSec": 6.7,
+          "style": {
+            "fontSize": 54,
+            "color": "white",
+            "background": null,
+            "anchor": "center"
+          }
+        }
+      ],
+      "transitions": [],
+      "muted": false
+    },
+    {
+      "id": "T3",
+      "kind": "video",
+      "clips": [
+        {
+          "kind": "text",
+          "id": "clip_c2f7b088",
+          "startSec": 825.6,
+          "effects": [],
+          "text": "Nh\u1ea1c: Kevin MacLeod (incompetech.com) \u2013 Gi\u1ea5y ph\u00e9p CC BY 4.0\nHi\u1ec7u \u1ee9ng \u00e2m thanh: Kenney, rubberduck v\u00e0 c\u00e1c t\u00e1c gi\u1ea3 CC0 \u00b7 H\u00ecnh n\u1ec1n minh h\u1ecda t\u1ea1o b\u1eb1ng AI",
+          "durationSec": 6.1,
+          "style": {
+            "fontSize": 30,
+            "color": "#bdbdbd",
+            "background": null,
+            "anchor": "bottom-center"
+          }
+        }
+      ],
+      "transitions": [],
+      "muted": false
+    }
+  ]
+}

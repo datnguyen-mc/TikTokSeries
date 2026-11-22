@@ -1,0 +1,3131 @@
+[
+ {
+  "id": "01-01",
+  "scene": "01",
+  "name": "Câu mở đầu",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c01/01-01.txt",
+  "output": "film/clips/01-01.mp4"
+ },
+ {
+  "id": "01-02",
+  "scene": "01",
+  "name": "Em thích chị",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c01/01-02.txt",
+  "output": "film/clips/01-02.mp4"
+ },
+ {
+  "id": "01-03",
+  "scene": "01",
+  "name": "Giọt nước mắt",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c01/01-03.txt",
+  "output": "film/clips/01-03.mp4"
+ },
+ {
+  "id": "01-04",
+  "scene": "01",
+  "name": "Hai đêm trước",
+  "secs": 4,
+  "place": "PS",
+  "attach": [],
+  "prompt": "film/c01/01-04.txt",
+  "output": "film/clips/01-04.mp4"
+ },
+ {
+  "id": "01-05",
+  "scene": "01",
+  "name": "Ông Thư lên xe",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c01/01-05.txt",
+  "output": "film/clips/01-05.mp4"
+ },
+ {
+  "id": "01-06",
+  "scene": "01",
+  "name": "Bà thế nào",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c01/01-06.txt",
+  "output": "film/clips/01-06.mp4"
+ },
+ {
+  "id": "01-07",
+  "scene": "01",
+  "name": "Bà nhìn tôi lâu lắm",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c01/01-07.txt",
+  "output": "film/clips/01-07.mp4"
+ },
+ {
+  "id": "01-08",
+  "scene": "01",
+  "name": "Ghế cuối",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c01/01-08.txt",
+  "output": "film/clips/01-08.mp4"
+ },
+ {
+  "id": "01-09",
+  "scene": "01",
+  "name": "Lại ngủ",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c01/01-09.txt",
+  "output": "film/clips/01-09.mp4"
+ },
+ {
+  "id": "01-10",
+  "scene": "01",
+  "name": "Cái gương",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe",
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c01/01-10.txt",
+  "output": "film/clips/01-10.mp4"
+ },
+ {
+  "id": "01-11",
+  "scene": "01",
+  "name": "Hai năm rồi",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c01/01-11.txt",
+  "output": "film/clips/01-11.mp4"
+ },
+ {
+  "id": "02-01",
+  "scene": "02",
+  "name": "Ông xuống xe",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-01.txt",
+  "output": "film/clips/02-01.mp4"
+ },
+ {
+  "id": "02-02",
+  "scene": "02",
+  "name": "Chỉ còn hai người",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe",
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c02/02-02.txt",
+  "output": "film/clips/02-02.mp4"
+ },
+ {
+  "id": "02-03",
+  "scene": "02",
+  "name": "Bản tin đêm",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-03.txt",
+  "output": "film/clips/02-03.mp4"
+ },
+ {
+  "id": "02-04",
+  "scene": "02",
+  "name": "Con chuột",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-04.txt",
+  "output": "film/clips/02-04.mp4"
+ },
+ {
+  "id": "02-05",
+  "scene": "02",
+  "name": "Chó đẻ",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-05.txt",
+  "output": "film/clips/02-05.mp4"
+ },
+ {
+  "id": "02-06",
+  "scene": "02",
+  "name": "Ngủ Gật",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-06.txt",
+  "output": "film/clips/02-06.mp4"
+ },
+ {
+  "id": "02-07",
+  "scene": "02",
+  "name": "Cắn môi",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c02/02-07.txt",
+  "output": "film/clips/02-07.mp4"
+ },
+ {
+  "id": "02-08",
+  "scene": "02",
+  "name": "Mẹ chưa thấy biển",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-08.txt",
+  "output": "film/clips/02-08.mp4"
+ },
+ {
+  "id": "02-09",
+  "scene": "02",
+  "name": "Định kể",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-09.txt",
+  "output": "film/clips/02-09.mp4"
+ },
+ {
+  "id": "02-10",
+  "scene": "02",
+  "name": "Đến trạm",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-10.txt",
+  "output": "film/clips/02-10.mp4"
+ },
+ {
+  "id": "02-11",
+  "scene": "02",
+  "name": "Dậy ngay",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c02/02-11.txt",
+  "output": "film/clips/02-11.mp4"
+ },
+ {
+  "id": "02-12",
+  "scene": "02",
+  "name": "Em cảm ơn",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c02/02-12.txt",
+  "output": "film/clips/02-12.mp4"
+ },
+ {
+  "id": "02-13",
+  "scene": "02",
+  "name": "Đèn khẩn cấp",
+  "secs": 5,
+  "place": "P7",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c02/02-13.txt",
+  "output": "film/clips/02-13.mp4"
+ },
+ {
+  "id": "02-14",
+  "scene": "02",
+  "name": "Ngủ Gật à",
+  "secs": 5,
+  "place": "P7",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c02/02-14.txt",
+  "output": "film/clips/02-14.mp4"
+ },
+ {
+  "id": "03-01",
+  "scene": "03",
+  "name": "Vali không đóng",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-01.txt",
+  "output": "film/clips/03-01.mp4"
+ },
+ {
+  "id": "03-02",
+  "scene": "03",
+  "name": "Bản tin có gì",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-02.txt",
+  "output": "film/clips/03-02.mp4"
+ },
+ {
+  "id": "03-03",
+  "scene": "03",
+  "name": "Bốn con",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c03/03-03.txt",
+  "output": "film/clips/03-03.mp4"
+ },
+ {
+  "id": "03-04",
+  "scene": "03",
+  "name": "Lịch đẻ",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-04.txt",
+  "output": "film/clips/03-04.mp4"
+ },
+ {
+  "id": "03-05",
+  "scene": "03",
+  "name": "Nói chưa",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-05.txt",
+  "output": "film/clips/03-05.mp4"
+ },
+ {
+  "id": "03-06",
+  "scene": "03",
+  "name": "Đang ngủ mà",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c03/03-06.txt",
+  "output": "film/clips/03-06.mp4"
+ },
+ {
+  "id": "03-07",
+  "scene": "03",
+  "name": "Mở mắt ra",
+  "secs": 4,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-07.txt",
+  "output": "film/clips/03-07.mp4"
+ },
+ {
+  "id": "03-08",
+  "scene": "03",
+  "name": "Thôi nói",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c03/03-08.txt",
+  "output": "film/clips/03-08.mp4"
+ },
+ {
+  "id": "03-09",
+  "scene": "03",
+  "name": "Vì sao đi",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-09.txt",
+  "output": "film/clips/03-09.mp4"
+ },
+ {
+  "id": "03-10",
+  "scene": "03",
+  "name": "Ba năm, hai năm",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c03/03-10.txt",
+  "output": "film/clips/03-10.mp4"
+ },
+ {
+  "id": "03-11",
+  "scene": "03",
+  "name": "Kém bốn tuổi",
+  "secs": 7,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-11.txt",
+  "output": "film/clips/03-11.mp4"
+ },
+ {
+  "id": "03-12",
+  "scene": "03",
+  "name": "Lần cuối",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c03/03-12.txt",
+  "output": "film/clips/03-12.mp4"
+ },
+ {
+  "id": "03-13",
+  "scene": "03",
+  "name": "Nhìn một lần",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c03/03-13.txt",
+  "output": "film/clips/03-13.mp4"
+ },
+ {
+  "id": "04-01",
+  "scene": "04",
+  "name": "Bến xe",
+  "secs": 4,
+  "place": "P4",
+  "attach": [],
+  "prompt": "film/c04/04-01.txt",
+  "output": "film/clips/04-01.mp4"
+ },
+ {
+  "id": "04-02",
+  "scene": "04",
+  "name": "Mì tôm",
+  "secs": 5,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c04/04-02.txt",
+  "output": "film/clips/04-02.mp4"
+ },
+ {
+  "id": "04-03",
+  "scene": "04",
+  "name": "Tin vui",
+  "secs": 4,
+  "place": "P4",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c04/04-03.txt",
+  "output": "film/clips/04-03.mp4"
+ },
+ {
+  "id": "04-04",
+  "scene": "04",
+  "name": "Ca ngày",
+  "secs": 5,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c04/04-04.txt",
+  "output": "film/clips/04-04.mp4"
+ },
+ {
+  "id": "04-05",
+  "scene": "04",
+  "name": "Cắt tuyến",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c04/04-05.txt",
+  "output": "film/clips/04-05.mp4"
+ },
+ {
+  "id": "04-06",
+  "scene": "04",
+  "name": "Ba khách",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c04/04-06.txt",
+  "output": "film/clips/04-06.mp4"
+ },
+ {
+  "id": "04-07",
+  "scene": "04",
+  "name": "Người làm đêm",
+  "secs": 5,
+  "place": "P4",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c04/04-07.txt",
+  "output": "film/clips/04-07.mp4"
+ },
+ {
+  "id": "04-08",
+  "scene": "04",
+  "name": "Hai năm xếp ca",
+  "secs": 7,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c04/04-08.txt",
+  "output": "film/clips/04-08.mp4"
+ },
+ {
+  "id": "04-09",
+  "scene": "04",
+  "name": "Vì cô ngủ gật",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c04/04-09.txt",
+  "output": "film/clips/04-09.mp4"
+ },
+ {
+  "id": "04-10",
+  "scene": "04",
+  "name": "Dễ lái",
+  "secs": 4,
+  "place": "P4",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c04/04-10.txt",
+  "output": "film/clips/04-10.mp4"
+ },
+ {
+  "id": "04-11",
+  "scene": "04",
+  "name": "Như lính",
+  "secs": 7,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c04/04-11.txt",
+  "output": "film/clips/04-11.mp4"
+ },
+ {
+  "id": "04-12",
+  "scene": "04",
+  "name": "Cười một mình",
+  "secs": 4,
+  "place": "P4",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c04/04-12.txt",
+  "output": "film/clips/04-12.mp4"
+ },
+ {
+  "id": "04-13",
+  "scene": "04",
+  "name": "Ngủ Gật",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c04/04-13.txt",
+  "output": "film/clips/04-13.mp4"
+ },
+ {
+  "id": "05-01",
+  "scene": "05",
+  "name": "Hang đá",
+  "secs": 6,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-01.txt",
+  "output": "film/clips/05-01.mp4"
+ },
+ {
+  "id": "05-02",
+  "scene": "05",
+  "name": "Tuyến cắt rồi",
+  "secs": 4,
+  "place": "P5",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c05/05-02.txt",
+  "output": "film/clips/05-02.mp4"
+ },
+ {
+  "id": "05-03",
+  "scene": "05",
+  "name": "Tốt",
+  "secs": 5,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-03.txt",
+  "output": "film/clips/05-03.mp4"
+ },
+ {
+  "id": "05-04",
+  "scene": "05",
+  "name": "Cô ngủ gật",
+  "secs": 4,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-04.txt",
+  "output": "film/clips/05-04.mp4"
+ },
+ {
+  "id": "05-05",
+  "scene": "05",
+  "name": "Sao mẹ biết",
+  "secs": 4,
+  "place": "P5",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c05/05-05.txt",
+  "output": "film/clips/05-05.mp4"
+ },
+ {
+  "id": "05-06",
+  "scene": "05",
+  "name": "Cả bến xe",
+  "secs": 5,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-06.txt",
+  "output": "film/clips/05-06.mp4"
+ },
+ {
+  "id": "05-07",
+  "scene": "05",
+  "name": "Tặng gì",
+  "secs": 5,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-07.txt",
+  "output": "film/clips/05-07.mp4"
+ },
+ {
+  "id": "05-08",
+  "scene": "05",
+  "name": "Một câu",
+  "secs": 7,
+  "place": "P5",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c05/05-08.txt",
+  "output": "film/clips/05-08.mp4"
+ },
+ {
+  "id": "05-09",
+  "scene": "05",
+  "name": "Câu khác",
+  "secs": 6,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-09.txt",
+  "output": "film/clips/05-09.mp4"
+ },
+ {
+  "id": "05-10",
+  "scene": "05",
+  "name": "Đôi găng",
+  "secs": 5,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-10.txt",
+  "output": "film/clips/05-10.mp4"
+ },
+ {
+  "id": "05-11",
+  "scene": "05",
+  "name": "Tên gì",
+  "secs": 4,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-11.txt",
+  "output": "film/clips/05-11.mp4"
+ },
+ {
+  "id": "05-12",
+  "scene": "05",
+  "name": "Không biết",
+  "secs": 4,
+  "place": "P5",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c05/05-12.txt",
+  "output": "film/clips/05-12.mp4"
+ },
+ {
+  "id": "05-13",
+  "scene": "05",
+  "name": "Hai năm!",
+  "secs": 4,
+  "place": "P5",
+  "attach": [
+   "Bà Lụa · Áo bông ở nhà"
+  ],
+  "prompt": "film/c05/05-13.txt",
+  "output": "film/clips/05-13.mp4"
+ },
+ {
+  "id": "06-01",
+  "scene": "06",
+  "name": "Ghế đá",
+  "secs": 5,
+  "place": "P2",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-01.txt",
+  "output": "film/clips/06-01.mp4"
+ },
+ {
+  "id": "06-02",
+  "scene": "06",
+  "name": "Ổ bánh mì",
+  "secs": 6,
+  "place": "P2",
+  "attach": [
+   "An · Áo dạ về ca",
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-02.txt",
+  "output": "film/clips/06-02.mp4"
+ },
+ {
+  "id": "06-03",
+  "scene": "06",
+  "name": "Vào rồi",
+  "secs": 4,
+  "place": "P2",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-03.txt",
+  "output": "film/clips/06-03.mp4"
+ },
+ {
+  "id": "06-04",
+  "scene": "06",
+  "name": "Đi xa",
+  "secs": 6,
+  "place": "P2",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c06/06-04.txt",
+  "output": "film/clips/06-04.mp4"
+ },
+ {
+  "id": "06-05",
+  "scene": "06",
+  "name": "Cậu lái xe",
+  "secs": 4,
+  "place": "P2",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-05.txt",
+  "output": "film/clips/06-05.mp4"
+ },
+ {
+  "id": "06-06",
+  "scene": "06",
+  "name": "Đang ngủ",
+  "secs": 4,
+  "place": "P2",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c06/06-06.txt",
+  "output": "film/clips/06-06.mp4"
+ },
+ {
+  "id": "06-07",
+  "scene": "06",
+  "name": "Ông tán bà",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c06/06-07.txt",
+  "output": "film/clips/06-07.mp4"
+ },
+ {
+  "id": "06-08",
+  "scene": "06",
+  "name": "Tàu điện",
+  "secs": 7,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-08.txt",
+  "output": "film/clips/06-08.mp4"
+ },
+ {
+  "id": "06-09",
+  "scene": "06",
+  "name": "Bánh sắt",
+  "secs": 4,
+  "place": "P9S",
+  "attach": [],
+  "prompt": "film/c06/06-09.txt",
+  "output": "film/clips/06-09.mp4"
+ },
+ {
+  "id": "06-10",
+  "scene": "06",
+  "name": "Cô y tá",
+  "secs": 4,
+  "place": "P9",
+  "attach": [
+   "Bà Nguyệt trẻ · Áo y tá xưa"
+  ],
+  "prompt": "film/c06/06-10.txt",
+  "output": "film/clips/06-10.mp4"
+ },
+ {
+  "id": "06-11",
+  "scene": "06",
+  "name": "Ba năm",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-11.txt",
+  "output": "film/clips/06-11.mp4"
+ },
+ {
+  "id": "06-12",
+  "scene": "06",
+  "name": "Cô ơi",
+  "secs": 4,
+  "place": "P9",
+  "attach": [
+   "Ông Thư trẻ · Áo lái tàu điện"
+  ],
+  "prompt": "film/c06/06-12.txt",
+  "output": "film/clips/06-12.mp4"
+ },
+ {
+  "id": "06-13",
+  "scene": "06",
+  "name": "Y như cháu",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c06/06-13.txt",
+  "output": "film/clips/06-13.mp4"
+ },
+ {
+  "id": "06-14",
+  "scene": "06",
+  "name": "Chữ thương",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-14.txt",
+  "output": "film/clips/06-14.mp4"
+ },
+ {
+  "id": "06-15",
+  "scene": "06",
+  "name": "Không nghe được",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-15.txt",
+  "output": "film/clips/06-15.mp4"
+ },
+ {
+  "id": "06-16",
+  "scene": "06",
+  "name": "Đến rồi",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c06/06-16.txt",
+  "output": "film/clips/06-16.mp4"
+ },
+ {
+  "id": "06-17",
+  "scene": "06",
+  "name": "Mắt mở",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c06/06-17.txt",
+  "output": "film/clips/06-17.mp4"
+ },
+ {
+  "id": "07-01",
+  "scene": "07",
+  "name": "Tuyến cắt",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-01.txt",
+  "output": "film/clips/07-01.mp4"
+ },
+ {
+  "id": "07-02",
+  "scene": "07",
+  "name": "An toàn",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-02.txt",
+  "output": "film/clips/07-02.mp4"
+ },
+ {
+  "id": "07-03",
+  "scene": "07",
+  "name": "Chưa biết tên",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-03.txt",
+  "output": "film/clips/07-03.mp4"
+ },
+ {
+  "id": "07-04",
+  "scene": "07",
+  "name": "Mai em kể",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-04.txt",
+  "output": "film/clips/07-04.mp4"
+ },
+ {
+  "id": "07-05",
+  "scene": "07",
+  "name": "Dám nói",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-05.txt",
+  "output": "film/clips/07-05.mp4"
+ },
+ {
+  "id": "07-06",
+  "scene": "07",
+  "name": "Em thích chị",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-06.txt",
+  "output": "film/clips/07-06.mp4"
+ },
+ {
+  "id": "07-07",
+  "scene": "07",
+  "name": "Giọt nước mắt",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c07/07-07.txt",
+  "output": "film/clips/07-07.mp4"
+ },
+ {
+  "id": "07-08",
+  "scene": "07",
+  "name": "Đến trạm",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-08.txt",
+  "output": "film/clips/07-08.mp4"
+ },
+ {
+  "id": "07-09",
+  "scene": "07",
+  "name": "Không dậy",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c07/07-09.txt",
+  "output": "film/clips/07-09.mp4"
+ },
+ {
+  "id": "07-10",
+  "scene": "07",
+  "name": "Gọi lần hai",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-10.txt",
+  "output": "film/clips/07-10.mp4"
+ },
+ {
+  "id": "07-11",
+  "scene": "07",
+  "name": "Không nhìn",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-11.txt",
+  "output": "film/clips/07-11.mp4"
+ },
+ {
+  "id": "07-12",
+  "scene": "07",
+  "name": "Mặc thêm áo",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c07/07-12.txt",
+  "output": "film/clips/07-12.mp4"
+ },
+ {
+  "id": "07-13",
+  "scene": "07",
+  "name": "Đèn khẩn cấp",
+  "secs": 6,
+  "place": "P7",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c07/07-13.txt",
+  "output": "film/clips/07-13.mp4"
+ },
+ {
+  "id": "08-01",
+  "scene": "08",
+  "name": "Mắt đỏ",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "An · Đồ ở nhà",
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c08/08-01.txt",
+  "output": "film/clips/08-01.mp4"
+ },
+ {
+  "id": "08-02",
+  "scene": "08",
+  "name": "Trả lời gì",
+  "secs": 4,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c08/08-02.txt",
+  "output": "film/clips/08-02.mp4"
+ },
+ {
+  "id": "08-03",
+  "scene": "08",
+  "name": "Tao ngủ",
+  "secs": 4,
+  "place": "P6",
+  "attach": [
+   "An · Đồ ở nhà"
+  ],
+  "prompt": "film/c08/08-03.txt",
+  "output": "film/clips/08-03.mp4"
+ },
+ {
+  "id": "08-04",
+  "scene": "08",
+  "name": "Phang gối",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ",
+   "An · Đồ ở nhà"
+  ],
+  "prompt": "film/c08/08-04.txt",
+  "output": "film/clips/08-04.mp4"
+ },
+ {
+  "id": "08-05",
+  "scene": "08",
+  "name": "Bắt chờ",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "An · Đồ ở nhà"
+  ],
+  "prompt": "film/c08/08-05.txt",
+  "output": "film/clips/08-05.mp4"
+ },
+ {
+  "id": "08-06",
+  "scene": "08",
+  "name": "Hỏi chưa",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c08/08-06.txt",
+  "output": "film/clips/08-06.mp4"
+ },
+ {
+  "id": "08-07",
+  "scene": "08",
+  "name": "Đêm đầu tiên",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "An · Đồ ở nhà"
+  ],
+  "prompt": "film/c08/08-07.txt",
+  "output": "film/clips/08-07.mp4"
+ },
+ {
+  "id": "08-08",
+  "scene": "08",
+  "name": "Khóc trên xe",
+  "secs": 5,
+  "place": "P1F",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c08/08-08.txt",
+  "output": "film/clips/08-08.mp4"
+ },
+ {
+  "id": "08-09",
+  "scene": "08",
+  "name": "Cứ ngủ đi",
+  "secs": 5,
+  "place": "P1F",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c08/08-09.txt",
+  "output": "film/clips/08-09.mp4"
+ },
+ {
+  "id": "08-10",
+  "scene": "08",
+  "name": "Nhắm mắt",
+  "secs": 4,
+  "place": "P1F",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c08/08-10.txt",
+  "output": "film/clips/08-10.mp4"
+ },
+ {
+  "id": "08-11",
+  "scene": "08",
+  "name": "Hai năm",
+  "secs": 6,
+  "place": "P6",
+  "attach": [
+   "An · Đồ ở nhà"
+  ],
+  "prompt": "film/c08/08-11.txt",
+  "output": "film/clips/08-11.mp4"
+ },
+ {
+  "id": "08-12",
+  "scene": "08",
+  "name": "Đến bao giờ",
+  "secs": 5,
+  "place": "P6",
+  "attach": [
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c08/08-12.txt",
+  "output": "film/clips/08-12.mp4"
+ },
+ {
+  "id": "09-01",
+  "scene": "09",
+  "name": "Túi quýt",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c09/09-01.txt",
+  "output": "film/clips/09-01.mp4"
+ },
+ {
+  "id": "09-02",
+  "scene": "09",
+  "name": "Anh tìm ai",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-02.txt",
+  "output": "film/clips/09-02.mp4"
+ },
+ {
+  "id": "09-03",
+  "scene": "09",
+  "name": "Bà Nguyệt",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c09/09-03.txt",
+  "output": "film/clips/09-03.mp4"
+ },
+ {
+  "id": "09-04",
+  "scene": "09",
+  "name": "Mất rồi",
+  "secs": 6,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-04.txt",
+  "output": "film/clips/09-04.mp4"
+ },
+ {
+  "id": "09-05",
+  "scene": "09",
+  "name": "Ngồi cổng",
+  "secs": 7,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-05.txt",
+  "output": "film/clips/09-05.mp4"
+ },
+ {
+  "id": "09-06",
+  "scene": "09",
+  "name": "Nhận ra",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-06.txt",
+  "output": "film/clips/09-06.mp4"
+ },
+ {
+  "id": "09-07",
+  "scene": "09",
+  "name": "Biết tên chưa",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-07.txt",
+  "output": "film/clips/09-07.mp4"
+ },
+ {
+  "id": "09-08",
+  "scene": "09",
+  "name": "Chưa",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c09/09-08.txt",
+  "output": "film/clips/09-08.mp4"
+ },
+ {
+  "id": "09-09",
+  "scene": "09",
+  "name": "An",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-09.txt",
+  "output": "film/clips/09-09.mp4"
+ },
+ {
+  "id": "09-10",
+  "scene": "09",
+  "name": "Thì thầm",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c09/09-10.txt",
+  "output": "film/clips/09-10.mp4"
+ },
+ {
+  "id": "09-11",
+  "scene": "09",
+  "name": "Sáu giờ",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-11.txt",
+  "output": "film/clips/09-11.mp4"
+ },
+ {
+  "id": "09-12",
+  "scene": "09",
+  "name": "Quýt lăn",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c09/09-12.txt",
+  "output": "film/clips/09-12.mp4"
+ },
+ {
+  "id": "09-13",
+  "scene": "09",
+  "name": "Tưởng ngủ thật",
+  "secs": 6,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-13.txt",
+  "output": "film/clips/09-13.mp4"
+ },
+ {
+  "id": "09-14",
+  "scene": "09",
+  "name": "Mỉm cười",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c09/09-14.txt",
+  "output": "film/clips/09-14.mp4"
+ },
+ {
+  "id": "09-15",
+  "scene": "09",
+  "name": "Chuyến cuối",
+  "secs": 7,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c09/09-15.txt",
+  "output": "film/clips/09-15.mp4"
+ },
+ {
+  "id": "10-01",
+  "scene": "10",
+  "name": "Ngồi xuống",
+  "secs": 5,
+  "place": "P2D",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ",
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c10/10-01.txt",
+  "output": "film/clips/10-01.mp4"
+ },
+ {
+  "id": "10-02",
+  "scene": "10",
+  "name": "Không đồng phục",
+  "secs": 5,
+  "place": "P2D",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c10/10-02.txt",
+  "output": "film/clips/10-02.mp4"
+ },
+ {
+  "id": "10-03",
+  "scene": "10",
+  "name": "Xin nghỉ",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c10/10-03.txt",
+  "output": "film/clips/10-03.mp4"
+ },
+ {
+  "id": "10-04",
+  "scene": "10",
+  "name": "Cháu biết rồi",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c10/10-04.txt",
+  "output": "film/clips/10-04.mp4"
+ },
+ {
+  "id": "10-05",
+  "scene": "10",
+  "name": "Đứng cổng",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c10/10-05.txt",
+  "output": "film/clips/10-05.mp4"
+ },
+ {
+  "id": "10-06",
+  "scene": "10",
+  "name": "Chân quen đường",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c10/10-06.txt",
+  "output": "film/clips/10-06.mp4"
+ },
+ {
+  "id": "10-07",
+  "scene": "10",
+  "name": "Nói dối",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c10/10-07.txt",
+  "output": "film/clips/10-07.mp4"
+ },
+ {
+  "id": "10-08",
+  "scene": "10",
+  "name": "Cháu cũng nói",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c10/10-08.txt",
+  "output": "film/clips/10-08.mp4"
+ },
+ {
+  "id": "10-09",
+  "scene": "10",
+  "name": "Không trả lời",
+  "secs": 5,
+  "place": "P2D",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c10/10-09.txt",
+  "output": "film/clips/10-09.mp4"
+ },
+ {
+  "id": "10-10",
+  "scene": "10",
+  "name": "Như tôi",
+  "secs": 4,
+  "place": "P2D",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c10/10-10.txt",
+  "output": "film/clips/10-10.mp4"
+ },
+ {
+  "id": "10-11",
+  "scene": "10",
+  "name": "Lúc thức",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c10/10-11.txt",
+  "output": "film/clips/10-11.mp4"
+ },
+ {
+  "id": "10-12",
+  "scene": "10",
+  "name": "Gọi Tú",
+  "secs": 6,
+  "place": "P2D",
+  "attach": [
+   "Hưng · Áo phao thường"
+  ],
+  "prompt": "film/c10/10-12.txt",
+  "output": "film/clips/10-12.mp4"
+ },
+ {
+  "id": "11-01",
+  "scene": "11",
+  "name": "Mũ Noel",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "An · Đồ trực",
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c11/11-01.txt",
+  "output": "film/clips/11-01.mp4"
+ },
+ {
+  "id": "11-02",
+  "scene": "11",
+  "name": "Quả quýt",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c11/11-02.txt",
+  "output": "film/clips/11-02.mp4"
+ },
+ {
+  "id": "11-03",
+  "scene": "11",
+  "name": "Cửa sổ",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c11/11-03.txt",
+  "output": "film/clips/11-03.mp4"
+ },
+ {
+  "id": "11-04",
+  "scene": "11",
+  "name": "Lo",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c11/11-04.txt",
+  "output": "film/clips/11-04.mp4"
+ },
+ {
+  "id": "11-05",
+  "scene": "11",
+  "name": "Lo gì",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c11/11-05.txt",
+  "output": "film/clips/11-05.mp4"
+ },
+ {
+  "id": "11-06",
+  "scene": "11",
+  "name": "Mở mắt",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c11/11-06.txt",
+  "output": "film/clips/11-06.mp4"
+ },
+ {
+  "id": "11-07",
+  "scene": "11",
+  "name": "Nghe được gì",
+  "secs": 6,
+  "place": "P3",
+  "attach": [
+   "Thảo · Đồ trực"
+  ],
+  "prompt": "film/c11/11-07.txt",
+  "output": "film/clips/11-07.mp4"
+ },
+ {
+  "id": "11-08",
+  "scene": "11",
+  "name": "Nghe hết",
+  "secs": 4,
+  "place": "P3",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c11/11-08.txt",
+  "output": "film/clips/11-08.mp4"
+ },
+ {
+  "id": "11-09",
+  "scene": "11",
+  "name": "Đổ nghiêng",
+  "secs": 5,
+  "place": "P3",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c11/11-09.txt",
+  "output": "film/clips/11-09.mp4"
+ },
+ {
+  "id": "12-01",
+  "scene": "12",
+  "name": "Xe vào trạm",
+  "secs": 4,
+  "place": "P2",
+  "attach": [],
+  "prompt": "film/c12/12-01.txt",
+  "output": "film/clips/12-01.mp4"
+ },
+ {
+  "id": "12-02",
+  "scene": "12",
+  "name": "Ở cửa xe",
+  "secs": 4,
+  "place": "P2",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c12/12-02.txt",
+  "output": "film/clips/12-02.mp4"
+ },
+ {
+  "id": "12-03",
+  "scene": "12",
+  "name": "Ông gục",
+  "secs": 4,
+  "place": "P2",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c12/12-03.txt",
+  "output": "film/clips/12-03.mp4"
+ },
+ {
+  "id": "12-04",
+  "scene": "12",
+  "name": "Chạy tới",
+  "secs": 5,
+  "place": "P2",
+  "attach": [
+   "Hưng · Đồng phục lái xe",
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c12/12-04.txt",
+  "output": "film/clips/12-04.mp4"
+ },
+ {
+  "id": "12-05",
+  "scene": "12",
+  "name": "Bế ông",
+  "secs": 5,
+  "place": "P2",
+  "attach": [
+   "Hưng · Đồng phục lái xe",
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c12/12-05.txt",
+  "output": "film/clips/12-05.mp4"
+ },
+ {
+  "id": "12-06",
+  "scene": "12",
+  "name": "An chạy ra",
+  "secs": 4,
+  "place": "P2",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c12/12-06.txt",
+  "output": "film/clips/12-06.mp4"
+ },
+ {
+  "id": "12-07",
+  "scene": "12",
+  "name": "Đối mặt",
+  "secs": 5,
+  "place": "P2",
+  "attach": [
+   "An · Đồ trực",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c12/12-07.txt",
+  "output": "film/clips/12-07.mp4"
+ },
+ {
+  "id": "12-08",
+  "scene": "12",
+  "name": "Chiếc phích",
+  "secs": 4,
+  "place": "P2",
+  "attach": [],
+  "prompt": "film/c12/12-08.txt",
+  "output": "film/clips/12-08.mp4"
+ },
+ {
+  "id": "13-01",
+  "scene": "13",
+  "name": "Chăn giữ nhiệt",
+  "secs": 5,
+  "place": "P3E",
+  "attach": [
+   "An · Đồ trực",
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c13/13-01.txt",
+  "output": "film/clips/13-01.mp4"
+ },
+ {
+  "id": "13-02",
+  "scene": "13",
+  "name": "Đừng để ông ngủ",
+  "secs": 5,
+  "place": "P3E",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c13/13-02.txt",
+  "output": "film/clips/13-02.mp4"
+ },
+ {
+  "id": "13-03",
+  "scene": "13",
+  "name": "Nói gì",
+  "secs": 4,
+  "place": "P3E",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c13/13-03.txt",
+  "output": "film/clips/13-03.mp4"
+ },
+ {
+  "id": "13-04",
+  "scene": "13",
+  "name": "Như mọi đêm",
+  "secs": 5,
+  "place": "P3E",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c13/13-04.txt",
+  "output": "film/clips/13-04.mp4"
+ },
+ {
+  "id": "13-05",
+  "scene": "13",
+  "name": "Không ngạc nhiên",
+  "secs": 4,
+  "place": "P3E",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c13/13-05.txt",
+  "output": "film/clips/13-05.mp4"
+ },
+ {
+  "id": "13-06",
+  "scene": "13",
+  "name": "Bản tin",
+  "secs": 6,
+  "place": "P3E",
+  "attach": [
+   "Hưng · Đồng phục lái xe",
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c13/13-06.txt",
+  "output": "film/clips/13-06.mp4"
+ },
+ {
+  "id": "13-07",
+  "scene": "13",
+  "name": "Con lừa rơm",
+  "secs": 6,
+  "place": "P3E",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c13/13-07.txt",
+  "output": "film/clips/13-07.mp4"
+ },
+ {
+  "id": "13-08",
+  "scene": "13",
+  "name": "Giọng ấy",
+  "secs": 5,
+  "place": "P3E",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c13/13-08.txt",
+  "output": "film/clips/13-08.mp4"
+ },
+ {
+  "id": "13-09",
+  "scene": "13",
+  "name": "Ông cằn nhằn",
+  "secs": 5,
+  "place": "P3E",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c13/13-09.txt",
+  "output": "film/clips/13-09.mp4"
+ },
+ {
+  "id": "13-10",
+  "scene": "13",
+  "name": "Bật cười",
+  "secs": 4,
+  "place": "P3E",
+  "attach": [
+   "An · Đồ trực",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c13/13-10.txt",
+  "output": "film/clips/13-10.mp4"
+ },
+ {
+  "id": "13-11",
+  "scene": "13",
+  "name": "Tú gọi",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c13/13-11.txt",
+  "output": "film/clips/13-11.mp4"
+ },
+ {
+  "id": "13-12",
+  "scene": "13",
+  "name": "Đi đi",
+  "secs": 5,
+  "place": "P3E",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c13/13-12.txt",
+  "output": "film/clips/13-12.mp4"
+ },
+ {
+  "id": "13-13",
+  "scene": "13",
+  "name": "Chờ ở trạm",
+  "secs": 5,
+  "place": "P3E",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c13/13-13.txt",
+  "output": "film/clips/13-13.mp4"
+ },
+ {
+  "id": "14-01",
+  "scene": "14",
+  "name": "Đúng phòng bà",
+  "secs": 6,
+  "place": "P3R",
+  "attach": [
+   "An · Đồ trực",
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-01.txt",
+  "output": "film/clips/14-01.mp4"
+ },
+ {
+  "id": "14-02",
+  "scene": "14",
+  "name": "Cửa phòng này",
+  "secs": 6,
+  "place": "P3R",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c14/14-02.txt",
+  "output": "film/clips/14-02.mp4"
+ },
+ {
+  "id": "14-03",
+  "scene": "14",
+  "name": "Năm ngoái",
+  "secs": 5,
+  "place": "P3F",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ",
+   "Bà Nguyệt · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-03.txt",
+  "output": "film/clips/14-03.mp4"
+ },
+ {
+  "id": "14-04",
+  "scene": "14",
+  "name": "Anh thương em",
+  "secs": 5,
+  "place": "P3F",
+  "attach": [
+   "Ông Thư · Áo dạ khăn đỏ"
+  ],
+  "prompt": "film/c14/14-04.txt",
+  "output": "film/clips/14-04.mp4"
+ },
+ {
+  "id": "14-05",
+  "scene": "14",
+  "name": "Giọt nước mắt bà",
+  "secs": 4,
+  "place": "P3F",
+  "attach": [
+   "Bà Nguyệt · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-05.txt",
+  "output": "film/clips/14-05.mp4"
+ },
+ {
+  "id": "14-06",
+  "scene": "14",
+  "name": "Bà nghe thấy",
+  "secs": 6,
+  "place": "P3R",
+  "attach": [
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c14/14-06.txt",
+  "output": "film/clips/14-06.mp4"
+ },
+ {
+  "id": "14-07",
+  "scene": "14",
+  "name": "Giọt nước mắt ông",
+  "secs": 4,
+  "place": "P3R",
+  "attach": [
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-07.txt",
+  "output": "film/clips/14-07.mp4"
+ },
+ {
+  "id": "14-08",
+  "scene": "14",
+  "name": "Tôi chưa ngủ",
+  "secs": 5,
+  "place": "P3R",
+  "attach": [
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-08.txt",
+  "output": "film/clips/14-08.mp4"
+ },
+ {
+  "id": "14-09",
+  "scene": "14",
+  "name": "Thật à",
+  "secs": 5,
+  "place": "P3R",
+  "attach": [
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-09.txt",
+  "output": "film/clips/14-09.mp4"
+ },
+ {
+  "id": "14-10",
+  "scene": "14",
+  "name": "Nắm tay",
+  "secs": 4,
+  "place": "P3R",
+  "attach": [
+   "An · Đồ trực",
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-10.txt",
+  "output": "film/clips/14-10.mp4"
+ },
+ {
+  "id": "14-11",
+  "scene": "14",
+  "name": "Kể nốt",
+  "secs": 6,
+  "place": "P3R",
+  "attach": [
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-11.txt",
+  "output": "film/clips/14-11.mp4"
+ },
+ {
+  "id": "14-12",
+  "scene": "14",
+  "name": "Quàng khăn",
+  "secs": 5,
+  "place": "P9",
+  "attach": [
+   "Ông Thư trẻ · Áo lái tàu điện",
+   "Bà Nguyệt trẻ · Áo y tá xưa"
+  ],
+  "prompt": "film/c14/14-12.txt",
+  "output": "film/clips/14-12.mp4"
+ },
+ {
+  "id": "14-13",
+  "scene": "14",
+  "name": "Cho chặt vào",
+  "secs": 5,
+  "place": "P9",
+  "attach": [
+   "Bà Nguyệt trẻ · Áo y tá xưa",
+   "Ông Thư trẻ · Áo lái tàu điện"
+  ],
+  "prompt": "film/c14/14-13.txt",
+  "output": "film/clips/14-13.mp4"
+ },
+ {
+  "id": "14-14",
+  "scene": "14",
+  "name": "Quàng cho cô",
+  "secs": 6,
+  "place": "P3R",
+  "attach": [
+   "Ông Thư · Áo bệnh viện",
+   "An · Đồ trực"
+  ],
+  "prompt": "film/c14/14-14.txt",
+  "output": "film/clips/14-14.mp4"
+ },
+ {
+  "id": "14-15",
+  "scene": "14",
+  "name": "Đừng để",
+  "secs": 6,
+  "place": "P3R",
+  "attach": [
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-15.txt",
+  "output": "film/clips/14-15.mp4"
+ },
+ {
+  "id": "14-16",
+  "scene": "14",
+  "name": "Đèn khẩn cấp",
+  "secs": 6,
+  "place": "P3R",
+  "attach": [
+   "Ông Thư · Áo bệnh viện"
+  ],
+  "prompt": "film/c14/14-16.txt",
+  "output": "film/clips/14-16.mp4"
+ },
+ {
+  "id": "14-17",
+  "scene": "14",
+  "name": "Từ cửa sổ",
+  "secs": 5,
+  "place": "P2H",
+  "attach": [],
+  "prompt": "film/c14/14-17.txt",
+  "output": "film/clips/14-17.mp4"
+ },
+ {
+  "id": "15-01",
+  "scene": "15",
+  "name": "Chờ",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c15/15-01.txt",
+  "output": "film/clips/15-01.mp4"
+ },
+ {
+  "id": "15-02",
+  "scene": "15",
+  "name": "Chạy ra",
+  "secs": 5,
+  "place": "P2",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c15/15-02.txt",
+  "output": "film/clips/15-02.mp4"
+ },
+ {
+  "id": "15-03",
+  "scene": "15",
+  "name": "Lên xe",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c15/15-03.txt",
+  "output": "film/clips/15-03.mp4"
+ },
+ {
+  "id": "15-04",
+  "scene": "15",
+  "name": "Nhìn nhau",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c15/15-04.txt",
+  "output": "film/clips/15-04.mp4"
+ },
+ {
+  "id": "15-05",
+  "scene": "15",
+  "name": "Giữa lối",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c15/15-05.txt",
+  "output": "film/clips/15-05.mp4"
+ },
+ {
+  "id": "15-06",
+  "scene": "15",
+  "name": "Ghế đầu",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c15/15-06.txt",
+  "output": "film/clips/15-06.mp4"
+ },
+ {
+  "id": "15-07",
+  "scene": "15",
+  "name": "Gương trống",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c15/15-07.txt",
+  "output": "film/clips/15-07.mp4"
+ },
+ {
+  "id": "15-08",
+  "scene": "15",
+  "name": "Ông thế nào",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c15/15-08.txt",
+  "output": "film/clips/15-08.mp4"
+ },
+ {
+  "id": "15-09",
+  "scene": "15",
+  "name": "Ông chưa ngủ",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c15/15-09.txt",
+  "output": "film/clips/15-09.mp4"
+ },
+ {
+  "id": "15-10",
+  "scene": "15",
+  "name": "Lăn bánh",
+  "secs": 4,
+  "place": "PS",
+  "attach": [],
+  "prompt": "film/c15/15-10.txt",
+  "output": "film/clips/15-10.mp4"
+ },
+ {
+  "id": "16-01",
+  "scene": "16",
+  "name": "Tan lễ",
+  "secs": 5,
+  "place": "P8",
+  "attach": [],
+  "prompt": "film/c16/16-01.txt",
+  "output": "film/clips/16-01.mp4"
+ },
+ {
+  "id": "16-02",
+  "scene": "16",
+  "name": "Gõ cửa",
+  "secs": 5,
+  "place": "P8",
+  "attach": [
+   "Bà Lụa · Áo dài đi lễ"
+  ],
+  "prompt": "film/c16/16-02.txt",
+  "output": "film/clips/16-02.mp4"
+ },
+ {
+  "id": "16-03",
+  "scene": "16",
+  "name": "Mẹ đi về đi",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c16/16-03.txt",
+  "output": "film/clips/16-03.mp4"
+ },
+ {
+  "id": "16-04",
+  "scene": "16",
+  "name": "Thấy An",
+  "secs": 5,
+  "place": "P8",
+  "attach": [
+   "Bà Lụa · Áo dài đi lễ"
+  ],
+  "prompt": "film/c16/16-04.txt",
+  "output": "film/clips/16-04.mp4"
+ },
+ {
+  "id": "16-05",
+  "scene": "16",
+  "name": "Cháu tên An",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c16/16-05.txt",
+  "output": "film/clips/16-05.mp4"
+ },
+ {
+  "id": "16-06",
+  "scene": "16",
+  "name": "Nó tên An",
+  "secs": 5,
+  "place": "P8",
+  "attach": [
+   "Bà Lụa · Áo dài đi lễ"
+  ],
+  "prompt": "film/c16/16-06.txt",
+  "output": "film/clips/16-06.mp4"
+ },
+ {
+  "id": "16-07",
+  "scene": "16",
+  "name": "Găng đưa chưa",
+  "secs": 5,
+  "place": "P8",
+  "attach": [
+   "Bà Lụa · Áo dài đi lễ"
+  ],
+  "prompt": "film/c16/16-07.txt",
+  "output": "film/clips/16-07.mp4"
+ },
+ {
+  "id": "16-08",
+  "scene": "16",
+  "name": "Mẹ!",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c16/16-08.txt",
+  "output": "film/clips/16-08.mp4"
+ },
+ {
+  "id": "16-09",
+  "scene": "16",
+  "name": "Tú quát",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c16/16-09.txt",
+  "output": "film/clips/16-09.mp4"
+ },
+ {
+  "id": "16-10",
+  "scene": "16",
+  "name": "Hai năm nay",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c16/16-10.txt",
+  "output": "film/clips/16-10.mp4"
+ },
+ {
+  "id": "16-11",
+  "scene": "16",
+  "name": "Tắt",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c16/16-11.txt",
+  "output": "film/clips/16-11.mp4"
+ },
+ {
+  "id": "16-12",
+  "scene": "16",
+  "name": "Hai năm à",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c16/16-12.txt",
+  "output": "film/clips/16-12.mp4"
+ },
+ {
+  "id": "16-13",
+  "scene": "16",
+  "name": "Tai đỏ",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c16/16-13.txt",
+  "output": "film/clips/16-13.mp4"
+ },
+ {
+  "id": "17-01",
+  "scene": "17",
+  "name": "Đến trạm",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-01.txt",
+  "output": "film/clips/17-01.mp4"
+ },
+ {
+  "id": "17-02",
+  "scene": "17",
+  "name": "Em giả vờ",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-02.txt",
+  "output": "film/clips/17-02.mp4"
+ },
+ {
+  "id": "17-03",
+  "scene": "17",
+  "name": "Em biết",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-03.txt",
+  "output": "film/clips/17-03.mp4"
+ },
+ {
+  "id": "17-04",
+  "scene": "17",
+  "name": "Từ bao giờ",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-04.txt",
+  "output": "film/clips/17-04.mp4"
+ },
+ {
+  "id": "17-05",
+  "scene": "17",
+  "name": "Đêm đầu tiên",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-05.txt",
+  "output": "film/clips/17-05.mp4"
+ },
+ {
+  "id": "17-06",
+  "scene": "17",
+  "name": "Lần thứ hai",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-06.txt",
+  "output": "film/clips/17-06.mp4"
+ },
+ {
+  "id": "17-07",
+  "scene": "17",
+  "name": "Trừ đêm qua",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-07.txt",
+  "output": "film/clips/17-07.mp4"
+ },
+ {
+  "id": "17-08",
+  "scene": "17",
+  "name": "Sao vẫn nói",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-08.txt",
+  "output": "film/clips/17-08.mp4"
+ },
+ {
+  "id": "17-09",
+  "scene": "17",
+  "name": "Thôi nghe",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-09.txt",
+  "output": "film/clips/17-09.mp4"
+ },
+ {
+  "id": "17-10",
+  "scene": "17",
+  "name": "Thôi nói",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-10.txt",
+  "output": "film/clips/17-10.mp4"
+ },
+ {
+  "id": "17-11",
+  "scene": "17",
+  "name": "Bản tin của anh",
+  "secs": 8,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-11.txt",
+  "output": "film/clips/17-11.mp4"
+ },
+ {
+  "id": "17-12",
+  "scene": "17",
+  "name": "Quay lại",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-12.txt",
+  "output": "film/clips/17-12.mp4"
+ },
+ {
+  "id": "17-13",
+  "scene": "17",
+  "name": "Nghe hết",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-13.txt",
+  "output": "film/clips/17-13.mp4"
+ },
+ {
+  "id": "17-14",
+  "scene": "17",
+  "name": "Tên",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-14.txt",
+  "output": "film/clips/17-14.mp4"
+ },
+ {
+  "id": "17-15",
+  "scene": "17",
+  "name": "Tên anh",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-15.txt",
+  "output": "film/clips/17-15.mp4"
+ },
+ {
+  "id": "17-16",
+  "scene": "17",
+  "name": "Hưng",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c17/17-16.txt",
+  "output": "film/clips/17-16.mp4"
+ },
+ {
+  "id": "17-17",
+  "scene": "17",
+  "name": "Đừng gọi chị",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-17.txt",
+  "output": "film/clips/17-17.mp4"
+ },
+ {
+  "id": "17-18",
+  "scene": "17",
+  "name": "Tự nghĩ",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe",
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-18.txt",
+  "output": "film/clips/17-18.mp4"
+ },
+ {
+  "id": "17-19",
+  "scene": "17",
+  "name": "Đôi găng",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe",
+   "An · Áo dạ về ca"
+  ],
+  "prompt": "film/c17/17-19.txt",
+  "output": "film/clips/17-19.mp4"
+ },
+ {
+  "id": "18-01",
+  "scene": "18",
+  "name": "Xe vẫn chờ",
+  "secs": 5,
+  "place": "P7",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c18/18-01.txt",
+  "output": "film/clips/18-01.mp4"
+ },
+ {
+  "id": "18-02",
+  "scene": "18",
+  "name": "Vali",
+  "secs": 6,
+  "place": "P7",
+  "attach": [
+   "An · Đi xa",
+   "Thảo · Đồ ngủ"
+  ],
+  "prompt": "film/c18/18-02.txt",
+  "output": "film/clips/18-02.mp4"
+ },
+ {
+  "id": "18-03",
+  "scene": "18",
+  "name": "Tú bật dậy",
+  "secs": 5,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c18/18-03.txt",
+  "output": "film/clips/18-03.mp4"
+ },
+ {
+  "id": "18-04",
+  "scene": "18",
+  "name": "Cho em đi nốt",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c18/18-04.txt",
+  "output": "film/clips/18-04.mp4"
+ },
+ {
+  "id": "18-05",
+  "scene": "18",
+  "name": "Tao không thấy gì",
+  "secs": 6,
+  "place": "P4",
+  "attach": [
+   "Anh Tú · Áo phao bến xe"
+  ],
+  "prompt": "film/c18/18-05.txt",
+  "output": "film/clips/18-05.mp4"
+ },
+ {
+  "id": "18-06",
+  "scene": "18",
+  "name": "Đến lượt em",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Đi xa",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c18/18-06.txt",
+  "output": "film/clips/18-06.mp4"
+ },
+ {
+  "id": "18-07",
+  "scene": "18",
+  "name": "Ba con bò",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "An · Đi xa"
+  ],
+  "prompt": "film/c18/18-07.txt",
+  "output": "film/clips/18-07.mp4"
+ },
+ {
+  "id": "18-08",
+  "scene": "18",
+  "name": "Cây cầu",
+  "secs": 5,
+  "place": "PB",
+  "attach": [],
+  "prompt": "film/c18/18-08.txt",
+  "output": "film/clips/18-08.mp4"
+ },
+ {
+  "id": "18-09",
+  "scene": "18",
+  "name": "Ngủ thật",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Đi xa"
+  ],
+  "prompt": "film/c18/18-09.txt",
+  "output": "film/clips/18-09.mp4"
+ },
+ {
+  "id": "18-10",
+  "scene": "18",
+  "name": "Đi chậm lại",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c18/18-10.txt",
+  "output": "film/clips/18-10.mp4"
+ },
+ {
+  "id": "19-01",
+  "scene": "19",
+  "name": "Sân bay",
+  "secs": 4,
+  "place": "P10",
+  "attach": [],
+  "prompt": "film/c19/19-01.txt",
+  "output": "film/clips/19-01.mp4"
+ },
+ {
+  "id": "19-02",
+  "scene": "19",
+  "name": "Chị ơi",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-02.txt",
+  "output": "film/clips/19-02.mp4"
+ },
+ {
+  "id": "19-03",
+  "scene": "19",
+  "name": "An ơi",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-03.txt",
+  "output": "film/clips/19-03.mp4"
+ },
+ {
+  "id": "19-04",
+  "scene": "19",
+  "name": "Giật mình",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "An · Đi xa"
+  ],
+  "prompt": "film/c19/19-04.txt",
+  "output": "film/clips/19-04.mp4"
+ },
+ {
+  "id": "19-05",
+  "scene": "19",
+  "name": "Hai lần",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-05.txt",
+  "output": "film/clips/19-05.mp4"
+ },
+ {
+  "id": "19-06",
+  "scene": "19",
+  "name": "Lề đường",
+  "secs": 5,
+  "place": "P10",
+  "attach": [
+   "An · Đi xa",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-06.txt",
+  "output": "film/clips/19-06.mp4"
+ },
+ {
+  "id": "19-07",
+  "scene": "19",
+  "name": "Câu khác",
+  "secs": 6,
+  "place": "P10",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-07.txt",
+  "output": "film/clips/19-07.mp4"
+ },
+ {
+  "id": "19-08",
+  "scene": "19",
+  "name": "Anh đón em",
+  "secs": 5,
+  "place": "P10",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-08.txt",
+  "output": "film/clips/19-08.mp4"
+ },
+ {
+  "id": "19-09",
+  "scene": "19",
+  "name": "Gọi em là gì",
+  "secs": 4,
+  "place": "P10",
+  "attach": [
+   "An · Đi xa"
+  ],
+  "prompt": "film/c19/19-09.txt",
+  "output": "film/clips/19-09.mp4"
+ },
+ {
+  "id": "19-10",
+  "scene": "19",
+  "name": "Em",
+  "secs": 4,
+  "place": "P10",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-10.txt",
+  "output": "film/clips/19-10.mp4"
+ },
+ {
+  "id": "19-11",
+  "scene": "19",
+  "name": "Muộn là ngủ",
+  "secs": 5,
+  "place": "P10",
+  "attach": [
+   "An · Đi xa"
+  ],
+  "prompt": "film/c19/19-11.txt",
+  "output": "film/clips/19-11.mp4"
+ },
+ {
+  "id": "19-12",
+  "scene": "19",
+  "name": "Sửa cổ áo",
+  "secs": 5,
+  "place": "P10",
+  "attach": [
+   "An · Đi xa",
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-12.txt",
+  "output": "film/clips/19-12.mp4"
+ },
+ {
+  "id": "19-13",
+  "scene": "19",
+  "name": "Cửa kính",
+  "secs": 6,
+  "place": "P10",
+  "attach": [
+   "An · Đi xa"
+  ],
+  "prompt": "film/c19/19-13.txt",
+  "output": "film/clips/19-13.mp4"
+ },
+ {
+  "id": "19-14",
+  "scene": "19",
+  "name": "Như mọi đêm",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Đồng phục lái xe"
+  ],
+  "prompt": "film/c19/19-14.txt",
+  "output": "film/clips/19-14.mp4"
+ },
+ {
+  "id": "20-01",
+  "scene": "20",
+  "name": "Tuyến mở lại",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-01.txt",
+  "output": "film/clips/20-01.mp4"
+ },
+ {
+  "id": "20-02",
+  "scene": "20",
+  "name": "Mẹ thấy biển",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Hưng · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-02.txt",
+  "output": "film/clips/20-02.mp4"
+ },
+ {
+  "id": "20-03",
+  "scene": "20",
+  "name": "Xứ tuyết",
+  "secs": 6,
+  "place": "P11",
+  "attach": [
+   "An · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-03.txt",
+  "output": "film/clips/20-03.mp4"
+ },
+ {
+  "id": "20-04",
+  "scene": "20",
+  "name": "Năm năm sau",
+  "secs": 4,
+  "place": "P2",
+  "attach": [],
+  "prompt": "film/c20/20-04.txt",
+  "output": "film/clips/20-04.mp4"
+ },
+ {
+  "id": "20-05",
+  "scene": "20",
+  "name": "Ông lên xe",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Năm năm sau",
+   "Hưng · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-05.txt",
+  "output": "film/clips/20-05.mp4"
+ },
+ {
+  "id": "20-06",
+  "scene": "20",
+  "name": "Thiếu một đêm",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-06.txt",
+  "output": "film/clips/20-06.mp4"
+ },
+ {
+  "id": "20-07",
+  "scene": "20",
+  "name": "Người phụ nữ",
+  "secs": 5,
+  "place": "P2",
+  "attach": [
+   "An · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-07.txt",
+  "output": "film/clips/20-07.mp4"
+ },
+ {
+  "id": "20-08",
+  "scene": "20",
+  "name": "Ghế cuối",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-08.txt",
+  "output": "film/clips/20-08.mp4"
+ },
+ {
+  "id": "20-09",
+  "scene": "20",
+  "name": "Trong gương",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "Hưng · Năm năm sau",
+   "An · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-09.txt",
+  "output": "film/clips/20-09.mp4"
+ },
+ {
+  "id": "20-10",
+  "scene": "20",
+  "name": "Gõ gậy",
+  "secs": 6,
+  "place": "P1",
+  "attach": [
+   "Ông Thư · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-10.txt",
+  "output": "film/clips/20-10.mp4"
+ },
+ {
+  "id": "20-11",
+  "scene": "20",
+  "name": "Em ơi",
+  "secs": 4,
+  "place": "P1",
+  "attach": [
+   "Hưng · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-11.txt",
+  "output": "film/clips/20-11.mp4"
+ },
+ {
+  "id": "20-12",
+  "scene": "20",
+  "name": "Không xuống",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-12.txt",
+  "output": "film/clips/20-12.mp4"
+ },
+ {
+  "id": "20-13",
+  "scene": "20",
+  "name": "Chưa muốn xuống",
+  "secs": 5,
+  "place": "P1",
+  "attach": [
+   "An · Năm năm sau"
+  ],
+  "prompt": "film/c20/20-13.txt",
+  "output": "film/clips/20-13.mp4"
+ },
+ {
+  "id": "20-14",
+  "scene": "20",
+  "name": "Cửa đóng",
+  "secs": 6,
+  "place": "PS",
+  "attach": [],
+  "prompt": "film/c20/20-14.txt",
+  "output": "film/clips/20-14.mp4"
+ }
+]

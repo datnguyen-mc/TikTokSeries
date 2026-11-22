@@ -1,0 +1,21 @@
+A single continuous 6-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese romantic drama on cold December nights: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth; motivated practical light (warm bus ceiling lights, streetlamps, Christmas fairy lights) against cool blue night; soft haze in the cold damp air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh of Christmas lights. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A narrow old tube house in a city alley on a winter morning: a small front room with a low wooden table and plastic stools, a home altar on the wall with a crucifix, a small statue of the Virgin Mary and a framed photo of a man in a driver's uniform (no readable text), a handmade nativity crib of straw and coloured paper on a cabinet, a big pot of sticky rice steaming on a gas stove, grey morning light from the alley.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @BaLua = Bà Lụa, Hưng's mother (a small, plump 63-year-old Vietnamese woman, round cheerful face, short curly greying hair, sharp lively eyes, laugh lines); wears a quilted floral cotton jacket, dark cotton trousers, wool socks with plastic slippers, a cloth apron, hair held in a clip. Attached image: "Bà Lụa · Áo bông ở nhà".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] medium shot across the low table.
+
+[ACTION] @BaLua sits gluing straw onto a small handmade nativity crib, the sticky-rice pot steaming behind her, and glares at someone off-screen.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–3.6s, @BaLua (woman of 63, high quick voice, nagging but loving, nagging, loud): Ba mươi hai tuổi đầu, mày định lấy cái vô lăng làm vợ à?
+After the last word nobody speaks until 6.0s. Never read these directions aloud.
+
+[SOUND] sticky rice steaming, a quiet morning alley, a moped passing, scissors cutting paper, a rooster far away. No music.
+
+[AVOID] On-screen text, burned-in subtitles or captions, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.

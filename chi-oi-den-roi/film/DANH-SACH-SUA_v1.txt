@@ -1,0 +1,41 @@
+CHỊ ƠI, ĐẾN RỒI — BẢN DỰNG V1 (720p, 16:9)
+
+Phim: CHI-OI-DEN-ROI_ban-dung-v1_720p.mp4 — 21:58, 254 shot, 3 thẻ chữ, nhạc nền Flow Music (10 cue).
+Phụ đề rời: CHI-OI-DEN-ROI_ban-dung-v1_720p.srt (không in chữ lên hình).
+Ảnh soát từng shot (mã shot + mốc thời gian): review_v1/sheet_1..4.jpg — khi muốn sửa, chỉ cần báo mã shot (vd 07-12).
+
+NHẠC (Google Flow Music, không lời) — thư mục music/:
+ M1 Chuyến đêm (motif piano) · M2 Chủ đề chính đầy đủ · M3 Mẹ (pizzicato) · M4 Valse hồi tưởng (accordion)
+ M5 Cello độc tấu · M6 Hộp nhạc Noel · M7 Nhịp tim · M8 Đêm thánh vô cùng (piano) · M9 Cầu lúc 3 giờ sáng · M10 Bình minh
+ Đặt theo lịch nhạc trong DAO_DIEN.md (17 im lặng đến lúc 'vỡ òa', 20 chủ đề trọn kết bằng một nốt), tự hạ nhỏ khi có thoại.
+
+ĐÃ XỬ LÝ KHI DỰNG:
+ - 02-06 (01:24): Hạ giả ngủ: cắt bỏ 1 giây đầu (mắt hé), dùng 1.0–4.0s
+ - 02-12 (01:51): Đuôi xe buýt: làm mờ chữ 'TIE 1', biển số, bảng LED
+ - 05-05 (04:40): Chữ '@BaHue' AI in vào góc trái dưới (3 lần tạo đều dính) -> làm mờ
+ - 07-07 (07:20): Giọt nước mắt: cắt bỏ 2 giây đầu (mắt mở), dùng 2.0–5.0s
+ - 12-04 (12:11): Ông Khánh ngất: chỉ dùng 0–2.6s (sau đó AI cho ông tỉnh dậy, sai kịch bản)
+ - 15-15 (16:04): Chòi điều độ: làm mờ chữ trên kính
+ - 18-01 (18:45): Đầu xe: làm mờ bảng LED số tuyến
+ - 19-06 (19:53): Sân bay: làm mờ biển chỉ dẫn vàng
+
+ĐÃ TẠO LẠI TRÊN FLOW (tối đa 2 lần/shot):
+ - 03-04 (lỗi tạo âm thanh 4 lần -> đổi câu thoại: 'Hai năm, cái gì ở bến cuối mày cũng thuộc.')
+ - 05-07, 11-05 (logo kênh TV góc phải) -> tạo lại
+ - 06-02, 09-03, 09-09, 19-08 (AI in tên/nhãn nhân vật lên hình) -> tạo lại
+ - 07-09 (Hạ ngồi giữa xe), 07-12 (sai vị trí vô lăng) -> tạo lại
+ - 10-04 (Đông trông như thiếu niên) -> tạo lại
+ - 12-03 (Flow chặn vì nội dung ông cụ bất tỉnh) -> viết lại hành động
+ - 14-07, 14-12 (mắt mở khi phải nhắm), 14-13 (thiếu khăn đỏ) -> tạo lại
+ - 16-07 (có cú cắt trong shot) -> tạo lại
+ - 17-08 (xe quay đầu về máy, sai làn) -> tạo lại
+ - 08-06 (lỗi tạo) -> tạo lại
+
+CÒN ĐỂ NGUYÊN (nhỏ, chờ bạn quyết):
+ - 01-08: có 1 cú cắt nhỏ ở ~3.5s -> dựng thành cut-in (bỏ 0.2s)
+ - Một số cảnh ngoài trời trông hơi 'châu Âu' (cổng sắt, cây đèn) — không có chữ, giữ nguyên
+ - 15-09, 15-16: Hạ nhìn về phía cửa sổ thay vì về phía tài xế (lệch hướng nhìn nhẹ)
+ - 19-03: có bóng một hành khách mờ ở mép trái
+ - 17-02, 17-06, 17-12, 20-06: Đông ngồi trông như ghế khách (không thấy vô lăng) khi quay sang Hạ
+
+Chưa có: chỉnh màu tổng, tăng lên 1080p (sẽ làm ở bản hoàn thiện sau khi bạn duyệt nội dung).

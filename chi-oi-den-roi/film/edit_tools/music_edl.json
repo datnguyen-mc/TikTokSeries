@@ -1,0 +1,189 @@
+{
+"dir": "~/mnt/TikTokSeries/chi-oi-den-roi/film/music",
+"cues": [
+{
+"cue": "M1_motif.m4a",
+"start": "01-03@end",
+"end": "02-13",
+"gain_db": -22,
+"fade_in": 2.5,
+"fade_out": 4
+},
+{
+"cue": "M5_cello.m4a",
+"start": "03-08",
+"end": "03-12",
+"gain_db": -22,
+"fade_in": 3,
+"fade_out": 3
+},
+{
+"cue": "M1_motif.m4a",
+"start": "04-13",
+"end": "04-13",
+"tail": 1.5,
+"cue_in": 20,
+"gain_db": -21,
+"fade_in": 1.5,
+"fade_out": 2.5
+},
+{
+"cue": "M3_mother.m4a",
+"start": "05-01",
+"end": "05-12",
+"gain_db": -23,
+"fade_in": 1.5,
+"fade_out": 0.6
+},
+{
+"cue": "M4_waltz.m4a",
+"start": "06-06",
+"end": "06-10",
+"gain_db": -21,
+"fade_in": 2,
+"fade_out": 2
+},
+{
+"cue": "M5_cello.m4a",
+"start": "07-13",
+"end": "07-13",
+"cue_in": 40,
+"gain_db": -20,
+"fade_in": 1.5,
+"fade_out": 2.5
+},
+{
+"cue": "M1_motif.m4a",
+"start": "08-07",
+"end": "08-11",
+"cue_in": 60,
+"gain_db": -22,
+"fade_in": 2,
+"fade_out": 3
+},
+{
+"cue": "M5_cello.m4a",
+"start": "09-10",
+"end": "09-13",
+"cue_in": 80,
+"gain_db": -22,
+"fade_in": 2,
+"fade_out": 3
+},
+{
+"cue": "M5_cello.m4a",
+"start": "10-05",
+"end": "10-12",
+"cue_in": 100,
+"gain_db": -22,
+"fade_in": 3,
+"fade_out": 2
+},
+{
+"cue": "M1_motif.m4a",
+"start": "10-13",
+"end": "10-13",
+"cue_in": 90,
+"gain_db": -21,
+"fade_in": 1,
+"fade_out": 2
+},
+{
+"cue": "M6_musicbox.m4a",
+"start": "11-01",
+"end": "11-08",
+"gain_db": -22,
+"fade_in": 2,
+"fade_out": 0.5
+},
+{
+"cue": "M7_pulse.m4a",
+"start": "12-01",
+"end": "12-08",
+"gain_db": -20,
+"fade_in": 1,
+"fade_out": 2
+},
+{
+"cue": "M7_pulse.m4a",
+"start": "13-01",
+"end": "13-07",
+"cue_in": 60,
+"gain_db": -25,
+"fade_in": 1,
+"fade_out": 2
+},
+{
+"cue": "M1_motif.m4a",
+"start": "13-08",
+"end": "13-11",
+"cue_in": 30,
+"gain_db": -22,
+"fade_in": 2,
+"fade_out": 2.5
+},
+{
+"cue": "M8_silentnight.m4a",
+"start": "14-10",
+"end": "14-17",
+"gain_db": -20,
+"fade_in": 3,
+"fade_out": 3
+},
+{
+"cue": "M2_theme.m4a",
+"start": "15-03",
+"end": "15-12",
+"gain_db": -21,
+"fade_in": 2,
+"fade_out": 1.5
+},
+{
+"cue": "M1_motif.m4a",
+"start": "16-07",
+"end": "16-12",
+"cue_in": 100,
+"gain_db": -22,
+"fade_in": 2,
+"fade_out": 2
+},
+{
+"cue": "M2_theme.m4a",
+"start": "17-12",
+"end": "17-15",
+"cue_in": 50,
+"gain_db": -20,
+"fade_in": 2.5,
+"fade_out": 3
+},
+{
+"cue": "M9_bridge.m4a",
+"start": "18-05",
+"end": "18-09",
+"gain_db": -21,
+"fade_in": 2,
+"fade_out": 3
+},
+{
+"cue": "M10_dawn.m4a",
+"start": "19-06",
+"end": "19-13",
+"gain_db": -21,
+"fade_in": 2,
+"fade_out": 3
+},
+{
+"cue": "M2_theme.m4a",
+"start": "20-01",
+"end": "END",
+"align_end": true,
+"gain_db": -20,
+"fade_in": 3,
+"fade_out": 2.5
+}
+],
+"gain_offset": 13,
+"duck_thr": 0.08,
+"duck_ratio": 3,
+"master_db": 5
+}

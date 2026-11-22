@@ -1,0 +1,16 @@
+Tool: built-in image_gen
+Use case: identity-preserve + cinematic poster compositing.
+Create a completely redesigned landscape 16:9 Vietnamese domestic drama film thumbnail.
+REFERENCE ROLES STRICTLY:
+Image 1 ("Two Rooms, One Family") is ONLY a style/layout/typography reference: understated Vietnamese cinema, believable people caught in a scene, tactile ordinary materials, restrained amber practical lighting and cool soft daylight, elegant serif title low on the frame. Do NOT use any faces, characters, child, glasses, story, title or drawing from image 1.
+Image 2 is the PRIMARY IDENTITY SOURCE. Preserve the exact two actresses as photographed here: Thu at left with narrow oval face, small eyes, black low bun, plain pale-blue blouse, dark green apron and yellow measuring tape; Vy at right with her exact youthful face proportions, long dark brown waves, red headband and red ao dai with gold phoenix. Do NOT age Thu up or beautify/recast either actress. Preserve facial bone structure, eyes, nose, jaw, skin tone and hairline. Prioritize facial likeness above glamour.
+Image 3 supplies the exact man's identity, grey suit and CLOSED red box with gold ribbon. Preserve this man, no glasses, no beard.
+ART DIRECTION:
+An authentic quiet tense moment in a Vietnamese engagement hall, no loud YouTube face collage. One integrated physically credible medium shot: Thu occupies left third in three-quarter view facing the bride, calmly presenting a closed red gift box at waist level on the banquet table; Vy occupies right third facing Thu with an uneasy restrained expression, mouth closed, realization in the eyes; Tung slightly behind Vy toward center, watching with worried face, secondary in scale. Make both actresses' faces clearly readable and faithful to image 2, NOT exaggerated. Red roses and cream hall walls fall into gentle background softness. Red bridal cloth and yellow tape are narrative accents, not neon. Hands natural. No wedding photograph or revealed box contents.
+Photographed on location, soft natural key, subdued warm practical lamp tones, lifted soft shadows, restrained grain, naturally imperfect skin and fabric. No glossy HDR, no synthetic golden rimlight, no pore sharpening, no airbrushing, no orange skin, no teal-orange blockbuster grade, no cartoon eyes. The result should feel like the quiet human cinematic still of image 1.
+Use lower 23% as a natural dark table foreground and subtle shadow for typography, keep faces in upper area. Typography inspired by image 1: elegant large pale warm ivory-gold serif title at lower left in two lines exactly:
+"CHÍNH THẤT"
+"CAO TAY"
+Below it a smaller ivory italic serif quotation exactly:
+“Quà của chị đây.”
+Legible at thumbnail scale but not huge chunky sans lettering. No heavy outline, no neon, no badge, no FULL 25 PHÚT, no additional text or watermark. Preserve all Vietnamese accents. 4% outer safe margins. This must feel like a tasteful Vietnamese theatrical drama poster, with authentic same actors from images 2 and 3, not a generic AI advertisement.

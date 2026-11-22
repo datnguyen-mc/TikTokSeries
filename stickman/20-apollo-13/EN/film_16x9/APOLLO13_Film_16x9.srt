@@ -1,0 +1,1467 @@
+1
+00:00:11,550 --> 00:00:13,500
+More than three hundred thousand kilometres
+
+2
+00:00:13,500 --> 00:00:14,060
+from Earth,
+
+3
+00:00:14,060 --> 00:00:16,436
+an explosion shakes a spacecraft
+
+4
+00:00:16,586 --> 00:00:18,416
+Oxygen is pouring out into space
+
+5
+00:00:18,416 --> 00:00:19,496
+The power is dying
+
+6
+00:00:19,496 --> 00:00:21,612
+The gauges are falling toward zero
+
+7
+00:00:21,762 --> 00:00:23,912
+Three astronauts are forced to hide in a tiny
+
+8
+00:00:23,912 --> 00:00:25,512
+cabin built for just two people,
+
+9
+00:00:25,512 --> 00:00:27,055
+for about two days
+
+10
+00:00:27,205 --> 00:00:29,304
+And they are almost four days from home
+
+11
+00:00:29,454 --> 00:00:30,764
+This is Apollo 13,
+
+12
+00:00:30,764 --> 00:00:32,924
+the Moon mission that became the most famous
+
+13
+00:00:32,924 --> 00:00:35,004
+survival story in history
+
+14
+00:00:35,211 --> 00:00:36,801
+How do you fit a square box into a
+
+15
+00:00:36,801 --> 00:00:37,441
+round hole?
+
+16
+00:00:37,441 --> 00:00:39,881
+Why did a few minutes of silence feel endless?
+
+17
+00:00:39,881 --> 00:00:42,197
+And who brought them home?
+
+18
+00:00:44,783 --> 00:00:45,973
+April 1970,
+
+19
+00:00:45,973 --> 00:00:48,253
+less than a year after humans first walked on
+
+20
+00:00:48,253 --> 00:00:49,370
+the Moon
+
+21
+00:00:49,520 --> 00:00:51,990
+Apollo 13 was the third mission sent to land
+
+22
+00:00:51,990 --> 00:00:52,590
+on the Moon,
+
+23
+00:00:52,590 --> 00:00:54,990
+in the Fra Mauro highlands
+
+24
+00:00:55,140 --> 00:00:56,370
+The commander was Jim Lovell,
+
+25
+00:00:56,370 --> 00:00:58,690
+a veteran who had already flown around the Moon
+
+26
+00:00:58,690 --> 00:01:00,285
+on Apollo 8
+
+27
+00:01:00,435 --> 00:01:01,425
+With him were Fred Haise,
+
+28
+00:01:01,425 --> 00:01:02,785
+the lunar module pilot,
+
+29
+00:01:02,785 --> 00:01:03,785
+and Ken Mattingly,
+
+30
+00:01:03,785 --> 00:01:05,865
+the command module pilot
+
+31
+00:01:06,055 --> 00:01:07,205
+But a week before launch,
+
+32
+00:01:07,205 --> 00:01:09,605
+a backup astronaut caught German measles,
+
+33
+00:01:09,605 --> 00:01:12,035
+and the whole crew was exposed
+
+34
+00:01:12,185 --> 00:01:14,575
+Tests showed only Mattingly had no immunity
+
+35
+00:01:14,575 --> 00:01:15,775
+Two days before launch,
+
+36
+00:01:15,775 --> 00:01:17,690
+he was pulled from the flight
+
+37
+00:01:17,840 --> 00:01:20,390
+His replacement was backup pilot Jack Swigert,
+
+38
+00:01:20,390 --> 00:01:22,990
+with only days to train with his new crew
+
+39
+00:01:23,367 --> 00:01:24,757
+Mattingly never caught measles
+
+40
+00:01:24,757 --> 00:01:26,517
+But being left on the ground would later turn
+
+41
+00:01:26,517 --> 00:01:29,117
+out to be a stroke of luck
+
+42
+00:01:32,017 --> 00:01:33,167
+On April the eleventh,
+
+43
+00:01:33,167 --> 00:01:33,927
+1970,
+
+44
+00:01:33,927 --> 00:01:36,607
+at exactly 13:13 Houston time,
+
+45
+00:01:36,607 --> 00:01:39,207
+the Saturn V rocket left the launch pad
+
+46
+00:01:39,727 --> 00:01:41,037
+Just minutes into the climb,
+
+47
+00:01:41,037 --> 00:01:43,477
+one engine on the second stage shut down early
+
+48
+00:01:43,477 --> 00:01:45,197
+The others had to burn longer to make up
+
+49
+00:01:45,197 --> 00:01:46,183
+for it
+
+50
+00:01:46,333 --> 00:01:47,283
+That was the first problem
+
+51
+00:01:47,283 --> 00:01:49,123
+But the spacecraft still reached the right
+
+52
+00:01:49,123 --> 00:01:49,563
+orbit,
+
+53
+00:01:49,563 --> 00:01:51,292
+and headed for the Moon
+
+54
+00:01:51,442 --> 00:01:52,552
+The ship had two parts:
+
+55
+00:01:52,552 --> 00:01:54,032
+the command module Odyssey,
+
+56
+00:01:54,032 --> 00:01:55,752
+where all three men lived and worked,
+
+57
+00:01:55,752 --> 00:01:57,472
+and the lunar module Aquarius,
+
+58
+00:01:57,472 --> 00:01:59,392
+which would take two of them down to the
+
+59
+00:01:59,392 --> 00:02:00,360
+Moon
+
+60
+00:02:00,510 --> 00:02:02,780
+The first two days were so smooth that Mission
+
+61
+00:02:02,780 --> 00:02:04,820
+Control in Houston joked they were bored to
+
+62
+00:02:04,820 --> 00:02:05,887
+tears
+
+63
+00:02:06,037 --> 00:02:07,947
+On the evening of April the thirteenth,
+
+64
+00:02:07,947 --> 00:02:10,267
+the crew broadcast live TV from space
+
+65
+00:02:10,267 --> 00:02:11,787
+But the big networks didn't air it
+
+66
+00:02:11,787 --> 00:02:14,235
+Going to the Moon had become routine
+
+67
+00:02:14,385 --> 00:02:16,075
+A few minutes after the broadcast,
+
+68
+00:02:16,075 --> 00:02:18,615
+Houston asked Swigert to switch on the fans
+
+69
+00:02:18,615 --> 00:02:20,335
+that stirred the oxygen tanks,
+
+70
+00:02:20,335 --> 00:02:22,026
+a routine chore
+
+71
+00:02:22,176 --> 00:02:23,646
+Swigert flipped the switch
+
+72
+00:02:23,646 --> 00:02:24,926
+Just over a minute later,
+
+73
+00:02:24,926 --> 00:02:27,006
+the whole spacecraft shook
+
+74
+00:02:30,417 --> 00:02:31,167
+A loud bang
+
+75
+00:02:31,167 --> 00:02:32,887
+Warning lights flared across the control
+
+76
+00:02:32,887 --> 00:02:33,944
+panels
+
+77
+00:02:34,094 --> 00:02:35,164
+Swigert radioed:
+
+78
+00:02:35,164 --> 00:02:35,484
+Houston,
+
+79
+00:02:35,484 --> 00:02:36,764
+we've had a problem here
+
+80
+00:02:36,764 --> 00:02:37,944
+Lovell repeated it:
+
+81
+00:02:37,944 --> 00:02:38,324
+Houston,
+
+82
+00:02:38,324 --> 00:02:39,990
+we've had a problem
+
+83
+00:02:40,140 --> 00:02:40,850
+At that moment,
+
+84
+00:02:40,850 --> 00:02:42,930
+the ship was about three hundred and thirty
+
+85
+00:02:42,930 --> 00:02:44,946
+thousand kilometres from Earth
+
+86
+00:02:45,096 --> 00:02:45,726
+In Houston,
+
+87
+00:02:45,726 --> 00:02:48,046
+the screens showed numbers that made no sense
+
+88
+00:02:48,046 --> 00:02:48,606
+At first,
+
+89
+00:02:48,606 --> 00:02:51,206
+many thought it was just a faulty sensor
+
+90
+00:02:51,363 --> 00:02:52,833
+Then Lovell looked out of the window,
+
+91
+00:02:52,833 --> 00:02:55,073
+and saw a white cloud of gas venting into
+
+92
+00:02:55,073 --> 00:02:56,097
+space
+
+93
+00:02:56,247 --> 00:02:57,037
+It was oxygen
+
+94
+00:02:57,037 --> 00:02:58,837
+One oxygen tank had exploded,
+
+95
+00:02:58,837 --> 00:03:00,645
+and the other was leaking
+
+96
+00:03:00,795 --> 00:03:02,225
+Oxygen wasn't just for breathing
+
+97
+00:03:02,225 --> 00:03:04,465
+It also fed the fuel cells that made Odyssey's
+
+98
+00:03:04,465 --> 00:03:06,225
+electricity and water
+
+99
+00:03:06,528 --> 00:03:08,638
+Flight director Gene Kranz told the room:
+
+100
+00:03:08,638 --> 00:03:09,838
+let's solve the problem,
+
+101
+00:03:09,838 --> 00:03:12,438
+but let's not make it any worse by guessing
+
+102
+00:03:12,701 --> 00:03:13,931
+But the clock was already ticking
+
+103
+00:03:13,931 --> 00:03:16,531
+Odyssey was running out of power
+
+104
+00:03:19,750 --> 00:03:21,620
+Less than two hours after the explosion,
+
+105
+00:03:21,620 --> 00:03:24,140
+Odyssey had only about fifteen minutes of power
+
+106
+00:03:24,140 --> 00:03:25,046
+left
+
+107
+00:03:25,196 --> 00:03:27,386
+All three had to climb into the lunar module
+
+108
+00:03:27,386 --> 00:03:27,986
+Aquarius,
+
+109
+00:03:27,986 --> 00:03:30,236
+and turn it into a lifeboat
+
+110
+00:03:30,386 --> 00:03:32,616
+Swigert shut down Odyssey system by system
+
+111
+00:03:32,616 --> 00:03:34,356
+Its batteries had to be saved for the trip
+
+112
+00:03:34,356 --> 00:03:36,215
+back through the atmosphere
+
+113
+00:03:36,365 --> 00:03:38,235
+But Aquarius was built to keep two people
+
+114
+00:03:38,235 --> 00:03:38,715
+alive,
+
+115
+00:03:38,715 --> 00:03:40,477
+for about two days
+
+116
+00:03:40,627 --> 00:03:42,497
+Now it had to keep three people alive,
+
+117
+00:03:42,497 --> 00:03:44,413
+for almost four days
+
+118
+00:03:44,563 --> 00:03:45,633
+And there was a bigger problem:
+
+119
+00:03:45,633 --> 00:03:47,233
+they were heading for the Moon on a path
+
+120
+00:03:47,233 --> 00:03:49,045
+that would not swing back to Earth on its
+
+121
+00:03:49,045 --> 00:03:49,987
+own
+
+122
+00:03:50,137 --> 00:03:51,887
+Five hours after the explosion,
+
+123
+00:03:51,887 --> 00:03:54,327
+Aquarius fired its engine for just over thirty
+
+124
+00:03:54,327 --> 00:03:54,887
+seconds,
+
+125
+00:03:54,887 --> 00:03:56,927
+putting them on a course around the Moon and
+
+126
+00:03:56,927 --> 00:03:57,882
+back
+
+127
+00:03:58,032 --> 00:03:58,662
+They had a way home
+
+128
+00:03:58,662 --> 00:04:00,662
+But that road ran around the far side of
+
+129
+00:04:00,662 --> 00:04:01,142
+the Moon,
+
+130
+00:04:01,142 --> 00:04:03,742
+where no one could reach them
+
+131
+00:04:06,617 --> 00:04:08,507
+On the evening of April the fourteenth,
+
+132
+00:04:08,507 --> 00:04:09,447
+Houston time,
+
+133
+00:04:09,447 --> 00:04:11,487
+Apollo 13 passed behind the Moon
+
+134
+00:04:11,487 --> 00:04:13,584
+Contact with Earth was cut
+
+135
+00:04:13,734 --> 00:04:15,764
+They flew past about two hundred and fifty
+
+136
+00:04:15,764 --> 00:04:17,718
+kilometres above the surface
+
+137
+00:04:17,868 --> 00:04:19,658
+Because their path swung wider than other
+
+138
+00:04:19,658 --> 00:04:20,218
+missions,
+
+139
+00:04:20,218 --> 00:04:22,458
+they became the humans farthest from Earth in
+
+140
+00:04:22,458 --> 00:04:23,018
+history:
+
+141
+00:04:23,018 --> 00:04:25,618
+more than four hundred thousand kilometres
+
+142
+00:04:25,949 --> 00:04:27,779
+That record stood for fifty-six years,
+
+143
+00:04:27,779 --> 00:04:30,379
+until the Artemis II mission passed it in April
+
+144
+00:04:30,379 --> 00:04:31,499
+2026
+
+145
+00:04:32,312 --> 00:04:34,782
+Swigert and Haise took photo after photo
+
+146
+00:04:34,782 --> 00:04:37,142
+Lovell quietly looked down at a land he would
+
+147
+00:04:37,142 --> 00:04:38,722
+never walk on
+
+148
+00:04:38,872 --> 00:04:40,422
+About twenty-five minutes later,
+
+149
+00:04:40,422 --> 00:04:42,984
+the ship reappeared on the other side
+
+150
+00:04:43,134 --> 00:04:44,684
+But the numbers in Houston were grim:
+
+151
+00:04:44,684 --> 00:04:45,804
+at their current speed,
+
+152
+00:04:45,804 --> 00:04:47,884
+they would run out of supplies before they got
+
+153
+00:04:47,884 --> 00:04:49,004
+home
+
+154
+00:04:52,117 --> 00:04:53,707
+Two hours after rounding the Moon,
+
+155
+00:04:53,707 --> 00:04:55,827
+Aquarius fired its engine once more,
+
+156
+00:04:55,827 --> 00:04:57,645
+for over four minutes
+
+157
+00:04:57,795 --> 00:04:59,745
+That burn brought them home about ten hours
+
+158
+00:04:59,745 --> 00:05:00,780
+sooner
+
+159
+00:05:00,930 --> 00:05:01,880
+To save power,
+
+160
+00:05:01,880 --> 00:05:03,800
+almost everything was switched off:
+
+161
+00:05:03,800 --> 00:05:04,520
+the heaters,
+
+162
+00:05:04,520 --> 00:05:05,440
+the computers,
+
+163
+00:05:05,440 --> 00:05:07,131
+most of the lights
+
+164
+00:05:07,281 --> 00:05:09,551
+Aquarius ran on about a fifth of its normal
+
+165
+00:05:09,551 --> 00:05:10,557
+power
+
+166
+00:05:10,707 --> 00:05:12,657
+Water was even more precious than power,
+
+167
+00:05:12,657 --> 00:05:14,257
+because it cooled the equipment
+
+168
+00:05:14,257 --> 00:05:16,557
+Each man drank only about a hundred and eighty
+
+169
+00:05:16,557 --> 00:05:17,999
+millilitres a day
+
+170
+00:05:18,149 --> 00:05:18,739
+In Houston,
+
+171
+00:05:18,739 --> 00:05:21,099
+hundreds of engineers worked day and night,
+
+172
+00:05:21,099 --> 00:05:23,259
+counting every bit of power and every drop of
+
+173
+00:05:23,259 --> 00:05:24,269
+water
+
+174
+00:05:24,419 --> 00:05:25,729
+Then a new number appeared,
+
+175
+00:05:25,729 --> 00:05:27,329
+scarier than all the rest:
+
+176
+00:05:27,329 --> 00:05:29,929
+the carbon dioxide in the cabin was rising
+
+177
+00:05:34,050 --> 00:05:36,440
+Every breath we take releases carbon dioxide
+
+178
+00:05:36,440 --> 00:05:37,400
+In a sealed cabin,
+
+179
+00:05:37,400 --> 00:05:38,640
+if it isn't filtered out,
+
+180
+00:05:38,640 --> 00:05:40,994
+it poisons the people breathing it
+
+181
+00:05:41,144 --> 00:05:43,214
+Aquarius had canisters filled with a chemical
+
+182
+00:05:43,214 --> 00:05:45,614
+that soaked up carbon dioxide
+
+183
+00:05:45,777 --> 00:05:47,727
+But those canisters were only meant for two
+
+184
+00:05:47,727 --> 00:05:48,127
+people,
+
+185
+00:05:48,127 --> 00:05:50,272
+for about a day and a half
+
+186
+00:05:50,422 --> 00:05:52,372
+Odyssey had plenty of spare canisters
+
+187
+00:05:52,372 --> 00:05:54,173
+But there was a problem
+
+188
+00:05:54,323 --> 00:05:55,873
+Odyssey's canisters were square
+
+189
+00:05:55,873 --> 00:05:58,353
+The sockets in Aquarius were round
+
+190
+00:05:58,503 --> 00:06:00,453
+The two modules were built by two different
+
+191
+00:06:00,453 --> 00:06:00,933
+companies,
+
+192
+00:06:00,933 --> 00:06:03,533
+and nobody expected them to ever share parts
+
+193
+00:06:04,413 --> 00:06:06,123
+The carbon dioxide kept rising
+
+194
+00:06:06,123 --> 00:06:06,883
+Without a fix,
+
+195
+00:06:06,883 --> 00:06:09,483
+the air in the cabin would become dangerous
+
+196
+00:06:09,743 --> 00:06:10,253
+In Houston,
+
+197
+00:06:10,253 --> 00:06:12,333
+a team of engineers dumped everything the crew
+
+198
+00:06:12,333 --> 00:06:13,773
+had on board onto a table,
+
+199
+00:06:13,773 --> 00:06:14,293
+and asked:
+
+200
+00:06:14,293 --> 00:06:16,253
+how do you fit a square box into a
+
+201
+00:06:16,253 --> 00:06:17,693
+round hole?
+
+202
+00:06:21,050 --> 00:06:23,240
+The engineers could only use exactly what the
+
+203
+00:06:23,240 --> 00:06:24,848
+crew had on board
+
+204
+00:06:24,998 --> 00:06:25,828
+Plastic bags,
+
+205
+00:06:25,828 --> 00:06:27,988
+cardboard covers from the flight manuals,
+
+206
+00:06:27,988 --> 00:06:29,188
+hoses from the spacesuits,
+
+207
+00:06:29,188 --> 00:06:30,028
+a sock,
+
+208
+00:06:30,028 --> 00:06:31,593
+and duct tape
+
+209
+00:06:31,743 --> 00:06:33,533
+They built a test version on the ground,
+
+210
+00:06:33,533 --> 00:06:35,493
+then read the steps up to the crew by
+
+211
+00:06:35,493 --> 00:06:36,613
+radio
+
+212
+00:06:36,829 --> 00:06:37,339
+On board,
+
+213
+00:06:37,339 --> 00:06:39,979
+Swigert and Haise followed every instruction,
+
+214
+00:06:39,979 --> 00:06:42,579
+like building a model kit in space
+
+215
+00:06:42,855 --> 00:06:44,905
+The strange contraption was nicknamed the
+
+216
+00:06:44,905 --> 00:06:45,325
+mailbox,
+
+217
+00:06:45,325 --> 00:06:47,222
+because it looked like one
+
+218
+00:06:47,372 --> 00:06:48,922
+Then came the moment of truth:
+
+219
+00:06:48,922 --> 00:06:50,002
+switch on the fan,
+
+220
+00:06:50,002 --> 00:06:52,602
+and watch the carbon dioxide gauge
+
+221
+00:06:52,910 --> 00:06:54,020
+The needle started to fall
+
+222
+00:06:54,020 --> 00:06:54,660
+In Houston,
+
+223
+00:06:54,660 --> 00:06:56,708
+the whole room breathed again
+
+224
+00:06:56,858 --> 00:06:57,568
+The air was saved
+
+225
+00:06:57,568 --> 00:07:00,008
+But another enemy was creeping into the cabin:
+
+226
+00:07:00,008 --> 00:07:01,448
+the cold
+
+227
+00:07:04,683 --> 00:07:05,513
+The heaters were off
+
+228
+00:07:05,513 --> 00:07:06,473
+Inside Odyssey,
+
+229
+00:07:06,473 --> 00:07:08,807
+the temperature dropped to about three degrees
+
+230
+00:07:08,807 --> 00:07:09,927
+Celsius
+
+231
+00:07:10,221 --> 00:07:12,531
+Water droplets formed on the walls and panels
+
+232
+00:07:12,531 --> 00:07:14,331
+No one could sleep for more than a few
+
+233
+00:07:14,331 --> 00:07:15,355
+hours
+
+234
+00:07:15,505 --> 00:07:16,335
+Water was scarce,
+
+235
+00:07:16,335 --> 00:07:17,555
+and all three grew gaunt
+
+236
+00:07:17,555 --> 00:07:20,155
+Lovell alone lost more than six kilos
+
+237
+00:07:20,660 --> 00:07:22,290
+Fred Haise came down with a fever
+
+238
+00:07:22,290 --> 00:07:24,450
+Drinking so little had given him a urinary
+
+239
+00:07:24,450 --> 00:07:25,570
+infection
+
+240
+00:07:25,873 --> 00:07:27,943
+Then Houston saw that the ship was slowly
+
+241
+00:07:27,943 --> 00:07:29,183
+drifting off its course home
+
+242
+00:07:29,183 --> 00:07:31,610
+They needed one more engine burn
+
+243
+00:07:31,760 --> 00:07:33,830
+But the guidance computer had been shut down to
+
+244
+00:07:33,830 --> 00:07:34,430
+save power
+
+245
+00:07:34,430 --> 00:07:34,950
+This time,
+
+246
+00:07:34,950 --> 00:07:37,474
+they had to fly entirely by hand
+
+247
+00:07:37,624 --> 00:07:39,694
+They used the line between day and night on
+
+248
+00:07:39,694 --> 00:07:41,534
+Earth as a sighting mark in the window,
+
+249
+00:07:41,534 --> 00:07:43,314
+holding the ship steady through a
+
+250
+00:07:43,314 --> 00:07:44,754
+fourteen-second burn
+
+251
+00:07:45,008 --> 00:07:45,638
+The burn worked
+
+252
+00:07:45,638 --> 00:07:47,358
+But one huge question remained:
+
+253
+00:07:47,358 --> 00:07:49,958
+could Odyssey be brought back to life?
+
+254
+00:07:53,350 --> 00:07:55,100
+Odyssey had been switched off for days,
+
+255
+00:07:55,100 --> 00:07:57,700
+freezing cold and soaked with condensation
+
+256
+00:07:58,169 --> 00:08:00,199
+No one had ever restarted a command module in
+
+257
+00:08:00,199 --> 00:08:02,559
+space under conditions like that
+
+258
+00:08:02,709 --> 00:08:03,219
+Normally,
+
+259
+00:08:03,219 --> 00:08:05,019
+writing a procedure like that took three
+
+260
+00:08:05,019 --> 00:08:05,379
+months
+
+261
+00:08:05,379 --> 00:08:07,401
+Houston had three days
+
+262
+00:08:07,551 --> 00:08:08,381
+Ken Mattingly,
+
+263
+00:08:08,381 --> 00:08:10,141
+the man grounded over measles,
+
+264
+00:08:10,141 --> 00:08:12,421
+worked with the engineers to test every step
+
+265
+00:08:12,421 --> 00:08:14,890
+again and again in the simulator
+
+266
+00:08:15,040 --> 00:08:16,630
+Every switch they turned on used power
+
+267
+00:08:16,630 --> 00:08:18,550
+They had to find exactly the right order,
+
+268
+00:08:18,550 --> 00:08:20,270
+without going over what was left in the
+
+269
+00:08:20,270 --> 00:08:21,390
+batteries
+
+270
+00:08:21,600 --> 00:08:22,510
+There was one more fear:
+
+271
+00:08:22,510 --> 00:08:24,750
+the condensation could cause short circuits
+
+272
+00:08:24,750 --> 00:08:26,837
+when the power came back on
+
+273
+00:08:26,987 --> 00:08:27,377
+At last,
+
+274
+00:08:27,377 --> 00:08:29,177
+the procedure was read up to the ship
+
+275
+00:08:29,177 --> 00:08:31,817
+Swigert filled every blank scrap of paper with
+
+276
+00:08:31,817 --> 00:08:32,898
+notes
+
+277
+00:08:33,048 --> 00:08:34,278
+On April the seventeenth,
+
+278
+00:08:34,278 --> 00:08:35,298
+1970,
+
+279
+00:08:35,298 --> 00:08:37,478
+Odyssey's systems lit up one by one
+
+280
+00:08:37,478 --> 00:08:38,158
+No sparks
+
+281
+00:08:38,158 --> 00:08:39,830
+The ship was alive
+
+282
+00:08:39,980 --> 00:08:41,090
+But before going home,
+
+283
+00:08:41,090 --> 00:08:42,330
+they had to say goodbye,
+
+284
+00:08:42,330 --> 00:08:44,650
+and see for the first time what the explosion
+
+285
+00:08:44,650 --> 00:08:46,090
+had done
+
+286
+00:08:49,217 --> 00:08:50,927
+About four hours before landing,
+
+287
+00:08:50,927 --> 00:08:52,567
+they released the service module,
+
+288
+00:08:52,567 --> 00:08:55,167
+the part that held the oxygen tanks
+
+289
+00:08:55,417 --> 00:08:56,947
+As it drifted past the window,
+
+290
+00:08:56,947 --> 00:08:58,047
+Lovell was stunned:
+
+291
+00:08:58,047 --> 00:09:00,647
+one whole side of the spacecraft was missing
+
+292
+00:09:01,211 --> 00:09:01,881
+A new fear:
+
+293
+00:09:01,881 --> 00:09:03,961
+had the explosion damaged the heat shield?
+
+294
+00:09:03,961 --> 00:09:04,481
+If so,
+
+295
+00:09:04,481 --> 00:09:06,121
+they would burn up on the way through the
+
+296
+00:09:06,121 --> 00:09:07,241
+atmosphere
+
+297
+00:09:07,574 --> 00:09:09,524
+The investigation later found the cause
+
+298
+00:09:09,524 --> 00:09:11,644
+Oxygen tank number two had been dropped in
+
+299
+00:09:11,644 --> 00:09:12,764
+1968
+
+300
+00:09:13,693 --> 00:09:14,203
+Inside it,
+
+301
+00:09:14,203 --> 00:09:16,323
+the safety switches were only rated for
+
+302
+00:09:16,323 --> 00:09:17,123
+twenty-eight volts,
+
+303
+00:09:17,123 --> 00:09:19,218
+while the system had been upgraded to
+
+304
+00:09:19,218 --> 00:09:20,324
+sixty-five
+
+305
+00:09:20,474 --> 00:09:21,504
+During a ground test,
+
+306
+00:09:21,504 --> 00:09:23,424
+the tank's heaters were left on for eight
+
+307
+00:09:23,424 --> 00:09:23,864
+hours,
+
+308
+00:09:23,864 --> 00:09:26,464
+burning the insulation off the wires
+
+309
+00:09:26,674 --> 00:09:26,944
+Then,
+
+310
+00:09:26,944 --> 00:09:27,584
+in space,
+
+311
+00:09:27,584 --> 00:09:29,424
+when the stirring fan was switched on,
+
+312
+00:09:29,424 --> 00:09:31,877
+a spark set off the explosion
+
+313
+00:09:32,027 --> 00:09:33,377
+About an hour before landing,
+
+314
+00:09:33,377 --> 00:09:34,897
+they left Aquarius behind
+
+315
+00:09:34,897 --> 00:09:36,177
+Houston said goodbye:
+
+316
+00:09:36,177 --> 00:09:36,877
+Farewell,
+
+317
+00:09:36,877 --> 00:09:37,577
+Aquarius,
+
+318
+00:09:37,577 --> 00:09:39,168
+and we thank you
+
+319
+00:09:39,318 --> 00:09:41,188
+Now only one last test remained:
+
+320
+00:09:41,188 --> 00:09:43,428
+plunging into the atmosphere at nearly forty
+
+321
+00:09:43,428 --> 00:09:45,508
+thousand kilometres an hour
+
+322
+00:09:48,883 --> 00:09:49,753
+During reentry,
+
+323
+00:09:49,753 --> 00:09:52,313
+the fiery plasma around the capsule blocks all
+
+324
+00:09:52,313 --> 00:09:53,233
+radio waves
+
+325
+00:09:53,233 --> 00:09:53,793
+Normally,
+
+326
+00:09:53,793 --> 00:09:56,393
+that silence lasts about three minutes
+
+327
+00:09:56,755 --> 00:09:57,785
+Three minutes passed
+
+328
+00:09:57,785 --> 00:09:58,545
+Houston called
+
+329
+00:09:58,545 --> 00:09:59,903
+No answer
+
+330
+00:10:00,053 --> 00:10:00,763
+Four minutes
+
+331
+00:10:00,763 --> 00:10:01,683
+Still silence
+
+332
+00:10:01,683 --> 00:10:03,709
+Millions held their breath in front of their
+
+333
+00:10:03,709 --> 00:10:04,745
+TVs
+
+334
+00:10:04,895 --> 00:10:07,205
+The silence lasted nearly a minute and a half
+
+335
+00:10:07,205 --> 00:10:08,285
+longer than expected,
+
+336
+00:10:08,285 --> 00:10:10,701
+longer than on any flight before
+
+337
+00:10:10,851 --> 00:10:12,381
+Then a voice came over the speakers:
+
+338
+00:10:12,381 --> 00:10:12,921
+Okay,
+
+339
+00:10:12,921 --> 00:10:13,361
+Joe
+
+340
+00:10:13,361 --> 00:10:14,963
+It was Swigert
+
+341
+00:10:15,113 --> 00:10:17,223
+Three red and white parachutes blossomed over
+
+342
+00:10:17,223 --> 00:10:19,108
+the South Pacific sky
+
+343
+00:10:19,258 --> 00:10:20,648
+On April the seventeenth,
+
+344
+00:10:20,648 --> 00:10:21,688
+1970,
+
+345
+00:10:21,688 --> 00:10:23,088
+Odyssey splashed down,
+
+346
+00:10:23,088 --> 00:10:25,488
+only about six kilometres from the recovery
+
+347
+00:10:25,488 --> 00:10:26,400
+ship
+
+348
+00:10:26,550 --> 00:10:27,060
+In Houston,
+
+349
+00:10:27,060 --> 00:10:28,420
+the control room erupted
+
+350
+00:10:28,420 --> 00:10:29,540
+People lit cigars,
+
+351
+00:10:29,540 --> 00:10:31,230
+clapped and hugged
+
+352
+00:10:31,380 --> 00:10:33,530
+The company that built Aquarius even sent a
+
+353
+00:10:33,530 --> 00:10:35,650
+joke invoice for over four hundred thousand
+
+354
+00:10:35,650 --> 00:10:37,890
+dollars to the company that built Odyssey:
+
+355
+00:10:37,890 --> 00:10:40,490
+a towing fee for the trip home
+
+356
+00:10:40,917 --> 00:10:42,987
+Apollo 13 never landed on the Moon
+
+357
+00:10:42,987 --> 00:10:45,389
+It has been called a successful failure
+
+358
+00:10:45,539 --> 00:10:47,729
+Jim Lovell never got to walk on the Moon
+
+359
+00:10:47,729 --> 00:10:50,129
+Ken Mattingly flew to the Moon two years later,
+
+360
+00:10:50,129 --> 00:10:51,834
+on Apollo 16
+
+361
+00:10:51,984 --> 00:10:53,414
+If you were inside Aquarius,
+
+362
+00:10:53,414 --> 00:10:54,734
+what would scare you most:
+
+363
+00:10:54,734 --> 00:10:55,294
+the cold,
+
+364
+00:10:55,294 --> 00:10:55,934
+the thirst,
+
+365
+00:10:55,934 --> 00:10:56,894
+or the poison air?
+
+366
+00:10:56,894 --> 00:10:58,441
+Tell me in the comments
+
+367
+00:10:58,591 --> 00:11:01,191
+Subscribe so you don't miss the next episode

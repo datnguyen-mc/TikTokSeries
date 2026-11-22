@@ -1,0 +1,21 @@
+A single continuous 4-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese family drama with a gentle comic bite: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth, motivated natural light, soft haze in the air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A top-floor glass meeting room in a modern city office tower: a long dark walnut table, black leather chairs, floor-to-ceiling windows over a hazy grey skyline, cool steel-blue daylight, everything minimal and expensive.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @Khang = Khang, the founder of a tech group (a composed 44-year-old Vietnamese man, medium build with a slightly full face, rectangular black-framed glasses, short neat black hair greying at the temples, clean-shaven, calm tired intelligent eyes); wears a tailored navy-blue suit over a crisp white shirt, no tie, a silver wristwatch, polished black shoes. Attached image: "Khang · Vest họp".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] 50mm medium shot at the end of the long walnut table, the hazy skyline behind him; the old blue cloth-covered book and a single black car key lie on the table in front of him.
+
+[ACTION] @Khang stands, closes the old blue cloth-covered book with one hand and lifts it, tucking it firmly under his left arm; with his right hand he picks up the single black car key from the table and closes his fist around it. Calm, decisive, natural movements; the book stays the same size and colour.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–1.5s, @Khang (man of 44, low calm baritone, few words, long pauses, decisive): Hoãn hết lịch thứ Bảy.
+After the last word nobody speaks until 4.0s. Never read these directions aloud.
+
+[SOUND] air-conditioning hum, a projector fan, faint city. No music.
+
+[AVOID] fumbling; objects morphing or changing size or colour; a brown book; a bunch of many keys; On-screen text, burned-in subtitles or captions, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, maps, contracts, screens, boxes or signs; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles; children or minors; extra people in focus; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music; Southern or Central Vietnamese accents.

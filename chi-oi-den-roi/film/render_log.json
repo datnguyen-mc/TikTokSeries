@@ -1,0 +1,160 @@
+{
+ "project": "Flow project f9b566c2-a201-49b8-9c25-43db97a7209e (Chị Ơi, Đến Rồi)",
+ "settings": "Video · Thành phần · 16:9 · Omni 1.2 Flash · 720p · x1 · 3 credit/giây",
+ "credits_spent_estimate": "~4400-4700 (ước tính)",
+ "notes": [
+  "v1 cảnh 01 (11 shot, 156 cr): góc chính diện, 01-01 bị lật thành xe tay lái nghịch -> bỏ.",
+  "Đã thêm 16 nhân vật Sau lưng + sơ đồ xe buýt VN tay lái thuận + góc máy điện ảnh (data.py, bản sao lưu: revisions/ban3_truoc_dien_anh).",
+  "v2 cảnh 01 (11 shot, 156 cr). QC: 01-03 mở mắt -> làm lại lần 1; 01-08 ngồi giữa xe -> làm lại lần 1.",
+  "01-03 làm lại lần 1: OK (mắt nhắm suốt shot).",
+  "01-08 làm lại lần 1: vô lăng lọt vào khung bên trái (sai sơ đồ) -> làm lại lần 2: hết vô lăng, nhưng có 1 cú cắt ở ~3.5s (toàn đi vào -> trung ngồi). Dùng như cut-in khi dựng: 0.0–3.4s + 3.6–5.0s. ĐÃ BÁO NGƯỜI DÙNG.",
+  "16 nhân vật Sau lưng đã tạo; Ông Khánh · Áo dạ khăn đỏ · Sau lưng bị mất tên lúc tạo -> đã đặt lại tên.",
+  "Mất đăng nhập 1 lần; người dùng tự đăng nhập lại. Composer bị trả về Nano Banana x2 -> đã chỉnh lại Video/x1/720p, codrRun giờ kiểm tra cài đặt trước khi gửi.",
+  "Cảnh 02 (13 shot) góc máy điện ảnh + sơ đồ xe VN. QC: 02-06 mở mắt -> làm lại lần 1; 02-12 xe quay đầu về máy/đỗ sai làn -> làm lại lần 1.",
+  "02-06 làm lại lần 1: từ 1.0s mắt nhắm suốt; 0.0–1.0s mắt hé -> khi dựng dùng 1.0–4.0s (shot không thoại).",
+  "02-12 làm lại lần 1: đúng sơ đồ (đuôi xe về máy, đỗ lề phải, Hạ đi vào ngõ bên trái). Còn chữ 'TIE 1' + biển số + bảng LED trên đuôi xe -> làm mờ khi dựng (máy gần như tĩnh).",
+  "Chạy hết cảnh 03-20 (người dùng chọn chạy liền, duyệt cuối). QC + làm lại: xem DANH-SACH-SUA_v1.txt và ~/codr/qc_log.json.txt.",
+  "Mất đăng nhập lần 2 (passkey/mật khẩu do người dùng tự nhập); 21 shot cảnh 18-19 bị huỷ khi mất phiên -> đã chạy lại.",
+  "Tải 1 lần: CODR_all_clips_music.zip (258 file, 718MB) -> film/clips (254) + film/music (10).",
+  "Nhạc: Google Flow Music, phiên 'Vietnamese Film Score' (10 cue không lời).",
+  "Bản dựng v1: CHI-OI-DEN-ROI_ban-dung-v1_720p.mp4 (21:58) + .srt; công cụ dựng trong film/edit_tools."
+ ],
+ "shots": {
+  "01-01": {
+   "v": 2,
+   "status": "ok",
+   "label": "Bus driver speaking softly"
+  },
+  "01-02": {
+   "v": 2,
+   "status": "ok",
+   "label": "Bus driver speaking in night"
+  },
+  "01-03": {
+   "v": 3,
+   "status": "ok (redo1)",
+   "label": "Woman sleeping on bus"
+  },
+  "01-04": {
+   "v": 2,
+   "status": "ok",
+   "label": "Bus driving on city boulevard",
+   "note": "chữ nhỏ trên sườn xe, mờ"
+  },
+  "01-05": {
+   "v": 2,
+   "status": "ok",
+   "label": "Man boarding bus at night"
+  },
+  "01-06": {
+   "v": 2,
+   "status": "ok",
+   "label": "Driver smiling at older passenger"
+  },
+  "01-07": {
+   "v": 2,
+   "status": "ok",
+   "label": "Old man settling into seat"
+  },
+  "01-08": {
+   "v": 4,
+   "status": "ok có điều kiện (redo2)",
+   "label": "Nurse walking down bus aisle",
+   "edit": "0.0-3.4 + 3.6-5.0 (cut-in)"
+  },
+  "01-09": {
+   "v": 2,
+   "status": "ok",
+   "label": "Men talking on bus"
+  },
+  "01-10": {
+   "v": 2,
+   "status": "ok",
+   "label": "Bus driver adjusts rearview mirror"
+  },
+  "01-11": {
+   "v": 2,
+   "status": "ok",
+   "label": "Man watching driver on bus"
+  },
+  "02-01": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver greets old man",
+   "where": "browser IDB"
+  },
+  "02-02": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver profile at wheel",
+   "where": "browser IDB"
+  },
+  "02-03": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver laughing on phone",
+   "where": "browser IDB"
+  },
+  "02-04": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver smiling at wheel",
+   "where": "browser IDB"
+  },
+  "02-05": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver wide",
+   "where": "browser IDB"
+  },
+  "02-07": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver talking",
+   "where": "browser IDB"
+  },
+  "02-08": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver over shoulder",
+   "where": "browser IDB"
+  },
+  "02-09": {
+   "v": 1,
+   "status": "ok",
+   "label": "Driver through wheel",
+   "where": "browser IDB"
+  },
+  "02-10": {
+   "v": 1,
+   "status": "ok",
+   "label": "Nurse walks down aisle",
+   "where": "browser IDB"
+  },
+  "02-11": {
+   "v": 1,
+   "status": "ok",
+   "label": "Nurse exits front door",
+   "where": "browser IDB"
+  },
+  "02-13": {
+   "v": 1,
+   "status": "ok",
+   "label": "Woman smiling at bus stop",
+   "where": "browser IDB"
+  },
+  "02-06": {
+   "v": 2,
+   "status": "ok (redo1, cắt 1.0–4.0s)",
+   "label": "Nurse sleeping on city bus",
+   "where": "browser IDB"
+  },
+  "02-12": {
+   "v": 2,
+   "status": "ok (redo1, làm mờ chữ đuôi xe)",
+   "label": "Nurse walking into alley",
+   "where": "browser IDB"
+  }
+ },
+ "updated": "2026-11-22T04:45:21"
+}

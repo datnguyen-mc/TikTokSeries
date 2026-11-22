@@ -1,0 +1,21 @@
+A single continuous 5-second shot, 16:9, one camera angle, no cuts.
+
+[LOOK] Feature-film cinematography for a premium Vietnamese romantic drama on cold December nights: shot on ARRI Alexa 35 with Cooke anamorphic/i lenses, 24 fps, 16:9 full frame without letterbox bars; deliberate cinematic blocking with foreground elements and layered depth; motivated practical light (warm bus ceiling lights, streetlamps, Christmas fairy lights, amber hazard lights) against cool blue night; soft haze in the cold damp air, rich true-to-life Vietnamese skin tones, gentle film halation and fine 35mm grain, shallow depth of field with creamy bokeh of Christmas lights. Restrained, truthful acting with micro-expressions, like an award-winning Asian festival film; never CGI, never a video game, never an advertisement.
+
+[PLACE] A packed old-city street in front of a large grey stone neo-Gothic cathedral with twin square bell towers just after midnight mass on Christmas Eve: thousands of adults in winter coats and red Santa hats pouring out into the street, balloon sellers, strings of warm lights, jammed motorbikes, the cathedral facade lit warm gold; everyone distant and blurred; no readable signs.
+
+[CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
+- @BaLua = Bà Lụa, Hưng's mother (a small, plump 63-year-old Vietnamese woman, round cheerful face, short curly greying hair, sharp lively eyes, laugh lines); wears a dark-red velvet áo dài under an open black wool coat, a white lace veil over her hair, a small rosary in her hand. Attached image: "Bà Lụa · Áo dài đi lễ".
+Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
+
+[CAMERA] medium shot.
+
+[ACTION] @BaLua cranes her neck, spots the young woman in the first seat and beams.
+
+[DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
+- 0.3s–2.0s, @BaLua (woman of 63, high quick voice, nagging but loving, delighted): Con bé đây à? Cháu tên gì?
+After the last word nobody speaks until 5.0s. Never read these directions aloud.
+
+[SOUND] a huge crowd leaving midnight mass, cathedral bells pealing, motorbike horns, vendors calling. No music.
+
+[AVOID] On-screen text, burned-in subtitles or captions, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.

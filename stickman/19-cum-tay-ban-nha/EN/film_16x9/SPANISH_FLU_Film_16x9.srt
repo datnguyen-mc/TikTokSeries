@@ -1,0 +1,1723 @@
+1
+00:00:11,750 --> 00:00:12,180
+Autumn,
+
+2
+00:00:12,180 --> 00:00:13,140
+1918
+
+3
+00:00:13,140 --> 00:00:15,340
+Newspapers told of people who went to work in
+
+4
+00:00:15,340 --> 00:00:15,780
+the morning,
+
+5
+00:00:15,780 --> 00:00:17,403
+and were gone by nightfall
+
+6
+00:00:17,553 --> 00:00:19,263
+What killed them was so small that no
+
+7
+00:00:19,263 --> 00:00:21,394
+microscope of the time could see it
+
+8
+00:00:21,544 --> 00:00:23,894
+It infected around five hundred million people
+
+9
+00:00:23,894 --> 00:00:26,494
+One in every three people on Earth fell ill
+
+10
+00:00:26,720 --> 00:00:28,270
+It took more lives than the whole of the
+
+11
+00:00:28,270 --> 00:00:29,150
+First World War,
+
+12
+00:00:29,150 --> 00:00:30,596
+in about two years
+
+13
+00:00:30,746 --> 00:00:32,416
+And it did something flu rarely does:
+
+14
+00:00:32,416 --> 00:00:34,765
+it hit the young and the healthy hardest
+
+15
+00:00:34,915 --> 00:00:36,225
+They called it the Spanish flu
+
+16
+00:00:36,225 --> 00:00:38,825
+But it almost certainly did not start in Spain
+
+17
+00:00:39,022 --> 00:00:40,252
+So where did it come from?
+
+18
+00:00:40,252 --> 00:00:42,252
+Why did a parade turn into a disaster?
+
+19
+00:00:42,252 --> 00:00:44,252
+And why did one island lose no one at
+
+20
+00:00:44,252 --> 00:00:44,532
+all,
+
+21
+00:00:44,532 --> 00:00:46,852
+while the island next door lost nearly a fifth
+
+22
+00:00:46,852 --> 00:00:48,612
+of its people?
+
+23
+00:00:51,383 --> 00:00:52,213
+Camp Funston,
+
+24
+00:00:52,213 --> 00:00:52,813
+Kansas,
+
+25
+00:00:52,813 --> 00:00:53,413
+USA
+
+26
+00:00:53,413 --> 00:00:53,813
+March,
+
+27
+00:00:53,813 --> 00:00:54,933
+1918
+
+28
+00:00:55,772 --> 00:00:57,722
+More than fifty thousand recruits are packed
+
+29
+00:00:57,722 --> 00:00:59,242
+into rows of wooden barracks,
+
+30
+00:00:59,242 --> 00:01:01,842
+waiting to ship out to the war in Europe
+
+31
+00:01:02,077 --> 00:01:02,547
+One morning,
+
+32
+00:01:02,547 --> 00:01:04,827
+a cook named Albert Gitchell reports to the
+
+33
+00:01:04,827 --> 00:01:05,467
+infirmary:
+
+34
+00:01:05,467 --> 00:01:05,867
+fever,
+
+35
+00:01:05,867 --> 00:01:06,667
+sore throat,
+
+36
+00:01:06,667 --> 00:01:07,787
+headache
+
+37
+00:01:08,014 --> 00:01:08,524
+By noon,
+
+38
+00:01:08,524 --> 00:01:10,324
+more than a hundred others have come in
+
+39
+00:01:10,324 --> 00:01:11,004
+Within days,
+
+40
+00:01:11,004 --> 00:01:13,208
+the count passes five hundred
+
+41
+00:01:13,358 --> 00:01:14,348
+It strikes fast,
+
+42
+00:01:14,348 --> 00:01:16,148
+a high fever for a few days,
+
+43
+00:01:16,148 --> 00:01:16,988
+and most recover
+
+44
+00:01:16,988 --> 00:01:19,588
+The soldiers call it the three-day fever
+
+45
+00:01:19,980 --> 00:01:21,850
+Gitchell is often named as one of the first
+
+46
+00:01:21,850 --> 00:01:22,610
+recorded cases
+
+47
+00:01:22,610 --> 00:01:24,330
+But where the virus really began,
+
+48
+00:01:24,330 --> 00:01:25,690
+no one knows for sure,
+
+49
+00:01:25,690 --> 00:01:27,130
+even today
+
+50
+00:01:27,368 --> 00:01:29,118
+One theory says rural Kansas
+
+51
+00:01:29,118 --> 00:01:30,278
+Another says France
+
+52
+00:01:30,278 --> 00:01:32,038
+Another says China
+
+53
+00:01:32,283 --> 00:01:33,993
+What we do know is that every month,
+
+54
+00:01:33,993 --> 00:01:35,913
+hundreds of thousands of American soldiers
+
+55
+00:01:35,913 --> 00:01:36,873
+crossed the Atlantic
+
+56
+00:01:36,873 --> 00:01:38,976
+And the virus went with them
+
+57
+00:01:39,126 --> 00:01:39,476
+By May,
+
+58
+00:01:39,476 --> 00:01:41,076
+it was in the trenches of France
+
+59
+00:01:41,076 --> 00:01:43,036
+And it was about to get a completely wrong
+
+60
+00:01:43,036 --> 00:01:44,156
+name
+
+61
+00:01:47,650 --> 00:01:48,800
+In 1918,
+
+62
+00:01:48,800 --> 00:01:50,200
+most of Europe was at war,
+
+63
+00:01:50,200 --> 00:01:52,121
+and the press was censored
+
+64
+00:01:52,271 --> 00:01:54,541
+No country at war wanted the enemy to know
+
+65
+00:01:54,541 --> 00:01:56,766
+its soldiers were falling sick
+
+66
+00:01:56,916 --> 00:01:57,986
+But Spain was neutral
+
+67
+00:01:57,986 --> 00:02:00,540
+Its newspapers were free to report
+
+68
+00:02:00,690 --> 00:02:02,160
+In late May 1918,
+
+69
+00:02:02,160 --> 00:02:04,400
+the papers in Madrid reported a strange
+
+70
+00:02:04,400 --> 00:02:06,592
+epidemic spreading through the city
+
+71
+00:02:06,742 --> 00:02:09,292
+Then King Alfonso XIII himself fell ill
+
+72
+00:02:09,292 --> 00:02:11,577
+The news went around the world
+
+73
+00:02:11,727 --> 00:02:13,997
+Because the only reports came from Spain,
+
+74
+00:02:13,997 --> 00:02:15,737
+many assumed it had started there
+
+75
+00:02:15,737 --> 00:02:18,234
+The name Spanish flu was born
+
+76
+00:02:18,384 --> 00:02:18,854
+The Spanish,
+
+77
+00:02:18,854 --> 00:02:19,494
+for their part,
+
+78
+00:02:19,494 --> 00:02:20,814
+called it the French flu,
+
+79
+00:02:20,814 --> 00:02:22,174
+or the Naples Soldier,
+
+80
+00:02:22,174 --> 00:02:24,171
+after a popular song
+
+81
+00:02:24,321 --> 00:02:24,911
+By July,
+
+82
+00:02:24,911 --> 00:02:26,271
+the first wave was fading
+
+83
+00:02:26,271 --> 00:02:28,169
+Most of the sick recovered
+
+84
+00:02:28,319 --> 00:02:30,069
+People breathed a sigh of relief,
+
+85
+00:02:30,069 --> 00:02:31,029
+thinking it was over
+
+86
+00:02:31,029 --> 00:02:31,669
+They were wrong
+
+87
+00:02:31,669 --> 00:02:33,749
+The virus was changing
+
+88
+00:02:37,350 --> 00:02:39,300
+In late August 1918,
+
+89
+00:02:39,300 --> 00:02:40,740
+almost at the same moment,
+
+90
+00:02:40,740 --> 00:02:43,180
+the disease exploded in three ports thousands
+
+91
+00:02:43,180 --> 00:02:44,940
+of kilometres apart
+
+92
+00:02:45,245 --> 00:02:45,995
+Brest in France,
+
+93
+00:02:45,995 --> 00:02:47,435
+where American troops landed
+
+94
+00:02:47,435 --> 00:02:48,795
+Freetown in Africa,
+
+95
+00:02:48,795 --> 00:02:50,475
+a coaling station for warships
+
+96
+00:02:50,475 --> 00:02:51,195
+And Boston,
+
+97
+00:02:51,195 --> 00:02:53,060
+in the United States
+
+98
+00:02:53,210 --> 00:02:54,600
+On August the twenty-seventh,
+
+99
+00:02:54,600 --> 00:02:55,720
+1918,
+
+100
+00:02:55,720 --> 00:02:58,040
+a few sailors in Boston reported sick
+
+101
+00:02:58,040 --> 00:02:59,040
+Three days later,
+
+102
+00:02:59,040 --> 00:03:00,982
+there were nearly sixty
+
+103
+00:03:01,132 --> 00:03:01,642
+This time,
+
+104
+00:03:01,642 --> 00:03:03,835
+it was no three-day fever
+
+105
+00:03:03,985 --> 00:03:05,694
+Patients got worse frighteningly fast
+
+106
+00:03:05,694 --> 00:03:06,895
+Many struggled to breathe,
+
+107
+00:03:06,895 --> 00:03:09,294
+their skin turned bluish from lack of oxygen,
+
+108
+00:03:09,294 --> 00:03:11,694
+and then came severe pneumonia
+
+109
+00:03:12,061 --> 00:03:13,731
+Near Boston stood Camp Devens
+
+110
+00:03:13,731 --> 00:03:15,371
+On September the twenty-second,
+
+111
+00:03:15,371 --> 00:03:16,531
+1918,
+
+112
+00:03:16,531 --> 00:03:18,651
+more than fifteen hundred soldiers reported
+
+113
+00:03:18,651 --> 00:03:20,541
+sick in a single day
+
+114
+00:03:20,691 --> 00:03:21,841
+By the end of September,
+
+115
+00:03:21,841 --> 00:03:24,281
+the camp had more than fourteen thousand cases,
+
+116
+00:03:24,281 --> 00:03:26,881
+and more than seven hundred men had died
+
+117
+00:03:27,254 --> 00:03:29,164
+But what baffled the doctors most was not the
+
+118
+00:03:29,164 --> 00:03:29,524
+speed
+
+119
+00:03:29,524 --> 00:03:31,924
+It was who was dying
+
+120
+00:03:35,050 --> 00:03:35,380
+Normally,
+
+121
+00:03:35,380 --> 00:03:37,520
+flu is most dangerous for babies and the
+
+122
+00:03:37,520 --> 00:03:37,960
+elderly
+
+123
+00:03:37,960 --> 00:03:39,000
+Plot deaths by age,
+
+124
+00:03:39,000 --> 00:03:40,822
+and you get a U shape
+
+125
+00:03:40,972 --> 00:03:42,162
+In 1918,
+
+126
+00:03:42,162 --> 00:03:44,442
+that curve grew an extra peak in the middle
+
+127
+00:03:44,442 --> 00:03:46,398
+It became a W
+
+128
+00:03:46,548 --> 00:03:48,578
+About half of all the dead were aged twenty
+
+129
+00:03:48,578 --> 00:03:49,098
+to forty,
+
+130
+00:03:49,098 --> 00:03:51,178
+the very healthiest age
+
+131
+00:03:51,417 --> 00:03:51,887
+Normally,
+
+132
+00:03:51,887 --> 00:03:54,140
+fewer than one in every thousand people with
+
+133
+00:03:54,140 --> 00:03:54,727
+flu dies
+
+134
+00:03:54,727 --> 00:03:55,967
+In 1918,
+
+135
+00:03:55,967 --> 00:03:58,191
+it was more than twenty-five
+
+136
+00:03:58,341 --> 00:03:58,341
+Why?
+
+137
+00:03:58,341 --> 00:04:00,941
+Scientists are still debating it today
+
+138
+00:04:01,186 --> 00:04:01,816
+One theory:
+
+139
+00:04:01,816 --> 00:04:03,696
+young immune systems overreacted,
+
+140
+00:04:03,696 --> 00:04:05,963
+and damaged their own lungs
+
+141
+00:04:06,113 --> 00:04:06,503
+Another:
+
+142
+00:04:06,503 --> 00:04:08,863
+older people had met a similar flu many years
+
+143
+00:04:08,863 --> 00:04:09,183
+before,
+
+144
+00:04:09,183 --> 00:04:11,226
+and were partly protected
+
+145
+00:04:11,376 --> 00:04:13,726
+But most deaths came from bacterial pneumonia,
+
+146
+00:04:13,726 --> 00:04:15,806
+striking after the flu had weakened the lungs
+
+147
+00:04:15,806 --> 00:04:17,166
+And in 1918,
+
+148
+00:04:17,166 --> 00:04:19,566
+the world had no antibiotics
+
+149
+00:04:19,751 --> 00:04:20,221
+No cure,
+
+150
+00:04:20,221 --> 00:04:21,101
+no vaccine
+
+151
+00:04:21,101 --> 00:04:22,581
+All people had were decisions
+
+152
+00:04:22,581 --> 00:04:25,181
+And some decisions came at a terrible price
+
+153
+00:04:29,417 --> 00:04:30,167
+Philadelphia,
+
+154
+00:04:30,167 --> 00:04:31,927
+mid-September 1918
+
+155
+00:04:31,927 --> 00:04:34,527
+The flu had reached the city's navy yard
+
+156
+00:04:34,828 --> 00:04:36,138
+For September the twenty-eighth,
+
+157
+00:04:36,138 --> 00:04:37,738
+a giant parade was planned,
+
+158
+00:04:37,738 --> 00:04:40,158
+to get people to buy war bonds
+
+159
+00:04:40,308 --> 00:04:41,378
+Doctors warned against it
+
+160
+00:04:41,378 --> 00:04:42,538
+But Wilmer Krusen,
+
+161
+00:04:42,538 --> 00:04:44,418
+the city's director of public health,
+
+162
+00:04:44,418 --> 00:04:46,350
+let the parade go ahead
+
+163
+00:04:46,500 --> 00:04:48,450
+Around two hundred thousand people packed the
+
+164
+00:04:48,450 --> 00:04:49,170
+sidewalks,
+
+165
+00:04:49,170 --> 00:04:50,930
+and the parade stretched for more than three
+
+166
+00:04:50,930 --> 00:04:52,050
+kilometres
+
+167
+00:04:52,507 --> 00:04:53,857
+Seventy-two hours later,
+
+168
+00:04:53,857 --> 00:04:56,297
+every bed in all thirty-one of Philadelphia's
+
+169
+00:04:56,297 --> 00:04:58,003
+hospitals was full
+
+170
+00:04:58,153 --> 00:04:59,743
+In the first week of October alone,
+
+171
+00:04:59,743 --> 00:05:01,903
+about two thousand six hundred people died
+
+172
+00:05:01,903 --> 00:05:02,703
+The next week,
+
+173
+00:05:02,703 --> 00:05:05,259
+more than four thousand five hundred
+
+174
+00:05:05,409 --> 00:05:06,239
+Meanwhile in St
+
+175
+00:05:06,239 --> 00:05:06,599
+Louis,
+
+176
+00:05:06,599 --> 00:05:08,719
+health commissioner Max Starkloff did the
+
+177
+00:05:08,719 --> 00:05:09,359
+opposite:
+
+178
+00:05:09,359 --> 00:05:10,959
+he closed schools and theatres,
+
+179
+00:05:10,959 --> 00:05:12,339
+and banned public gatherings,
+
+180
+00:05:12,339 --> 00:05:14,739
+despite protests from business owners
+
+181
+00:05:15,247 --> 00:05:16,677
+Researchers later worked it out:
+
+182
+00:05:16,677 --> 00:05:17,357
+at the peak,
+
+183
+00:05:17,357 --> 00:05:19,557
+Philadelphia's death rate was more than eight
+
+184
+00:05:19,557 --> 00:05:20,485
+times that of St
+
+185
+00:05:20,485 --> 00:05:21,529
+Louis
+
+186
+00:05:21,679 --> 00:05:23,589
+Why was Philadelphia so reckless?
+
+187
+00:05:23,589 --> 00:05:25,909
+Part of the answer lies in something even more
+
+188
+00:05:25,909 --> 00:05:27,229
+dangerous than the virus:
+
+189
+00:05:27,229 --> 00:05:28,349
+silence
+
+190
+00:05:32,117 --> 00:05:33,147
+In 1918,
+
+191
+00:05:33,147 --> 00:05:35,033
+the war came first
+
+192
+00:05:35,183 --> 00:05:35,833
+In America,
+
+193
+00:05:35,833 --> 00:05:38,253
+wartime laws could jail anyone accused of
+
+194
+00:05:38,253 --> 00:05:40,333
+undermining the nation's morale
+
+195
+00:05:40,609 --> 00:05:42,559
+Many officials insisted it was just ordinary
+
+196
+00:05:42,559 --> 00:05:42,919
+flu
+
+197
+00:05:42,919 --> 00:05:44,559
+One newspaper even advised:
+
+198
+00:05:44,559 --> 00:05:45,989
+don't panic
+
+199
+00:05:46,139 --> 00:05:46,609
+Meanwhile,
+
+200
+00:05:46,609 --> 00:05:48,409
+troopships kept crossing the ocean,
+
+201
+00:05:48,409 --> 00:05:50,509
+carrying the virus with them
+
+202
+00:05:50,659 --> 00:05:52,689
+In the American army in Europe alone,
+
+203
+00:05:52,689 --> 00:05:54,849
+more soldiers were hospitalised with flu than
+
+204
+00:05:54,849 --> 00:05:56,678
+were wounded in battle
+
+205
+00:05:56,828 --> 00:05:58,058
+On November the eleventh,
+
+206
+00:05:58,058 --> 00:05:59,098
+1918,
+
+207
+00:05:59,098 --> 00:05:59,858
+the war ended
+
+208
+00:05:59,858 --> 00:06:02,058
+Millions poured into the streets to celebrate,
+
+209
+00:06:02,058 --> 00:06:03,818
+hugging and dancing
+
+210
+00:06:03,996 --> 00:06:04,826
+In many places,
+
+211
+00:06:04,826 --> 00:06:05,866
+after those crowds,
+
+212
+00:06:05,866 --> 00:06:08,266
+the epidemic flared up again
+
+213
+00:06:08,520 --> 00:06:09,350
+With no medicine,
+
+214
+00:06:09,350 --> 00:06:11,550
+city governments had just one weapon left:
+
+215
+00:06:11,550 --> 00:06:12,470
+a piece of gauze
+
+216
+00:06:12,470 --> 00:06:15,070
+And it was about to start another war
+
+217
+00:06:18,517 --> 00:06:19,467
+San Francisco,
+
+218
+00:06:19,467 --> 00:06:21,187
+late October 1918
+
+219
+00:06:21,187 --> 00:06:22,427
+The city passed a law:
+
+220
+00:06:22,427 --> 00:06:25,027
+anyone out in public must wear a mask
+
+221
+00:06:25,286 --> 00:06:27,196
+Masks were made of four layers of gauze
+
+222
+00:06:27,196 --> 00:06:29,356
+Anyone without one could be fined five dollars,
+
+223
+00:06:29,356 --> 00:06:31,932
+or even spend a few days in jail
+
+224
+00:06:32,082 --> 00:06:33,872
+Police arrested hundreds of people
+
+225
+00:06:33,872 --> 00:06:36,472
+The papers called them mask slackers
+
+226
+00:06:36,893 --> 00:06:38,203
+On November the twenty-first,
+
+227
+00:06:38,203 --> 00:06:39,243
+1918,
+
+228
+00:06:39,243 --> 00:06:40,323
+with cases falling,
+
+229
+00:06:40,323 --> 00:06:41,403
+the order was lifted
+
+230
+00:06:41,403 --> 00:06:44,003
+The whole city took off its masks to celebrate
+
+231
+00:06:44,629 --> 00:06:45,859
+Less than two months later,
+
+232
+00:06:45,859 --> 00:06:47,179
+the epidemic came back
+
+233
+00:06:47,179 --> 00:06:48,819
+In January 1919,
+
+234
+00:06:48,819 --> 00:06:51,147
+the city ordered masks again
+
+235
+00:06:51,297 --> 00:06:51,767
+This time,
+
+236
+00:06:51,767 --> 00:06:52,607
+many refused
+
+237
+00:06:52,607 --> 00:06:55,006
+They founded the Anti-Mask League
+
+238
+00:06:55,156 --> 00:06:56,666
+On January the twenty-fifth,
+
+239
+00:06:56,666 --> 00:06:57,826
+1919,
+
+240
+00:06:57,826 --> 00:07:00,106
+thousands packed into a roller-skating rink to
+
+241
+00:07:00,106 --> 00:07:01,226
+protest
+
+242
+00:07:01,453 --> 00:07:02,443
+In early February,
+
+243
+00:07:02,443 --> 00:07:04,952
+the second mask order was repealed
+
+244
+00:07:05,102 --> 00:07:06,972
+While big cities argued about masks,
+
+245
+00:07:06,972 --> 00:07:08,332
+in the middle of the Pacific,
+
+246
+00:07:08,332 --> 00:07:10,332
+two neighbouring islands were about to choose
+
+247
+00:07:10,332 --> 00:07:11,772
+opposite paths
+
+248
+00:07:15,750 --> 00:07:16,260
+Samoa,
+
+249
+00:07:16,260 --> 00:07:17,540
+in the middle of the Pacific
+
+250
+00:07:17,540 --> 00:07:19,460
+Two island groups side by side,
+
+251
+00:07:19,460 --> 00:07:20,180
+one people,
+
+252
+00:07:20,180 --> 00:07:21,620
+one language
+
+253
+00:07:21,823 --> 00:07:23,333
+The west was run by New Zealand
+
+254
+00:07:23,333 --> 00:07:25,516
+The east was American Samoa
+
+255
+00:07:25,666 --> 00:07:26,776
+On November the seventh,
+
+256
+00:07:26,776 --> 00:07:28,016
+1918,
+
+257
+00:07:28,016 --> 00:07:30,976
+the ship Talune from Auckland docked at Apia,
+
+258
+00:07:30,976 --> 00:07:32,056
+in Western Samoa
+
+259
+00:07:32,056 --> 00:07:34,332
+Some of its passengers were sick
+
+260
+00:07:34,482 --> 00:07:35,952
+The ship was not quarantined
+
+261
+00:07:35,952 --> 00:07:38,552
+The passengers went ashore as usual
+
+262
+00:07:39,037 --> 00:07:39,627
+Within weeks,
+
+263
+00:07:39,627 --> 00:07:41,507
+the disease swept through every village
+
+264
+00:07:41,507 --> 00:07:43,747
+About eight thousand five hundred people died,
+
+265
+00:07:43,747 --> 00:07:45,667
+nearly a fifth of the population,
+
+266
+00:07:45,667 --> 00:07:48,267
+the highest rate in the world in the pandemic
+
+267
+00:07:48,982 --> 00:07:50,492
+Less than a hundred kilometres away,
+
+268
+00:07:50,492 --> 00:07:52,292
+the governor of American Samoa,
+
+269
+00:07:52,292 --> 00:07:53,292
+John Poyer,
+
+270
+00:07:53,292 --> 00:07:55,605
+heard the news on the radio
+
+271
+00:07:55,755 --> 00:07:57,145
+He sealed the harbour at once
+
+272
+00:07:57,145 --> 00:07:58,265
+No ship could land
+
+273
+00:07:58,265 --> 00:08:00,845
+Even the mail was collected out at sea
+
+274
+00:08:00,995 --> 00:08:02,385
+The people and their chiefs backed the
+
+275
+00:08:02,385 --> 00:08:02,945
+quarantine
+
+276
+00:08:02,945 --> 00:08:03,625
+The result:
+
+277
+00:08:03,625 --> 00:08:06,193
+American Samoa had not a single death from the
+
+278
+00:08:06,193 --> 00:08:07,313
+flu
+
+279
+00:08:07,492 --> 00:08:09,562
+Poyer even offered to help Western Samoa
+
+280
+00:08:09,562 --> 00:08:10,682
+According to the records,
+
+281
+00:08:10,682 --> 00:08:12,756
+the offer was refused
+
+282
+00:08:12,906 --> 00:08:14,616
+But not every place had a harbour it could
+
+283
+00:08:14,616 --> 00:08:15,736
+close
+
+284
+00:08:19,283 --> 00:08:20,593
+In June 1918,
+
+285
+00:08:20,593 --> 00:08:22,873
+the virus arrived by ship in Bombay,
+
+286
+00:08:22,873 --> 00:08:24,242
+in India
+
+287
+00:08:24,392 --> 00:08:26,022
+The second wave struck in the autumn,
+
+288
+00:08:26,022 --> 00:08:28,622
+just as drought and crop failure hit
+
+289
+00:08:28,781 --> 00:08:31,131
+India lost at least twelve million people,
+
+290
+00:08:31,131 --> 00:08:32,371
+more than any other country
+
+291
+00:08:32,371 --> 00:08:34,211
+It was the only decade in which India's
+
+292
+00:08:34,211 --> 00:08:35,651
+population fell
+
+293
+00:08:36,118 --> 00:08:36,788
+In Alaska,
+
+294
+00:08:36,788 --> 00:08:39,188
+some villages lost almost all of their adults
+
+295
+00:08:39,188 --> 00:08:41,134
+in just a few days
+
+296
+00:08:41,284 --> 00:08:41,874
+Schools,
+
+297
+00:08:41,874 --> 00:08:43,394
+theatres and churches closed
+
+298
+00:08:43,394 --> 00:08:45,914
+Telephone exchanges ran short of operators,
+
+299
+00:08:45,914 --> 00:08:47,918
+because the staff were sick
+
+300
+00:08:48,068 --> 00:08:48,818
+No one was spared
+
+301
+00:08:48,818 --> 00:08:51,258
+The painter Egon Schiele died at twenty-eight,
+
+302
+00:08:51,258 --> 00:08:53,858
+just three days after his pregnant wife
+
+303
+00:08:54,279 --> 00:08:55,789
+The painter Edvard Munch caught it,
+
+304
+00:08:55,789 --> 00:08:57,949
+and painted a portrait of himself in the grip
+
+305
+00:08:57,949 --> 00:08:59,219
+of the flu
+
+306
+00:08:59,369 --> 00:09:01,719
+A teenager named Walt Disney caught it too,
+
+307
+00:09:01,719 --> 00:09:02,879
+and luckily recovered
+
+308
+00:09:02,879 --> 00:09:05,079
+A young politician named Franklin Roosevelt
+
+309
+00:09:05,079 --> 00:09:07,679
+fell seriously ill on a ship home from Europe
+
+310
+00:09:08,196 --> 00:09:09,666
+By the end of 1918,
+
+311
+00:09:09,666 --> 00:09:10,986
+the second wave was easing
+
+312
+00:09:10,986 --> 00:09:13,586
+But the virus had not had its last word
+
+313
+00:09:17,583 --> 00:09:18,933
+In early 1919,
+
+314
+00:09:18,933 --> 00:09:21,093
+a third wave swept through many places
+
+315
+00:09:21,093 --> 00:09:22,333
+Milder than the autumn,
+
+316
+00:09:22,333 --> 00:09:24,028
+but still deadly
+
+317
+00:09:24,178 --> 00:09:26,768
+Australia had quarantined ships since October
+
+318
+00:09:26,768 --> 00:09:27,648
+1918,
+
+319
+00:09:27,648 --> 00:09:28,848
+and escaped the worst wave
+
+320
+00:09:28,848 --> 00:09:30,488
+But in early 1919,
+
+321
+00:09:30,488 --> 00:09:32,682
+the virus still got in
+
+322
+00:09:32,832 --> 00:09:34,382
+In April 1919,
+
+323
+00:09:34,382 --> 00:09:36,462
+in the middle of the Paris peace conference,
+
+324
+00:09:36,462 --> 00:09:38,902
+American President Woodrow Wilson suddenly fell
+
+325
+00:09:38,902 --> 00:09:39,182
+ill
+
+326
+00:09:39,182 --> 00:09:41,782
+Many historians believe it was the flu
+
+327
+00:09:41,961 --> 00:09:43,791
+Some argue the illness exhausted him,
+
+328
+00:09:43,791 --> 00:09:45,191
+and made him give more ground at the
+
+329
+00:09:45,191 --> 00:09:46,151
+negotiating table
+
+330
+00:09:46,151 --> 00:09:48,166
+That is still debated today
+
+331
+00:09:48,316 --> 00:09:49,146
+In some places,
+
+332
+00:09:49,146 --> 00:09:50,546
+there was even a fourth wave,
+
+333
+00:09:50,546 --> 00:09:51,986
+in 1920
+
+334
+00:09:52,488 --> 00:09:54,318
+Then the virus slowly grew milder
+
+335
+00:09:54,318 --> 00:09:56,398
+Most of humanity had been infected and had
+
+336
+00:09:56,398 --> 00:09:56,918
+immunity
+
+337
+00:09:56,918 --> 00:09:59,076
+It became a seasonal flu
+
+338
+00:09:59,226 --> 00:09:59,736
+In total,
+
+339
+00:09:59,736 --> 00:10:02,056
+around five hundred million people fell ill
+
+340
+00:10:02,056 --> 00:10:04,336
+Estimates of the dead range from seventeen to a
+
+341
+00:10:04,336 --> 00:10:04,976
+hundred million
+
+342
+00:10:04,976 --> 00:10:07,256
+The figure most often quoted is about fifty
+
+343
+00:10:07,256 --> 00:10:08,376
+million
+
+344
+00:10:08,653 --> 00:10:10,003
+In the United States alone,
+
+345
+00:10:10,003 --> 00:10:12,123
+about six hundred and seventy-five thousand
+
+346
+00:10:12,123 --> 00:10:12,643
+people died
+
+347
+00:10:12,643 --> 00:10:16,043
+Average life expectancy in 1918 fell by about
+
+348
+00:10:16,043 --> 00:10:17,483
+twelve years
+
+349
+00:10:17,828 --> 00:10:19,778
+But one question was still unanswered:
+
+350
+00:10:19,778 --> 00:10:20,098
+who,
+
+351
+00:10:20,098 --> 00:10:20,818
+in the end,
+
+352
+00:10:20,818 --> 00:10:22,578
+was the killer?
+
+353
+00:10:25,950 --> 00:10:26,980
+In 1918,
+
+354
+00:10:26,980 --> 00:10:29,620
+doctors had no idea that flu viruses even
+
+355
+00:10:29,620 --> 00:10:30,740
+existed
+
+356
+00:10:30,920 --> 00:10:32,883
+They blamed a bacterium known as Pfeiffer's
+
+357
+00:10:32,883 --> 00:10:33,230
+bacillus
+
+358
+00:10:33,230 --> 00:10:35,470
+Many anti-bacterial vaccines were given,
+
+359
+00:10:35,470 --> 00:10:37,879
+but they did not stop the flu
+
+360
+00:10:38,029 --> 00:10:41,299
+Only in 1933 did scientists in London find the
+
+361
+00:10:41,299 --> 00:10:41,939
+real culprit:
+
+362
+00:10:41,939 --> 00:10:42,659
+a virus
+
+363
+00:10:42,659 --> 00:10:45,221
+They ran their experiments on ferrets
+
+364
+00:10:45,371 --> 00:10:47,161
+Legend has it that a sick ferret sneezed in
+
+365
+00:10:47,161 --> 00:10:48,121
+a scientist's face
+
+366
+00:10:48,121 --> 00:10:49,321
+A few days later,
+
+367
+00:10:49,321 --> 00:10:51,227
+he had the flu too
+
+368
+00:10:51,377 --> 00:10:53,927
+But the 1918 virus had vanished long ago
+
+369
+00:10:53,927 --> 00:10:56,165
+How could anyone find it again?
+
+370
+00:10:56,315 --> 00:10:57,505
+In 1951,
+
+371
+00:10:57,505 --> 00:11:00,265
+a young Swedish student named Johan Hultin
+
+372
+00:11:00,265 --> 00:11:02,145
+travelled to the village of Brevig Mission in
+
+373
+00:11:02,145 --> 00:11:02,825
+Alaska,
+
+374
+00:11:02,825 --> 00:11:04,825
+where the flu had killed seventy-two of its
+
+375
+00:11:04,825 --> 00:11:06,265
+eighty villagers
+
+376
+00:11:06,629 --> 00:11:08,219
+With the permission of the village elders,
+
+377
+00:11:08,219 --> 00:11:10,259
+he searched for tissue preserved by the
+
+378
+00:11:10,259 --> 00:11:10,659
+permafrost
+
+379
+00:11:10,659 --> 00:11:13,259
+But he could not grow any live virus
+
+380
+00:11:13,483 --> 00:11:14,766
+Forty-six years later,
+
+381
+00:11:14,766 --> 00:11:16,273
+Hultin was seventy-two
+
+382
+00:11:16,273 --> 00:11:18,180
+He read a paper by the scientist Jeffery
+
+383
+00:11:18,180 --> 00:11:19,433
+Taubenberger,
+
+384
+00:11:19,433 --> 00:11:22,073
+who was decoding the 1918 virus from army
+
+385
+00:11:22,073 --> 00:11:23,513
+tissue archives
+
+386
+00:11:24,064 --> 00:11:24,934
+Paying his own way,
+
+387
+00:11:24,934 --> 00:11:26,494
+he went back to Brevig Mission,
+
+388
+00:11:26,494 --> 00:11:28,334
+and this time he brought back a precious
+
+389
+00:11:28,334 --> 00:11:29,410
+sample
+
+390
+00:11:29,560 --> 00:11:31,030
+In 2005,
+
+391
+00:11:31,030 --> 00:11:33,270
+scientists published the complete genome of the
+
+392
+00:11:33,270 --> 00:11:34,630
+1918 virus,
+
+393
+00:11:34,630 --> 00:11:36,950
+and rebuilt it in a high-security laboratory
+
+394
+00:11:36,950 --> 00:11:39,550
+It had come from a bird flu virus
+
+395
+00:11:39,850 --> 00:11:42,040
+And they found something even more astonishing:
+
+396
+00:11:42,040 --> 00:11:44,640
+its descendants are still all around us
+
+397
+00:11:48,717 --> 00:11:51,347
+The 1918 virus has been called the mother of
+
+398
+00:11:51,347 --> 00:11:52,787
+all pandemics
+
+399
+00:11:53,164 --> 00:11:54,954
+Its descendants still circulate today,
+
+400
+00:11:54,954 --> 00:11:57,234
+and passed genes on to the flu strains behind
+
+401
+00:11:57,234 --> 00:11:59,314
+the pandemics of 1957,
+
+402
+00:11:59,314 --> 00:12:01,074
+1968 and 2009
+
+403
+00:12:02,723 --> 00:12:03,313
+Every year,
+
+404
+00:12:03,313 --> 00:12:05,633
+labs around the world track flu viruses to
+
+405
+00:12:05,633 --> 00:12:08,233
+choose what goes into next season's vaccine
+
+406
+00:12:08,892 --> 00:12:10,722
+The numbers from Philadelphia and St
+
+407
+00:12:10,722 --> 00:12:12,322
+Louis became a classic lesson:
+
+408
+00:12:12,322 --> 00:12:14,402
+acting early saves lives
+
+409
+00:12:14,736 --> 00:12:16,126
+In 2007,
+
+410
+00:12:16,126 --> 00:12:19,046
+researchers used that very 1918 data to build
+
+411
+00:12:19,046 --> 00:12:20,486
+pandemic plans
+
+412
+00:12:20,940 --> 00:12:21,730
+In 2020,
+
+413
+00:12:21,730 --> 00:12:23,210
+when COVID-19 appeared,
+
+414
+00:12:23,210 --> 00:12:25,450
+the phrase flatten the curve echoed around the
+
+415
+00:12:25,450 --> 00:12:25,690
+world,
+
+416
+00:12:25,690 --> 00:12:28,290
+and the charts from 1918 came out once again
+
+417
+00:12:29,431 --> 00:12:30,341
+A century on,
+
+418
+00:12:30,341 --> 00:12:31,821
+the lesson is the same:
+
+419
+00:12:31,821 --> 00:12:33,021
+honest information,
+
+420
+00:12:33,021 --> 00:12:33,861
+early action,
+
+421
+00:12:33,861 --> 00:12:36,007
+and caring for one another
+
+422
+00:12:36,157 --> 00:12:37,147
+Viruses can change
+
+423
+00:12:37,147 --> 00:12:39,747
+But how we face them is up to us
+
+424
+00:12:40,683 --> 00:12:42,993
+The Spanish flu is the story of an invisible
+
+425
+00:12:42,993 --> 00:12:43,473
+virus,
+
+426
+00:12:43,473 --> 00:12:45,565
+and of very human decisions
+
+427
+00:12:45,715 --> 00:12:47,465
+If you had been Philadelphia's health director
+
+428
+00:12:47,465 --> 00:12:48,705
+in 1918,
+
+429
+00:12:48,705 --> 00:12:50,145
+would you have cancelled the parade?
+
+430
+00:12:50,145 --> 00:12:51,904
+Tell me in the comments
+
+431
+00:12:52,054 --> 00:12:54,654
+Subscribe so you don't miss the next episode

@@ -1,0 +1,21 @@
+{
+ "text": "Dẫu nghe con!",
+ "engine": "faster-whisper-large-v3-vad",
+ "words": [
+  {
+   "w": "Dẫu",
+   "s": 5.14,
+   "e": 5.28
+  },
+  {
+   "w": "nghe",
+   "s": 5.28,
+   "e": 5.48
+  },
+  {
+   "w": "con!",
+   "s": 5.48,
+   "e": 5.62
+  }
+ ]
+}

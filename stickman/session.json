@@ -1,0 +1,4074 @@
+{
+  "version": 1,
+  "rev": 157,
+  "entries": [
+    {
+      "id": "op_3a04de6a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_0deb6b73cde1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser1.mp4",
+          "durationSec": 1.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:42.606Z"
+    },
+    {
+      "id": "op_11050e3f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_d09212f353c6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser2.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:42.769Z"
+    },
+    {
+      "id": "op_4d015fa1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_77020bfcd7c3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser3.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:42.883Z"
+    },
+    {
+      "id": "op_3473f890",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_1eea9c8d848a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser4.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:42.995Z"
+    },
+    {
+      "id": "op_1aa290c4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_cbb6ea2d4182",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser5.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:43.120Z"
+    },
+    {
+      "id": "op_3d59f0cf",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_fbea3293a854",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_teaser6.mp4",
+          "durationSec": 1.9,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:43.247Z"
+    },
+    {
+      "id": "op_179a2b65",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_d69a227d7901",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch00.mp4",
+          "durationSec": 23.37,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:43.870Z"
+    },
+    {
+      "id": "op_e0d4cfe4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_5bcf1896e83b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch01.mp4",
+          "durationSec": 55.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:45.044Z"
+    },
+    {
+      "id": "op_510517f7",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_c27515a9098e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch02.mp4",
+          "durationSec": 55.07,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:46.193Z"
+    },
+    {
+      "id": "op_9571ae90",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_2cfe73bc143a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch03.mp4",
+          "durationSec": 59.37,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:47.218Z"
+    },
+    {
+      "id": "op_94728d43",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_628a71b008fd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch04.mp4",
+          "durationSec": 61.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:48.268Z"
+    },
+    {
+      "id": "op_2dca78fb",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_0d4e18046a8f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch05.mp4",
+          "durationSec": 68.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:49.536Z"
+    },
+    {
+      "id": "op_0317340e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_7ce21fb89a83",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch06.mp4",
+          "durationSec": 64.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:50.684Z"
+    },
+    {
+      "id": "op_1930903d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_35ccc26f50b3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch07.mp4",
+          "durationSec": 62.47,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:51.583Z"
+    },
+    {
+      "id": "op_f9a39da1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_99227a4b0e2b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch08.mp4",
+          "durationSec": 69.33,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:52.824Z"
+    },
+    {
+      "id": "op_e8d2fe9b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_71e356dd7b22",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch09.mp4",
+          "durationSec": 68.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:53.895Z"
+    },
+    {
+      "id": "op_36d932ab",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_32bda8d78723",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch10.mp4",
+          "durationSec": 67.57,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:54.998Z"
+    },
+    {
+      "id": "op_d6c78e15",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_25e2c41f82db",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch11.mp4",
+          "durationSec": 71.93,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:55.922Z"
+    },
+    {
+      "id": "op_e6fb4977",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_d4e3667d68e5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch12.mp4",
+          "durationSec": 67.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:57.048Z"
+    },
+    {
+      "id": "op_063b3b77",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_f6a5aea3730d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_ch13.mp4",
+          "durationSec": 17.93,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:18:57.424Z"
+    },
+    {
+      "id": "op_9ab25861",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_endcard.jpg"
+      },
+      "result": {
+        "mediaId": "m_6dade0a70b00",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_endcard.jpg",
+          "durationSec": 0.04,
+          "video": {
+            "codec": "mjpeg",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25
+          },
+          "audio": null
+        }
+      },
+      "timestamp": "2026-11-21T07:19:55.150Z"
+    },
+    {
+      "id": "op_f162a2f0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_hook.wav"
+      },
+      "result": {
+        "mediaId": "m_875f8cf93e3c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_hook.wav",
+          "durationSec": 2.4,
+          "video": null,
+          "audio": {
+            "codec": "pcm_s16le",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:20:18.326Z"
+    },
+    {
+      "id": "op_c4cf2e9e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_outro.wav"
+      },
+      "result": {
+        "mediaId": "m_6892f65f65d9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_outro.wav",
+          "durationSec": 8.5,
+          "video": null,
+          "audio": {
+            "codec": "pcm_s16le",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:20:18.422Z"
+    },
+    {
+      "id": "op_b63f2050",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_cd9cabd8f388",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_hook.mp4",
+          "durationSec": 2.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:20:41.792Z"
+    },
+    {
+      "id": "op_7c04d411",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_894aa718dbcd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_endcard.mp4",
+          "durationSec": 8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T07:20:41.925Z"
+    },
+    {
+      "id": "op_47393bf7",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_40b112630bf3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser1.mp4",
+          "durationSec": 1.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:51.613Z"
+    },
+    {
+      "id": "op_d225d972",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_0fb83562b762",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser2.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:51.771Z"
+    },
+    {
+      "id": "op_8dd6ae47",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_2553f262725e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser3.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:51.887Z"
+    },
+    {
+      "id": "op_05ced7ea",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_4d4521fd38f8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser4.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:51.995Z"
+    },
+    {
+      "id": "op_eaa59577",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_b4a16dc3cc2e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser5.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:52.116Z"
+    },
+    {
+      "id": "op_20833568",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_66a36a048d08",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_teaser6.mp4",
+          "durationSec": 1.9,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:52.243Z"
+    },
+    {
+      "id": "op_74496727",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_cd9cabd8f388",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_hook.mp4",
+          "durationSec": 2.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:52.348Z"
+    },
+    {
+      "id": "op_aef32259",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_60a33530d678",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch00.mp4",
+          "durationSec": 27.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:53.095Z"
+    },
+    {
+      "id": "op_0cfc497e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_e2dd770b1552",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch01.mp4",
+          "durationSec": 61.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:54.332Z"
+    },
+    {
+      "id": "op_d3751629",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_294a7c3683d7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch02.mp4",
+          "durationSec": 62,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:55.617Z"
+    },
+    {
+      "id": "op_a9c6e857",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_f58b9717edd7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch03.mp4",
+          "durationSec": 63.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:56.671Z"
+    },
+    {
+      "id": "op_f7a1887c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_7fb36a3830b0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch04.mp4",
+          "durationSec": 69.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:57.857Z"
+    },
+    {
+      "id": "op_53338d50",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_2fad8b003795",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch05.mp4",
+          "durationSec": 75.57,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:51:59.288Z"
+    },
+    {
+      "id": "op_9d9aa33d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_630eb68b08d3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch06.mp4",
+          "durationSec": 70.63,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:00.441Z"
+    },
+    {
+      "id": "op_511d2665",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_7e1147059c68",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch07.mp4",
+          "durationSec": 70.07,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:01.508Z"
+    },
+    {
+      "id": "op_d114fdbb",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_4bb1d1f9eeed",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch08.mp4",
+          "durationSec": 73.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:02.919Z"
+    },
+    {
+      "id": "op_8c945251",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_eb64de639cc8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch09.mp4",
+          "durationSec": 75.37,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:04.008Z"
+    },
+    {
+      "id": "op_0dabd38a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_55b6d15ce415",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch10.mp4",
+          "durationSec": 74.33,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:05.258Z"
+    },
+    {
+      "id": "op_561787d1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_152dd36b4324",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch11.mp4",
+          "durationSec": 74.77,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:06.220Z"
+    },
+    {
+      "id": "op_a118a055",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_3fe9e729fafa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch12.mp4",
+          "durationSec": 74.8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:07.520Z"
+    },
+    {
+      "id": "op_5b84ed2a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_a153672a1545",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/EN/edit/POM_EN_ch13.mp4",
+          "durationSec": 18.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:07.903Z"
+    },
+    {
+      "id": "op_7708e305",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_894aa718dbcd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/17-pompeii/edit/POM_endcard.mp4",
+          "durationSec": 8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T08:52:08.031Z"
+    },
+    {
+      "id": "op_8aa2fdaa",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_9232427e0089",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser1.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:33.991Z"
+    },
+    {
+      "id": "op_2dca1abf",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_3e779ff746b8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser2.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:34.170Z"
+    },
+    {
+      "id": "op_db5cd3ae",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_d9b4a4c54a34",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser3.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:34.319Z"
+    },
+    {
+      "id": "op_51b8ab1f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_6df1e77cf992",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser4.mp4",
+          "durationSec": 1.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:34.439Z"
+    },
+    {
+      "id": "op_829ed207",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_2d7f51bcb612",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser5.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:34.570Z"
+    },
+    {
+      "id": "op_950a835e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_2fbf8eec1a14",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_teaser6.mp4",
+          "durationSec": 1.9,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:34.702Z"
+    },
+    {
+      "id": "op_83fd535f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_31967f29756f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:34.879Z"
+    },
+    {
+      "id": "op_c797a95f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_dc42ef2253cf",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch00.mp4",
+          "durationSec": 25.27,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:35.699Z"
+    },
+    {
+      "id": "op_83f04136",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_0da32aa9c4bb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch01.mp4",
+          "durationSec": 75.63,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:36.951Z"
+    },
+    {
+      "id": "op_a9f0d871",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_1427dc2aac7e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch02.mp4",
+          "durationSec": 78.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:38.872Z"
+    },
+    {
+      "id": "op_97d600d6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_fa9459b59ade",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch03.mp4",
+          "durationSec": 60.97,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:39.937Z"
+    },
+    {
+      "id": "op_9eb4b8ad",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_54c0cdc44810",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch04.mp4",
+          "durationSec": 71.47,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:41.621Z"
+    },
+    {
+      "id": "op_b2c84e23",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_5ed48cabcb67",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch05.mp4",
+          "durationSec": 61.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:42.638Z"
+    },
+    {
+      "id": "op_2623036b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_ce3cb1b5e5ea",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch06.mp4",
+          "durationSec": 57.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:43.658Z"
+    },
+    {
+      "id": "op_1e63995e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_a686c7439d47",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch07.mp4",
+          "durationSec": 63.63,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:44.972Z"
+    },
+    {
+      "id": "op_affe6c03",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_b3ce82a984ca",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch08.mp4",
+          "durationSec": 64.37,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:46.105Z"
+    },
+    {
+      "id": "op_871a8581",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_3bc55af39b91",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch09.mp4",
+          "durationSec": 68.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:47.804Z"
+    },
+    {
+      "id": "op_6ac9d285",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_cec3a83c5303",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch10.mp4",
+          "durationSec": 70,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:48.971Z"
+    },
+    {
+      "id": "op_109d8101",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_077de8bd309a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch11.mp4",
+          "durationSec": 73.47,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:50.779Z"
+    },
+    {
+      "id": "op_908ca53c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_9f427afeb7ee",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch12.mp4",
+          "durationSec": 76.13,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:51.912Z"
+    },
+    {
+      "id": "op_bb1a3533",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_044fa66b7e3c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_ch13.mp4",
+          "durationSec": 16.07,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:52.613Z"
+    },
+    {
+      "id": "op_8aa041df",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_ba15724ff78c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/edit/END_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T13:22:52.831Z"
+    },
+    {
+      "id": "op_481768f4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_a34f80674e2c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser1.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:20.660Z"
+    },
+    {
+      "id": "op_899cce11",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_c0d087792a3f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser2.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:20.821Z"
+    },
+    {
+      "id": "op_ab50dfa7",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_90943a84550d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser3.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:20.955Z"
+    },
+    {
+      "id": "op_649d474b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_75728a012929",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser4.mp4",
+          "durationSec": 1.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:21.080Z"
+    },
+    {
+      "id": "op_d994883f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_ae5b40792d2f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser5.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:21.203Z"
+    },
+    {
+      "id": "op_87228c23",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_9ed68d0f9884",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_teaser6.mp4",
+          "durationSec": 1.9,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:21.324Z"
+    },
+    {
+      "id": "op_a6307cfa",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_6d2be895fd81",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:21.488Z"
+    },
+    {
+      "id": "op_5692cc63",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_aee7ab7e020b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch00.mp4",
+          "durationSec": 27.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:22.188Z"
+    },
+    {
+      "id": "op_274bd58d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_d92ab9c02406",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch01.mp4",
+          "durationSec": 78.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:23.490Z"
+    },
+    {
+      "id": "op_469b1d11",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_84d4fb857b7b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch02.mp4",
+          "durationSec": 82.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:25.323Z"
+    },
+    {
+      "id": "op_13b896b3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_2865f61e45a6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch03.mp4",
+          "durationSec": 69.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:26.320Z"
+    },
+    {
+      "id": "op_41f72ccd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_bbbbdb370fd1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch04.mp4",
+          "durationSec": 79.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:27.939Z"
+    },
+    {
+      "id": "op_3ea4dee2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_391eff76ecda",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch05.mp4",
+          "durationSec": 66.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:28.986Z"
+    },
+    {
+      "id": "op_8e149b47",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_151aa2392b53",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch06.mp4",
+          "durationSec": 63.7,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:30.213Z"
+    },
+    {
+      "id": "op_53eda20e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_908d46eb191a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch07.mp4",
+          "durationSec": 70.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:32.043Z"
+    },
+    {
+      "id": "op_e8fe84fe",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_1021906e49da",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch08.mp4",
+          "durationSec": 73.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:33.367Z"
+    },
+    {
+      "id": "op_d616d7bd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_b8f9026671bc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch09.mp4",
+          "durationSec": 76.73,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:35.285Z"
+    },
+    {
+      "id": "op_062ae8a5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_0ba75ac9db4d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch10.mp4",
+          "durationSec": 72.77,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:36.483Z"
+    },
+    {
+      "id": "op_3fec0100",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_bfeac82b19eb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch11.mp4",
+          "durationSec": 80.8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:38.386Z"
+    },
+    {
+      "id": "op_f7f72f1c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_81299dc53a40",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch12.mp4",
+          "durationSec": 80.07,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:39.496Z"
+    },
+    {
+      "id": "op_5db2d9ff",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_45778c1922a3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_ch13.mp4",
+          "durationSec": 16.47,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:40.114Z"
+    },
+    {
+      "id": "op_e60132e2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_b73baebb36bd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/18-endurance/EN/edit/END_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-21T14:36:40.335Z"
+    },
+    {
+      "id": "op_8611be54",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_044b852bfaba",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser1.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:30.082Z"
+    },
+    {
+      "id": "op_aea8a26d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_9c89a0a7a6c9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser2.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:30.242Z"
+    },
+    {
+      "id": "op_df0524de",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_d33404383531",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser3.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:30.359Z"
+    },
+    {
+      "id": "op_0fc3d001",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_798cbf8a485d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser4.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:30.490Z"
+    },
+    {
+      "id": "op_44e67f67",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_5157f2bfd193",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser5.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:30.612Z"
+    },
+    {
+      "id": "op_3486cbf4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_326e0221cdbd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_teaser6.mp4",
+          "durationSec": 1.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:30.715Z"
+    },
+    {
+      "id": "op_d2067d9d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_72a2ab7eb394",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:30.864Z"
+    },
+    {
+      "id": "op_7a882b09",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_dc63f055f30c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch00.mp4",
+          "durationSec": 37.57,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:31.721Z"
+    },
+    {
+      "id": "op_d0dd5b5c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_fb8b04fa515d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch01.mp4",
+          "durationSec": 52.97,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:32.500Z"
+    },
+    {
+      "id": "op_025e530c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_c8830d0280e1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch02.mp4",
+          "durationSec": 48.8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:33.373Z"
+    },
+    {
+      "id": "op_f59b9b50",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_cf81fc82338d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch03.mp4",
+          "durationSec": 51.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:34.124Z"
+    },
+    {
+      "id": "op_cb8a0903",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_a58ed4acb9a5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch04.mp4",
+          "durationSec": 56.47,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:34.837Z"
+    },
+    {
+      "id": "op_99d4fe77",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_cd6de4642580",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch05.mp4",
+          "durationSec": 60.07,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:35.830Z"
+    },
+    {
+      "id": "op_decdc321",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_ac64da075d92",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch06.mp4",
+          "durationSec": 45.13,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:36.607Z"
+    },
+    {
+      "id": "op_d031aa66",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_50ac3ada0f41",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch07.mp4",
+          "durationSec": 55.57,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:37.601Z"
+    },
+    {
+      "id": "op_fefbf869",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_463e9914a307",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch08.mp4",
+          "durationSec": 59.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:38.474Z"
+    },
+    {
+      "id": "op_210053fe",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_956ea8eddce7",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch09.mp4",
+          "durationSec": 54.47,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:39.298Z"
+    },
+    {
+      "id": "op_610c61b8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_13359c33364d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch10.mp4",
+          "durationSec": 64.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:40.279Z"
+    },
+    {
+      "id": "op_b9512995",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_f8bcd3f70b0b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch11.mp4",
+          "durationSec": 81.77,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:41.592Z"
+    },
+    {
+      "id": "op_1f1ab741",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_f0540620e5c4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch12.mp4",
+          "durationSec": 57.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:42.380Z"
+    },
+    {
+      "id": "op_4b85294e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_36871905232c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_ch13.mp4",
+          "durationSec": 16.73,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:42.697Z"
+    },
+    {
+      "id": "op_d61dc151",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_7ca83ba87c33",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/edit/FLU_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:28:42.927Z"
+    },
+    {
+      "id": "op_f6141c5b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_6e8984e849aa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser1.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:07.071Z"
+    },
+    {
+      "id": "op_786a14c1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_c177bec00565",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser2.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:07.216Z"
+    },
+    {
+      "id": "op_0caadf89",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_008338532899",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser3.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:07.334Z"
+    },
+    {
+      "id": "op_e4e0506c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_1754d34dd53a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser4.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:07.468Z"
+    },
+    {
+      "id": "op_07db69e0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_c6e3f1d3bef8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser5.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:07.595Z"
+    },
+    {
+      "id": "op_505754c7",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_75fd1b2fcf2e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_teaser6.mp4",
+          "durationSec": 1.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:07.696Z"
+    },
+    {
+      "id": "op_24cc3b07",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_601843926290",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:07.843Z"
+    },
+    {
+      "id": "op_5faa827a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_3ae6c5437909",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch00.mp4",
+          "durationSec": 37.43,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:08.625Z"
+    },
+    {
+      "id": "op_b1b63a08",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_b7b1ec5d34cd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch01.mp4",
+          "durationSec": 56.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:09.461Z"
+    },
+    {
+      "id": "op_b341152b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_5b34dcfb04ca",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch02.mp4",
+          "durationSec": 50.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:10.283Z"
+    },
+    {
+      "id": "op_a6b5e7e1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_cd3d437c6387",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch03.mp4",
+          "durationSec": 58.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:11.134Z"
+    },
+    {
+      "id": "op_f4b870d4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_c87a4f9aab26",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch04.mp4",
+          "durationSec": 54.77,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:11.989Z"
+    },
+    {
+      "id": "op_764acd4a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_9339640b4c79",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch05.mp4",
+          "durationSec": 63.3,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:12.985Z"
+    },
+    {
+      "id": "op_6525ec40",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_1ffe98951e01",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch06.mp4",
+          "durationSec": 46.9,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:13.904Z"
+    },
+    {
+      "id": "op_fbe399b3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_16cc4bf05f95",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch07.mp4",
+          "durationSec": 57.63,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:14.971Z"
+    },
+    {
+      "id": "op_5c5310dc",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_e93d78ac04b8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch08.mp4",
+          "durationSec": 64.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:15.873Z"
+    },
+    {
+      "id": "op_0c9e91f4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_0e7f2800c31e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch09.mp4",
+          "durationSec": 58.7,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:16.690Z"
+    },
+    {
+      "id": "op_13141850",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_6fec51d4cc08",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch10.mp4",
+          "durationSec": 68.87,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:17.556Z"
+    },
+    {
+      "id": "op_d991431a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_57a5f4076c03",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch11.mp4",
+          "durationSec": 83.27,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:18.698Z"
+    },
+    {
+      "id": "op_f17379e6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_4c7c95882d4b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch12.mp4",
+          "durationSec": 55.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:19.354Z"
+    },
+    {
+      "id": "op_286d2629",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_237ab57d1bd4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_ch13.mp4",
+          "durationSec": 15.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:19.680Z"
+    },
+    {
+      "id": "op_b32609c3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_aa242c12364b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/19-cum-tay-ban-nha/EN/edit/FLU_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T03:40:19.893Z"
+    },
+    {
+      "id": "op_a3bbd984",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_59ea25a730b9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser1.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:19.365Z"
+    },
+    {
+      "id": "op_0865a8f5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_47ba8c139801",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser2.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:19.516Z"
+    },
+    {
+      "id": "op_10ccb2f0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_1b7caa323a07",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser3.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:19.662Z"
+    },
+    {
+      "id": "op_7dd55d7b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_bedece19ee4c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser4.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:19.794Z"
+    },
+    {
+      "id": "op_7c7b73f4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_1befb0c5ec7b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser5.mp4",
+          "durationSec": 1.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:19.936Z"
+    },
+    {
+      "id": "op_640cf774",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_79ab68c562fa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_teaser6.mp4",
+          "durationSec": 1.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:20.066Z"
+    },
+    {
+      "id": "op_294bb34a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_a7f257c60d0e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:20.205Z"
+    },
+    {
+      "id": "op_900f28b3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_8d65268e164b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch00.mp4",
+          "durationSec": 31.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:20.876Z"
+    },
+    {
+      "id": "op_1626f86b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_99bde566c475",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch01.mp4",
+          "durationSec": 47.63,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:21.628Z"
+    },
+    {
+      "id": "op_fdc94e04",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_85779806b740",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch02.mp4",
+          "durationSec": 58.8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:22.555Z"
+    },
+    {
+      "id": "op_9bfb533e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_97c90b4ffe6d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch03.mp4",
+          "durationSec": 49.73,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:23.385Z"
+    },
+    {
+      "id": "op_29a14735",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_e323ef093677",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch04.mp4",
+          "durationSec": 47.27,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:24.171Z"
+    },
+    {
+      "id": "op_09735ebe",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_1dd408227532",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch05.mp4",
+          "durationSec": 46.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:24.877Z"
+    },
+    {
+      "id": "op_6606b596",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_7becb847a15e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch06.mp4",
+          "durationSec": 42.43,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:25.652Z"
+    },
+    {
+      "id": "op_4d7ddb2a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_1f6b988726a0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch07.mp4",
+          "durationSec": 47.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:26.461Z"
+    },
+    {
+      "id": "op_ed83ad39",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_7748e0e579c0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch08.mp4",
+          "durationSec": 44.13,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:27.361Z"
+    },
+    {
+      "id": "op_55724969",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_578390704f76",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch09.mp4",
+          "durationSec": 49.07,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:28.454Z"
+    },
+    {
+      "id": "op_f8a0182b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_d9f0e322c125",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch10.mp4",
+          "durationSec": 56.37,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:29.627Z"
+    },
+    {
+      "id": "op_65e1c6fd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_e1aec3598f64",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch11.mp4",
+          "durationSec": 60.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:30.704Z"
+    },
+    {
+      "id": "op_59c2316c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_ed41567164e8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch12.mp4",
+          "durationSec": 55.23,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:31.892Z"
+    },
+    {
+      "id": "op_3497f396",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_99eec8db011c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_ch13.mp4",
+          "durationSec": 21.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-22T06:32:32.488Z"
+    },
+    {
+      "id": "op_e7647fc7",
+      "timestamp": "2026-11-22T06:32:32.761Z",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_7826db0ed91d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/20-apollo-13/EN/edit/A13_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # CẢNH 02 · BẢN TIN ĐÊM
 
-*Hồi 1 · Chuyến đêm · đêm 22, tiếp liền · 13 shot · 70 giây · phút 00:53*
+*Hồi 1 · Chuyến đêm · đêm 22, tiếp liền · 13 shot · 70 giây · phút 00:55*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Trạm đầu ngõ nhà Hạ
 

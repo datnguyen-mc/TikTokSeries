@@ -1,6 +1,6 @@
 # CẢNH 04 · TUYẾN ĐÊM BỊ CẮT
 
-*Hồi 1 · Chuyến đêm · đêm 22, sau nửa đêm, bến xe · 13 shot · 70 giây · phút 03:11*
+*Hồi 1 · Chuyến đêm · đêm 22, sau nửa đêm, bến xe · 13 shot · 70 giây · phút 03:13*
 
 **Bối cảnh:** NỘI/NGOẠI · Chòi điều độ bến xe
 

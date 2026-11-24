@@ -1,6 +1,6 @@
 # CẢNH 17 · MAI RÉT, MẶC THÊM ÁO
 
-*Hồi 3 · Chuyến cuối · tiếp liền; hồi tưởng hai mươi năm trước · 15 shot · 85 giây · phút 17:19*
+*Hồi 3 · Chuyến cuối · tiếp liền; hồi tưởng hai mươi năm trước · 15 shot · 85 giây · phút 17:21*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NỘI · Xe buýt của bố Đông, hai mươi năm trước / NGOẠI · Chiếc xe đỗ sát lề lúc rạng sáng, hai mươi năm trước
 

@@ -29,3 +29,36 @@ Còn để nguyên (nhỏ): 18-12 Mai đội nón rồi chuyển ra sau lưng tr
 - 5:06 (05-10): làm lại — Khang gập cuốn sách xanh kẹp nách, cầm đúng một chiếc chìa khoá xe.
 - 16:18 (18-06): làm lại — Mai cầm tờ giấy ố vàng giống lúc Khang đưa.
 - Thêm nhạc nền 8 bản (xem nhac/BANG-NHAC.txt). Bản không nhạc giữ ở ..._khong-nhac.mp4.
+
+=== Vòng soát kỹ lần 3 (22/11) ===
+Làm lại trên Flow (giữ nguyên thời lượng, nhạc khớp):
+- 01-07 (0:33): bỏ tấm kính trên bàn, Khang ngồi bàn gỗ óc chó trơn với tập hồ sơ.
+- 02-11 (2:05–2:20): lấy sách bìa xanh khỏi hộp, mở đúng chiều (gáy bên trái, lật bìa từ mép phải), trang đầu có nét chữ + hình vẽ máy tính; bỏ cái ray quay phim lộ trên bàn.
+- 02-12/02-13: tờ giấy vàng rơi ra từ đúng cuốn sách xanh, mở ra vẫn là giấy vàng.
+- 03-01 (2:40): hiệu sách hồi tưởng làm lại khớp các cảnh sau (tường vàng kem, kệ xanh nhạt, quầy kính, quạt trần).
+- 03-05, 03-06, 03-10, 03-12: sách luôn là cuốn bìa xanh tươi; 03-09 cắt khung bỏ phần khách đứng che.
+- 04-01, 04-02, 04-05, 04-06: nhà chưa có máy tính (trước khi mẹ bán bông tai); 04-06 cắt bỏ logo VTV.
+- 05-01, 05-02: bàn họp gỗ trơn không kính, sách cũ bìa xanh.
+- 05-10 (5:06): Khang đang ngồi, gấp sách kẹp nách, cầm chìa khoá rồi đứng dậy.
+- 05-12 ("Về nhà"): kẹp sách dưới nách, tay cầm chìa khoá, đẩy cửa kính.
+- 06-01: ô tô dừng ngoài cổng gạch, không chui qua cổng.
+- 08-09: Mai ôm cuốn sách bìa xanh.
+- 13-08, 13-10: Khang nhặt và phủi đúng cuốn sách xanh Mai vừa để lại.
+- 14-09: người ngồi đọc sách sau lưng Khang là cô Lan (áo len xám, ghế nhựa xanh).
+- 18-05/18-06: Khang chìa tờ giấy vàng, Mai nhận, mở ra đọc, giấy giữ nguyên màu và hình dạng.
+- 18-12/18-13: nón lá luôn đeo sau lưng; Mai đứng viết giấy nợ lót trên bìa cuốn sách (không còn cảnh ngồi viết trên đầu gối). Câu thoại 18-12: "Cháu viết giấy nợ đây. Chú đừng đòi sớm nhé."
+- 20-08: Mai cầm cuốn sách cũ bìa xanh; cắt bỏ viền đen.
+Hậu kỳ:
+- 18-03, 18-04: cắt bỏ viền đen loé ở đầu/cuối shot.
+- Cảnh 13–16 (37 shot): làm mờ toàn bộ biển hiệu chữ vô nghĩa kiểu xoá phông (bám theo chuyển động máy, chừa mặt người).
+- Ráp lại toàn phim + nhạc nền như cũ.
+
+=== Sửa thêm (22/11, chiều) ===
+- 01-12 (0:57–1:01): điện thoại sáng màn hình, rung trên bàn gỗ; Khang không nhìn, cầm lên lật úp xuống rồi đặt tay lên. Đã xoá mấy vệt "rung" kiểu hoạt hình AI tự vẽ quanh điện thoại.
+- 01-13 (1:01–1:07): Khang ngồi thẳng ở đầu bàn họp dài (tập hồ sơ + điện thoại úp trước mặt), không còn ngồi lệch ở bàn nhỏ trong góc.
+
+=== Sửa thêm (23/11) ===
+- 02-11 (2:03–2:18): làm lại thành một góc nhìn từ trên xuống qua mắt Khang suốt 15 giây, chỉ có 2 bàn tay của Khang (bỏ đoạn máy nhảy sang phía đối diện lòi ra 4 bàn tay).
+- 01-09 (0:43–0:47): Khang cầm đúng 1 cây bút, không còn cây bút thứ hai nằm trên tập hồ sơ. 01-12: xoá cây bút nằm trên tập hồ sơ.
+- 08-02 (7:10–7:16): Mai cầm cuốn sách bìa xanh khi nói "Cô ơi, cô giữ cuốn này cho cháu…", tiền lẻ đặt lên quầy bằng tay kia.
+- Làm lại short 3 cho khớp cảnh 08-02 mới.

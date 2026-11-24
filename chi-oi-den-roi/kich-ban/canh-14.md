@@ -1,6 +1,6 @@
 # CẢNH 14 · TÔI CHƯA NGỦ
 
-*Hồi 3 · Chuyến cuối · đêm Noel, gần nửa đêm, phòng bệnh; hồi tưởng năm ngoái và năm mươi năm trước · 17 shot · 89 giây · phút 13:28*
+*Hồi 3 · Chuyến cuối · đêm Noel, gần nửa đêm, phòng bệnh; hồi tưởng năm ngoái và năm mươi năm trước · 17 shot · 89 giây · phút 13:30*
 
 **Bối cảnh:** NỘI · Phòng bệnh của ông Khánh / NỘI · Phòng bệnh, đêm Noel năm ngoái / NỘI · Tàu điện đêm, năm mươi năm trước / NGOẠI · Trạm xe nhìn từ cửa sổ khoa (góc cao)
 

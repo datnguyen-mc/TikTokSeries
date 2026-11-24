@@ -1,6 +1,6 @@
 # CẢNH 05 · HAI NĂM, MỘT CÂU
 
-*Hồi 1 · Chuyến đêm · sáng 23, nhà Đông · 13 shot · 63 giây · phút 04:21*
+*Hồi 1 · Chuyến đêm · sáng 23, nhà Đông · 13 shot · 63 giây · phút 04:23*
 
 **Bối cảnh:** NỘI · Nhà Đông
 

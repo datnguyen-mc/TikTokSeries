@@ -37,3 +37,4 @@
 - [Tập 22 — Đậu phụ nhồi thịt sốt cà chua · Thưởng "đi quẩy"](tap-22/README.md)
 - [Tập 23 — Bò xào súp lơ xanh · Thưởng "áo phao"](tap-23/README.md)
 - [Tập 24 — "Có biến!" ngày 11/11: sale ngày đôi, vàng tụt, AI đoán tuổi, U23 thắng Thái Lan, lừa "hàng không đồng" & quà Lễ độc thân "một chiếc đũa"](tap-24/README.md) *(tập đầu format bàn drama)*
+- [Tập 27 — Nem rán Hà Nội giòn lâu không ỉu · Thưởng "giòn giã"](tap-27/README.md) *(tập dạy nấu xen giữa "Có biến!")*

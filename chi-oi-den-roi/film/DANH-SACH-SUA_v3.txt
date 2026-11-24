@@ -1,0 +1,22 @@
+CHỊ ƠI, ĐẾN RỒI — BẢN DỰNG v3 (1080p) · sửa so với v2
+=====================================================
+File: CHI-OI-DEN-ROI_ban-dung-v3_1080p.mp4 (+ .srt cùng tên) · 19:13 · 1920x1080 · 24fps · AAC 192k · -17 LUFS
+
+1. HẾT GIẬT HÌNH
+- Nguyên nhân: các đoạn hình mã hoá có khung B; khi nối thẳng luồng h264, khung bị phát sai thứ tự → hình giật tới giật lui.
+- Sửa: xuất lại toàn bộ chỉ khung I/P. Đo 31 điểm rải đều phim so với clip gốc: khung tăng đều, không khung nào lùi.
+- Hình–tiếng: lệch 0 khung, tiếng +5ms không đổi suốt phim. Phụ đề theo giờ nói thật (203 câu).
+
+2. LÀM LẠI TRÊN FLOW (75 credit)
+- 02-01 (khoảng 0:48): ông Khánh đứng ngoài vỉa hè giơ phích chào, Đông đáp, rồi ông QUAY LƯNG đi xa vào màn mưa.
+  Shot dài 8s, giữ trọn. (Lần 1 ông lại đi vào trong xe → làm lại lần 2 → đạt.)
+- 07-09: Hạ ngồi sát cửa sổ cuối xe (hàng ngay trước băng ghế cuối), không còn ngồi giữa xe.
+- 11-01: bỏ mũ Noel cho khớp 8 shot sau của cảnh 11.
+
+3. SỬA KHI DỰNG
+- 12-04: cắt bỏ cú cắt ngầm ở 1,92s (ông Khánh đang gục bỗng ngồi thẳng).
+- Che chữ/số: 12-06 và 12-08 (bảng LED "18"), 17-08 (số và biển số đuôi xe), 18-01 (nới vùng che),
+  19-09, 19-10 (chữ DEPARTURES), 19-12, 20-03 (cả shot), 04-05 và 15-15 (logo cốc mì),
+  15-15 (vùng che chữ trên kính chạy theo máy, không đè mũ Noel).
+
+Bộ prompt rà lỗi: REVIEW_PROMPT.md · Kết quả rà: film/REVIEW_v2_ket-qua.txt

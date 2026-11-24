@@ -1,6 +1,6 @@
 # CẢNH 13 · ĐỪNG ĐỂ ÔNG NGỦ
 
-*Hồi 3 · Chuyến cuối · đêm Noel, phòng cấp cứu · 11 shot · 55 giây · phút 12:33*
+*Hồi 3 · Chuyến cuối · đêm Noel, phòng cấp cứu · 11 shot · 55 giây · phút 12:35*
 
 **Bối cảnh:** NỘI · Phòng cấp cứu / NỘI/NGOẠI · Chòi điều độ bến xe
 

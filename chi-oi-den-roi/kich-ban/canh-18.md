@@ -1,6 +1,6 @@
 # CẢNH 18 · CHUYẾN NGOÀI LUỒNG
 
-*Hồi 3 · Chuyến cuối · rạng sáng 25: đầu ngõ lúc 2 giờ 30, rồi đường ra sân bay · 9 shot · 48 giây · phút 18:44*
+*Hồi 3 · Chuyến cuối · rạng sáng 25: đầu ngõ lúc 2 giờ 30, rồi đường ra sân bay · 9 shot · 48 giây · phút 18:46*
 
 **Bối cảnh:** NGOẠI · Trạm đầu ngõ nhà Hạ / NỘI/NGOẠI · Chòi điều độ bến xe / NỘI · Trong xe buýt đêm / NGOẠI · Cây cầu qua sông
 

@@ -1,6 +1,6 @@
 # CẢNH 09 · TÊN CÔ ẤY LÀ HẠ
 
-*Hồi 2 · Câu nói lúc ngủ · sáng 24, hành lang khoa · 13 shot · 66 giây · phút 08:50*
+*Hồi 2 · Câu nói lúc ngủ · sáng 24, hành lang khoa · 13 shot · 66 giây · phút 08:52*
 
 **Bối cảnh:** NỘI · Hành lang khoa
 
@@ -69,13 +69,13 @@ Cận. Linh đưa anh quả quýt. Câu treo.
 
 | Shot | Tên | Giây | Đính trên Flow | Thoại |
 |---|---|---|---|---|
-| 09-01 | Anh tìm ai | 4 | Linh · Đồ trực | Linh: Anh tìm ai? |
+| 09-01 | Anh tìm ai | 4 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Anh tìm ai? |
 | 09-02 | Bà Hằng | 5 | Đông · Áo phao thường | Đông: Dạ, em tìm bà Hằng, vợ ông Khánh. |
 | 09-03 | Mất rồi | 6 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Bà Hằng mất năm ngoái rồi anh ạ. Đúng đêm Noel. |
 | 09-04 | Ngồi cổng | 7 | Linh · Đồ trực | Linh: Đêm nào ông cũng ra ngồi cổng viện. Không vào. Đợi xe cuối thì về. |
-| 09-05 | Nhận ra | 5 | Linh · Đồ trực | Linh: Khoan. Anh là anh lái xe tuyến đêm à? |
+| 09-05 | Nhận ra | 5 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Khoan. Anh là anh lái xe tuyến đêm à? |
 | 09-06 | Biết tên chưa | 5 | Linh · Đồ trực | Linh: Hai năm lái xe, anh biết tên người ta chưa? |
-| 09-07 | Hạ | 4 | Linh · Đồ trực | Linh: Hạ. Tên nó là Hạ. |
+| 09-07 | Hạ | 4 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Hạ. Tên nó là Hạ. |
 | 09-08 | Thì thầm | 4 | Đông · Áo phao thường | Đông: Hạ… |
 | 09-09 | Sáu giờ | 5 | Linh · Đồ trực | Linh: Sáng mai nó bay. Sáu giờ. Năm năm. |
 | 09-10 | Quýt lăn | 4 | Đông · Áo phao thường |  |

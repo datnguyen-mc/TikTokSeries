@@ -1,0 +1,206 @@
+[
+ {
+  "code": "NG1",
+  "flow": "Ngân · Áo len ở nhà",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a slender 35-year-old Vietnamese woman, calm oval face with high cheekbones, straight dark eyebrows, steady dark almond eyes, shoulder-length black hair gathered in a low loose knot with a few loose strands, small pearl stud earrings, natural light makeup, wearing a long oversized charcoal-grey knitted cardigan over a plain cream T-shirt, loose black trousers, grey house socks, large black over-ear studio headphones with no logo resting around her neck; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "HU1",
+  "flow": "Hưng · Com-lê xanh",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a well-groomed 38-year-old Vietnamese man, square jaw, smooth light skin, thick black hair neatly side-parted and gelled, clean-shaven, a quick charming salesman's smile, wearing a fitted navy-blue suit with no tie, a white dress shirt open at the collar, a brown leather belt, polished brown shoes, a plain gold wedding band on his left ring finger; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "DI1",
+  "flow": "Diễm · Áo lụa hồng ở nhà",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a pretty 26-year-old Vietnamese woman, small heart-shaped face, big round eyes with long lashes, glossy long wavy chestnut-brown hair past her shoulders, pink glossy lips, carefully done makeup, wearing a soft blush-pink satin long-sleeved blouse, loose white wide-leg trousers, fluffy white house slippers, hair down; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "BI1",
+  "flow": "Bin · Áo vàng ở nhà",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of an 8-year-old Vietnamese boy, round face, bright curious eyes, short thick black hair with a cowlick at the crown, a shy wide smile, wearing a plain mustard-yellow T-shirt with no print, navy shorts, white socks; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional child, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "LU1",
+  "flow": "Bà Lụa · Áo len đỏ mận",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a small brisk 66-year-old Vietnamese woman, round face with sharp lively eyes, short tightly permed grey hair, fine wrinkles, gold-rimmed reading glasses, wearing a maroon knitted cardigan over a cream blouse with tiny flowers, dark-grey trousers, black cloth shoes, gold-rimmed reading glasses on a beaded chain, holding a small blue cloth-covered notebook; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "CC1",
+  "flow": "Công chứng viên · Sơ mi cà vạt",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a 50-year-old Vietnamese man with thin steel-rimmed glasses and neatly combed greying hair, wearing a white long-sleeved shirt and a plain dark-blue tie, dark trousers; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "TU1",
+  "flow": "Tuấn · Áo hoodie xám",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a 30-year-old Vietnamese man with a friendly round face and short black hair, wearing a plain grey hoodie and jeans, carrying a plain brown cardboard moving box with no writing; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "MA1",
+  "flow": "Chị Mai · Vest đen",
+  "base": null,
+  "prompt": "Full-body photorealistic character reference of a composed 45-year-old Vietnamese woman, sharp straight eyebrows, a sleek chin-length black bob, minimal makeup, small gold earrings, wearing a black tailored blazer over an ivory silk blouse, black trousers, black pumps, a slim black leather folder in hand; standing relaxed, face clearly visible; plain light-grey studio background, soft even daylight, natural skin texture with pores and fine wrinkles, realistic proportions, 8K. Fictional adult, not resembling any real person. No text, no logo."
+ },
+ {
+  "code": "NG2",
+  "flow": "Ngân · Áo trench ra ngoài",
+  "base": "Ngân · Áo len ở nhà",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a camel wool trench coat over a plain white silk blouse, black straight trousers, low black heels, a small black leather handbag with no logo, hair in a neat low knot, no headphones. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "NG3",
+  "flow": "Ngân · Áo len xanh mùa xuân",
+  "base": "Ngân · Áo len ở nhà",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a soft sage-green knitted sweater, light-grey loose trousers, grey house socks, hair loose to the shoulders, large black over-ear studio headphones with no logo resting around her neck. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HU2",
+  "flow": "Hưng · Sơ mi xắn tay",
+  "base": "Hưng · Com-lê xanh",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a white dress shirt with the sleeves rolled up to the elbows and the collar open, navy suit trousers, a brown leather belt, black socks, a plain gold wedding band on his left ring finger. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HU3",
+  "flow": "Hưng · Polo cuối tuần",
+  "base": "Hưng · Com-lê xanh",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a dark-green polo shirt, beige chinos, white sneakers, a plain gold wedding band on his left ring finger. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "HU4",
+  "flow": "Hưng · Sơ mi nhàu không nhẫn",
+  "base": "Hưng · Sơ mi xắn tay",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a crumpled white dress shirt untucked with the collar open, navy suit trousers, black socks, no ring on either hand, bare fingers. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "DI2",
+  "flow": "Diễm · Váy len kem",
+  "base": "Diễm · Áo lụa hồng ở nhà",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a fitted cream knitted midi dress, a short white tweed jacket with plain buttons, small pearl earrings, beige low heels, hair down. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "DI3",
+  "flow": "Diễm · Áo trench cải trang",
+  "base": "Diễm · Áo lụa hồng ở nhà",
+  "prompt": "Same person, same face and hair, exactly. Now wearing an oversized beige trench coat buttoned to the neck, black trousers, flat black shoes, a black bucket hat pulled low with all her long hair tucked up under it. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "BI2",
+  "flow": "Bin · Đồng phục đi học",
+  "base": "Bin · Áo vàng ở nhà",
+  "prompt": "Same person, same face and hair, exactly. Now wearing a white short-sleeved school shirt with no badge, navy shorts, a red pioneer neckerchief knotted at the collar, a small navy backpack with no logo, white socks. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "BI3",
+  "flow": "Bin · Đồ ngủ",
+  "base": "Bin · Áo vàng ở nhà",
+  "prompt": "Same person, same face and hair, exactly. Now wearing light-blue cotton pyjamas with a pattern of small white clouds, bare feet. Full body, plain light-grey studio background."
+ },
+ {
+  "code": "NG1B",
+  "flow": "Ngân · Áo len ở nhà · Sau lưng",
+  "base": "Ngân · Áo len ở nhà",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a long oversized charcoal-grey knitted cardigan over a plain cream T-shirt, loose black trousers, grey house socks, large black over-ear studio headphones with no logo resting around her neck. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "NG2B",
+  "flow": "Ngân · Áo trench ra ngoài · Sau lưng",
+  "base": "Ngân · Áo trench ra ngoài",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a camel wool trench coat over a plain white silk blouse, black straight trousers, low black heels, a small black leather handbag with no logo, hair in a neat low knot, no headphones. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "NG3B",
+  "flow": "Ngân · Áo len xanh mùa xuân · Sau lưng",
+  "base": "Ngân · Áo len xanh mùa xuân",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a soft sage-green knitted sweater, light-grey loose trousers, grey house socks, hair loose to the shoulders, large black over-ear studio headphones with no logo resting around her neck. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "HU1B",
+  "flow": "Hưng · Com-lê xanh · Sau lưng",
+  "base": "Hưng · Com-lê xanh",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a fitted navy-blue suit with no tie, a white dress shirt open at the collar, a brown leather belt, polished brown shoes, a plain gold wedding band on his left ring finger. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "HU2B",
+  "flow": "Hưng · Sơ mi xắn tay · Sau lưng",
+  "base": "Hưng · Sơ mi xắn tay",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a white dress shirt with the sleeves rolled up to the elbows and the collar open, navy suit trousers, a brown leather belt, black socks, a plain gold wedding band on his left ring finger. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "HU3B",
+  "flow": "Hưng · Polo cuối tuần · Sau lưng",
+  "base": "Hưng · Polo cuối tuần",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a dark-green polo shirt, beige chinos, white sneakers, a plain gold wedding band on his left ring finger. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "HU4B",
+  "flow": "Hưng · Sơ mi nhàu không nhẫn · Sau lưng",
+  "base": "Hưng · Sơ mi nhàu không nhẫn",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a crumpled white dress shirt untucked with the collar open, navy suit trousers, black socks, no ring on either hand, bare fingers. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "DI1B",
+  "flow": "Diễm · Áo lụa hồng ở nhà · Sau lưng",
+  "base": "Diễm · Áo lụa hồng ở nhà",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a soft blush-pink satin long-sleeved blouse, loose white wide-leg trousers, fluffy white house slippers, hair down. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "DI2B",
+  "flow": "Diễm · Váy len kem · Sau lưng",
+  "base": "Diễm · Váy len kem",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a fitted cream knitted midi dress, a short white tweed jacket with plain buttons, small pearl earrings, beige low heels, hair down. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "DI3B",
+  "flow": "Diễm · Áo trench cải trang · Sau lưng",
+  "base": "Diễm · Áo trench cải trang",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing an oversized beige trench coat buttoned to the neck, black trousers, flat black shoes, a black bucket hat pulled low with all her long hair tucked up under it. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "BI1B",
+  "flow": "Bin · Áo vàng ở nhà · Sau lưng",
+  "base": "Bin · Áo vàng ở nhà",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a plain mustard-yellow T-shirt with no print, navy shorts, white socks. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "BI2B",
+  "flow": "Bin · Đồng phục đi học · Sau lưng",
+  "base": "Bin · Đồng phục đi học",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a white short-sleeved school shirt with no badge, navy shorts, a red pioneer neckerchief knotted at the collar, a small navy backpack with no logo, white socks. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "BI3B",
+  "flow": "Bin · Đồ ngủ · Sau lưng",
+  "base": "Bin · Đồ ngủ",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing light-blue cotton pyjamas with a pattern of small white clouds, bare feet. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "LU1B",
+  "flow": "Bà Lụa · Áo len đỏ mận · Sau lưng",
+  "base": "Bà Lụa · Áo len đỏ mận",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a maroon knitted cardigan over a cream blouse with tiny flowers, dark-grey trousers, black cloth shoes, gold-rimmed reading glasses on a beaded chain, holding a small blue cloth-covered notebook. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "CC1B",
+  "flow": "Công chứng viên · Sơ mi cà vạt · Sau lưng",
+  "base": "Công chứng viên · Sơ mi cà vạt",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a white long-sleeved shirt and a plain dark-blue tie, dark trousers. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "TU1B",
+  "flow": "Tuấn · Áo hoodie xám · Sau lưng",
+  "base": "Tuấn · Áo hoodie xám",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a plain grey hoodie and jeans, carrying a plain brown cardboard moving box with no writing. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ },
+ {
+  "code": "MA1B",
+  "flow": "Chị Mai · Vest đen · Sau lưng",
+  "base": "Chị Mai · Vest đen",
+  "prompt": "Same person, same hair and same outfit exactly as the attached image, now seen from directly behind: back of the head and hair, shoulders and the back of the outfit clearly visible, face not visible. Wearing a black tailored blazer over an ivory silk blouse, black trousers, black pumps, a slim black leather folder in hand. Standing straight, full body, plain light-grey studio background. No text, no logo."
+ }
+]

@@ -101,7 +101,7 @@ PLACES = {
     "P2D": "The stone bench beside the tall wrought-iron gate of a large old city hospital at dusk: the sky deep cobalt blue, streetlights and tiny white fairy lights on the bare trees just coming on, dry pavement, the hospital building behind with its first lit windows, a covered bus stop nearby; no readable signs.",
     "P2H": "High angle looking down from an upper-floor hospital window at night: far below, the covered bus stop by the iron gate, a single night bus (a typical Vietnamese mid-size city bus, white with a broad green band along its side, a rounded front, folding doors on its right-hand side, warm lit windows, no logo and no route number) waiting at the kerb with its amber hazard lights blinking, an empty wet street strung with Christmas lights; the dark window frame softly visible at the edges; no readable signs.",
     "P3": "A hospital ward corridor at night: pale green walls, a long nurse station counter with a small decorated Christmas tree and paper snowflakes taped to the glass, patient rooms with half-open doors, soft fluorescent light, a tall corridor window looking down onto the hospital gate and its stone bench far below; no readable signs or charts.",
-    "P3E": "A hospital emergency room at night: a wheeled gurney under bright cool overhead light, a crinkling gold foil warming blanket, an oxygen mask, a drip stand, a vital-signs monitor with an abstract unreadable green glow, pale blue privacy curtains half drawn, staff blurred in the background; no readable signs or screens.",
+    "P3E": "A hospital emergency room at night: a wheeled gurney under bright cool overhead light, a thick cream-white hospital wool blanket, an oxygen mask, a drip stand, a vital-signs monitor with an abstract unreadable green glow, pale blue privacy curtains half drawn, staff blurred in the background; no readable signs or screens.",
     "P3R": "A quiet hospital room at night lit by a single warm bedside lamp: an old iron hospital bed with white sheets, a drip stand, a wooden chair pulled close to the bed, a small bedside cabinet, a window with blurred Christmas lights far outside, the door half open to the corridor.",
     "P3F": "The same quiet hospital room one year ago at night, lit by a single warm bedside lamp: an old iron hospital bed with white sheets, a drip stand, a wooden chair pulled close to the bed, a window with blurred Christmas lights far outside, the door half open to the corridor.",
     "P4": "A city bus depot after midnight: rows of parked Vietnamese mid-size city buses, white with a broad green band, no logos or route numbers, under orange sodium lights, puddles, a small glass dispatcher's booth with a cluttered desk, an electric kettle, instant noodle cups, a tiny plastic Christmas tree with blinking coloured lights, a two-way radio base station with a handset; outside the booth, a cardboard box lined with an old blanket where a brown stray dog nurses four puppies.",
@@ -147,7 +147,7 @@ PLACE_SOUND = {
     "P2D": "evening traffic, wind in bare branches, faint church bells far away. No music.",
     "P2H": "distant bells and traffic muffled by the window glass. No music.",
     "P3": "hospital corridor hum, a trolley wheel squeaking, a distant monitor beeping, soft footsteps. No music.",
-    "P3E": "a monitor beeping, the crinkle of a foil blanket, quick footsteps, a curtain rail sliding. No music.",
+    "P3E": "a monitor beeping, the rustle of a hospital blanket, quick footsteps, a curtain rail sliding. No music.",
     "P3R": "a slow monitor beep, a quiet room, cathedral bells ringing midnight far away. No music.",
     "P3F": "a monitor beeping softly, quiet breathing, church bells very far away. No music.",
     "P4": "the crackle of a two-way radio, an electric kettle, rain dripping from bus roofs, a puppy whimpering. No music.",
@@ -598,7 +598,7 @@ scene("12", "Ghế đá lạnh", A3, "đêm Noel, 22 giờ 40, cổng bệnh vi�
    trans="Cắt cứng từ 'Ông ơi…' trên cao xuống mặt đất ướt.")
 
 scene("13", "Đừng để ông ngủ", A3, "đêm Noel, phòng cấp cứu", "P3E", PLACE_SOUND["P3E"], [
-  ("Đừng để ông ngủ", 6, ["HA2", "OK1"], "medium shot over the gurney, @Ha on the LEFT side of the gurney", "@Ha tucks a crinkling gold foil warming blanket around @OngKhanh on the gurney and speaks to someone beside her without looking up.", [("Ha", "Anh nói chuyện với ông đi. Đừng để ông ngủ.", "urgent|gấp")], "",
+  ("Đừng để ông ngủ", 6, ["HA2", "OK1"], "medium shot over the gurney, @Ha on the LEFT side of the gurney", "@Ha tucks a thick cream-white hospital wool blanket around @OngKhanh on the gurney and speaks to someone beside her without looking up.", [("Ha", "Anh nói chuyện với ông đi. Đừng để ông ngủ.", "urgent|gấp")], "",
    "Trung trên cáng. Hạ quấn chăn giữ nhiệt cho ông, nói mà không ngẩng lên."),
   ("Nói gì", 4, ["DO1"], "85mm three-quarter close-up of @Dong by the gurney, looking off-screen LEFT at the nurse", "@Dong stands by the gurney, flustered.", [("Dong", "Nói… nói gì ạ?", "flustered|lúng túng")], "",
    "Cận. Đông lúng túng."),
@@ -865,3 +865,243 @@ scene("20", "Em chưa muốn xuống", A3, "năm năm sau, đêm Noel", "P1", BU
    mood="Ấm nhất phim, nhẹ, mỉm cười.",
    music="Chủ đề chính chơi trọn, kết một nốt piano như câu mở đầu; giữ qua thẻ chữ cuối.",
    trans="Từ bình minh sân bay cắt sang đêm; thẻ chữ 'Năm năm sau' đặt trước shot bàn thờ.")
+
+# ================================================================ SỬA v4 (góp ý của anh Đạt sau bản v3)
+_BACK_DONG = "over-the-shoulder from behind @Dong (seen only from behind: his short slightly untidy black hair, the grey hood of his hoodie lying flat on the collar of his open dark-grey padded jacket, soft in the LEFT foreground)"
+SHOT_OVERRIDE = {
+    "08-05": dict(mins=6, codes=["HA3", "LI2"],
+        cam="50mm two-shot from the side at the foot of the floor mattress: @Linh kneels hugging @Ha with both arms; @Ha rests her cheek on Linh's shoulder, her face toward camera; Linh's face in profile on the RIGHT of frame, her messy bun clearly visible",
+        act="@Ha, held in her friend's arms, speaks quietly into her shoulder."),
+    "09-01": dict(codes=["DO2B", "LI1"],
+        cam=_BACK_DONG + ", onto @Linh behind the nurse-station counter on the RIGHT of frame, the small decorated Christmas tree behind her",
+        act="@Linh, writing on a blank chart at the counter, looks up at the man in front of her."),
+    "09-05": dict(codes=["DO2B", "LI1"],
+        cam=_BACK_DONG + ", onto @Linh behind the counter, 85mm, her face in three-quarter view looking at him",
+        act="@Linh narrows her eyes, recognising something."),
+    "09-07": dict(codes=["DO2B", "LI1"],
+        cam=_BACK_DONG + ", onto @Linh behind the counter, 85mm, the corridor's cool light behind her",
+        act="@Linh watches him shake his head, and relents."),
+    "09-10": dict(cam="low-angle insert at floor level in the pale hospital corridor, real-time, no slow motion",
+        act="Only @Dong's white sneakers and faded jeans are seen: a thin clear plastic bag holding about ten small Vietnamese mandarins with a few green leaves slips from his fingers, drops onto the floor and tips over; four or five small mandarins roll out slowly across the pale floor, the rest stay in the bag."),
+    "09-11": dict(act="@Linh, crouching, gathers the small mandarins back into the thin clear plastic bag, blurts something and stops herself."),
+    "11-03": dict(cam="medium shot from behind @Ha at the tall corridor window (Hạ seen only from behind: low ponytail, white cardigan); through the glass, far below in the cold windy night, the hospital's iron gate and the stone bench under a street lamp",
+        act="@Ha looks down from the window: far below, on the stone bench by the gate, a lone hunched OLD MAN in a dark-brown overcoat, a grey flat cap and a faded red scarf sits in the cold wind; small in the distance but clearly an old man."),
+    "12-02": dict(cam="medium wide shot from the pavement beside the bus: the bus stands at the kerb with its front pointing to the RIGHT of frame; its folding front door, near the front end on the RIGHT, is open on the side facing camera; the hospital gate and the stone bench off-screen LEFT",
+        act="@Dong, in his driver's uniform, appears in the open front doorway, steps down the steps onto the wet pavement, looks toward the stone bench off-screen LEFT and frowns."),
+    "12-03": dict(act="@OngKhanh sits slumped against the end of the stone bench as if he has dozed off in the cold, eyes closed, his hands empty in his lap; his battered, dented aluminium thermos flask lies on its side on the wet pavement at his feet, its cup-cap beside it."),
+    "12-04": dict(act="@OngKhanh lies slumped sideways on the stone bench, unconscious, eyes closed, limp, his hands empty, never moving or opening his eyes; the battered aluminium thermos lies on the wet pavement below the bench; @Dong sprints over, kneels by him, shakes his shoulder and rubs his cold hands."),
+    "12-05": dict(act="@Dong lifts the thin old man in his arms, the old man limp with his arms hanging and his hands empty, and hurries toward the hospital gate; the thermos stays behind on the wet pavement."),
+    "12-08": dict(act="The same battered, dented aluminium thermos flask lies on its side on the wet pavement under the empty stone bench, its cup-cap beside it, a thin wisp of steam rising from its open neck."),
+    "13-01": dict(act="@OngKhanh lies on the gurney unconscious, eyes closed in every frame, hands empty; @Ha tucks a thick cream-white hospital wool blanket around him and speaks to someone beside her without looking up."),
+    "13-04": dict(cam="85mm close-up of @Dong in three-quarter view facing the LEFT of frame, leaning down toward the gurney; only the edge of the cream-white hospital blanket soft at the very bottom of the frame; the patient's face is out of frame"),
+    "13-07": dict(cam="85mm close-up of @OngKhanh lying on the gurney under the cream-white hospital blanket, his grey flat cap still on, a clear oxygen mask over his nose and mouth; his thin, deeply lined 78-year-old face clearly the same old man",
+        act="@OngKhanh's eyes flutter half open; he grimaces; his hands are empty under the blanket."),
+    "14-08": dict(act="@OngKhanh speaks without opening his eyes; a wet tear track still glistens from the corner of his closed eye down his temple, his eyelashes wet."),
+    "14-14": dict(cam="medium two-shot at the bedside",
+        act="@OngKhanh, sitting on the edge of the bed, picks up the single faded red scarf from the bedside cabinet, leaving the cabinet bare except for the lamp, and with trembling hands slowly loops it once around @Ha's neck and tucks the end in; @Ha bows her head toward him so he can reach."),
+    "15-03": dict(cam="medium shot from the aisle just behind the driver's seat, looking right toward the open front door on the right-hand side of the bus",
+        act="@Ha, just aboard and still a little out of breath, glances once down the aisle toward the empty last row, then sits down straight away in the first passenger seat beside the front door, facing across the aisle toward the driver, eyes open."),
+    "15-10": dict(codes=["HE2", "DO1B"],
+        cam="50mm medium shot from inside the bus through the driver's side window, rain-beaded glass soft in the foreground; @Dong seen only from behind: the back of his head and his navy uniform shoulder soft in the LEFT foreground",
+        act="@BaHue, standing outside in the street, turns triumphantly to her son behind the glass."),
+    "15-11": dict(cam="85mm close-up from inside the bus through the rain-beaded driver's side window: the black rubber window frame and the wet glass clearly between us and her; @BaHue stands OUTSIDE in the street with the crowd and the lit cathedral behind her",
+        act="@BaHue, outside, presses her cupped hand against the outside of the glass and stage-whispers in."),
+    "15-13": dict(codes=["HE2", "HA1KB"],
+        cam="85mm close-up from inside the bus through the window glass: @BaHue OUTSIDE in the street; @Ha seen only from behind: her shoulder-length black hair and the faded red scarf soft in the RIGHT foreground"),
+    "15-14": dict(cam="85mm close-up from the aisle just behind the driver's seat, looking right across at @Ha alone in the first passenger seat on the right-hand side of the bus beside the front door: the dark window and blurred street lights behind her; she faces the LEFT of frame; nobody else in the frame",
+        act="@Ha goes still, looking LEFT toward the driver's window where the old woman stands outside, then at the back of the driver's head."),
+}
+for _sc in S:
+    for _i, _sh in enumerate(_sc["shots"]):
+        _sid = f"{_sc['num']}-{_i + 1:02d}"
+        if _sid in SHOT_OVERRIDE:
+            _l = list(_sh)
+            for _k, _j in (("mins", 1), ("codes", 2), ("cam", 3), ("act", 4), ("lines", 5)):
+                if _k in SHOT_OVERRIDE[_sid]: _l[_j] = SHOT_OVERRIDE[_sid][_k]
+            _sc["shots"][_i] = tuple(_l)
+_NOFACE = "the driver's face; the driver seen from the front or in profile"
+SHOT_AVOID.update({
+    "08-05": "a headless or faceless body; a pink blob; a shoulder with no head; a third person",
+    "09-01": "the man's face; the man seen from the front or in profile; a woman or a nurse in the foreground",
+    "09-05": "the man's face; the man seen from the front or in profile; a woman or a nurse in the foreground",
+    "09-07": "the man's face; the man seen from the front or in profile; a woman or a nurse in the foreground",
+    "09-10": "big oranges; dozens of oranges; a paper bag; a brown bag; fruit bouncing high; slow motion; the bag floating",
+    "09-11": "a paper bag; a brown bag; a basket; big oranges",
+    "11-03": "a woman on the bench; a figure in a red coat or a red dress; a young person on the bench; more than one person on the bench",
+    "12-02": "the man walking out through the side of the bus; the man appearing from behind the bus; the man coming out of a window or a closed door; a door at the back of the bus",
+    "12-03": "a white bag or bundle on the ground; the old man holding the thermos; the old man awake",
+    "12-04": SHOT_AVOID.get("12-04", "") + "; a thermos in the old man's hands or on the bench; a cut to a different angle",
+    "12-05": "the old man holding a thermos or anything; the old man awake",
+    "13-01": "the old man's eyes open; the old man looking at anyone; a thermos",
+    "13-04": "any patient's face; a woman on the gurney; a second patient",
+    "13-07": "a thermos; anything in his hands; a younger or different old man; a woman",
+    "14-08": "dry eyes; no tears",
+    "14-14": "a second red scarf; any other red cloth or folded red scarf in the room; the scarf appearing from nowhere; fast or jerky movements",
+    "15-03": "the woman walking down the aisle; the woman walking toward the back of the bus; the woman turning back",
+    "15-10": _NOFACE + "; the old woman inside the bus",
+    "15-11": "the old woman inside the bus; seats or the bus interior behind the old woman; no glass between the camera and her",
+    "15-13": "the young woman's face; the young woman in profile; the old woman inside the bus",
+    "15-14": "any other person in the frame; a person sitting beside her; the driver in the frame",
+})
+
+# ---- v4 bổ sung: ghế ngược cảnh 20, xe chỉ có 3 người
+_SEATS_FWD = "all passenger seats face FORWARD toward the windscreen, like the driver's seat"
+SHOT_OVERRIDE2 = {
+    "20-09": dict(codes=["HA5", "HA5B"],
+        cam="wide shot from the front end of the aisle, looking back toward the rear of the bus; " + _SEATS_FWD + ", so from here we see their cushions and fronts facing the camera, never their backs; the middle door on the LEFT of frame, the five-seat back bench across the far end facing the camera",
+        act="@Ha walks away from camera down the aisle (seen from behind), then turns and sits on the back bench by the window at the LEFT end, facing the camera, eyes wide open, looking toward the mirror at the front."),
+    "20-10": dict(codes=["DO3B", "HA5"],
+        cam="over the driver's right shoulder from just behind his seat, looking FORWARD through the wide windscreen at the night street ahead: the back of his head and right shoulder soft on the LEFT of frame, his hands on the big steering wheel, the interior rear-view mirror at the top centre of the windscreen",
+        act="In the rear-view mirror, small and sharp, @Ha sitting in the last row looks straight back at the driver; @Ha is seen only in the mirror; the street lights slide past through the windscreen."),
+    "20-13": dict(codes=["HA5B", "DO3B"],
+        cam="medium shot from the middle of the aisle looking FORWARD toward the windscreen; " + _SEATS_FWD + ", so we see the backs of the seats ahead of us; @Dong at the wheel on the far LEFT, seen only from behind; the open front door on the RIGHT",
+        act="@Ha walks up the aisle away from camera (seen only from behind) and sits down in the front seat right behind the driver on the LEFT, facing forward toward the windscreen like him, instead of getting off."),
+    "20-15": dict(act="The folding door closes; the warm lit bus, with only the driver, one woman and one old man aboard and every other seat empty, pulls away past the alley stop and drives on into the Christmas lights."),
+}
+for _sc in S:
+    for _i, _sh in enumerate(_sc["shots"]):
+        _sid = f"{_sc['num']}-{_i + 1:02d}"
+        if _sid in SHOT_OVERRIDE2:
+            _l = list(_sh)
+            for _k, _j in (("mins", 1), ("codes", 2), ("cam", 3), ("act", 4), ("lines", 5)):
+                if _k in SHOT_OVERRIDE2[_sid]: _l[_j] = SHOT_OVERRIDE2[_sid][_k]
+            _sc["shots"][_i] = tuple(_l)
+SHOT_AVOID.update({
+    "20-09": "seat backs facing the camera; seats facing the rear of the bus; " + SHOT_AVOID.get("20-09", "").strip("; "),
+    "20-10": "passenger seats between the driver and the windscreen; the camera looking toward the back of the bus; the driver facing the seats; " + SHOT_AVOID.get("20-10", ""),
+    "20-13": "seats facing the back of the bus; the woman sitting facing the camera; the woman sitting sideways; the driver's face",
+    "20-15": "other passengers; silhouettes of people in the windows; a crowded bus",
+})
+
+# ---- v4 lần 2 (các shot chưa đạt ở lần 1)
+SHOT_OVERRIDE3 = {
+    "11-03": dict(cam="high-angle view looking steeply DOWN through the window glass from a high hospital floor, from just behind @Ha's shoulder (Hạ seen only from behind, her low ponytail soft in the LEFT foreground): far below at street level, the hospital's iron gate, a street lamp and the stone bench",
+        act="Far below at street level, small in the distance, a lone hunched old man in a dark-brown overcoat, a grey flat cap and a red scarf sits on the stone bench by the gate in the cold wind, dead leaves blowing past; @Ha looks down at him, very still."),
+    "13-07": dict(cam="85mm close-up of @OngKhanh lying back on the gurney pillow: the same old man as in the attached image, a thin pale deeply lined face, sunken cheeks, grey stubble, the grey wool flat cap; a clear oxygen mask over his nose and mouth; the cream-white hospital blanket tucked flat up to his chest",
+        act="@OngKhanh's eyes flutter half open; he grimaces at the noise; his hands stay under the blanket."),
+    "14-14": dict(act="@OngKhanh, sitting on the edge of the bed, already holds the single faded red scarf in his lap; the bedside cabinet beside the lamp is bare. With trembling hands he slowly loops the scarf once around @Ha's neck and tucks the end in; @Ha bows her head toward him so he can reach."),
+    "15-03": dict(cam="medium close shot from beside the driver's seat, looking right at the first passenger seat next to the open front door: the door frame and the dark wet street at the RIGHT edge of frame; only this one seat, the yellow grab pole and the door are in frame",
+        act="@Ha steps in from the open front door at the RIGHT and sits down at once in that first passenger seat, facing LEFT across the aisle toward the driver off-screen LEFT, still catching her breath, eyes open."),
+    "20-09": dict(codes=["HA5"],
+        cam="medium wide shot from the middle of the aisle looking back toward the rear of the bus: the five-seat back bench across the far end under the rear window faces the camera, so we see its seat cushions; the pairs of seats along both sides also face the camera, seen from the front with their cushions toward us",
+        act="@Ha, already seated at the LEFT end of the back bench by the window, sits upright facing the camera, eyes wide open, gazing toward the rear-view mirror at the front of the bus; only a slow breath and a small smile."),
+    "20-15": dict(cam="wide shot from the street behind the bus, traffic on the right-hand side of the road",
+        act="The warm-lit bus pulls away from the alley stop and drives away from camera on the right-hand side of the road into the Christmas lights; its windows are fogged with condensation and glow amber, and no figures can be seen inside."),
+}
+for _sc in S:
+    for _i, _sh in enumerate(_sc["shots"]):
+        _sid = f"{_sc['num']}-{_i + 1:02d}"
+        if _sid in SHOT_OVERRIDE3:
+            _l = list(_sh)
+            for _k, _j in (("mins", 1), ("codes", 2), ("cam", 3), ("act", 4), ("lines", 5)):
+                if _k in SHOT_OVERRIDE3[_sid]: _l[_j] = SHOT_OVERRIDE3[_sid][_k]
+            _sc["shots"][_i] = tuple(_l)
+SHOT_AVOID.update({
+    "11-03": "the old man indoors; the old man at the same height as the camera; a glass door; a corridor or a room behind the glass; a woman on the bench",
+    "13-07": "dark skin; a broad round face; a different or younger man; the old man sitting up; a thermos; anything in his hands",
+    "14-14": SHOT_AVOID["14-14"] + "; any red object on the bedside cabinet or the table",
+    "15-03": "the aisle stretching to the back of the bus; the woman walking from the back of the bus; the woman walking along the aisle; the woman facing the camera",
+    "20-09": "seat backs facing the camera; seats facing the rear window; the woman walking; the woman turned away from the camera",
+    "20-15": "people visible through the windows; silhouettes in the windows; passengers; a minibus",
+})
+
+# ---- v5 (góp ý sau bản v4): chăn thường thay tấm bạc, mũ ông Khánh, góc máy cảnh 16-17
+_NOFOIL = "gold or silver emergency sheet; a shiny metallic blanket"
+SHOT_OVERRIDE4 = {
+    "12-07": dict(codes=["HA2", "DO1"],
+        cam="50mm two-shot in profile at the hospital gate: @Ha on the LEFT; @Dong on the RIGHT carrying the limp old man in his arms; the thin 78-year-old man's head, still wearing his grey wool flat cap, rests against Dong's shoulder, his faded red hand-knitted scarf hanging down over his dark-brown overcoat",
+        act="For the first time @Ha and @Dong face each other with eyes wide open, no mirror between them; @Ha takes command at once; the old man stays limp with his eyes closed and his cap on."),
+    "13-01": dict(act="@OngKhanh lies on the gurney unconscious, eyes closed in every frame, his grey flat cap still on and his red scarf around his neck; @Ha spreads a thick cream-white hospital wool blanket over him up to his chest and tucks it in, and speaks to someone beside her without looking up."),
+    "13-05": dict(act="@Dong holds the old man's hand and talks softly, close to his face; @OngKhanh lies under the cream-white hospital blanket, grey flat cap on, eyes closed."),
+    "13-07": dict(cam="medium close shot of @OngKhanh half-reclining on the raised back of the gurney, exactly as he looked when he was brought in: his grey wool flat cap, faded red scarf and dark-brown overcoat, the cream-white hospital blanket over him up to the chest; a thin clear oxygen tube under his nose; his thin, pale, deeply lined face fully visible",
+        act="@OngKhanh's eyes flutter half open; he grimaces at the noise and grumbles; his hands stay under the blanket."),
+    "14-14": dict(cam="medium close two-shot at the bedside, eye level, locked-off",
+        act="@OngKhanh, sitting on the edge of the bed, holds the single folded faded red scarf in both hands; @Ha bends toward him; he gently lays the scarf around the back of her neck so both ends hang down in front, then lets go and pats it once; @Ha holds the two ends at her chest. Slow, small, natural movements."),
+    "16-10": dict(cam="85mm close-up with a very slow push-in, from the aisle just behind the driver's seat, looking right across at @Ha in the first passenger seat on the right-hand side of the bus beside the front door: directly behind her only the side window with the dark street and blurred street lights; the yellow grab pole soft at the LEFT edge; she faces the LEFT of frame toward the driver"),
+    "17-09": dict(cam="85mm close-up, camera low on the dashboard just right of the steering wheel, looking back at the driver: the top of the steering-wheel rim soft in the lower foreground, the driver's side window (the left side of the bus) behind him on the RIGHT of frame, the aisle and empty seats receding on the LEFT of frame; @Dong sits in the driver's seat behind the wheel, turned toward the first passenger seat off-screen LEFT",
+        act="@Dong, at the wheel, looks at her, eyes wet."),
+    "17-10": dict(cam="medium shot from just behind the driver's seat, looking right across the aisle at the first passenger seat beside the front door on the right-hand side of the bus; the driver's shoulder and the steering wheel soft in the LEFT foreground; the side window and the night street behind her",
+        act="@Ha rises from the first passenger seat by the front door and takes two steps across the aisle toward the driver, coming to stand close beside his seat."),
+}
+for _sc in S:
+    for _i, _sh in enumerate(_sc["shots"]):
+        _sid = f"{_sc['num']}-{_i + 1:02d}"
+        if _sid in SHOT_OVERRIDE4:
+            _l = list(_sh)
+            for _k, _j in (("mins", 1), ("codes", 2), ("cam", 3), ("act", 4), ("lines", 5)):
+                if _k in SHOT_OVERRIDE4[_sid]: _l[_j] = SHOT_OVERRIDE4[_sid][_k]
+            _sc["shots"][_i] = tuple(_l)
+for _k in ["13-01", "13-02", "13-03", "13-04", "13-05", "13-06", "13-07", "13-08"]:
+    SHOT_AVOID[_k] = (_NOFOIL + "; " + SHOT_AVOID.get(_k, "")).strip("; ")
+SHOT_AVOID.update({
+    "12-07": "the old man without a cap; the old man awake; the old man's eyes open; a thermos",
+    "13-07": SHOT_AVOID["13-07"] + "; an oxygen mask covering his face; the old man without his cap",
+    "14-14": "a second red scarf; any other red cloth on the cabinet or table; tying a knot; looping the scarf; hands passing through the scarf; fast or jerky movements",
+    "16-10": "the dashboard, the steering wheel, the windscreen or the front door behind her; the woman facing the camera head-on",
+    "17-09": "the driver sitting in a passenger seat; a yellow barrier or grab pole in front of him; no steering wheel in the frame; rows of passenger seats directly behind his head",
+    "17-10": "the woman sitting in the middle of the bus; the woman walking down the aisle; rows of seats between her and the camera; the woman walking away from the driver",
+})
+
+# ---- v6: ông Khánh trên cáng phải đúng nhân vật (13-02, 13-07, 13-08)
+SHOT_OVERRIDE5 = {
+    "13-02": dict(cam="85mm three-quarter close-up of @Dong standing in the emergency room, looking off-screen LEFT at the nurse; behind him only pale blue privacy curtains and a soft drip stand; no patient or gurney in the frame"),
+    "13-07": dict(cam="medium shot from the side of the gurney, the same framing as when the nurse tucked him in: @OngKhanh half-reclining against a white pillow on the raised back of the gurney, his grey wool flat cap on, his faded red hand-knitted scarf and dark-brown overcoat, the cream-white hospital blanket over him up to the chest; his face in three-quarter view, exactly the face of the attached image",
+        act="@OngKhanh's eyes flutter half open; he frowns at the noise and grumbles weakly; his hands stay under the blanket."),
+    "13-08": dict(cam="50mm two-shot across the gurney: @Ha on the LEFT, @Dong on the RIGHT; between them in the soft lower foreground, seen only from behind, the old man half-sitting on the raised back of the gurney: just the back of his grey wool flat cap and the top of his red scarf above the cream-white blanket; his face is never seen",
+        act="@Ha and @Dong both let out a shaky laugh of relief, looking at each other across the old man on the gurney."),
+}
+for _sc in S:
+    for _i, _sh in enumerate(_sc["shots"]):
+        _sid = f"{_sc['num']}-{_i + 1:02d}"
+        if _sid in SHOT_OVERRIDE5:
+            _l = list(_sh)
+            for _k, _j in (("mins", 1), ("codes", 2), ("cam", 3), ("act", 4), ("lines", 5)):
+                if _k in SHOT_OVERRIDE5[_sid]: _l[_j] = SHOT_OVERRIDE5[_sid][_k]
+            _sc["shots"][_i] = tuple(_l)
+SHOT_AVOID.update({
+    "13-02": _NOFOIL + "; a patient or a gurney in the frame; a person with an oxygen mask; letterbox bars",
+    "13-07": _NOFOIL + "; an oxygen mask or oxygen tube; a bald man; the old man without his cap; a different or younger man; dark skin; a broad round face; anything in his hands",
+    "13-08": _NOFOIL + "; the old man's face; a bald patient; an oxygen mask; a patient lying flat; a covered body",
+})
+
+# ---- v7: đầu phim bớt "AI" — ông lên xe (01-05), Hạ xuống ghế cuối (01-08)
+_NATURAL = "gliding or sliding movement; floating feet; a cut to a different angle; letterbox bars; morphing faces or hands"
+SHOT_OVERRIDE6 = {
+    "01-05": dict(mins=5,
+        cam="from inside the bus beside the driver's seat, looking right across to the open front door on the right-hand side of the bus: the folding door already open onto the hospital bus stop in the drizzle, the two entrance steps and the yellow handrail clearly visible; medium wide, locked-off, the driver's shoulder edge soft on the LEFT of frame",
+        act="@OngKhanh stands outside on the wet pavement at the foot of the open door, a battered aluminium thermos in his left hand; he grips the yellow handrail with his right hand and climbs the two steps slowly, one at a time, with the stiff effort of an old man, his breath misting in the cold, and nods to the driver as he reaches the top step."),
+    "01-08": dict(mins=6, codes=["HA1B", "HA1"],
+        cam="85mm telephoto from the middle of the aisle looking back toward the rear of the bus, locked-off: the five-seat back bench across the far end under the rear window faces the camera; empty pairs of blue seats soft in the foreground on both sides",
+        act="@Ha, seen from behind, walks the last few unhurried steps down the aisle to the back bench, turns once and sits down in the LEFT corner seat by the window; she hugs her tote bag on her lap, leans her head against the cold glass and closes her eyes. Calm, natural, real-time movement."),
+}
+for _sc in S:
+    for _i, _sh in enumerate(_sc["shots"]):
+        _sid = f"{_sc['num']}-{_i + 1:02d}"
+        if _sid in SHOT_OVERRIDE6:
+            _l = list(_sh)
+            for _k, _j in (("mins", 1), ("codes", 2), ("cam", 3), ("act", 4), ("lines", 5)):
+                if _k in SHOT_OVERRIDE6[_sid]: _l[_j] = SHOT_OVERRIDE6[_sid][_k]
+            _sc["shots"][_i] = tuple(_l)
+SHOT_AVOID.update({
+    "01-05": "the old man already inside the bus; the old man walking along the aisle; the old man smiling at the camera; the old man walking toward the camera; " + _NATURAL,
+    "01-08": "a steering wheel or a driver's seat anywhere in the frame; the woman walking toward the camera; the woman turning more than once; the woman standing up again; other passengers; " + _NATURAL,
+})
+
+# ---- v7 lần 2
+SHOT_OVERRIDE7 = {
+    "01-05": dict(cam="from inside the bus beside the driver's seat, looking right across to the open front door on the right-hand side of the bus: the open folding front door fills the RIGHT half of the frame and through it the wet pavement and the lit hospital bus stop outside; the two entrance steps and the yellow handrail in the doorway; medium wide, locked-off; the driver's shoulder edge soft on the LEFT of frame; no aisle and no passenger seats in the frame",
+        act="In the first frame the doorway is empty and @OngKhanh stands OUTSIDE the bus on the wet pavement below the bottom step, a battered aluminium thermos in his left hand. He grips the yellow handrail with his right hand and climbs the two steps slowly, one at a time, with the stiff effort of an old man, his breath misting in the cold; at the top step he nods to the driver."),
+    "01-08": dict(codes=["HA1"],
+        cam="85mm telephoto from the middle of the aisle looking back toward the rear of the bus, locked-off: the five-seat back bench across the far end under the rear window faces the camera; empty pairs of blue seats soft in the foreground on both sides",
+        act="From the very first frame @Ha is already sitting in the LEFT corner seat of the back bench by the window, small in the distance. She settles in: puts her tote bag on her lap and hugs it, leans her head against the cold glass and slowly closes her eyes. Small, quiet, natural movements; she never stands up."),
+}
+for _sc in S:
+    for _i, _sh in enumerate(_sc["shots"]):
+        _sid = f"{_sc['num']}-{_i + 1:02d}"
+        if _sid in SHOT_OVERRIDE7:
+            _l = list(_sh)
+            for _k, _j in (("mins", 1), ("codes", 2), ("cam", 3), ("act", 4), ("lines", 5)):
+                if _k in SHOT_OVERRIDE7[_sid]: _l[_j] = SHOT_OVERRIDE7[_sid][_k]
+            _sc["shots"][_i] = tuple(_l)
+SHOT_AVOID["01-05"] = "the old man inside the bus at the start; the old man standing in the aisle; the aisle or passenger seats in the frame; the old man smiling at the camera; " + _NATURAL
+SHOT_AVOID["01-08"] = "the woman walking; the woman standing; the woman in the aisle; a steering wheel or a driver's seat anywhere in the frame; other passengers; " + _NATURAL

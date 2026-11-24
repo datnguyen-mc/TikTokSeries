@@ -49,7 +49,7 @@
   "id": "01-05",
   "scene": "01",
   "name": "Ông Khánh lên xe",
-  "secs": 4,
+  "secs": 5,
   "place": "P1",
   "attach": [
    "Ông Khánh · Áo dạ khăn đỏ"
@@ -86,7 +86,7 @@
   "id": "01-08",
   "scene": "01",
   "name": "Ghế cuối",
-  "secs": 5,
+  "secs": 6,
   "place": "P1",
   "attach": [
    "Hạ · Áo dạ về ca"
@@ -1158,7 +1158,8 @@
   "secs": 6,
   "place": "P6",
   "attach": [
-   "Hạ · Đồ ở nhà"
+   "Hạ · Đồ ở nhà",
+   "Linh · Đồ ngủ"
   ],
   "prompt": "film/c08/08-05.txt",
   "output": "film/clips/08-05.mp4"
@@ -1242,6 +1243,7 @@
   "secs": 4,
   "place": "P3",
   "attach": [
+   "Đông · Áo phao thường · Sau lưng",
    "Linh · Đồ trực"
   ],
   "prompt": "film/c09/09-01.txt",
@@ -1291,6 +1293,7 @@
   "secs": 5,
   "place": "P3",
   "attach": [
+   "Đông · Áo phao thường · Sau lưng",
    "Linh · Đồ trực"
   ],
   "prompt": "film/c09/09-05.txt",
@@ -1315,6 +1318,7 @@
   "secs": 4,
   "place": "P3",
   "attach": [
+   "Đông · Áo phao thường · Sau lưng",
    "Linh · Đồ trực"
   ],
   "prompt": "film/c09/09-07.txt",
@@ -2213,7 +2217,8 @@
   "secs": 5,
   "place": "P8",
   "attach": [
-   "Bà Huệ · Áo dài đi lễ"
+   "Bà Huệ · Áo dài đi lễ",
+   "Đông · Đồng phục lái xe · Sau lưng"
   ],
   "prompt": "film/c15/15-10.txt",
   "output": "film/clips/15-10.mp4"
@@ -2249,7 +2254,8 @@
   "secs": 6,
   "place": "P8",
   "attach": [
-   "Bà Huệ · Áo dài đi lễ"
+   "Bà Huệ · Áo dài đi lễ",
+   "Hạ · Áo dạ về ca · Khăn đỏ · Sau lưng"
   ],
   "prompt": "film/c15/15-13.txt",
   "output": "film/clips/15-13.mp4"
@@ -3004,7 +3010,7 @@
   "secs": 5,
   "place": "P1",
   "attach": [
-   "Đông · Năm năm sau",
+   "Đông · Năm năm sau · Sau lưng",
    "Hạ · Năm năm sau"
   ],
   "prompt": "film/c20/20-10.txt",
@@ -3041,7 +3047,8 @@
   "secs": 5,
   "place": "P1",
   "attach": [
-   "Hạ · Năm năm sau"
+   "Hạ · Năm năm sau · Sau lưng",
+   "Đông · Năm năm sau · Sau lưng"
   ],
   "prompt": "film/c20/20-13.txt",
   "output": "film/clips/20-13.mp4"

@@ -38,3 +38,4 @@
 - [Tập 34 — Bó bông mua tặng cô Hai & Người thầy chưa từng đi học](tap-34/README.md)
 - [Tập 35 — Chèo xuồng đi chợ ghe mua quà Noel & Ba ông già Noel y chang nhau](tap-35/README.md)
 - [Tập 36 — Lần đầu thấy biển Vũng Tàu & Ba Mit giữ cái nền nhà cát](tap-36/README.md)
+- [Tập 37 — Đố vui quẹt lọ nồi & câu đố làm khó ba Mit](tap-37/README.md)

@@ -1,6 +1,6 @@
 # CẢNH 01 · CHỊ ƠI, ĐẾN RỒI
 
-*Hồi 1 · Chuyến đêm · mở đầu: đêm 23 trên xe; rồi đêm 22, trạm bệnh viện · 11 shot · 53 giây · phút 00:00*
+*Hồi 1 · Chuyến đêm · mở đầu: đêm 23 trên xe; rồi đêm 22, trạm bệnh viện · 11 shot · 55 giây · phút 00:00*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Đại lộ đêm
 
@@ -23,7 +23,7 @@ Cận nghiêng từ ghế khách bên kia lối đi, cột vịn vàng mờ ở 
 **01-04** · Hai đêm trước · 4s  
 Toàn thấp từ vỉa hè bên phải, xe máy đỗ mờ ở tiền cảnh. Xe buýt kiểu Việt Nam (trắng sọc xanh, không số tuyến) chạy làn gần từ TRÁI sang PHẢI, phía có cửa quay về máy. Thẻ chữ khi dựng: 'Hai đêm trước'.
 
-**01-05** · Ông Khánh lên xe · 4s  
+**01-05** · Ông Khánh lên xe · 5s  
 Từ ghế tài nhìn sang cửa trước bên PHẢI xe: cửa gấp mở ra trạm bệnh viện mưa phùn; mép vai tài xế mờ bên trái khung. Ông Khánh cầm phích, chậm rãi bước lên.
 > **ÔNG KHÁNH** *(khô, thân)*: Chào cậu lái.  
 
@@ -35,7 +35,7 @@ Qua vai ông Khánh (ông quay lưng, mũ dạ và khăn đỏ mờ ở tiền c
 Cận ông Khánh ở ghế đầu sau tài xế, kẹp giữa cột vịn vàng và lưng ghế tài mờ ở tiền cảnh; cửa kính bên trái xe phía sau ông. Ông sửa khăn, cười một mình. (Gài: bà đã mất từ năm ngoái.)
 > **ÔNG KHÁNH** *(hiền, vui hơi quá)*: Khá hơn. Hôm nay bà nhìn tôi lâu lắm.  
 
-**01-08** · Ghế cuối · 5s  
+**01-08** · Ghế cuối · 6s  
 Toàn từ đầu lối đi nhìn về cuối xe: cửa lên xuống ở bên TRÁI khung hình. Hạ đi xa dần, ngồi ghế cuối sát cửa sổ bên trái khung (tức bên phải xe), ôm túi, tựa đầu, nhắm mắt.
 
 **01-09** · Lại ngủ · 6s  
@@ -66,10 +66,10 @@ Cận ba phần tư từ bên kia lối đi; tài xế ở ngoài khung bên PH�
 | 01-02 | Em thích chị | 4 | Đông · Đồng phục lái xe | Đông: Em thích chị. |
 | 01-03 | Giọt nước mắt | 5 | Hạ · Áo dạ về ca |  |
 | 01-04 | Hai đêm trước | 4 | Text-to-Video |  |
-| 01-05 | Ông Khánh lên xe | 4 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Chào cậu lái. |
+| 01-05 | Ông Khánh lên xe | 5 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Chào cậu lái. |
 | 01-06 | Bà thế nào | 5 | Ông Khánh · Áo dạ khăn đỏ · Sau lưng, Đông · Đồng phục lái xe | Đông: Hôm nay bà thế nào hả ông? |
 | 01-07 | Bà nhìn tôi lâu lắm | 5 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Khá hơn. Hôm nay bà nhìn tôi lâu lắm. |
-| 01-08 | Ghế cuối | 5 | Hạ · Áo dạ về ca |  |
+| 01-08 | Ghế cuối | 6 | Hạ · Áo dạ về ca |  |
 | 01-09 | Lại ngủ | 6 | Ông Khánh · Áo dạ khăn đỏ, Đông · Đồng phục lái xe | Ông Khánh: Cô ấy lại ngủ rồi. / Đông: Ca chiều mệt mà ông. |
 | 01-10 | Cái gương | 5 | Đông · Đồng phục lái xe · Sau lưng, Hạ · Áo dạ về ca |  |
 | 01-11 | Hai năm rồi | 5 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Cái gương ấy, cậu chỉnh hai năm rồi đấy. |

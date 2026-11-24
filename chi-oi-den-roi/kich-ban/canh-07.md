@@ -1,6 +1,6 @@
 # CẢNH 07 · EM THÍCH CHỊ
 
-*Hồi 2 · Câu nói lúc ngủ · đêm 23, tiếp liền · 13 shot · 66 giây · phút 06:48*
+*Hồi 2 · Câu nói lúc ngủ · đêm 23, tiếp liền · 13 shot · 66 giây · phút 06:50*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Trạm đầu ngõ nhà Hạ
 

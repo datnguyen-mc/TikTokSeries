@@ -1,0 +1,29 @@
+CHỊ ƠI, ĐẾN RỒI — BẢN DỰNG v4 (1080p) · sửa theo góp ý của anh sau bản v3
+=========================================================================
+File: CHI-OI-DEN-ROI_ban-dung-v4_1080p.mp4 (+ .srt cùng tên) · 19:13 · 1920x1080 · 24fps
+Kiểm tra máy: thứ tự khung đúng ở 31 điểm, hình–tiếng khớp mẫu, phụ đề theo giờ nói thật.
+
+GÓP Ý CỦA ANH (mốc theo bản v3)            SHOT    CÁCH SỬA
+6:15  lặp "có an toàn không"               07-02   DỰNG: cắt bỏ câu lặp. (Soát thêm: 16-12 lặp "Mà sao anh biết" → cắt.)
+7:12  Hạ ôm Linh bị sạn                    08-05   LÀM LẠI: hai người ôm nhau, thấy rõ cả hai.
+7:45 / 8:05 / 8:10  sai nhân vật sau lưng  09-01, 09-05, 09-07   LÀM LẠI: gắn ảnh "Đông · Áo phao thường · Sau lưng" (khớp 09-03).
+8:23  rơi bịch quýt giả trân               09-10   LÀM LẠI: túi ni lông trong, quýt nhỏ có lá, rơi tự nhiên.
+8:27  lụm quýt lại trong bọc giấy          09-11   LÀM LẠI: nhặt lại vào đúng túi ni lông trong.
+10:00 người ngồi ghế đá là phụ nữ          11-03   LÀM LẠI 2 lần: góc cao nhìn xuống, ông già áo dạ nâu, mũ, khăn đỏ.
+10:30 Đông bước xuống xuyên xe             12-02   LÀM LẠI: bước xuống từ cửa trước đang mở.
+10:36 ông ngất mà cầm bình thủy            12-03, 12-04, 12-05   LÀM LẠI: bình nằm dưới vỉa hè suốt, tay ông trống.
+10:53 bình thủy đổ nước không nhất quán    12-08   LÀM LẠI: đúng chiếc bình đó, nằm nghiêng, bốc hơi.
+10:58 ông ngất mà mở mắt                   13-01   LÀM LẠI: nhắm mắt suốt shot.
+11:13 sai nhân vật trên cáng               13-04   LÀM LẠI: chỉ thấy mép chăn, không thấy mặt bệnh nhân.
+11:30 sai nhân vật                         13-07   LÀM LẠI 2 lần: đúng ông Khánh, mũ dạ, mặt nạ oxy.
+12:25 phải còn nước mắt                    14-08   LÀM LẠI: còn vệt nước mắt, mi ướt.
+12:56 quàng khăn giả, 2 khăn đỏ            14-14   LÀM LẠI 2 lần: chỉ 1 khăn, ông cầm sẵn, quàng chậm.
+13:23 Hạ lên xe đi rồi quay lại            15-03   LÀM LẠI 2 lần: bước lên là ngồi ngay ghế đầu.
+13:53 / 13:58 / 14:06 / 14:09 sai nhân vật & vị trí   15-10, 15-11, 15-13, 15-14   LÀM LẠI:
+      Đông và Hạ chỉ thấy sau lưng (ảnh nhân vật sau lưng), bà Huệ đứng ngoài xe nhìn qua kính, shot Hạ chỉ có mình Hạ.
+18:36 / 18:43 / 18:56 ghế bị ngược         20-09, 20-10, 20-13   LÀM LẠI: ghế quay về phía kính lái; 20-10 nhìn về phía trước qua kính lái.
+19:04 xe chỉ có vài người mà nhiều bóng     20-15   LÀM LẠI 2 lần: quay từ phía sau, kính mờ hơi nước, không thấy bóng người.
+
+CHE CHỮ MỚI: bảng LED xe 12-04, 12-08; bảng nhỏ trần xe 20-09, 20-13; chữ + biển số đuôi xe 20-15 (vùng che chạy theo xe).
+TÍN DỤNG FLOW ĐỢT NÀY: 26 shot lần 1 (387) + 6 shot lần 2 (99) = 486 credit.
+Clip cũ: film/clips_v1/ (bản v3 của các shot đã sửa trước đó có hậu tố _v3).

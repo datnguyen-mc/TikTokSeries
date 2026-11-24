@@ -208,6 +208,7 @@ humans, human faces, human children, human hands, four-legged non-anthropomorphi
 | 34 | Bó bông mua tặng cô Hai & Người thầy chưa từng đi học | ⚡ Tuần lễ 20/11: Nở buồn vì mai lớp làm lễ cám ơn cô Hai mà hổng có quà; ba Mit nổ "bó bông đẹp nhứt Cái Mơn", lội bãi cỏ may hái bông mua tím, ra "thành con nhím"; má gỡ cỏ may, Nở hỏi "hồi nhỏ cô giáo của ba tên gì", ba "đâu có được đi học"; chiều ba kể chăn trâu mướn từ bảy tuổi, nghe lén ngoài cửa sổ trường, "con ba phải biết ơn cô gấp đôi", Nở nép cửa nghe; hoàng hôn Nở tặng nhánh bông cho "thầy Mit": "Ba dạy con biết thương người, biết ơn cô!", má "Thầy Mit hổng đi học mà dạy con giỏi nhứt xóm", ôm nhau, Nở nhặt hột cỏ may cuối cùng (tập thôn quê, không ăn uống) | **Tập vở** |
 | 35 | Chèo xuồng đi chợ ghe mua quà Noel & Ba ông già Noel y chang nhau | 🎄 Noel ở xứ đạo Cái Mơn 1970: cả nhà chèo xuồng ba lá đi chợ ghe; ba nổ "chèo lẹ nhứt Cái Mơn" rồi chèo một bên, xuồng xoay vòng, Nở "đi chợ hay đi quay vòng vòng", má chèo bên kia, ba "khởi động cho nóng máy"; tới bến chợ ba người kiếm cớ đi ba ngả, rón rén vòng lại đụng nhau ở sạp ông già Noel, giấu tay sau lưng; hoàng hôn trên xuồng về: ba khuân sầu riêng thêm, má bán rau má, Nở đập heo ống tre (Tập 17), "cả nhà nhịn hết để mua quà cho nhau"; về sân cùng mở quà: ba tượng ông già Noel (chó già râu trắng) y chang nhau, "mua trùng mà vui gấp ba", Nở chốt "Năm nay nhà mình có tới ba ông già Noel luôn!" (tập song nước, không ăn uống) | — |
 | 36 | Lần đầu thấy biển Vũng Tàu & Ba Mit giữ cái nền nhà cát | 🌊 Tập đi xa đầu tiên: cả nhà ra biển Vũng Tàu; ba tưởng biển là "sông Cái Mơn chảy ra", "bờ bên kia đi chợ chưa về", "biển là sông đầu đàn"; nếm nước biển "Ai đổ nước mắm xuống đây vậy trời?", Nở "cá khỏi kho", sóng rượt ba núp sau vợ con; chiều má kể ông ngoại hứa dẫn đi biển mà chưa kịp, ba "anh dẫn em đi giùm ba em", Nở xây nhà cát cho ông ngoại; hoàng hôn ba dang tay chắn sóng giữ nhà cát, ướt tới gối, nhà tan, Nở "ba còn giữ cái gì vậy ba?", ba "Ba giữ được cái nền là còn xây lại!" (tập đi biển, không ăn uống) | — |
+| 37 | Đố vui quẹt lọ nồi & câu đố làm khó ba Mit | ❓ Tập tương tác: chiều hiên nhà chơi đố vui, ai thua bị quẹt lọ nồi; "đầu dê mình ốc" (con dốc), "càng rửa càng dơ" (nước) + luật "con giải được thì người đố thua", mặt ba lem "mèo mướp", "thua vợ thua con là ba thắng", "cục cưng Nở"; câu chót bỏ ngỏ "Cái gì của ba mà người ta xài nhiều hơn ba?" (đáp án: cái tên), Nở nhờ khán giả "nói giùm ba con" | — |
 
 > 💡 Tập 8 đứng độc lập được. Có thể dựng trước để đăng đúng dịp 20/10.
 
@@ -255,6 +256,7 @@ Mỗi tập **dao động từ 30–60s = 3–6 clip × 10s (tối đa 60 giây)
 | 34 | [tap-34/](tap-34/README.md) | Bó bông mua tặng cô Hai & Người thầy chưa từng đi học |
 | 35 | [tap-35/](tap-35/README.md) | Chèo xuồng đi chợ ghe mua quà Noel & Ba ông già Noel y chang nhau |
 | 36 | [tap-36/](tap-36/README.md) | Lần đầu thấy biển Vũng Tàu & Ba Mit giữ cái nền nhà cát |
+| 37 | [tap-37/](tap-37/README.md) | Đố vui quẹt lọ nồi & câu đố làm khó ba Mit |
 
 ## Tập 20 (`tap-20`)
 

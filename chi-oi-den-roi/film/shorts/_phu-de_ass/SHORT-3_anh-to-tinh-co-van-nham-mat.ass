@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Brand,Lora,40,&H0090D8F0,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,2,0,1,2,0,8,60,60,190,1
+Style: Hook,DejaVu Sans,64,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,300,1
+Style: Sub,DejaVu Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,8,50,50,1305,1
+Style: End,DejaVu Sans,46,&H0090D8F0,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,260,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:51.25,Brand,,0,0,0,,CHỊ ƠI, ĐẾN RỒI
+Dialogue: 0,0:00:00.00,0:00:51.25,Hook,,0,0,0,,{\fad(250,0)}Anh tỏ tình.\NCô ấy vẫn nhắm mắt.
+Dialogue: 0,0:00:48.65,0:00:51.25,End,,0,0,0,,{\fad(300,0)}Xem trọn phim trên kênh
+Dialogue: 0,0:00:00.60,0:00:04.70,Sub,,0,0,0,,Chị ơi, tuyến đêm cắt rồi.\NĐêm mai là chuyến cuối.
+Dialogue: 0,0:00:05.98,0:00:08.93,Sub,,0,0,0,,Từ ngày kia, em không biết\Nchị về có an toàn không.
+Dialogue: 0,0:00:09.64,0:00:12.49,Sub,,0,0,0,,Hai năm rồi, em còn\Nchưa biết tên chị.
+Dialogue: 0,0:00:14.31,0:00:15.68,Sub,,0,0,0,,Hôm qua em bảo mai em kể.
+Dialogue: 0,0:00:17.90,0:00:19.34,Sub,,0,0,0,,Chị ngủ thì em mới dám nói.
+Dialogue: 0,0:00:21.29,0:00:22.44,Sub,,0,0,0,,Em thích chị.
+Dialogue: 0,0:00:28.54,0:00:29.88,Sub,,0,0,0,,Chị ơi, đến rồi.
+Dialogue: 0,0:00:36.49,0:00:37.49,Sub,,0,0,0,,Chị ơi.
+Dialogue: 0,0:00:38.74,0:00:39.74,Sub,,0,0,0,,Em cảm ơn.
+Dialogue: 0,0:00:41.74,0:00:44.82,Sub,,0,0,0,,Mai rét… chị mặc thêm áo.

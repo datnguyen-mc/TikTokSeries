@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Brand,Lora,40,&H0090D8F0,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,2,0,1,2,0,8,60,60,190,1
+Style: Hook,DejaVu Sans,64,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,300,1
+Style: Sub,DejaVu Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,8,50,50,1305,1
+Style: End,DejaVu Sans,46,&H0090D8F0,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,260,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:49.08,Brand,,0,0,0,,CHỊ ƠI, ĐẾN RỒI
+Dialogue: 0,0:00:00.00,0:00:49.08,Hook,,0,0,0,,{\fad(250,0)}"Hai năm nay em không ngủ.\NEm giả vờ."
+Dialogue: 0,0:00:46.48,0:00:49.08,End,,0,0,0,,{\fad(300,0)}Xem trọn phim trên kênh
+Dialogue: 0,0:00:00.41,0:00:01.68,Sub,,0,0,0,,Chị ơi, đến rồi.
+Dialogue: 0,0:00:03.44,0:00:06.27,Sub,,0,0,0,,Hai năm nay em không\Nngủ. Em giả vờ.
+Dialogue: 0,0:00:07.85,0:00:08.85,Sub,,0,0,0,,Em biết.
+Dialogue: 0,0:00:10.16,0:00:11.16,Sub,,0,0,0,,Từ… bao giờ?
+Dialogue: 0,0:00:12.59,0:00:13.63,Sub,,0,0,0,,Từ đêm đầu tiên.
+Dialogue: 0,0:00:15.27,0:00:18.95,Sub,,0,0,0,,Chưa đêm nào em phải gọi đến\Nlần thứ hai. Trừ đêm qua.
+Dialogue: 0,0:00:20.57,0:00:21.78,Sub,,0,0,0,,Thế sao anh vẫn nói?
+Dialogue: 0,0:00:24.04,0:00:25.91,Sub,,0,0,0,,Vì chị mở mắt ra thì\Nchị sẽ thôi nghe.
+Dialogue: 0,0:00:27.61,0:00:29.53,Sub,,0,0,0,,Em cứ sợ em mở mắt thì\Nanh thôi nói.
+Dialogue: 0,0:00:31.20,0:00:38.06,Sub,,0,0,0,,Mẹ anh ho về đêm. Anh sợ\Nchuột. Con Ngủ Gật tai cụp.\NMẹ anh chưa thấy biển.
+Dialogue: 0,0:00:39.04,0:00:40.59,Sub,,0,0,0,,Hai năm, em nghe hết.
+Dialogue: 0,0:00:42.52,0:00:44.07,Sub,,0,0,0,,Mà sao anh biết người ta giả vờ?
+Dialogue: 0,0:00:45.64,0:00:47.28,Sub,,0,0,0,,Vì em cũng từng giả vờ như thế.

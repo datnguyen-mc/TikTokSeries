@@ -1,6 +1,6 @@
 # CẢNH 12 · GHẾ ĐÁ LẠNH
 
-*Hồi 3 · Chuyến cuối · đêm Noel, 22 giờ 40, cổng bệnh viện · 8 shot · 35 giây · phút 11:58*
+*Hồi 3 · Chuyến cuối · đêm Noel, 22 giờ 40, cổng bệnh viện · 8 shot · 35 giây · phút 12:00*
 
 **Bối cảnh:** NGOẠI · Trạm xe & ghế đá cổng bệnh viện
 

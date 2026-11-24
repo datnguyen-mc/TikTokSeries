@@ -2,7 +2,7 @@
 
 *Sinh bởi `_tools/build.py` từ `_tools/data.py`. Sửa dữ liệu rồi chạy lại.* Flow: Omni 1.2 Flash, 16:9, 720p, x1. Tên video trên Flow: `<shot> · <tên>`.
 
-**20 cảnh · 254 shot · 21 phút 50 giây chưa tính thẻ chữ · 1310 giây cần tạo trên Flow.**
+**20 cảnh · 254 shot · 21 phút 52 giây chưa tính thẻ chữ · 1312 giây cần tạo trên Flow.**
 
 ## Cảnh 01 · Chị ơi, đến rồi · mở đầu: đêm 23 trên xe; rồi đêm 22, trạm bệnh viện
 
@@ -12,10 +12,10 @@
 | 01-02 | Em thích chị | 4 | Đông · Đồng phục lái xe | Đông: Em thích chị. |
 | 01-03 | Giọt nước mắt | 5 | Hạ · Áo dạ về ca |  |
 | 01-04 | Hai đêm trước | 4 | Text-to-Video |  |
-| 01-05 | Ông Khánh lên xe | 4 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Chào cậu lái. |
+| 01-05 | Ông Khánh lên xe | 5 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Chào cậu lái. |
 | 01-06 | Bà thế nào | 5 | Ông Khánh · Áo dạ khăn đỏ · Sau lưng, Đông · Đồng phục lái xe | Đông: Hôm nay bà thế nào hả ông? |
 | 01-07 | Bà nhìn tôi lâu lắm | 5 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Khá hơn. Hôm nay bà nhìn tôi lâu lắm. |
-| 01-08 | Ghế cuối | 5 | Hạ · Áo dạ về ca |  |
+| 01-08 | Ghế cuối | 6 | Hạ · Áo dạ về ca |  |
 | 01-09 | Lại ngủ | 6 | Ông Khánh · Áo dạ khăn đỏ, Đông · Đồng phục lái xe | Ông Khánh: Cô ấy lại ngủ rồi. / Đông: Ca chiều mệt mà ông. |
 | 01-10 | Cái gương | 5 | Đông · Đồng phục lái xe · Sau lưng, Hạ · Áo dạ về ca |  |
 | 01-11 | Hai năm rồi | 5 | Ông Khánh · Áo dạ khăn đỏ | Ông Khánh: Cái gương ấy, cậu chỉnh hai năm rồi đấy. |
@@ -138,7 +138,7 @@
 | 08-02 | Trả lời gì | 4 | Linh · Đồ ngủ | Linh: Thế mày trả lời gì? |
 | 08-03 | Tao ngủ | 4 | Hạ · Đồ ở nhà | Hạ: Tao ngủ. |
 | 08-04 | Phang gối | 5 | Linh · Đồ ngủ, Hạ · Đồ ở nhà | Linh: Con điên! |
-| 08-05 | Bắt chờ | 6 | Hạ · Đồ ở nhà | Hạ: Ngày kia tao bay. Năm năm. Bắt người ta chờ à? |
+| 08-05 | Bắt chờ | 6 | Hạ · Đồ ở nhà, Linh · Đồ ngủ | Hạ: Ngày kia tao bay. Năm năm. Bắt người ta chờ à? |
 | 08-06 | Hỏi chưa | 6 | Linh · Đồ ngủ | Linh: Mày hỏi người ta chưa mà biết người ta không chờ? |
 | 08-07 | Đêm đầu tiên | 5 | Hạ · Đồ ở nhà | Hạ: Đêm đầu tiên, tao vừa mất bệnh nhân đầu tiên. |
 | 08-08 | Khóc trên xe | 5 | Hạ · Áo dạ về ca |  |
@@ -150,13 +150,13 @@
 
 | Shot | Tên | Giây | Đính trên Flow | Thoại |
 |---|---|---|---|---|
-| 09-01 | Anh tìm ai | 4 | Linh · Đồ trực | Linh: Anh tìm ai? |
+| 09-01 | Anh tìm ai | 4 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Anh tìm ai? |
 | 09-02 | Bà Hằng | 5 | Đông · Áo phao thường | Đông: Dạ, em tìm bà Hằng, vợ ông Khánh. |
 | 09-03 | Mất rồi | 6 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Bà Hằng mất năm ngoái rồi anh ạ. Đúng đêm Noel. |
 | 09-04 | Ngồi cổng | 7 | Linh · Đồ trực | Linh: Đêm nào ông cũng ra ngồi cổng viện. Không vào. Đợi xe cuối thì về. |
-| 09-05 | Nhận ra | 5 | Linh · Đồ trực | Linh: Khoan. Anh là anh lái xe tuyến đêm à? |
+| 09-05 | Nhận ra | 5 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Khoan. Anh là anh lái xe tuyến đêm à? |
 | 09-06 | Biết tên chưa | 5 | Linh · Đồ trực | Linh: Hai năm lái xe, anh biết tên người ta chưa? |
-| 09-07 | Hạ | 4 | Linh · Đồ trực | Linh: Hạ. Tên nó là Hạ. |
+| 09-07 | Hạ | 4 | Đông · Áo phao thường · Sau lưng, Linh · Đồ trực | Linh: Hạ. Tên nó là Hạ. |
 | 09-08 | Thì thầm | 4 | Đông · Áo phao thường | Đông: Hạ… |
 | 09-09 | Sáu giờ | 5 | Linh · Đồ trực | Linh: Sáng mai nó bay. Sáu giờ. Năm năm. |
 | 09-10 | Quýt lăn | 4 | Đông · Áo phao thường |  |
@@ -260,10 +260,10 @@
 | 15-07 | Mẹ đi về đi | 4 | Đông · Đồng phục lái xe | Đông: Mẹ đi về đi! |
 | 15-08 | Thấy Hạ | 5 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Con bé đây à? Cháu tên gì? |
 | 15-09 | Cháu tên Hạ | 4 | Hạ · Áo dạ về ca · Khăn đỏ | Hạ: Dạ, cháu tên Hạ. |
-| 15-10 | Nó tên Hạ | 5 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Hai năm! Nó tên Hạ! |
+| 15-10 | Nó tên Hạ | 5 | Bà Huệ · Áo dài đi lễ, Đông · Đồng phục lái xe · Sau lưng | Bà Huệ: Hai năm! Nó tên Hạ! |
 | 15-11 | Găng đưa chưa | 5 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Đôi găng đưa chưa? |
 | 15-12 | Mẹ! | 4 | Đông · Đồng phục lái xe | Đông: Mẹ! |
-| 15-13 | Giống bố nó | 6 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Nó lái đêm giống bố nó. Cháu nhắc nó mặc thêm áo. |
+| 15-13 | Giống bố nó | 6 | Bà Huệ · Áo dài đi lễ, Hạ · Áo dạ về ca · Khăn đỏ · Sau lưng | Bà Huệ: Nó lái đêm giống bố nó. Cháu nhắc nó mặc thêm áo. |
 | 15-14 | Hạ lặng | 4 | Hạ · Áo dạ về ca · Khăn đỏ |  |
 | 15-15 | Toàn quát | 6 | Anh Toàn · Áo phao bến xe | Anh Toàn: Đông! Mai lên ca ngày. Đừng từ chối như hai năm nay nữa nhé! |
 | 15-16 | Hai năm à | 5 | Hạ · Áo dạ về ca · Khăn đỏ | Hạ: Anh từ chối ca ngày hai năm à? |
@@ -351,9 +351,9 @@
 | 20-07 | Thiếu một đêm | 4 | Đông · Năm năm sau | Đông: Năm năm, thiếu một đêm. |
 | 20-08 | Người phụ nữ | 5 | Hạ · Năm năm sau |  |
 | 20-09 | Ghế cuối | 5 | Hạ · Năm năm sau |  |
-| 20-10 | Trong gương | 5 | Đông · Năm năm sau, Hạ · Năm năm sau |  |
+| 20-10 | Trong gương | 5 | Đông · Năm năm sau · Sau lưng, Hạ · Năm năm sau |  |
 | 20-11 | Gõ gậy | 6 | Ông Khánh · Năm năm sau | Ông Khánh: Lần này nói nhanh lên. Tôi già rồi, không chờ được. |
 | 20-12 | Em ơi | 4 | Đông · Năm năm sau | Đông: Em ơi, đến rồi. |
-| 20-13 | Không xuống | 5 | Hạ · Năm năm sau |  |
+| 20-13 | Không xuống | 5 | Hạ · Năm năm sau · Sau lưng, Đông · Năm năm sau · Sau lưng |  |
 | 20-14 | Chưa muốn xuống | 5 | Hạ · Năm năm sau | Hạ: Anh lái tiếp đi. Em chưa muốn xuống. |
 | 20-15 | Cửa đóng | 6 | Text-to-Video |  |

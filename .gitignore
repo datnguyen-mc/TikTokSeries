@@ -72,3 +72,4 @@ filmcraft/
 .doctor-*
 **/.doctor-*
 **/_parts/*.part*
+**/_qc/aud/

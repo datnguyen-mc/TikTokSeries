@@ -1,6 +1,6 @@
 # CẢNH 06 · TÀU ĐIỆN NĂM MƯƠI NĂM TRƯỚC
 
-*Hồi 2 · Câu nói lúc ngủ · tối 23: ghế đá cổng viện, rồi trên xe; hồi tưởng tàu điện · 16 shot · 84 giây · phút 05:24*
+*Hồi 2 · Câu nói lúc ngủ · tối 23: ghế đá cổng viện, rồi trên xe; hồi tưởng tàu điện · 16 shot · 84 giây · phút 05:26*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Trạm xe & ghế đá cổng bệnh viện / NỘI · Tàu điện đêm, năm mươi năm trước
 

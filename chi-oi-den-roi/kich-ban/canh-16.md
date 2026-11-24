@@ -1,6 +1,6 @@
 # CẢNH 16 · EM BIẾT CHỊ KHÔNG NGỦ
 
-*Hồi 3 · Chuyến cuối · đêm Noel, trạm đầu ngõ · 13 shot · 64 giây · phút 16:15*
+*Hồi 3 · Chuyến cuối · đêm Noel, trạm đầu ngõ · 13 shot · 64 giây · phút 16:17*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm
 

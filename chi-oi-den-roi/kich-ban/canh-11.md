@@ -1,6 +1,6 @@
 # CẢNH 11 · CA TRỰC CUỐI
 
-*Hồi 2 · Câu nói lúc ngủ · tối 24, khoa bệnh viện · 9 shot · 44 giây · phút 11:14*
+*Hồi 2 · Câu nói lúc ngủ · tối 24, khoa bệnh viện · 9 shot · 44 giây · phút 11:16*
 
 **Bối cảnh:** NỘI · Hành lang khoa
 

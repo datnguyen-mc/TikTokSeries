@@ -1,6 +1,6 @@
 # CẢNH 03 · MỞ MẮT THÌ ANH ẤY THÔI NÓI
 
-*Hồi 1 · Chuyến đêm · đêm 22, phòng trọ của Hạ · 12 shot · 68 giây · phút 02:03*
+*Hồi 1 · Chuyến đêm · đêm 22, phòng trọ của Hạ · 12 shot · 68 giây · phút 02:05*
 
 **Bối cảnh:** NỘI · Phòng trọ của Hạ
 

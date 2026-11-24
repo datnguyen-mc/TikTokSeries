@@ -7,7 +7,7 @@ KỸ THUẬT (mục 15)
 
 ĐÚNG KỊCH BẢN (A)
 - 02-01 | LỖI 1 | ông Khánh xuống xe nhưng không quay lưng; ở lần làm lại đầu ông còn đi vào trong xe | LÀM LẠI: ông đứng ngoài vỉa hè chào, rồi quay lưng đi xa vào màn mưa; dựng giữ trọn shot.
-- 07-09 | LỖI 1/C | Hạ ngồi ghế đôi giữa xe, không phải góc trái băng ghế cuối như 01-08/07-07 | LÀM LẠI (ống kính dài dọc lối đi) → đạt.
+- 07-09 | LỖI 1/C | Hạ ngồi ghế đôi giữa xe, không phải góc trái băng ghế cuối như 01-08/07-07 | LÀM LẠI (ống kính dài dọc lối đi) → Hạ ngồi sát cửa sổ bên trái ở hàng ngay trước băng ghế cuối, mắt nhắm. Gần đúng, giữ (còn 1 lượt làm lại nếu anh muốn).
 - 12-04 | LỖI 14 | cú cắt ngầm ở 1,92s: ông Khánh đang gục bỗng ngồi thẳng, mở mắt | DỰNG: cắt ở 1,9s.
 
 LIÊN TỤC (C)
@@ -22,6 +22,7 @@ CHỮ / LOGO (D)
 - 19-09, 19-12 | bảng LED xe ở hậu cảnh | che mờ.
 - 19-10 | chữ "DEPARTURES…" trên mặt tiền sân bay + bảng LED xe | che mờ.
 - 20-03 | bảng LED trên tàu điện lộ trước 3,4s | che cả shot.
+- 04-05, 15-15 | logo giả trên cốc mì đọc được ở 1080p | che mờ. 15-15: vùng che chữ trên kính chạy theo máy để không đè lên mũ Noel của anh Toàn.
 
 ĐÃ SOÁT, ĐẠT
 - Hướng xe & cửa: 01-04, 06-04, 07-13, 12-01, 12-02, 14-17, 19-01 (đã lật), 20-05, 20-15 đều đúng xe tay lái thuận, cửa bên phải, chạy bên phải.

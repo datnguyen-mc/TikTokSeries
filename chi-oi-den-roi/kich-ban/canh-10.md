@@ -1,6 +1,6 @@
 # CẢNH 10 · CHÂN VẪN QUEN ĐƯỜNG
 
-*Hồi 2 · Câu nói lúc ngủ · chập tối 24, ghế đá cổng bệnh viện · 13 shot · 78 giây · phút 09:56*
+*Hồi 2 · Câu nói lúc ngủ · chập tối 24, ghế đá cổng bệnh viện · 13 shot · 78 giây · phút 09:58*
 
 **Bối cảnh:** NGOẠI · Ghế đá cổng bệnh viện, chập tối
 

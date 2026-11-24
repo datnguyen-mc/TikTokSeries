@@ -6,11 +6,12 @@ A single continuous 6-second shot, 16:9, one camera angle, no cuts.
 
 [CHARACTERS] Use the attached character image for each person: same face, same hair, same outfit, exactly.
 - @Ha = Hạ, a hospital nurse who rides the last bus home (a slender 28-year-old Vietnamese woman, pale tired oval face, delicate features, dark eyes with faint shadows under them, shoulder-length straight black hair tucked behind her ears, a small mole under her left eye); wears an oversized oatmeal knitted sweater, soft grey pyjama trousers, thick wool socks, hair loose. Attached image: "Hạ · Đồ ở nhà".
+- @Linh = Linh, Hạ's roommate and fellow nurse (a sturdy 28-year-old Vietnamese woman, round face, short bob haircut with straight bangs, big expressive eyes, a wide grin); wears a pink fleece pyjama set, fluffy socks, hair in a messy bun. Attached image: "Linh · Đồ ngủ".
 Each named person appears exactly once. Background people stay distant, blurred and clearly different from them.
 
-[CAMERA] 85mm close-up of @Ha resting her chin on her friend's shoulder, the pink fleece shoulder soft in the foreground, the friend's face unseen.
+[CAMERA] 50mm two-shot from the side at the foot of the floor mattress: @Linh kneels hugging @Ha with both arms; @Ha rests her cheek on Linh's shoulder, her face toward camera; Linh's face in profile on the RIGHT of frame, her messy bun clearly visible.
 
-[ACTION] @Ha speaks into her friend's shoulder.
+[ACTION] @Ha, held in her friend's arms, speaks quietly into her shoulder.
 
 [DIALOGUE] In Vietnamese with exact lip-sync, standard Northern Vietnamese accent; each line spoken exactly once, on camera; only the speaker moves the lips:
 - 0.3s–2.9s, @Ha (woman of 28, soft low alto, few words, warm, bitter): Ngày kia tao bay. Năm năm. Bắt người ta chờ à?
@@ -18,4 +19,4 @@ After the last word nobody speaks until 6.0s. Never read these directions aloud.
 
 [SOUND] a small electric heater ticking, rain on the tin roof, a stifled sob. No music.
 
-[AVOID] Flat frontal TV-interview framing with the camera staring straight at a face; On-screen text, burned-in subtitles or captions, a lower-third title showing a character's name or age, @-handles written on screen, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.
+[AVOID] a headless or faceless body; a pink blob; a shoulder with no head; a third person; Flat frontal TV-interview framing with the camera staring straight at a face; On-screen text, burned-in subtitles or captions, a lower-third title showing a character's name or age, @-handles written on screen, a TV channel logo or broadcaster bug in any corner of the frame, logos, watermarks, readable writing on paper, tickets, passports, signs, bus route numbers, shop signs, screens or phones; any cut or second camera angle; the same person appearing twice, twins, clones or look-alike doubles (a person seen in a mirror counts as their only appearance); children or minors anywhere, including in crowds; extra people in focus; Santa Claus characters or mascots; distorted hands or fused fingers; face, hair or costume changes; plastic or waxy skin; flashing or cutting to an attached reference portrait or a plain grey studio backdrop; repeated, echoed or stuttered words; an off-screen narrator; background music or singing; snow, except where the place says it is snowing; Southern or Central Vietnamese accents.

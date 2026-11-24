@@ -1,6 +1,6 @@
 # CẢNH 20 · EM CHƯA MUỐN XUỐNG
 
-*Hồi 3 · Chuyến cuối · năm năm sau, đêm Noel · 15 shot · 77 giây · phút 20:33*
+*Hồi 3 · Chuyến cuối · năm năm sau, đêm Noel · 15 shot · 77 giây · phút 20:35*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NỘI · Tàu điện ở xứ tuyết / NỘI · Nhà Đông / NGOẠI · Trạm xe & ghế đá cổng bệnh viện / NGOẠI · Đại lộ đêm
 
@@ -66,7 +66,9 @@ Toàn từ ngoài phố. Cửa đóng, xe sáng đèn chạy tiếp vào phố N
 ## Nhân vật & bộ đồ (tên trên Flow)
 
 - Đông · Năm năm sau
+- Đông · Năm năm sau · Sau lưng
 - Hạ · Năm năm sau
+- Hạ · Năm năm sau · Sau lưng
 - Ông Khánh · Năm năm sau
 
 ## Bảng shot
@@ -82,10 +84,10 @@ Toàn từ ngoài phố. Cửa đóng, xe sáng đèn chạy tiếp vào phố N
 | 20-07 | Thiếu một đêm | 4 | Đông · Năm năm sau | Đông: Năm năm, thiếu một đêm. |
 | 20-08 | Người phụ nữ | 5 | Hạ · Năm năm sau |  |
 | 20-09 | Ghế cuối | 5 | Hạ · Năm năm sau |  |
-| 20-10 | Trong gương | 5 | Đông · Năm năm sau, Hạ · Năm năm sau |  |
+| 20-10 | Trong gương | 5 | Đông · Năm năm sau · Sau lưng, Hạ · Năm năm sau |  |
 | 20-11 | Gõ gậy | 6 | Ông Khánh · Năm năm sau | Ông Khánh: Lần này nói nhanh lên. Tôi già rồi, không chờ được. |
 | 20-12 | Em ơi | 4 | Đông · Năm năm sau | Đông: Em ơi, đến rồi. |
-| 20-13 | Không xuống | 5 | Hạ · Năm năm sau |  |
+| 20-13 | Không xuống | 5 | Hạ · Năm năm sau · Sau lưng, Đông · Năm năm sau · Sau lưng |  |
 | 20-14 | Chưa muốn xuống | 5 | Hạ · Năm năm sau | Hạ: Anh lái tiếp đi. Em chưa muốn xuống. |
 | 20-15 | Cửa đóng | 6 | Text-to-Video |  |
 

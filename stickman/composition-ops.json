@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "rev": 519,
+  "rev": 554,
   "cursor": 1,
   "entries": [
     {
-      "id": "dop_814e484b",
+      "id": "dop_372562f1",
       "label": "addTrack+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addClip+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition",
       "forward": [
         {
@@ -25,7 +25,7 @@
             "id": "t1",
             "startSec": 0,
             "effects": [],
-            "mediaId": "m_59ea25a730b9",
+            "mediaId": "m_a756497a5b47",
             "sourceInSec": 0,
             "sourceOutSec": 1.4
           }
@@ -38,7 +38,7 @@
             "id": "t2",
             "startSec": 1.4,
             "effects": [],
-            "mediaId": "m_47ba8c139801",
+            "mediaId": "m_509706118f36",
             "sourceInSec": 0,
             "sourceOutSec": 1.4
           }
@@ -51,9 +51,9 @@
             "id": "t3",
             "startSec": 2.8,
             "effects": [],
-            "mediaId": "m_1b7caa323a07",
+            "mediaId": "m_aa5b00816dce",
             "sourceInSec": 0,
-            "sourceOutSec": 1.5
+            "sourceOutSec": 1.4
           }
         },
         {
@@ -62,11 +62,11 @@
           "clip": {
             "kind": "media",
             "id": "t4",
-            "startSec": 4.3,
+            "startSec": 4.199999999999999,
             "effects": [],
-            "mediaId": "m_bedece19ee4c",
+            "mediaId": "m_183d7a010c39",
             "sourceInSec": 0,
-            "sourceOutSec": 1.5
+            "sourceOutSec": 1.4
           }
         },
         {
@@ -75,9 +75,9 @@
           "clip": {
             "kind": "media",
             "id": "t5",
-            "startSec": 5.8,
+            "startSec": 5.6,
             "effects": [],
-            "mediaId": "m_1befb0c5ec7b",
+            "mediaId": "m_2a997ee4a93c",
             "sourceInSec": 0,
             "sourceOutSec": 1.4
           }
@@ -88,11 +88,11 @@
           "clip": {
             "kind": "media",
             "id": "t6",
-            "startSec": 7.199999999999999,
+            "startSec": 7,
             "effects": [],
-            "mediaId": "m_79ab68c562fa",
+            "mediaId": "m_f45836a707ad",
             "sourceInSec": 0,
-            "sourceOutSec": 1.5
+            "sourceOutSec": 1.4
           }
         },
         {
@@ -101,9 +101,9 @@
           "clip": {
             "kind": "media",
             "id": "hook",
-            "startSec": 8.7,
+            "startSec": 8.4,
             "effects": [],
-            "mediaId": "m_a7f257c60d0e",
+            "mediaId": "m_a1dd269f1dd9",
             "sourceInSec": 0,
             "sourceOutSec": 4
           }
@@ -114,11 +114,11 @@
           "clip": {
             "kind": "media",
             "id": "c00",
-            "startSec": 12.7,
+            "startSec": 12.4,
             "effects": [],
-            "mediaId": "m_8d65268e164b",
+            "mediaId": "m_908af6886f4e",
             "sourceInSec": 0,
-            "sourceOutSec": 31.03
+            "sourceOutSec": 29.6
           }
         },
         {
@@ -127,11 +127,11 @@
           "clip": {
             "kind": "media",
             "id": "c01",
-            "startSec": 43.730000000000004,
+            "startSec": 42,
             "effects": [],
-            "mediaId": "m_99bde566c475",
+            "mediaId": "m_8029687eb57a",
             "sourceInSec": 0,
-            "sourceOutSec": 47.63
+            "sourceOutSec": 60.63
           }
         },
         {
@@ -140,11 +140,11 @@
           "clip": {
             "kind": "media",
             "id": "c02",
-            "startSec": 91.36000000000001,
+            "startSec": 102.63,
             "effects": [],
-            "mediaId": "m_85779806b740",
+            "mediaId": "m_b1896b79e319",
             "sourceInSec": 0,
-            "sourceOutSec": 58.8
+            "sourceOutSec": 51.73
           }
         },
         {
@@ -153,11 +153,11 @@
           "clip": {
             "kind": "media",
             "id": "c03",
-            "startSec": 150.16000000000003,
+            "startSec": 154.35999999999999,
             "effects": [],
-            "mediaId": "m_97c90b4ffe6d",
+            "mediaId": "m_ebb5e7e25741",
             "sourceInSec": 0,
-            "sourceOutSec": 49.73
+            "sourceOutSec": 45.17
           }
         },
         {
@@ -166,11 +166,11 @@
           "clip": {
             "kind": "media",
             "id": "c04",
-            "startSec": 199.89000000000001,
+            "startSec": 199.52999999999997,
             "effects": [],
-            "mediaId": "m_e323ef093677",
+            "mediaId": "m_232cecf5e425",
             "sourceInSec": 0,
-            "sourceOutSec": 47.27
+            "sourceOutSec": 41.73
           }
         },
         {
@@ -179,11 +179,11 @@
           "clip": {
             "kind": "media",
             "id": "c05",
-            "startSec": 247.16000000000003,
+            "startSec": 241.25999999999996,
             "effects": [],
-            "mediaId": "m_1dd408227532",
+            "mediaId": "m_76c243d184e4",
             "sourceInSec": 0,
-            "sourceOutSec": 46.1
+            "sourceOutSec": 50.2
           }
         },
         {
@@ -192,11 +192,11 @@
           "clip": {
             "kind": "media",
             "id": "c06",
-            "startSec": 293.26000000000005,
+            "startSec": 291.46,
             "effects": [],
-            "mediaId": "m_7becb847a15e",
+            "mediaId": "m_bb917b24e65f",
             "sourceInSec": 0,
-            "sourceOutSec": 42.43
+            "sourceOutSec": 49.83
           }
         },
         {
@@ -205,11 +205,11 @@
           "clip": {
             "kind": "media",
             "id": "c07",
-            "startSec": 335.69000000000005,
+            "startSec": 341.28999999999996,
             "effects": [],
-            "mediaId": "m_1f6b988726a0",
+            "mediaId": "m_358735be51ca",
             "sourceInSec": 0,
-            "sourceOutSec": 47.4
+            "sourceOutSec": 43.87
           }
         },
         {
@@ -218,11 +218,11 @@
           "clip": {
             "kind": "media",
             "id": "c08",
-            "startSec": 383.09000000000003,
+            "startSec": 385.15999999999997,
             "effects": [],
-            "mediaId": "m_7748e0e579c0",
+            "mediaId": "m_d01ccf2eacb5",
             "sourceInSec": 0,
-            "sourceOutSec": 44.13
+            "sourceOutSec": 40.13
           }
         },
         {
@@ -231,11 +231,11 @@
           "clip": {
             "kind": "media",
             "id": "c09",
-            "startSec": 427.22,
+            "startSec": 425.28999999999996,
             "effects": [],
-            "mediaId": "m_578390704f76",
+            "mediaId": "m_a46db94f7a6c",
             "sourceInSec": 0,
-            "sourceOutSec": 49.07
+            "sourceOutSec": 51.7
           }
         },
         {
@@ -244,11 +244,11 @@
           "clip": {
             "kind": "media",
             "id": "c10",
-            "startSec": 476.29,
+            "startSec": 476.98999999999995,
             "effects": [],
-            "mediaId": "m_d9f0e322c125",
+            "mediaId": "m_e3b35fccd0ac",
             "sourceInSec": 0,
-            "sourceOutSec": 56.37
+            "sourceOutSec": 50.53
           }
         },
         {
@@ -257,11 +257,11 @@
           "clip": {
             "kind": "media",
             "id": "c11",
-            "startSec": 532.66,
+            "startSec": 527.52,
             "effects": [],
-            "mediaId": "m_e1aec3598f64",
+            "mediaId": "m_9590132479c5",
             "sourceInSec": 0,
-            "sourceOutSec": 60.17
+            "sourceOutSec": 50.97
           }
         },
         {
@@ -270,11 +270,11 @@
           "clip": {
             "kind": "media",
             "id": "c12",
-            "startSec": 592.8299999999999,
+            "startSec": 578.49,
             "effects": [],
-            "mediaId": "m_ed41567164e8",
+            "mediaId": "m_8ec06558c639",
             "sourceInSec": 0,
-            "sourceOutSec": 55.23
+            "sourceOutSec": 49.17
           }
         },
         {
@@ -283,11 +283,11 @@
           "clip": {
             "kind": "media",
             "id": "c13",
-            "startSec": 648.06,
+            "startSec": 627.66,
             "effects": [],
-            "mediaId": "m_99eec8db011c",
+            "mediaId": "m_7ab194962cef",
             "sourceInSec": 0,
-            "sourceOutSec": 21.83
+            "sourceOutSec": 16.07
           }
         },
         {
@@ -296,9 +296,9 @@
           "clip": {
             "kind": "media",
             "id": "end",
-            "startSec": 669.89,
+            "startSec": 643.73,
             "effects": [],
-            "mediaId": "m_7826db0ed91d",
+            "mediaId": "m_6f87ca25b5e9",
             "sourceInSec": 0,
             "sourceOutSec": 10
           }
@@ -308,7 +308,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "t1",
-            "kind": "slideleft",
+            "kind": "dissolve",
             "durationSec": 0.2
           }
         },
@@ -317,7 +317,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "t2",
-            "kind": "wipeleft",
+            "kind": "dissolve",
             "durationSec": 0.2
           }
         },
@@ -326,7 +326,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "t3",
-            "kind": "fadewhite",
+            "kind": "fade",
             "durationSec": 0.2
           }
         },
@@ -335,7 +335,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "t4",
-            "kind": "slideright",
+            "kind": "dissolve",
             "durationSec": 0.2
           }
         },
@@ -362,7 +362,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c00",
-            "kind": "fadeblack",
+            "kind": "fade",
             "durationSec": 0.4
           }
         },
@@ -371,7 +371,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c01",
-            "kind": "wipeleft",
+            "kind": "dissolve",
             "durationSec": 0.4
           }
         },
@@ -389,7 +389,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c03",
-            "kind": "fadewhite",
+            "kind": "fade",
             "durationSec": 0.4
           }
         },
@@ -398,7 +398,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c04",
-            "kind": "slideleft",
+            "kind": "dissolve",
             "durationSec": 0.4
           }
         },
@@ -407,7 +407,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c05",
-            "kind": "fadeblack",
+            "kind": "fade",
             "durationSec": 0.6
           }
         },
@@ -416,7 +416,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c06",
-            "kind": "circleopen",
+            "kind": "dissolve",
             "durationSec": 0.5
           }
         },
@@ -425,7 +425,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c07",
-            "kind": "wiperight",
+            "kind": "dissolve",
             "durationSec": 0.4
           }
         },
@@ -443,7 +443,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c09",
-            "kind": "wipeup",
+            "kind": "dissolve",
             "durationSec": 0.4
           }
         },
@@ -452,7 +452,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c10",
-            "kind": "fadeblack",
+            "kind": "fade",
             "durationSec": 0.5
           }
         },
@@ -461,7 +461,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c11",
-            "kind": "circleopen",
+            "kind": "dissolve",
             "durationSec": 0.5
           }
         },
@@ -479,7 +479,7 @@
           "trackId": "v0",
           "transition": {
             "afterClipId": "c13",
-            "kind": "fadeblack",
+            "kind": "fade",
             "durationSec": 0.5
           }
         }
@@ -676,374 +676,6 @@
         {
           "op": "removeTrack",
           "trackId": "v0"
-        }
-      ]
-    },
-    {
-      "id": "dop_df990f23",
-      "label": "addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition+addTransition",
-      "forward": [
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t1",
-            "kind": "dissolve",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t2",
-            "kind": "dissolve",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t3",
-            "kind": "dissolve",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t4",
-            "kind": "dissolve",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t5",
-            "kind": "dissolve",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "hook",
-            "kind": "fade",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c00",
-            "kind": "fade",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c01",
-            "kind": "dissolve",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c02",
-            "kind": "dissolve",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c03",
-            "kind": "dissolve",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c04",
-            "kind": "dissolve",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c05",
-            "kind": "fade",
-            "durationSec": 0.6
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c06",
-            "kind": "dissolve",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c07",
-            "kind": "dissolve",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c08",
-            "kind": "dissolve",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c09",
-            "kind": "dissolve",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c10",
-            "kind": "fade",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c11",
-            "kind": "dissolve",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c12",
-            "kind": "fade",
-            "durationSec": 0.6
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c13",
-            "kind": "fade",
-            "durationSec": 0.5
-          }
-        }
-      ],
-      "inverse": [
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c13",
-            "kind": "fadeblack",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c12",
-            "kind": "fade",
-            "durationSec": 0.6
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c11",
-            "kind": "circleopen",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c10",
-            "kind": "fadeblack",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c09",
-            "kind": "wipeup",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c08",
-            "kind": "dissolve",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c07",
-            "kind": "wiperight",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c06",
-            "kind": "circleopen",
-            "durationSec": 0.5
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c05",
-            "kind": "fadeblack",
-            "durationSec": 0.6
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c04",
-            "kind": "slideleft",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c03",
-            "kind": "fadewhite",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c02",
-            "kind": "dissolve",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c01",
-            "kind": "wipeleft",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "c00",
-            "kind": "fadeblack",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "hook",
-            "kind": "fade",
-            "durationSec": 0.4
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t5",
-            "kind": "dissolve",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t4",
-            "kind": "slideright",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t3",
-            "kind": "fadewhite",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t2",
-            "kind": "wipeleft",
-            "durationSec": 0.2
-          }
-        },
-        {
-          "op": "addTransition",
-          "trackId": "v0",
-          "transition": {
-            "afterClipId": "t1",
-            "kind": "slideleft",
-            "durationSec": 0.2
-          }
         }
       ]
     }

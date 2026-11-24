@@ -1,0 +1,731 @@
+1
+00:00:11,250 --> 00:00:13,040
+January 1925
+
+2
+00:00:13,040 --> 00:00:14,560
+In a small town at the edge of the
+
+3
+00:00:14,560 --> 00:00:15,360
+frozen sea,
+
+4
+00:00:15,360 --> 00:00:16,972
+children are getting sick
+
+5
+00:00:17,122 --> 00:00:18,752
+The only medicine that can save them is
+
+6
+00:00:18,752 --> 00:00:20,244
+hundreds of miles away
+
+7
+00:00:20,394 --> 00:00:21,184
+There are no roads
+
+8
+00:00:21,184 --> 00:00:22,584
+The sea is frozen solid
+
+9
+00:00:22,584 --> 00:00:25,184
+And flying in this cold is too dangerous
+
+10
+00:00:25,477 --> 00:00:27,347
+So the town turns to the oldest way to
+
+11
+00:00:27,347 --> 00:00:28,547
+travel in Alaska:
+
+12
+00:00:28,547 --> 00:00:29,492
+dogs
+
+13
+00:00:29,642 --> 00:00:31,392
+This is the true story of the race to
+
+14
+00:00:31,392 --> 00:00:32,832
+save Nome
+
+15
+00:00:36,017 --> 00:00:37,967
+Nome began as a gold rush town on the
+
+16
+00:00:37,967 --> 00:00:39,827
+shore of the Bering Sea
+
+17
+00:00:39,977 --> 00:00:41,407
+By 1925,
+
+18
+00:00:41,407 --> 00:00:43,995
+about fourteen hundred people lived there
+
+19
+00:00:44,145 --> 00:00:44,695
+Every winter,
+
+20
+00:00:44,695 --> 00:00:45,575
+the sea froze,
+
+21
+00:00:45,575 --> 00:00:47,655
+and the last ship of the year sailed away
+
+22
+00:00:47,655 --> 00:00:49,023
+until spring
+
+23
+00:00:49,173 --> 00:00:49,843
+From then on,
+
+24
+00:00:49,843 --> 00:00:51,563
+the town was cut off from the world
+
+25
+00:00:51,563 --> 00:00:52,923
+Mail came by dog sled,
+
+26
+00:00:52,923 --> 00:00:54,747
+and the trip took weeks
+
+27
+00:00:54,897 --> 00:00:56,567
+And there was only one doctor in town:
+
+28
+00:00:56,567 --> 00:00:58,007
+Curtis Welch
+
+29
+00:01:01,750 --> 00:01:02,393
+In January,
+
+30
+00:01:02,393 --> 00:01:02,927
+Dr
+
+31
+00:01:02,927 --> 00:01:05,062
+Welch saw something that frightened him:
+
+32
+00:01:05,062 --> 00:01:06,182
+diphtheria
+
+33
+00:01:06,871 --> 00:01:09,141
+Diphtheria is a bacterial infection that can
+
+34
+00:01:09,141 --> 00:01:10,541
+swell and block the throat
+
+35
+00:01:10,541 --> 00:01:13,095
+It is especially deadly for children
+
+36
+00:01:13,245 --> 00:01:14,515
+There was a medicine that worked,
+
+37
+00:01:14,515 --> 00:01:15,955
+called antitoxin
+
+38
+00:01:16,682 --> 00:01:18,272
+But Welch's supply had expired,
+
+39
+00:01:18,272 --> 00:01:20,232
+and a new shipment would not arrive until
+
+40
+00:01:20,232 --> 00:01:21,339
+spring
+
+41
+00:01:21,489 --> 00:01:21,839
+Without it,
+
+42
+00:01:21,839 --> 00:01:23,479
+the disease could spread through the whole
+
+43
+00:01:23,479 --> 00:01:23,799
+town,
+
+44
+00:01:23,799 --> 00:01:26,199
+and the villages around it
+
+45
+00:01:29,383 --> 00:01:31,453
+Officials searched for antitoxin,
+
+46
+00:01:31,453 --> 00:01:33,727
+and found a batch in Anchorage
+
+47
+00:01:33,877 --> 00:01:35,667
+A train could carry it north to the end
+
+48
+00:01:35,667 --> 00:01:36,107
+of the line,
+
+49
+00:01:36,107 --> 00:01:38,441
+at a town called Nenana
+
+50
+00:01:38,591 --> 00:01:39,941
+But from Nenana to Nome,
+
+51
+00:01:39,941 --> 00:01:42,701
+there were still 674 miles of frozen
+
+52
+00:01:42,701 --> 00:01:43,821
+wilderness
+
+53
+00:01:44,060 --> 00:01:45,570
+Ships could not get through the ice
+
+54
+00:01:45,570 --> 00:01:48,130
+The few planes in Alaska had open cockpits,
+
+55
+00:01:48,130 --> 00:01:50,530
+and flying them in deep winter was judged too
+
+56
+00:01:50,530 --> 00:01:51,650
+dangerous
+
+57
+00:01:51,955 --> 00:01:54,555
+There was only one option left
+
+58
+00:01:57,717 --> 00:01:58,747
+The plan was a relay,
+
+59
+00:01:58,747 --> 00:02:00,656
+like passing a baton
+
+60
+00:02:00,806 --> 00:02:03,756
+Twenty mushers and about 150 sled dogs would
+
+61
+00:02:03,756 --> 00:02:06,310
+wait at stops along the mail trail
+
+62
+00:02:06,460 --> 00:02:08,090
+Each team would race its section,
+
+63
+00:02:08,090 --> 00:02:10,514
+then hand the package to the next
+
+64
+00:02:10,664 --> 00:02:12,774
+The serum was packed in a twenty-pound bundle,
+
+65
+00:02:12,774 --> 00:02:14,496
+wrapped against the cold
+
+66
+00:02:14,646 --> 00:02:16,876
+The mail usually needed weeks for this trail
+
+67
+00:02:16,876 --> 00:02:17,236
+Dr
+
+68
+00:02:17,236 --> 00:02:19,396
+Welch feared the serum would last only about
+
+69
+00:02:19,396 --> 00:02:21,996
+six days in the brutal cold
+
+70
+00:02:25,183 --> 00:02:27,133
+On the night of January 27th,
+
+71
+00:02:27,133 --> 00:02:28,253
+the first musher,
+
+72
+00:02:28,253 --> 00:02:29,413
+Wild Bill Shannon,
+
+73
+00:02:29,413 --> 00:02:31,361
+set off from Nenana
+
+74
+00:02:31,511 --> 00:02:32,501
+The cold was brutal,
+
+75
+00:02:32,501 --> 00:02:34,021
+often far below zero,
+
+76
+00:02:34,021 --> 00:02:36,528
+and the wind cut through fur and skin
+
+77
+00:02:36,678 --> 00:02:38,201
+At roadhouses along the trail,
+
+78
+00:02:38,201 --> 00:02:40,788
+mushers warmed the package by the stove before
+
+79
+00:02:40,788 --> 00:02:42,287
+heading out again
+
+80
+00:02:42,437 --> 00:02:43,307
+Team after team,
+
+81
+00:02:43,307 --> 00:02:44,667
+the serum moved west,
+
+82
+00:02:44,667 --> 00:02:45,427
+through forests,
+
+83
+00:02:45,427 --> 00:02:48,027
+along frozen rivers and across open tundra
+
+84
+00:02:48,811 --> 00:02:49,241
+Meanwhile,
+
+85
+00:02:49,241 --> 00:02:51,841
+the most famous musher in Alaska was racing to
+
+86
+00:02:51,841 --> 00:02:53,281
+meet it
+
+87
+00:02:56,350 --> 00:02:58,180
+His name was Leonhard Seppala,
+
+88
+00:02:58,180 --> 00:03:00,496
+a champion sled dog racer
+
+89
+00:03:00,646 --> 00:03:02,036
+His lead dog was Togo,
+
+90
+00:03:02,036 --> 00:03:04,796
+a small husky who was already twelve years old,
+
+91
+00:03:04,796 --> 00:03:06,685
+old for a sled dog
+
+92
+00:03:06,835 --> 00:03:07,985
+But Togo was fast,
+
+93
+00:03:07,985 --> 00:03:08,465
+smart,
+
+94
+00:03:08,465 --> 00:03:09,905
+and fearless
+
+95
+00:03:10,121 --> 00:03:12,351
+Seppala's team set out from the Nome side,
+
+96
+00:03:12,351 --> 00:03:14,755
+heading east to meet the serum halfway
+
+97
+00:03:14,905 --> 00:03:15,655
+To save time,
+
+98
+00:03:15,655 --> 00:03:17,895
+they would have to take a shortcut most mushers
+
+99
+00:03:17,895 --> 00:03:19,655
+would never dare
+
+100
+00:03:22,850 --> 00:03:25,000
+The shortcut went straight across Norton Sound,
+
+101
+00:03:25,000 --> 00:03:27,600
+a huge bay of frozen sea ice
+
+102
+00:03:27,936 --> 00:03:29,766
+The ice could crack and break apart at any
+
+103
+00:03:29,766 --> 00:03:30,086
+moment,
+
+104
+00:03:30,086 --> 00:03:31,926
+and drift out to sea with a team on
+
+105
+00:03:31,926 --> 00:03:32,755
+it
+
+106
+00:03:32,905 --> 00:03:34,349
+In darkness and howling wind,
+
+107
+00:03:34,349 --> 00:03:36,175
+Togo led the team across,
+
+108
+00:03:36,175 --> 00:03:38,340
+keeping them on solid ice
+
+109
+00:03:38,490 --> 00:03:39,000
+They made it,
+
+110
+00:03:39,000 --> 00:03:39,840
+met the serum,
+
+111
+00:03:39,840 --> 00:03:42,440
+and crossed the ice again on the way back
+
+112
+00:03:42,717 --> 00:03:44,307
+It was one of the most dangerous parts of
+
+113
+00:03:44,307 --> 00:03:46,067
+the whole journey
+
+114
+00:03:49,350 --> 00:03:51,380
+Most teams in the relay ran around thirty
+
+115
+00:03:51,380 --> 00:03:52,401
+miles
+
+116
+00:03:52,551 --> 00:03:56,141
+Seppala and Togo covered about 264 miles in
+
+117
+00:03:56,141 --> 00:03:56,661
+total,
+
+118
+00:03:56,661 --> 00:03:58,648
+more than any other team
+
+119
+00:03:58,798 --> 00:04:00,588
+They carried the serum across the longest and
+
+120
+00:04:00,588 --> 00:04:02,526
+toughest stretch of the route
+
+121
+00:04:02,676 --> 00:04:03,546
+Then they handed it on
+
+122
+00:04:03,546 --> 00:04:06,026
+The final legs belonged to two other mushers:
+
+123
+00:04:06,026 --> 00:04:08,426
+Charlie Olson and Gunnar Kaasen
+
+124
+00:04:08,784 --> 00:04:10,654
+And Kaasen's lead dog was about to become
+
+125
+00:04:10,654 --> 00:04:11,008
+famous:
+
+126
+00:04:11,008 --> 00:04:12,128
+Balto
+
+127
+00:04:16,017 --> 00:04:17,367
+Kaasen set out at night,
+
+128
+00:04:17,367 --> 00:04:19,629
+straight into a terrible blizzard
+
+129
+00:04:19,779 --> 00:04:21,529
+The snow was so thick he could barely see
+
+130
+00:04:21,529 --> 00:04:23,426
+the dogs in front of him
+
+131
+00:04:23,576 --> 00:04:25,606
+But Balto kept the team on the trail,
+
+132
+00:04:25,606 --> 00:04:27,792
+finding the way through the storm
+
+133
+00:04:27,942 --> 00:04:28,572
+At one point,
+
+134
+00:04:28,572 --> 00:04:31,172
+a gust of wind flipped the sled over
+
+135
+00:04:31,449 --> 00:04:32,919
+The precious package was gone,
+
+136
+00:04:32,919 --> 00:04:34,999
+somewhere in the snow
+
+137
+00:04:38,483 --> 00:04:40,473
+Kaasen took off his mittens and searched the
+
+138
+00:04:40,473 --> 00:04:42,513
+snow with his bare hands
+
+139
+00:04:42,663 --> 00:04:43,093
+Finally,
+
+140
+00:04:43,093 --> 00:04:44,386
+his fingers touched the bundle
+
+141
+00:04:44,386 --> 00:04:46,244
+The serum was safe
+
+142
+00:04:46,394 --> 00:04:47,504
+At the next relay stop,
+
+143
+00:04:47,504 --> 00:04:49,948
+the fresh team was not ready to go
+
+144
+00:04:50,098 --> 00:04:51,088
+Rather than lose time,
+
+145
+00:04:51,088 --> 00:04:53,688
+Kaasen decided to keep going himself
+
+146
+00:04:54,034 --> 00:04:56,634
+Nome was only about twenty miles away
+
+147
+00:05:00,383 --> 00:05:02,773
+At about 5:30 in the morning on February 2nd,
+
+148
+00:05:02,773 --> 00:05:05,373
+Kaasen and Balto pulled into Nome
+
+149
+00:05:05,980 --> 00:05:07,890
+The relay had taken just five and a half
+
+150
+00:05:07,890 --> 00:05:08,250
+days,
+
+151
+00:05:08,250 --> 00:05:10,195
+a record for that trail
+
+152
+00:05:10,345 --> 00:05:10,695
+Dr
+
+153
+00:05:10,695 --> 00:05:13,295
+Welch began giving the antitoxin right away
+
+154
+00:05:14,166 --> 00:05:16,036
+More serum followed in a second relay,
+
+155
+00:05:16,036 --> 00:05:18,116
+and within weeks the epidemic was under
+
+156
+00:05:18,116 --> 00:05:19,236
+control
+
+157
+00:05:19,425 --> 00:05:21,615
+The town had been saved by twenty mushers and
+
+158
+00:05:21,615 --> 00:05:23,055
+their dogs
+
+159
+00:05:26,517 --> 00:05:27,827
+Balto became a celebrity
+
+160
+00:05:27,827 --> 00:05:29,947
+In December 1925,
+
+161
+00:05:29,947 --> 00:05:32,267
+a statue of him was unveiled in New York's
+
+162
+00:05:32,267 --> 00:05:33,027
+Central Park,
+
+163
+00:05:33,027 --> 00:05:35,539
+with Balto himself there to see it
+
+164
+00:05:35,689 --> 00:05:37,399
+Many mushers felt that Togo,
+
+165
+00:05:37,399 --> 00:05:39,639
+who ran the longest and most dangerous stretch,
+
+166
+00:05:39,639 --> 00:05:41,380
+deserved more credit
+
+167
+00:05:41,530 --> 00:05:41,960
+Today,
+
+168
+00:05:41,960 --> 00:05:44,200
+historians agree that every team was part of
+
+169
+00:05:44,200 --> 00:05:45,409
+the rescue
+
+170
+00:05:45,559 --> 00:05:46,309
+And every March,
+
+171
+00:05:46,309 --> 00:05:49,149
+the Iditarod sled dog race follows parts of the
+
+172
+00:05:49,149 --> 00:05:49,829
+old trail,
+
+173
+00:05:49,829 --> 00:05:52,429
+in memory of the race to save Nome
+
+174
+00:05:53,150 --> 00:05:53,940
+Twenty mushers
+
+175
+00:05:53,940 --> 00:05:55,420
+About 150 dogs
+
+176
+00:05:55,420 --> 00:05:56,540
+One small package,
+
+177
+00:05:56,540 --> 00:05:59,050
+carried through the coldest place in America
+
+178
+00:05:59,200 --> 00:06:00,862
+Who do you think deserves the most credit:
+
+179
+00:06:00,862 --> 00:06:01,566
+Balto,
+
+180
+00:06:01,566 --> 00:06:02,270
+Togo,
+
+181
+00:06:02,270 --> 00:06:03,776
+or the mushers?
+
+182
+00:06:03,926 --> 00:06:05,380
+Tell me in the comments
+
+183
+00:06:05,530 --> 00:06:08,130
+Subscribe so you don't miss the next episode

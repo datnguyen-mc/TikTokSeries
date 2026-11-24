@@ -1,6 +1,6 @@
 # CẢNH 19 · ANH ĐÓN EM
 
-*Hồi 3 · Chuyến cuối · rạng sáng 25, sân bay · 13 shot · 61 giây · phút 19:32*
+*Hồi 3 · Chuyến cuối · rạng sáng 25, sân bay · 13 shot · 61 giây · phút 19:34*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Làn xe trước sân bay
 

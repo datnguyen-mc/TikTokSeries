@@ -1,6 +1,6 @@
 # CẢNH 15 · PHỐ NHÀ THỜ
 
-*Hồi 3 · Chuyến cuối · đêm Noel: trạm viện quá nửa đêm, rồi phố nhà thờ tan lễ · 16 shot · 78 giây · phút 14:57*
+*Hồi 3 · Chuyến cuối · đêm Noel: trạm viện quá nửa đêm, rồi phố nhà thờ tan lễ · 16 shot · 78 giây · phút 14:59*
 
 **Bối cảnh:** NGOẠI · Phố nhà thờ tan lễ / NỘI · Trong xe buýt đêm / NỘI/NGOẠI · Chòi điều độ bến xe
 
@@ -72,6 +72,7 @@ Cận. Hạ sững sờ nhìn anh khi xe bắt đầu nhích. Câu treo.
 - Đông · Đồng phục lái xe
 - Đông · Đồng phục lái xe · Sau lưng
 - Hạ · Áo dạ về ca · Khăn đỏ
+- Hạ · Áo dạ về ca · Khăn đỏ · Sau lưng
 - Bà Huệ · Áo dài đi lễ
 - Anh Toàn · Áo phao bến xe
 
@@ -88,10 +89,10 @@ Cận. Hạ sững sờ nhìn anh khi xe bắt đầu nhích. Câu treo.
 | 15-07 | Mẹ đi về đi | 4 | Đông · Đồng phục lái xe | Đông: Mẹ đi về đi! |
 | 15-08 | Thấy Hạ | 5 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Con bé đây à? Cháu tên gì? |
 | 15-09 | Cháu tên Hạ | 4 | Hạ · Áo dạ về ca · Khăn đỏ | Hạ: Dạ, cháu tên Hạ. |
-| 15-10 | Nó tên Hạ | 5 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Hai năm! Nó tên Hạ! |
+| 15-10 | Nó tên Hạ | 5 | Bà Huệ · Áo dài đi lễ, Đông · Đồng phục lái xe · Sau lưng | Bà Huệ: Hai năm! Nó tên Hạ! |
 | 15-11 | Găng đưa chưa | 5 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Đôi găng đưa chưa? |
 | 15-12 | Mẹ! | 4 | Đông · Đồng phục lái xe | Đông: Mẹ! |
-| 15-13 | Giống bố nó | 6 | Bà Huệ · Áo dài đi lễ | Bà Huệ: Nó lái đêm giống bố nó. Cháu nhắc nó mặc thêm áo. |
+| 15-13 | Giống bố nó | 6 | Bà Huệ · Áo dài đi lễ, Hạ · Áo dạ về ca · Khăn đỏ · Sau lưng | Bà Huệ: Nó lái đêm giống bố nó. Cháu nhắc nó mặc thêm áo. |
 | 15-14 | Hạ lặng | 4 | Hạ · Áo dạ về ca · Khăn đỏ |  |
 | 15-15 | Toàn quát | 6 | Anh Toàn · Áo phao bến xe | Anh Toàn: Đông! Mai lên ca ngày. Đừng từ chối như hai năm nay nữa nhé! |
 | 15-16 | Hai năm à | 5 | Hạ · Áo dạ về ca · Khăn đỏ | Hạ: Anh từ chối ca ngày hai năm à? |

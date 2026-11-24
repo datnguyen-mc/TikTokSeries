@@ -1,0 +1,22 @@
+CHỊ ƠI, ĐẾN RỒI — BẢN DỰNG v5 (1080p) · sửa theo góp ý của anh sau bản v4
+=========================================================================
+File: CHI-OI-DEN-ROI_ban-dung-v5_1080p.mp4 (+ .srt cùng tên) · 19:07 · 1920x1080 · 24fps
+Kiểm tra máy: thứ tự khung đúng ở 31 điểm, hình–tiếng khớp mẫu, phụ đề theo giờ nói thật.
+
+GÓP Ý (mốc bản v4)                          SHOT          CÁCH SỬA
+10:50 ông được bế mà không có mũ            12-07         LÀM LẠI: ông đội mũ dạ, nhắm mắt, gục vào vai Đông.
+Vào viện đắp tấm bạc thay vì chăn           13-01…13-08   LÀM LẠI cả 8 shot: chăn len bệnh viện màu kem.
+11:30 người nằm không phải ông              13-07         LÀM LẠI: đúng ông Khánh (mũ, khăn đỏ, áo dạ), ống thở nhỏ thay mặt nạ.
+13:21 Hạ bước lên xe 2 lần                  15-03         DỰNG: shot bắt đầu khi Hạ đã tới ghế và ngồi xuống.
+14:56 góc quay Hạ không hợp lý              16-10         LÀM LẠI: từ sau ghế lái nhìn sang Hạ ở ghế đầu, sau lưng cô chỉ là cửa sổ.
+Ông quàng khăn trông AI                     14-14         LÀM LẠI: ông cầm khăn, đặt nhẹ quanh cổ Hạ, vỗ một cái; động tác nhỏ, chậm.
+15:43 ngược góc quay                        17-07         DỰNG: lật ngang cho khớp hướng 17-06 / 17-09.
+15:54 Đông phải ngồi ở vô lăng              17-09         LÀM LẠI: máy trên taplô, Đông sau vô lăng.
+15:58 góc quay Hạ sai                       17-10         LÀM LẠI: từ sau ghế lái, Hạ đứng dậy ở ghế đầu bước sang bên tài xế.
+Không cần che biển số                       nhiều shot    DỰNG: bỏ toàn bộ vùng che biển số / bảng số tuyến trên xe.
+                                                          (Giữ che: logo VTV 17-15, logo cốc mì 04-05 & 15-15, chữ @ 05-05,
+                                                          chữ trên kính chòi 15-15, chữ DEPARTURES 19-10, bảng tàu điện 20-03.)
+Thêm: 13-02 clip mới có viền đen → phóng nhẹ cho đầy khung; 13-02 và 13-07 cắt đuôi trước tiếng thừa.
+
+TÍN DỤNG FLOW ĐỢT NÀY: 13 shot × 1 lần = 207 credit.
+Clip cũ: film/clips_v1/ (hậu tố _v4 là bản trước của các shot sửa lần này).

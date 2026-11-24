@@ -1,0 +1,3566 @@
+[
+ {
+  "id": "01-01",
+  "scene": "01",
+  "name": "Hai ô cửa",
+  "secs": 5,
+  "place": "PN",
+  "attach": [],
+  "prompt": "film/c01/01-01.txt",
+  "output": "film/clips/01-01.mp4"
+ },
+ {
+  "id": "01-02",
+  "scene": "01",
+  "name": "Tôi chết rồi",
+  "secs": 6,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-02.txt",
+  "output": "film/clips/01-02.mp4"
+ },
+ {
+  "id": "01-03",
+  "scene": "01",
+  "name": "Tiếng ngân nga",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c01/01-03.txt",
+  "output": "film/clips/01-03.mp4"
+ },
+ {
+  "id": "01-04",
+  "scene": "01",
+  "name": "Ngân nghe thấy",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-04.txt",
+  "output": "film/clips/01-04.mp4"
+ },
+ {
+  "id": "01-05",
+  "scene": "01",
+  "name": "Chị anh nghe thấy",
+  "secs": 9,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà",
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c01/01-05.txt",
+  "output": "film/clips/01-05.mp4"
+ },
+ {
+  "id": "01-06",
+  "scene": "01",
+  "name": "Tháo tai nghe",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-06.txt",
+  "output": "film/clips/01-06.mp4"
+ },
+ {
+  "id": "01-07",
+  "scene": "01",
+  "name": "Điện thoại rung",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-07.txt",
+  "output": "film/clips/01-07.mp4"
+ },
+ {
+  "id": "01-08",
+  "scene": "01",
+  "name": "Tiếp khách",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c01/01-08.txt",
+  "output": "film/clips/01-08.mp4"
+ },
+ {
+  "id": "01-09",
+  "scene": "01",
+  "name": "Áp tai",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-09.txt",
+  "output": "film/clips/01-09.mp4"
+ },
+ {
+  "id": "01-10",
+  "scene": "01",
+  "name": "Ồn lắm",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c01/01-10.txt",
+  "output": "film/clips/01-10.mp4"
+ },
+ {
+  "id": "01-11",
+  "scene": "01",
+  "name": "Một gang tay",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-11.txt",
+  "output": "film/clips/01-11.mp4"
+ },
+ {
+  "id": "01-12",
+  "scene": "01",
+  "name": "Con không ngủ được",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Bin · Đồ ngủ",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-12.txt",
+  "output": "film/clips/01-12.mp4"
+ },
+ {
+  "id": "01-13",
+  "scene": "01",
+  "name": "Ba tiếng gõ",
+  "secs": 6,
+  "place": "PAN",
+  "attach": [
+   "Bin · Đồ ngủ",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c01/01-13.txt",
+  "output": "film/clips/01-13.mp4"
+ },
+ {
+  "id": "01-14",
+  "scene": "01",
+  "name": "Nhà bên đóng đinh",
+  "secs": 7,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c01/01-14.txt",
+  "output": "film/clips/01-14.mp4"
+ },
+ {
+  "id": "01-15",
+  "scene": "01",
+  "name": "Nghề của mẹ",
+  "secs": 7,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Bin · Đồ ngủ"
+  ],
+  "prompt": "film/c01/01-15.txt",
+  "output": "film/clips/01-15.mp4"
+ },
+ {
+  "id": "02-01",
+  "scene": "02",
+  "name": "Về sáng",
+  "secs": 7,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c02/02-01.txt",
+  "output": "film/clips/02-01.mp4"
+ },
+ {
+  "id": "02-02",
+  "scene": "02",
+  "name": "Xoay nhẫn",
+  "secs": 4,
+  "place": "PBM",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c02/02-02.txt",
+  "output": "film/clips/02-02.mp4"
+ },
+ {
+  "id": "02-03",
+  "scene": "02",
+  "name": "Mùi hoa ly",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c02/02-03.txt",
+  "output": "film/clips/02-03.mp4"
+ },
+ {
+  "id": "02-04",
+  "scene": "02",
+  "name": "Thay áo",
+  "secs": 6,
+  "place": "PBM",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c02/02-04.txt",
+  "output": "film/clips/02-04.mp4"
+ },
+ {
+  "id": "02-05",
+  "scene": "02",
+  "name": "Đi học",
+  "secs": 6,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Bin · Đồng phục đi học"
+  ],
+  "prompt": "film/c02/02-05.txt",
+  "output": "film/clips/02-05.mp4"
+ },
+ {
+  "id": "02-06",
+  "scene": "02",
+  "name": "Hành lang",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Bin · Đồng phục đi học"
+  ],
+  "prompt": "film/c02/02-06.txt",
+  "output": "film/clips/02-06.mp4"
+ },
+ {
+  "id": "02-07",
+  "scene": "02",
+  "name": "Đôi dép ngôi sao",
+  "secs": 4,
+  "place": "PE",
+  "attach": [],
+  "prompt": "film/c02/02-07.txt",
+  "output": "film/clips/02-07.mp4"
+ },
+ {
+  "id": "02-08",
+  "scene": "02",
+  "name": "Dép của bố",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Bin · Đồng phục đi học"
+  ],
+  "prompt": "film/c02/02-08.txt",
+  "output": "film/clips/02-08.mp4"
+ },
+ {
+  "id": "02-09",
+  "scene": "02",
+  "name": "Ngân ra cửa",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c02/02-09.txt",
+  "output": "film/clips/02-09.mp4"
+ },
+ {
+  "id": "02-10",
+  "scene": "02",
+  "name": "Sửa bóng đèn",
+  "secs": 7,
+  "place": "PE",
+  "attach": [
+   "Hưng · Com-lê xanh",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c02/02-10.txt",
+  "output": "film/clips/02-10.mp4"
+ },
+ {
+  "id": "02-11",
+  "scene": "02",
+  "name": "Bà Lụa",
+  "secs": 8,
+  "place": "PE",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận",
+   "Bin · Đồng phục đi học"
+  ],
+  "prompt": "film/c02/02-11.txt",
+  "output": "film/clips/02-11.mp4"
+ },
+ {
+  "id": "02-12",
+  "scene": "02",
+  "name": "Muộn làm",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Hưng · Com-lê xanh",
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c02/02-12.txt",
+  "output": "film/clips/02-12.mp4"
+ },
+ {
+  "id": "02-13",
+  "scene": "02",
+  "name": "Sắp biết",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c02/02-13.txt",
+  "output": "film/clips/02-13.mp4"
+ },
+ {
+  "id": "03-01",
+  "scene": "03",
+  "name": "Chuông cửa",
+  "secs": 5,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c03/03-01.txt",
+  "output": "film/clips/03-01.mp4"
+ },
+ {
+  "id": "03-02",
+  "scene": "03",
+  "name": "Em chào chị",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà · Sau lưng",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c03/03-02.txt",
+  "output": "film/clips/03-02.mp4"
+ },
+ {
+  "id": "03-03",
+  "scene": "03",
+  "name": "Người yêu anh Hưng",
+  "secs": 7,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà · Sau lưng",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c03/03-03.txt",
+  "output": "film/clips/03-03.mp4"
+ },
+ {
+  "id": "03-04",
+  "scene": "03",
+  "name": "Một nhịp",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c03/03-04.txt",
+  "output": "film/clips/03-04.mp4"
+ },
+ {
+  "id": "03-05",
+  "scene": "03",
+  "name": "Em trai chị",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c03/03-05.txt",
+  "output": "film/clips/03-05.mp4"
+ },
+ {
+  "id": "03-06",
+  "scene": "03",
+  "name": "Chị là chị gái nó",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem · Sau lưng",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c03/03-06.txt",
+  "output": "film/clips/03-06.mp4"
+ },
+ {
+  "id": "03-07",
+  "scene": "03",
+  "name": "Nhà ấm cúng",
+  "secs": 5,
+  "place": "PBD",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c03/03-07.txt",
+  "output": "film/clips/03-07.mp4"
+ },
+ {
+  "id": "03-08",
+  "scene": "03",
+  "name": "Úp ảnh",
+  "secs": 4,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c03/03-08.txt",
+  "output": "film/clips/03-08.mp4"
+ },
+ {
+  "id": "03-09",
+  "scene": "03",
+  "name": "Pha trà",
+  "secs": 6,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c03/03-09.txt",
+  "output": "film/clips/03-09.mp4"
+ },
+ {
+  "id": "04-01",
+  "scene": "04",
+  "name": "Gần một năm",
+  "secs": 8,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c04/04-01.txt",
+  "output": "film/clips/04-01.mp4"
+ },
+ {
+  "id": "04-02",
+  "scene": "04",
+  "name": "Chị thương em trai",
+  "secs": 6,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà · Sau lưng",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c04/04-02.txt",
+  "output": "film/clips/04-02.mp4"
+ },
+ {
+  "id": "04-03",
+  "scene": "04",
+  "name": "Mất năm nào",
+  "secs": 6,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c04/04-03.txt",
+  "output": "film/clips/04-03.mp4"
+ },
+ {
+  "id": "04-04",
+  "scene": "04",
+  "name": "Năm cháu lên ba",
+  "secs": 7,
+  "place": "PBD",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c04/04-04.txt",
+  "output": "film/clips/04-04.mp4"
+ },
+ {
+  "id": "04-05",
+  "scene": "04",
+  "name": "Chết lâu rồi",
+  "secs": 5,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c04/04-05.txt",
+  "output": "film/clips/04-05.mp4"
+ },
+ {
+  "id": "04-06",
+  "scene": "04",
+  "name": "Vì sao",
+  "secs": 5,
+  "place": "PBD",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c04/04-06.txt",
+  "output": "film/clips/04-06.mp4"
+ },
+ {
+  "id": "04-07",
+  "scene": "04",
+  "name": "Vì tin người",
+  "secs": 4,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c04/04-07.txt",
+  "output": "film/clips/04-07.mp4"
+ },
+ {
+  "id": "04-08",
+  "scene": "04",
+  "name": "Con về rồi",
+  "secs": 5,
+  "place": "PBD",
+  "attach": [
+   "Bin · Đồng phục đi học"
+  ],
+  "prompt": "film/c04/04-08.txt",
+  "output": "film/clips/04-08.mp4"
+ },
+ {
+  "id": "04-09",
+  "scene": "04",
+  "name": "Gọi là mẹ",
+  "secs": 4,
+  "place": "PBD",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c04/04-09.txt",
+  "output": "film/clips/04-09.mp4"
+ },
+ {
+  "id": "04-10",
+  "scene": "04",
+  "name": "Quen miệng",
+  "secs": 5,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c04/04-10.txt",
+  "output": "film/clips/04-10.mp4"
+ },
+ {
+  "id": "04-11",
+  "scene": "04",
+  "name": "Dép của bố",
+  "secs": 6,
+  "place": "PBD",
+  "attach": [
+   "Bin · Đồng phục đi học · Sau lưng",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c04/04-11.txt",
+  "output": "film/clips/04-11.mp4"
+ },
+ {
+  "id": "04-12",
+  "scene": "04",
+  "name": "Sửa bóng đèn",
+  "secs": 6,
+  "place": "PBD",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c04/04-12.txt",
+  "output": "film/clips/04-12.mp4"
+ },
+ {
+  "id": "04-13",
+  "scene": "04",
+  "name": "Khéo tay",
+  "secs": 6,
+  "place": "PBD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c04/04-13.txt",
+  "output": "film/clips/04-13.mp4"
+ },
+ {
+  "id": "04-14",
+  "scene": "04",
+  "name": "Bin vào phòng",
+  "secs": 4,
+  "place": "PBD",
+  "attach": [
+   "Bin · Đồng phục đi học · Sau lưng"
+  ],
+  "prompt": "film/c04/04-14.txt",
+  "output": "film/clips/04-14.mp4"
+ },
+ {
+  "id": "05-01",
+  "scene": "05",
+  "name": "Mâm cơm",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c05/05-01.txt",
+  "output": "film/clips/05-01.mp4"
+ },
+ {
+  "id": "05-02",
+  "scene": "05",
+  "name": "Anh về rồi đây",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c05/05-02.txt",
+  "output": "film/clips/05-02.mp4"
+ },
+ {
+  "id": "05-03",
+  "scene": "05",
+  "name": "Em sang ăn cơm",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c05/05-03.txt",
+  "output": "film/clips/05-03.mp4"
+ },
+ {
+  "id": "05-04",
+  "scene": "05",
+  "name": "Rửa tay ăn cơm",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c05/05-04.txt",
+  "output": "film/clips/05-04.mp4"
+ },
+ {
+  "id": "05-05",
+  "scene": "05",
+  "name": "Dạ chị",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c05/05-05.txt",
+  "output": "film/clips/05-05.mp4"
+ },
+ {
+  "id": "05-06",
+  "scene": "05",
+  "name": "Mướp đắng",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c05/05-06.txt",
+  "output": "film/clips/05-06.mp4"
+ },
+ {
+  "id": "05-07",
+  "scene": "05",
+  "name": "Món từ bé",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c05/05-07.txt",
+  "output": "film/clips/05-07.mp4"
+ },
+ {
+  "id": "05-08",
+  "scene": "05",
+  "name": "Anh ghét mướp đắng",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh · Sau lưng",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c05/05-08.txt",
+  "output": "film/clips/05-08.mp4"
+ },
+ {
+  "id": "05-09",
+  "scene": "05",
+  "name": "Ở nhà chị",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c05/05-09.txt",
+  "output": "film/clips/05-09.mp4"
+ },
+ {
+  "id": "05-10",
+  "scene": "05",
+  "name": "Nuốt",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c05/05-10.txt",
+  "output": "film/clips/05-10.mp4"
+ },
+ {
+  "id": "05-11",
+  "scene": "05",
+  "name": "Thắp hương",
+  "secs": 7,
+  "place": "PBN",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c05/05-11.txt",
+  "output": "film/clips/05-11.mp4"
+ },
+ {
+  "id": "05-12",
+  "scene": "05",
+  "name": "Cuối tháng",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c05/05-12.txt",
+  "output": "film/clips/05-12.mp4"
+ },
+ {
+  "id": "05-13",
+  "scene": "05",
+  "name": "Chị đi cùng",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c05/05-13.txt",
+  "output": "film/clips/05-13.mp4"
+ },
+ {
+  "id": "05-14",
+  "scene": "05",
+  "name": "Chị tốt thật",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c05/05-14.txt",
+  "output": "film/clips/05-14.mp4"
+ },
+ {
+  "id": "06-01",
+  "scene": "06",
+  "name": "Em về nhé chị",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà · Sau lưng",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c06/06-01.txt",
+  "output": "film/clips/06-01.mp4"
+ },
+ {
+  "id": "06-02",
+  "scene": "06",
+  "name": "Giải thích",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c06/06-02.txt",
+  "output": "film/clips/06-02.mp4"
+ },
+ {
+  "id": "06-03",
+  "scene": "06",
+  "name": "Khai tử",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c06/06-03.txt",
+  "output": "film/clips/06-03.mp4"
+ },
+ {
+  "id": "06-04",
+  "scene": "06",
+  "name": "Chiều khách",
+  "secs": 7,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c06/06-04.txt",
+  "output": "film/clips/06-04.mp4"
+ },
+ {
+  "id": "06-05",
+  "scene": "06",
+  "name": "Khách nào",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c06/06-05.txt",
+  "output": "film/clips/06-05.mp4"
+ },
+ {
+  "id": "06-06",
+  "scene": "06",
+  "name": "Có việc",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c06/06-06.txt",
+  "output": "film/clips/06-06.mp4"
+ },
+ {
+  "id": "06-07",
+  "scene": "06",
+  "name": "Vòi nước",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c06/06-07.txt",
+  "output": "film/clips/06-07.mp4"
+ },
+ {
+  "id": "06-08",
+  "scene": "06",
+  "name": "Ngồi dưới tường",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c06/06-08.txt",
+  "output": "film/clips/06-08.mp4"
+ },
+ {
+  "id": "06-09",
+  "scene": "06",
+  "name": "Sổ hồng",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà",
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c06/06-09.txt",
+  "output": "film/clips/06-09.mp4"
+ },
+ {
+  "id": "06-10",
+  "scene": "06",
+  "name": "Đứng tên em",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c06/06-10.txt",
+  "output": "film/clips/06-10.mp4"
+ },
+ {
+  "id": "06-11",
+  "scene": "06",
+  "name": "Chị gái anh chịu không",
+  "secs": 5,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c06/06-11.txt",
+  "output": "film/clips/06-11.mp4"
+ },
+ {
+  "id": "06-12",
+  "scene": "06",
+  "name": "Nhà riêng",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c06/06-12.txt",
+  "output": "film/clips/06-12.mp4"
+ },
+ {
+  "id": "06-13",
+  "scene": "06",
+  "name": "Nhà riêng của tôi",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c06/06-13.txt",
+  "output": "film/clips/06-13.mp4"
+ },
+ {
+  "id": "07-01",
+  "scene": "07",
+  "name": "Phòng ban quản trị",
+  "secs": 6,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c07/07-01.txt",
+  "output": "film/clips/07-01.mp4"
+ },
+ {
+  "id": "07-02",
+  "scene": "07",
+  "name": "Căn mười hai không sáu",
+  "secs": 6,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c07/07-02.txt",
+  "output": "film/clips/07-02.mp4"
+ },
+ {
+  "id": "07-03",
+  "scene": "07",
+  "name": "Đặt cọc",
+  "secs": 8,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c07/07-03.txt",
+  "output": "film/clips/07-03.mp4"
+ },
+ {
+  "id": "07-04",
+  "scene": "07",
+  "name": "Chờ hoàn cọc",
+  "secs": 7,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c07/07-04.txt",
+  "output": "film/clips/07-04.mp4"
+ },
+ {
+  "id": "07-05",
+  "scene": "07",
+  "name": "Giấy cọc",
+  "secs": 5,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c07/07-05.txt",
+  "output": "film/clips/07-05.mp4"
+ },
+ {
+  "id": "07-06",
+  "scene": "07",
+  "name": "Ghi hết",
+  "secs": 7,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c07/07-06.txt",
+  "output": "film/clips/07-06.mp4"
+ },
+ {
+  "id": "07-07",
+  "scene": "07",
+  "name": "Là gì của cô",
+  "secs": 5,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c07/07-07.txt",
+  "output": "film/clips/07-07.mp4"
+ },
+ {
+  "id": "07-08",
+  "scene": "07",
+  "name": "Chị gái",
+  "secs": 6,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c07/07-08.txt",
+  "output": "film/clips/07-08.mp4"
+ },
+ {
+  "id": "07-09",
+  "scene": "07",
+  "name": "Tháo kính",
+  "secs": 4,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c07/07-09.txt",
+  "output": "film/clips/07-09.mp4"
+ },
+ {
+  "id": "07-10",
+  "scene": "07",
+  "name": "Ông cụ nhà cô",
+  "secs": 8,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c07/07-10.txt",
+  "output": "film/clips/07-10.mp4"
+ },
+ {
+  "id": "07-11",
+  "scene": "07",
+  "name": "Bố cháu mua",
+  "secs": 6,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c07/07-11.txt",
+  "output": "film/clips/07-11.mp4"
+ },
+ {
+  "id": "07-12",
+  "scene": "07",
+  "name": "Ghi vào sổ",
+  "secs": 5,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c07/07-12.txt",
+  "output": "film/clips/07-12.mp4"
+ },
+ {
+  "id": "08-01",
+  "scene": "08",
+  "name": "Bấm chuông",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c08/08-01.txt",
+  "output": "film/clips/08-01.mp4"
+ },
+ {
+  "id": "08-02",
+  "scene": "08",
+  "name": "Chị sang chơi",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c08/08-02.txt",
+  "output": "film/clips/08-02.mp4"
+ },
+ {
+  "id": "08-03",
+  "scene": "08",
+  "name": "Lệ nhà chị",
+  "secs": 6,
+  "place": "PDD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c08/08-03.txt",
+  "output": "film/clips/08-03.mp4"
+ },
+ {
+  "id": "08-04",
+  "scene": "08",
+  "name": "Em học",
+  "secs": 4,
+  "place": "PDD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c08/08-04.txt",
+  "output": "film/clips/08-04.mp4"
+ },
+ {
+  "id": "08-05",
+  "scene": "08",
+  "name": "Bụi",
+  "secs": 5,
+  "place": "PDD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c08/08-05.txt",
+  "output": "film/clips/08-05.mp4"
+ },
+ {
+  "id": "08-06",
+  "scene": "08",
+  "name": "Nghề gì",
+  "secs": 6,
+  "place": "PDD",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c08/08-06.txt",
+  "output": "film/clips/08-06.mp4"
+ },
+ {
+  "id": "08-07",
+  "scene": "08",
+  "name": "Live mấy giờ",
+  "secs": 5,
+  "place": "PDD",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c08/08-07.txt",
+  "output": "film/clips/08-07.mp4"
+ },
+ {
+  "id": "08-08",
+  "scene": "08",
+  "name": "Phòng ngủ",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Ngân · Áo len ở nhà · Sau lưng"
+  ],
+  "prompt": "film/c08/08-08.txt",
+  "output": "film/clips/08-08.mp4"
+ },
+ {
+  "id": "08-09",
+  "scene": "08",
+  "name": "Áo vest",
+  "secs": 4,
+  "place": "PCD",
+  "attach": [],
+  "prompt": "film/c08/08-09.txt",
+  "output": "film/clips/08-09.mp4"
+ },
+ {
+  "id": "08-10",
+  "scene": "08",
+  "name": "Bàn tay trên tường",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c08/08-10.txt",
+  "output": "film/clips/08-10.mp4"
+ },
+ {
+  "id": "08-11",
+  "scene": "08",
+  "name": "Tường mỏng lắm",
+  "secs": 6,
+  "place": "PCD",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c08/08-11.txt",
+  "output": "film/clips/08-11.mp4"
+ },
+ {
+  "id": "08-12",
+  "scene": "08",
+  "name": "Chị cứ đùa",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c08/08-12.txt",
+  "output": "film/clips/08-12.mp4"
+ },
+ {
+  "id": "08-13",
+  "scene": "08",
+  "name": "Ừ, chị đùa",
+  "secs": 4,
+  "place": "PCD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c08/08-13.txt",
+  "output": "film/clips/08-13.mp4"
+ },
+ {
+  "id": "08-14",
+  "scene": "08",
+  "name": "Liếc tường",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c08/08-14.txt",
+  "output": "film/clips/08-14.mp4"
+ },
+ {
+  "id": "09-01",
+  "scene": "09",
+  "name": "Live nhà mới",
+  "secs": 7,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c09/09-01.txt",
+  "output": "film/clips/09-01.mp4"
+ },
+ {
+  "id": "09-02",
+  "scene": "09",
+  "name": "Sắp sang tên",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c09/09-02.txt",
+  "output": "film/clips/09-02.mp4"
+ },
+ {
+  "id": "09-03",
+  "scene": "09",
+  "name": "Nhăn mặt",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c09/09-03.txt",
+  "output": "film/clips/09-03.mp4"
+ },
+ {
+  "id": "09-04",
+  "scene": "09",
+  "name": "Ý tưởng",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c09/09-04.txt",
+  "output": "film/clips/09-04.mp4"
+ },
+ {
+  "id": "09-05",
+  "scene": "09",
+  "name": "Quay loa",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c09/09-05.txt",
+  "output": "film/clips/09-05.mp4"
+ },
+ {
+  "id": "09-06",
+  "scene": "09",
+  "name": "Bấm phát",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c09/09-06.txt",
+  "output": "film/clips/09-06.mp4"
+ },
+ {
+  "id": "09-07",
+  "scene": "09",
+  "name": "Đông cứng",
+  "secs": 5,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c09/09-07.txt",
+  "output": "film/clips/09-07.mp4"
+ },
+ {
+  "id": "09-08",
+  "scene": "09",
+  "name": "Con mèo",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [],
+  "prompt": "film/c09/09-08.txt",
+  "output": "film/clips/09-08.mp4"
+ },
+ {
+  "id": "09-09",
+  "scene": "09",
+  "name": "Có nghe thấy gì không",
+  "secs": 5,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c09/09-09.txt",
+  "output": "film/clips/09-09.mp4"
+ },
+ {
+  "id": "09-10",
+  "scene": "09",
+  "name": "Tắt live",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c09/09-10.txt",
+  "output": "film/clips/09-10.mp4"
+ },
+ {
+  "id": "09-11",
+  "scene": "09",
+  "name": "Trốn chăn",
+  "secs": 5,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c09/09-11.txt",
+  "output": "film/clips/09-11.mp4"
+ },
+ {
+  "id": "09-12",
+  "scene": "09",
+  "name": "Chương mười hai",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c09/09-12.txt",
+  "output": "film/clips/09-12.mp4"
+ },
+ {
+  "id": "10-01",
+  "scene": "10",
+  "name": "Con mèo sang",
+  "secs": 6,
+  "place": "PFM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c10/10-01.txt",
+  "output": "film/clips/10-01.mp4"
+ },
+ {
+  "id": "10-02",
+  "scene": "10",
+  "name": "Bế mèo",
+  "secs": 4,
+  "place": "PFM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c10/10-02.txt",
+  "output": "film/clips/10-02.mp4"
+ },
+ {
+  "id": "10-03",
+  "scene": "10",
+  "name": "Bông sang à",
+  "secs": 5,
+  "place": "PFM",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c10/10-03.txt",
+  "output": "film/clips/10-03.mp4"
+ },
+ {
+  "id": "10-04",
+  "scene": "10",
+  "name": "Trao mèo",
+  "secs": 5,
+  "place": "PFM",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c10/10-04.txt",
+  "output": "film/clips/10-04.mp4"
+ },
+ {
+  "id": "10-05",
+  "scene": "10",
+  "name": "Chiếc vòng",
+  "secs": 4,
+  "place": "PFM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c10/10-05.txt",
+  "output": "film/clips/10-05.mp4"
+ },
+ {
+  "id": "10-06",
+  "scene": "10",
+  "name": "Đồ cổ nhà anh ấy",
+  "secs": 6,
+  "place": "PFM",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c10/10-06.txt",
+  "output": "film/clips/10-06.mp4"
+ },
+ {
+  "id": "10-07",
+  "scene": "10",
+  "name": "Đồ có chủ",
+  "secs": 5,
+  "place": "PFM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c10/10-07.txt",
+  "output": "film/clips/10-07.mp4"
+ },
+ {
+  "id": "10-08",
+  "scene": "10",
+  "name": "Chủ là em",
+  "secs": 5,
+  "place": "PFM",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c10/10-08.txt",
+  "output": "film/clips/10-08.mp4"
+ },
+ {
+  "id": "10-09",
+  "scene": "10",
+  "name": "Hộp sơn mài",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c10/10-09.txt",
+  "output": "film/clips/10-09.mp4"
+ },
+ {
+  "id": "10-10",
+  "scene": "10",
+  "name": "Vòng của mẹ",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c10/10-10.txt",
+  "output": "film/clips/10-10.mp4"
+ },
+ {
+  "id": "11-01",
+  "scene": "11",
+  "name": "Ký giúp anh",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c11/11-01.txt",
+  "output": "film/clips/11-01.mp4"
+ },
+ {
+  "id": "11-02",
+  "scene": "11",
+  "name": "Đọc to lên",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c11/11-02.txt",
+  "output": "film/clips/11-02.mp4"
+ },
+ {
+  "id": "11-03",
+  "scene": "11",
+  "name": "Chữ pháp lý",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c11/11-03.txt",
+  "output": "film/clips/11-03.mp4"
+ },
+ {
+  "id": "11-04",
+  "scene": "11",
+  "name": "Nghề của em",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c11/11-04.txt",
+  "output": "film/clips/11-04.mp4"
+ },
+ {
+  "id": "11-05",
+  "scene": "11",
+  "name": "Đọc lắp bắp",
+  "secs": 7,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c11/11-05.txt",
+  "output": "film/clips/11-05.mp4"
+ },
+ {
+  "id": "11-06",
+  "scene": "11",
+  "name": "Căn hộ nào",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c11/11-06.txt",
+  "output": "film/clips/11-06.mp4"
+ },
+ {
+  "id": "11-07",
+  "scene": "11",
+  "name": "Mặt thật",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c11/11-07.txt",
+  "output": "film/clips/11-07.mp4"
+ },
+ {
+  "id": "11-08",
+  "scene": "11",
+  "name": "Ly hôn",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c11/11-08.txt",
+  "output": "film/clips/11-08.mp4"
+ },
+ {
+  "id": "11-09",
+  "scene": "11",
+  "name": "Ai nuôi nó",
+  "secs": 7,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c11/11-09.txt",
+  "output": "film/clips/11-09.mp4"
+ },
+ {
+  "id": "11-10",
+  "scene": "11",
+  "name": "Anh cứ thử",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c11/11-10.txt",
+  "output": "film/clips/11-10.mp4"
+ },
+ {
+  "id": "11-11",
+  "scene": "11",
+  "name": "Bin nấp",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c11/11-11.txt",
+  "output": "film/clips/11-11.mp4"
+ },
+ {
+  "id": "11-12",
+  "scene": "11",
+  "name": "Giật giấy",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c11/11-12.txt",
+  "output": "film/clips/11-12.mp4"
+ },
+ {
+  "id": "12-01",
+  "scene": "12",
+  "name": "Sang chơi",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Hưng · Polo cuối tuần",
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c12/12-01.txt",
+  "output": "film/clips/12-01.mp4"
+ },
+ {
+  "id": "12-02",
+  "scene": "12",
+  "name": "Nhớ mật mã",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c12/12-02.txt",
+  "output": "film/clips/12-02.mp4"
+ },
+ {
+  "id": "12-03",
+  "scene": "12",
+  "name": "Gõ khung cửa",
+  "secs": 4,
+  "place": "PBM",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c12/12-03.txt",
+  "output": "film/clips/12-03.mp4"
+ },
+ {
+  "id": "12-04",
+  "scene": "12",
+  "name": "Quà của cô",
+  "secs": 5,
+  "place": "PDD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c12/12-04.txt",
+  "output": "film/clips/12-04.mp4"
+ },
+ {
+  "id": "12-05",
+  "scene": "12",
+  "name": "Nghe điện thoại",
+  "secs": 5,
+  "place": "PDD",
+  "attach": [
+   "Hưng · Polo cuối tuần"
+  ],
+  "prompt": "film/c12/12-05.txt",
+  "output": "film/clips/12-05.mp4"
+ },
+ {
+  "id": "12-06",
+  "scene": "12",
+  "name": "Đổ nước",
+  "secs": 4,
+  "place": "PDD",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c12/12-06.txt",
+  "output": "film/clips/12-06.mp4"
+ },
+ {
+  "id": "12-07",
+  "scene": "12",
+  "name": "Cái sofa",
+  "secs": 4,
+  "place": "PDD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c12/12-07.txt",
+  "output": "film/clips/12-07.mp4"
+ },
+ {
+  "id": "12-08",
+  "scene": "12",
+  "name": "Không có mẹ dạy",
+  "secs": 4,
+  "place": "PDD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c12/12-08.txt",
+  "output": "film/clips/12-08.mp4"
+ },
+ {
+  "id": "12-09",
+  "scene": "12",
+  "name": "Cháu có mẹ",
+  "secs": 5,
+  "place": "PDD",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c12/12-09.txt",
+  "output": "film/clips/12-09.mp4"
+ },
+ {
+  "id": "12-10",
+  "scene": "12",
+  "name": "Gõ tường",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c12/12-10.txt",
+  "output": "film/clips/12-10.mp4"
+ },
+ {
+  "id": "12-11",
+  "scene": "12",
+  "name": "Mẹ gõ đáp",
+  "secs": 5,
+  "place": "PAD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c12/12-11.txt",
+  "output": "film/clips/12-11.mp4"
+ },
+ {
+  "id": "12-12",
+  "scene": "12",
+  "name": "Diễm sững",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c12/12-12.txt",
+  "output": "film/clips/12-12.mp4"
+ },
+ {
+  "id": "12-13",
+  "scene": "12",
+  "name": "Cháu về",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c12/12-13.txt",
+  "output": "film/clips/12-13.mp4"
+ },
+ {
+  "id": "12-14",
+  "scene": "12",
+  "name": "Bàn tay trên tường",
+  "secs": 5,
+  "place": "PCD",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c12/12-14.txt",
+  "output": "film/clips/12-14.mp4"
+ },
+ {
+  "id": "13-01",
+  "scene": "13",
+  "name": "Giấy cọc",
+  "secs": 6,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c13/13-01.txt",
+  "output": "film/clips/13-01.mp4"
+ },
+ {
+  "id": "13-02",
+  "scene": "13",
+  "name": "Một tỷ hai",
+  "secs": 7,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c13/13-02.txt",
+  "output": "film/clips/13-02.mp4"
+ },
+ {
+  "id": "13-03",
+  "scene": "13",
+  "name": "Ngày mười hai",
+  "secs": 7,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c13/13-03.txt",
+  "output": "film/clips/13-03.mp4"
+ },
+ {
+  "id": "13-04",
+  "scene": "13",
+  "name": "Rẻ bất thường",
+  "secs": 8,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c13/13-04.txt",
+  "output": "film/clips/13-04.mp4"
+ },
+ {
+  "id": "13-05",
+  "scene": "13",
+  "name": "Ai duyệt",
+  "secs": 5,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c13/13-05.txt",
+  "output": "film/clips/13-05.mp4"
+ },
+ {
+  "id": "13-06",
+  "scene": "13",
+  "name": "Chị Mai",
+  "secs": 8,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c13/13-06.txt",
+  "output": "film/clips/13-06.mp4"
+ },
+ {
+  "id": "13-07",
+  "scene": "13",
+  "name": "Mời chị Mai",
+  "secs": 5,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c13/13-07.txt",
+  "output": "film/clips/13-07.mp4"
+ },
+ {
+  "id": "13-08",
+  "scene": "13",
+  "name": "Tôi là trưởng ban",
+  "secs": 5,
+  "place": "PG",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c13/13-08.txt",
+  "output": "film/clips/13-08.mp4"
+ },
+ {
+  "id": "13-09",
+  "scene": "13",
+  "name": "Có người nghe",
+  "secs": 6,
+  "place": "PG",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c13/13-09.txt",
+  "output": "film/clips/13-09.mp4"
+ },
+ {
+  "id": "14-01",
+  "scene": "14",
+  "name": "Phòng thu",
+  "secs": 6,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c14/14-01.txt",
+  "output": "film/clips/14-01.mp4"
+ },
+ {
+  "id": "14-02",
+  "scene": "14",
+  "name": "Không kín đâu",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c14/14-02.txt",
+  "output": "film/clips/14-02.mp4"
+ },
+ {
+  "id": "14-03",
+  "scene": "14",
+  "name": "Ngẩng lên",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c14/14-03.txt",
+  "output": "film/clips/14-03.mp4"
+ },
+ {
+  "id": "14-04",
+  "scene": "14",
+  "name": "Khai tử để cưới",
+  "secs": 6,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c14/14-04.txt",
+  "output": "film/clips/14-04.mp4"
+ },
+ {
+  "id": "14-05",
+  "scene": "14",
+  "name": "Áp tai",
+  "secs": 5,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c14/14-05.txt",
+  "output": "film/clips/14-05.mp4"
+ },
+ {
+  "id": "14-06",
+  "scene": "14",
+  "name": "Tiền của ai",
+  "secs": 7,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c14/14-06.txt",
+  "output": "film/clips/14-06.mp4"
+ },
+ {
+  "id": "14-07",
+  "scene": "14",
+  "name": "Bụm miệng",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c14/14-07.txt",
+  "output": "film/clips/14-07.mp4"
+ },
+ {
+  "id": "14-08",
+  "scene": "14",
+  "name": "Cô ta nghe thấy",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c14/14-08.txt",
+  "output": "film/clips/14-08.mp4"
+ },
+ {
+  "id": "14-09",
+  "scene": "14",
+  "name": "Cô ấy cần nghe",
+  "secs": 4,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c14/14-09.txt",
+  "output": "film/clips/14-09.mp4"
+ },
+ {
+  "id": "14-10",
+  "scene": "14",
+  "name": "Trượt xuống",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c14/14-10.txt",
+  "output": "film/clips/14-10.mp4"
+ },
+ {
+  "id": "14-11",
+  "scene": "14",
+  "name": "Hai nửa",
+  "secs": 6,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c14/14-11.txt",
+  "output": "film/clips/14-11.mp4"
+ },
+ {
+  "id": "15-01",
+  "scene": "15",
+  "name": "Bấm chuông",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c15/15-01.txt",
+  "output": "film/clips/15-01.mp4"
+ },
+ {
+  "id": "15-02",
+  "scene": "15",
+  "name": "Vào đi",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem · Sau lưng",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c15/15-02.txt",
+  "output": "film/clips/15-02.mp4"
+ },
+ {
+  "id": "15-03",
+  "scene": "15",
+  "name": "Chị là vợ",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c15/15-03.txt",
+  "output": "film/clips/15-03.mp4"
+ },
+ {
+  "id": "15-04",
+  "scene": "15",
+  "name": "Đứng tên em",
+  "secs": 6,
+  "place": "PBM",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c15/15-04.txt",
+  "output": "film/clips/15-04.mp4"
+ },
+ {
+  "id": "15-05",
+  "scene": "15",
+  "name": "Đà Nẵng",
+  "secs": 7,
+  "place": "PBM",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c15/15-05.txt",
+  "output": "film/clips/15-05.mp4"
+ },
+ {
+  "id": "15-06",
+  "scene": "15",
+  "name": "Bố chị mua",
+  "secs": 7,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c15/15-06.txt",
+  "output": "film/clips/15-06.mp4"
+ },
+ {
+  "id": "15-07",
+  "scene": "15",
+  "name": "Chớp mắt",
+  "secs": 4,
+  "place": "PBM",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c15/15-07.txt",
+  "output": "film/clips/15-07.mp4"
+ },
+ {
+  "id": "15-08",
+  "scene": "15",
+  "name": "Khai tử em",
+  "secs": 7,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c15/15-08.txt",
+  "output": "film/clips/15-08.mp4"
+ },
+ {
+  "id": "15-09",
+  "scene": "15",
+  "name": "Để em bỏ anh ấy",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c15/15-09.txt",
+  "output": "film/clips/15-09.mp4"
+ },
+ {
+  "id": "15-10",
+  "scene": "15",
+  "name": "Để em nghe",
+  "secs": 6,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c15/15-10.txt",
+  "output": "film/clips/15-10.mp4"
+ },
+ {
+  "id": "15-11",
+  "scene": "15",
+  "name": "Xoay nhẫn",
+  "secs": 6,
+  "place": "PBM",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c15/15-11.txt",
+  "output": "film/clips/15-11.mp4"
+ },
+ {
+  "id": "15-12",
+  "scene": "15",
+  "name": "Chạm vòng",
+  "secs": 5,
+  "place": "PBM",
+  "attach": [
+   "Diễm · Váy len kem · Sau lưng"
+  ],
+  "prompt": "film/c15/15-12.txt",
+  "output": "film/clips/15-12.mp4"
+ },
+ {
+  "id": "16-01",
+  "scene": "16",
+  "name": "Vợ anh còn sống",
+  "secs": 5,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c16/16-01.txt",
+  "output": "film/clips/16-01.mp4"
+ },
+ {
+  "id": "16-02",
+  "scene": "16",
+  "name": "Ai bảo em",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c16/16-02.txt",
+  "output": "film/clips/16-02.mp4"
+ },
+ {
+  "id": "16-03",
+  "scene": "16",
+  "name": "Tường mỏng",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c16/16-03.txt",
+  "output": "film/clips/16-03.mp4"
+ },
+ {
+  "id": "16-04",
+  "scene": "16",
+  "name": "Ngân gỡ tai nghe",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c16/16-04.txt",
+  "output": "film/clips/16-04.mp4"
+ },
+ {
+  "id": "16-05",
+  "scene": "16",
+  "name": "Ly thân",
+  "secs": 7,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay",
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c16/16-05.txt",
+  "output": "film/clips/16-05.mp4"
+ },
+ {
+  "id": "16-06",
+  "scene": "16",
+  "name": "Nhìn nhẫn",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c16/16-06.txt",
+  "output": "film/clips/16-06.mp4"
+ },
+ {
+  "id": "16-07",
+  "scene": "16",
+  "name": "Căn bên kia",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c16/16-07.txt",
+  "output": "film/clips/16-07.mp4"
+ },
+ {
+  "id": "16-08",
+  "scene": "16",
+  "name": "Thứ sáu",
+  "secs": 7,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c16/16-08.txt",
+  "output": "film/clips/16-08.mp4"
+ },
+ {
+  "id": "16-09",
+  "scene": "16",
+  "name": "Không ký",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c16/16-09.txt",
+  "output": "film/clips/16-09.mp4"
+ },
+ {
+  "id": "16-10",
+  "scene": "16",
+  "name": "Đóng giả",
+  "secs": 7,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c16/16-10.txt",
+  "output": "film/clips/16-10.mp4"
+ },
+ {
+  "id": "16-11",
+  "scene": "16",
+  "name": "Em á",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c16/16-11.txt",
+  "output": "film/clips/16-11.mp4"
+ },
+ {
+  "id": "16-12",
+  "scene": "16",
+  "name": "Không ai biết",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Hưng · Sơ mi xắn tay"
+  ],
+  "prompt": "film/c16/16-12.txt",
+  "output": "film/clips/16-12.mp4"
+ },
+ {
+  "id": "16-13",
+  "scene": "16",
+  "name": "Thứ sáu, chín giờ",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c16/16-13.txt",
+  "output": "film/clips/16-13.mp4"
+ },
+ {
+  "id": "17-01",
+  "scene": "17",
+  "name": "Gọi chị Mai",
+  "secs": 5,
+  "place": "PAD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c17/17-01.txt",
+  "output": "film/clips/17-01.mp4"
+ },
+ {
+  "id": "17-02",
+  "scene": "17",
+  "name": "Có việc gì",
+  "secs": 4,
+  "place": "PK",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c17/17-02.txt",
+  "output": "film/clips/17-02.mp4"
+ },
+ {
+  "id": "17-03",
+  "scene": "17",
+  "name": "Duyệt bán",
+  "secs": 7,
+  "place": "PAD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c17/17-03.txt",
+  "output": "film/clips/17-03.mp4"
+ },
+ {
+  "id": "17-04",
+  "scene": "17",
+  "name": "Tôi chưa ký",
+  "secs": 6,
+  "place": "PK",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c17/17-04.txt",
+  "output": "film/clips/17-04.mp4"
+ },
+ {
+  "id": "17-05",
+  "scene": "17",
+  "name": "Mời chị",
+  "secs": 6,
+  "place": "PAD",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c17/17-05.txt",
+  "output": "film/clips/17-05.mp4"
+ },
+ {
+  "id": "17-06",
+  "scene": "17",
+  "name": "Tôi sẽ đến",
+  "secs": 5,
+  "place": "PK",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c17/17-06.txt",
+  "output": "film/clips/17-06.mp4"
+ },
+ {
+  "id": "17-07",
+  "scene": "17",
+  "name": "Diễm khóc",
+  "secs": 6,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c17/17-07.txt",
+  "output": "film/clips/17-07.mp4"
+ },
+ {
+  "id": "17-08",
+  "scene": "17",
+  "name": "Ngân nghe",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c17/17-08.txt",
+  "output": "film/clips/17-08.mp4"
+ },
+ {
+  "id": "17-09",
+  "scene": "17",
+  "name": "Ba tiếng",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c17/17-09.txt",
+  "output": "film/clips/17-09.mp4"
+ },
+ {
+  "id": "17-10",
+  "scene": "17",
+  "name": "Ngẩng lên",
+  "secs": 4,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c17/17-10.txt",
+  "output": "film/clips/17-10.mp4"
+ },
+ {
+  "id": "17-11",
+  "scene": "17",
+  "name": "Chờ",
+  "secs": 4,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c17/17-11.txt",
+  "output": "film/clips/17-11.mp4"
+ },
+ {
+  "id": "17-12",
+  "scene": "17",
+  "name": "Gõ đáp",
+  "secs": 5,
+  "place": "PCN",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c17/17-12.txt",
+  "output": "film/clips/17-12.mp4"
+ },
+ {
+  "id": "17-13",
+  "scene": "17",
+  "name": "Thở ra",
+  "secs": 4,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c17/17-13.txt",
+  "output": "film/clips/17-13.mp4"
+ },
+ {
+  "id": "18-01",
+  "scene": "18",
+  "name": "Hồ sơ đủ cả",
+  "secs": 6,
+  "place": "PH",
+  "attach": [
+   "Hưng · Com-lê xanh",
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c18/18-01.txt",
+  "output": "film/clips/18-01.mp4"
+ },
+ {
+  "id": "18-02",
+  "scene": "18",
+  "name": "Bỏ khẩu trang",
+  "secs": 6,
+  "place": "PH",
+  "attach": [
+   "Công chứng viên · Sơ mi cà vạt"
+  ],
+  "prompt": "film/c18/18-02.txt",
+  "output": "film/clips/18-02.mp4"
+ },
+ {
+  "id": "18-03",
+  "scene": "18",
+  "name": "Vợ tôi đang cảm",
+  "secs": 5,
+  "place": "PH",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c18/18-03.txt",
+  "output": "film/clips/18-03.mp4"
+ },
+ {
+  "id": "18-04",
+  "scene": "18",
+  "name": "Đôi mắt",
+  "secs": 4,
+  "place": "PH",
+  "attach": [
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c18/18-04.txt",
+  "output": "film/clips/18-04.mp4"
+ },
+ {
+  "id": "18-05",
+  "scene": "18",
+  "name": "Không chứng được",
+  "secs": 5,
+  "place": "PH",
+  "attach": [
+   "Công chứng viên · Sơ mi cà vạt"
+  ],
+  "prompt": "film/c18/18-05.txt",
+  "output": "film/clips/18-05.mp4"
+ },
+ {
+  "id": "18-06",
+  "scene": "18",
+  "name": "Cửa kính",
+  "secs": 5,
+  "place": "PH",
+  "attach": [
+   "Ngân · Áo trench ra ngoài",
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c18/18-06.txt",
+  "output": "film/clips/18-06.mp4"
+ },
+ {
+  "id": "18-07",
+  "scene": "18",
+  "name": "Tái mặt",
+  "secs": 4,
+  "place": "PH",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c18/18-07.txt",
+  "output": "film/clips/18-07.mp4"
+ },
+ {
+  "id": "18-08",
+  "scene": "18",
+  "name": "Chào em trai",
+  "secs": 5,
+  "place": "PH",
+  "attach": [
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c18/18-08.txt",
+  "output": "film/clips/18-08.mp4"
+ },
+ {
+  "id": "18-09",
+  "scene": "18",
+  "name": "Đóng giả cả chị",
+  "secs": 6,
+  "place": "PH",
+  "attach": [
+   "Ngân · Áo trench ra ngoài · Sau lưng",
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c18/18-09.txt",
+  "output": "film/clips/18-09.mp4"
+ },
+ {
+  "id": "18-10",
+  "scene": "18",
+  "name": "Lộ mặt",
+  "secs": 6,
+  "place": "PH",
+  "attach": [
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c18/18-10.txt",
+  "output": "film/clips/18-10.mp4"
+ },
+ {
+  "id": "18-11",
+  "scene": "18",
+  "name": "Tôi không phải vợ",
+  "secs": 7,
+  "place": "PH",
+  "attach": [
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c18/18-11.txt",
+  "output": "film/clips/18-11.mp4"
+ },
+ {
+  "id": "18-12",
+  "scene": "18",
+  "name": "Tôi dừng",
+  "secs": 4,
+  "place": "PH",
+  "attach": [
+   "Công chứng viên · Sơ mi cà vạt"
+  ],
+  "prompt": "film/c18/18-12.txt",
+  "output": "film/clips/18-12.mp4"
+ },
+ {
+  "id": "18-13",
+  "scene": "18",
+  "name": "Có người nghe hết",
+  "secs": 7,
+  "place": "PH",
+  "attach": [
+   "Hưng · Com-lê xanh",
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c18/18-13.txt",
+  "output": "film/clips/18-13.mp4"
+ },
+ {
+  "id": "18-14",
+  "scene": "18",
+  "name": "Tường mỏng thật",
+  "secs": 4,
+  "place": "PH",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận",
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c18/18-14.txt",
+  "output": "film/clips/18-14.mp4"
+ },
+ {
+  "id": "19-01",
+  "scene": "19",
+  "name": "Chặn đường",
+  "secs": 5,
+  "place": "PI",
+  "attach": [
+   "Diễm · Áo trench cải trang",
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c19/19-01.txt",
+  "output": "film/clips/19-01.mp4"
+ },
+ {
+  "id": "19-02",
+  "scene": "19",
+  "name": "Tiền của ai",
+  "secs": 5,
+  "place": "PI",
+  "attach": [
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c19/19-02.txt",
+  "output": "film/clips/19-02.mp4"
+ },
+ {
+  "id": "19-03",
+  "scene": "19",
+  "name": "Anh thề",
+  "secs": 4,
+  "place": "PI",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c19/19-03.txt",
+  "output": "film/clips/19-03.mp4"
+ },
+ {
+  "id": "19-04",
+  "scene": "19",
+  "name": "Ngón cái",
+  "secs": 4,
+  "place": "PI",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c19/19-04.txt",
+  "output": "film/clips/19-04.mp4"
+ },
+ {
+  "id": "19-05",
+  "scene": "19",
+  "name": "Chị ấy bảo",
+  "secs": 5,
+  "place": "PI",
+  "attach": [
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c19/19-05.txt",
+  "output": "film/clips/19-05.mp4"
+ },
+ {
+  "id": "19-06",
+  "scene": "19",
+  "name": "Giấu tay",
+  "secs": 4,
+  "place": "PI",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c19/19-06.txt",
+  "output": "film/clips/19-06.mp4"
+ },
+ {
+  "id": "19-07",
+  "scene": "19",
+  "name": "Khai tử em",
+  "secs": 6,
+  "place": "PI",
+  "attach": [
+   "Diễm · Áo trench cải trang"
+  ],
+  "prompt": "film/c19/19-07.txt",
+  "output": "film/clips/19-07.mp4"
+ },
+ {
+  "id": "19-08",
+  "scene": "19",
+  "name": "Cái nhẫn khai",
+  "secs": 5,
+  "place": "PH",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận",
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c19/19-08.txt",
+  "output": "film/clips/19-08.mp4"
+ },
+ {
+  "id": "19-09",
+  "scene": "19",
+  "name": "Mang sổ",
+  "secs": 7,
+  "place": "PH",
+  "attach": [
+   "Ngân · Áo trench ra ngoài",
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c19/19-09.txt",
+  "output": "film/clips/19-09.mp4"
+ },
+ {
+  "id": "20-01",
+  "scene": "20",
+  "name": "Họp bắt đầu",
+  "secs": 6,
+  "place": "PJ",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c20/20-01.txt",
+  "output": "film/clips/20-01.mp4"
+ },
+ {
+  "id": "20-02",
+  "scene": "20",
+  "name": "Minh bạch",
+  "secs": 7,
+  "place": "PJ",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c20/20-02.txt",
+  "output": "film/clips/20-02.mp4"
+ },
+ {
+  "id": "20-03",
+  "scene": "20",
+  "name": "Hàng ghế đầu",
+  "secs": 4,
+  "place": "PJ",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c20/20-03.txt",
+  "output": "film/clips/20-03.mp4"
+ },
+ {
+  "id": "20-04",
+  "scene": "20",
+  "name": "Nụ cười tắt",
+  "secs": 4,
+  "place": "PJ",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c20/20-04.txt",
+  "output": "film/clips/20-04.mp4"
+ },
+ {
+  "id": "20-05",
+  "scene": "20",
+  "name": "Đọc sổ",
+  "secs": 8,
+  "place": "PJ",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c20/20-05.txt",
+  "output": "film/clips/20-05.mp4"
+ },
+ {
+  "id": "20-06",
+  "scene": "20",
+  "name": "Nhầm lẫn",
+  "secs": 6,
+  "place": "PJ",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c20/20-06.txt",
+  "output": "film/clips/20-06.mp4"
+ },
+ {
+  "id": "20-07",
+  "scene": "20",
+  "name": "Không phải chữ ký",
+  "secs": 8,
+  "place": "PJ",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c20/20-07.txt",
+  "output": "film/clips/20-07.mp4"
+ },
+ {
+  "id": "20-08",
+  "scene": "20",
+  "name": "Là cô ta",
+  "secs": 5,
+  "place": "PJ",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c20/20-08.txt",
+  "output": "film/clips/20-08.mp4"
+ },
+ {
+  "id": "20-09",
+  "scene": "20",
+  "name": "Tin nhắn",
+  "secs": 7,
+  "place": "PJ",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c20/20-09.txt",
+  "output": "film/clips/20-09.mp4"
+ },
+ {
+  "id": "20-10",
+  "scene": "20",
+  "name": "Đứng hình",
+  "secs": 4,
+  "place": "PJ",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c20/20-10.txt",
+  "output": "film/clips/20-10.mp4"
+ },
+ {
+  "id": "21-01",
+  "scene": "21",
+  "name": "Ngân đứng dậy",
+  "secs": 4,
+  "place": "PJ",
+  "attach": [
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c21/21-01.txt",
+  "output": "film/clips/21-01.mp4"
+ },
+ {
+  "id": "21-02",
+  "scene": "21",
+  "name": "Đặt sổ",
+  "secs": 4,
+  "place": "PJ",
+  "attach": [
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c21/21-02.txt",
+  "output": "film/clips/21-02.mp4"
+ },
+ {
+  "id": "21-03",
+  "scene": "21",
+  "name": "Tài sản riêng",
+  "secs": 7,
+  "place": "PJ",
+  "attach": [
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c21/21-03.txt",
+  "output": "film/clips/21-03.mp4"
+ },
+ {
+  "id": "21-04",
+  "scene": "21",
+  "name": "Một tỷ hai",
+  "secs": 7,
+  "place": "PJ",
+  "attach": [
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c21/21-04.txt",
+  "output": "film/clips/21-04.mp4"
+ },
+ {
+  "id": "21-05",
+  "scene": "21",
+  "name": "Về nhà nói",
+  "secs": 4,
+  "place": "PJ",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c21/21-05.txt",
+  "output": "film/clips/21-05.mp4"
+ },
+ {
+  "id": "21-06",
+  "scene": "21",
+  "name": "Nhà riêng",
+  "secs": 6,
+  "place": "PJ",
+  "attach": [
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c21/21-06.txt",
+  "output": "film/clips/21-06.mp4"
+ },
+ {
+  "id": "21-07",
+  "scene": "21",
+  "name": "Pháp chế",
+  "secs": 7,
+  "place": "PJ",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c21/21-07.txt",
+  "output": "film/clips/21-07.mp4"
+ },
+ {
+  "id": "21-08",
+  "scene": "21",
+  "name": "Tháo nhẫn",
+  "secs": 5,
+  "place": "PJ",
+  "attach": [
+   "Hưng · Com-lê xanh"
+  ],
+  "prompt": "film/c21/21-08.txt",
+  "output": "film/clips/21-08.mp4"
+ },
+ {
+  "id": "21-09",
+  "scene": "21",
+  "name": "Vô hiệu",
+  "secs": 8,
+  "place": "PJ",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c21/21-09.txt",
+  "output": "film/clips/21-09.mp4"
+ },
+ {
+  "id": "21-10",
+  "scene": "21",
+  "name": "Cháu tôi",
+  "secs": 4,
+  "place": "PJ",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c21/21-10.txt",
+  "output": "film/clips/21-10.mp4"
+ },
+ {
+  "id": "21-11",
+  "scene": "21",
+  "name": "Hoàn tiền",
+  "secs": 7,
+  "place": "PJ",
+  "attach": [
+   "Chị Mai · Vest đen"
+  ],
+  "prompt": "film/c21/21-11.txt",
+  "output": "film/clips/21-11.mp4"
+ },
+ {
+  "id": "21-12",
+  "scene": "21",
+  "name": "Tài khoản chung",
+  "secs": 5,
+  "place": "PJ",
+  "attach": [
+   "Ngân · Áo trench ra ngoài"
+  ],
+  "prompt": "film/c21/21-12.txt",
+  "output": "film/clips/21-12.mp4"
+ },
+ {
+  "id": "21-13",
+  "scene": "21",
+  "name": "Họp xong",
+  "secs": 6,
+  "place": "PJ",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận"
+  ],
+  "prompt": "film/c21/21-13.txt",
+  "output": "film/clips/21-13.mp4"
+ },
+ {
+  "id": "22-01",
+  "scene": "22",
+  "name": "Vali",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c22/22-01.txt",
+  "output": "film/clips/22-01.mp4"
+ },
+ {
+  "id": "22-02",
+  "scene": "22",
+  "name": "Của chị",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c22/22-02.txt",
+  "output": "film/clips/22-02.mp4"
+ },
+ {
+  "id": "22-03",
+  "scene": "22",
+  "name": "Trao vòng",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c22/22-03.txt",
+  "output": "film/clips/22-03.mp4"
+ },
+ {
+  "id": "22-04",
+  "scene": "22",
+  "name": "Vì em muốn tin",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c22/22-04.txt",
+  "output": "film/clips/22-04.mp4"
+ },
+ {
+  "id": "22-05",
+  "scene": "22",
+  "name": "Ai cũng nghe",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c22/22-05.txt",
+  "output": "film/clips/22-05.mp4"
+ },
+ {
+  "id": "22-06",
+  "scene": "22",
+  "name": "Sao chị gõ",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c22/22-06.txt",
+  "output": "film/clips/22-06.mp4"
+ },
+ {
+  "id": "22-07",
+  "scene": "22",
+  "name": "Vì em đang khóc",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c22/22-07.txt",
+  "output": "film/clips/22-07.mp4"
+ },
+ {
+  "id": "22-08",
+  "scene": "22",
+  "name": "Em chào chị",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem"
+  ],
+  "prompt": "film/c22/22-08.txt",
+  "output": "film/clips/22-08.mp4"
+ },
+ {
+  "id": "22-09",
+  "scene": "22",
+  "name": "Đi",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Diễm · Váy len kem · Sau lưng"
+  ],
+  "prompt": "film/c22/22-09.txt",
+  "output": "film/clips/22-09.mp4"
+ },
+ {
+  "id": "22-10",
+  "scene": "22",
+  "name": "Đeo vòng",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c22/22-10.txt",
+  "output": "film/clips/22-10.mp4"
+ },
+ {
+  "id": "23-01",
+  "scene": "23",
+  "name": "Gõ cửa",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Hưng · Sơ mi nhàu không nhẫn"
+  ],
+  "prompt": "film/c23/23-01.txt",
+  "output": "film/clips/23-01.mp4"
+ },
+ {
+  "id": "23-02",
+  "scene": "23",
+  "name": "Không mở",
+  "secs": 4,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c23/23-02.txt",
+  "output": "film/clips/23-02.mp4"
+ },
+ {
+  "id": "23-03",
+  "scene": "23",
+  "name": "Anh sai rồi",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Hưng · Sơ mi nhàu không nhẫn"
+  ],
+  "prompt": "film/c23/23-03.txt",
+  "output": "film/clips/23-03.mp4"
+ },
+ {
+  "id": "23-04",
+  "scene": "23",
+  "name": "Đúng lịch",
+  "secs": 6,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c23/23-04.txt",
+  "output": "film/clips/23-04.mp4"
+ },
+ {
+  "id": "23-05",
+  "scene": "23",
+  "name": "Mở cửa đã",
+  "secs": 4,
+  "place": "PE",
+  "attach": [
+   "Hưng · Sơ mi nhàu không nhẫn"
+  ],
+  "prompt": "film/c23/23-05.txt",
+  "output": "film/clips/23-05.mp4"
+ },
+ {
+  "id": "23-06",
+  "scene": "23",
+  "name": "Người chết",
+  "secs": 7,
+  "place": "PBN",
+  "attach": [
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c23/23-06.txt",
+  "output": "film/clips/23-06.mp4"
+ },
+ {
+  "id": "23-07",
+  "scene": "23",
+  "name": "Ngồi sụp",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Hưng · Sơ mi nhàu không nhẫn"
+  ],
+  "prompt": "film/c23/23-07.txt",
+  "output": "film/clips/23-07.mp4"
+ },
+ {
+  "id": "23-08",
+  "scene": "23",
+  "name": "Bin gõ tường",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Bin · Đồ ngủ"
+  ],
+  "prompt": "film/c23/23-08.txt",
+  "output": "film/clips/23-08.mp4"
+ },
+ {
+  "id": "23-09",
+  "scene": "23",
+  "name": "Không ai gõ lại",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Bin · Đồ ngủ",
+   "Ngân · Áo len ở nhà"
+  ],
+  "prompt": "film/c23/23-09.txt",
+  "output": "film/clips/23-09.mp4"
+ },
+ {
+  "id": "23-10",
+  "scene": "23",
+  "name": "Nhà mình vẫn ở đây",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len ở nhà",
+   "Bin · Đồ ngủ"
+  ],
+  "prompt": "film/c23/23-10.txt",
+  "output": "film/clips/23-10.mp4"
+ },
+ {
+  "id": "23-11",
+  "scene": "23",
+  "name": "Hai cánh cửa",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Hưng · Sơ mi nhàu không nhẫn"
+  ],
+  "prompt": "film/c23/23-11.txt",
+  "output": "film/clips/23-11.mp4"
+ },
+ {
+  "id": "24-01",
+  "scene": "24",
+  "name": "Nhà của các cháu",
+  "secs": 5,
+  "place": "PE",
+  "attach": [
+   "Bà Lụa · Áo len đỏ mận",
+   "Tuấn · Áo hoodie xám"
+  ],
+  "prompt": "film/c24/24-01.txt",
+  "output": "film/clips/24-01.mp4"
+ },
+ {
+  "id": "24-02",
+  "scene": "24",
+  "name": "Chào mừng",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân"
+  ],
+  "prompt": "film/c24/24-02.txt",
+  "output": "film/clips/24-02.mp4"
+ },
+ {
+  "id": "24-03",
+  "scene": "24",
+  "name": "Cháu nhỏ",
+  "secs": 7,
+  "place": "PE",
+  "attach": [
+   "Tuấn · Áo hoodie xám"
+  ],
+  "prompt": "film/c24/24-03.txt",
+  "output": "film/clips/24-03.mp4"
+ },
+ {
+  "id": "24-04",
+  "scene": "24",
+  "name": "Tiếng trẻ con",
+  "secs": 6,
+  "place": "PE",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân"
+  ],
+  "prompt": "film/c24/24-04.txt",
+  "output": "film/clips/24-04.mp4"
+ },
+ {
+  "id": "24-05",
+  "scene": "24",
+  "name": "Phòng trọ của Hưng",
+  "secs": 5,
+  "place": "PL",
+  "attach": [
+   "Hưng · Sơ mi nhàu không nhẫn"
+  ],
+  "prompt": "film/c24/24-05.txt",
+  "output": "film/clips/24-05.mp4"
+ },
+ {
+  "id": "24-06",
+  "scene": "24",
+  "name": "Phiên live mới",
+  "secs": 7,
+  "place": "PM",
+  "attach": [
+   "Diễm · Áo lụa hồng ở nhà"
+  ],
+  "prompt": "film/c24/24-06.txt",
+  "output": "film/clips/24-06.mp4"
+ },
+ {
+  "id": "24-07",
+  "scene": "24",
+  "name": "Tiếng cười em bé",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân"
+  ],
+  "prompt": "film/c24/24-07.txt",
+  "output": "film/clips/24-07.mp4"
+ },
+ {
+  "id": "25-01",
+  "scene": "25",
+  "name": "Cất dép",
+  "secs": 5,
+  "place": "PBN",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c25/25-01.txt",
+  "output": "film/clips/25-01.mp4"
+ },
+ {
+  "id": "25-02",
+  "scene": "25",
+  "name": "Gõ cửa phòng thu",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân",
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c25/25-02.txt",
+  "output": "film/clips/25-02.mp4"
+ },
+ {
+  "id": "25-03",
+  "scene": "25",
+  "name": "Tường có mỏng không",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c25/25-03.txt",
+  "output": "film/clips/25-03.mp4"
+ },
+ {
+  "id": "25-04",
+  "scene": "25",
+  "name": "Nghe được hết",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân"
+  ],
+  "prompt": "film/c25/25-04.txt",
+  "output": "film/clips/25-04.mp4"
+ },
+ {
+  "id": "25-05",
+  "scene": "25",
+  "name": "Lòng người",
+  "secs": 4,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân"
+  ],
+  "prompt": "film/c25/25-05.txt",
+  "output": "film/clips/25-05.mp4"
+ },
+ {
+  "id": "25-06",
+  "scene": "25",
+  "name": "Gõ thử",
+  "secs": 5,
+  "place": "PAN",
+  "attach": [
+   "Bin · Áo vàng ở nhà",
+   "Ngân · Áo len xanh mùa xuân"
+  ],
+  "prompt": "film/c25/25-06.txt",
+  "output": "film/clips/25-06.mp4"
+ },
+ {
+  "id": "25-07",
+  "scene": "25",
+  "name": "Gõ lại",
+  "secs": 6,
+  "place": "PAN",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân",
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c25/25-07.txt",
+  "output": "film/clips/25-07.mp4"
+ },
+ {
+  "id": "25-08",
+  "scene": "25",
+  "name": "Ban công",
+  "secs": 6,
+  "place": "PFN",
+  "attach": [
+   "Ngân · Áo len xanh mùa xuân",
+   "Bin · Áo vàng ở nhà"
+  ],
+  "prompt": "film/c25/25-08.txt",
+  "output": "film/clips/25-08.mp4"
+ },
+ {
+  "id": "25-09",
+  "scene": "25",
+  "name": "Hai ô cửa vàng",
+  "secs": 6,
+  "place": "PN2",
+  "attach": [],
+  "prompt": "film/c25/25-09.txt",
+  "output": "film/clips/25-09.mp4"
+ }
+]

@@ -2,11 +2,11 @@
 
 *Sinh bởi `_tools/build.py` từ `_tools/data.py`. Mỗi shot là một clip Flow liền mạch, một góc máy. Thoại in đậm tên người nói, sắc thái trong ngoặc. Thẻ chữ và nhạc chèn khi dựng.*
 
-**20 cảnh · 254 shot · 21 phút 50 giây chưa tính thẻ chữ · 1310 giây cần tạo trên Flow.**
+**20 cảnh · 254 shot · 21 phút 52 giây chưa tính thẻ chữ · 1312 giây cần tạo trên Flow.**
 
 ## CẢNH 01 · CHỊ ƠI, ĐẾN RỒI
 
-*Hồi 1 · Chuyến đêm · mở đầu: đêm 23 trên xe; rồi đêm 22, trạm bệnh viện · 11 shot · 53 giây · phút 00:00*
+*Hồi 1 · Chuyến đêm · mở đầu: đêm 23 trên xe; rồi đêm 22, trạm bệnh viện · 11 shot · 55 giây · phút 00:00*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Đại lộ đêm
 
@@ -29,7 +29,7 @@ Cận nghiêng từ ghế khách bên kia lối đi, cột vịn vàng mờ ở 
 **01-04** · Hai đêm trước · 4s  
 Toàn thấp từ vỉa hè bên phải, xe máy đỗ mờ ở tiền cảnh. Xe buýt kiểu Việt Nam (trắng sọc xanh, không số tuyến) chạy làn gần từ TRÁI sang PHẢI, phía có cửa quay về máy. Thẻ chữ khi dựng: 'Hai đêm trước'.
 
-**01-05** · Ông Khánh lên xe · 4s  
+**01-05** · Ông Khánh lên xe · 5s  
 Từ ghế tài nhìn sang cửa trước bên PHẢI xe: cửa gấp mở ra trạm bệnh viện mưa phùn; mép vai tài xế mờ bên trái khung. Ông Khánh cầm phích, chậm rãi bước lên.
 > **ÔNG KHÁNH** *(khô, thân)*: Chào cậu lái.  
 
@@ -41,7 +41,7 @@ Qua vai ông Khánh (ông quay lưng, mũ dạ và khăn đỏ mờ ở tiền c
 Cận ông Khánh ở ghế đầu sau tài xế, kẹp giữa cột vịn vàng và lưng ghế tài mờ ở tiền cảnh; cửa kính bên trái xe phía sau ông. Ông sửa khăn, cười một mình. (Gài: bà đã mất từ năm ngoái.)
 > **ÔNG KHÁNH** *(hiền, vui hơi quá)*: Khá hơn. Hôm nay bà nhìn tôi lâu lắm.  
 
-**01-08** · Ghế cuối · 5s  
+**01-08** · Ghế cuối · 6s  
 Toàn từ đầu lối đi nhìn về cuối xe: cửa lên xuống ở bên TRÁI khung hình. Hạ đi xa dần, ngồi ghế cuối sát cửa sổ bên trái khung (tức bên phải xe), ôm túi, tựa đầu, nhắm mắt.
 
 **01-09** · Lại ngủ · 6s  
@@ -60,7 +60,7 @@ Cận ba phần tư từ bên kia lối đi; tài xế ở ngoài khung bên PH�
 
 ## CẢNH 02 · BẢN TIN ĐÊM
 
-*Hồi 1 · Chuyến đêm · đêm 22, tiếp liền · 13 shot · 70 giây · phút 00:53*
+*Hồi 1 · Chuyến đêm · đêm 22, tiếp liền · 13 shot · 70 giây · phút 00:55*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Trạm đầu ngõ nhà Hạ
 
@@ -123,7 +123,7 @@ Cận ở góc ngõ, ánh vàng nhấp nháy trên mặt. Hạ ngoái lại, m�
 
 ## CẢNH 03 · MỞ MẮT THÌ ANH ẤY THÔI NÓI
 
-*Hồi 1 · Chuyến đêm · đêm 22, phòng trọ của Hạ · 12 shot · 68 giây · phút 02:03*
+*Hồi 1 · Chuyến đêm · đêm 22, phòng trọ của Hạ · 12 shot · 68 giây · phút 02:05*
 
 **Bối cảnh:** NỘI · Phòng trọ của Hạ
 
@@ -185,7 +185,7 @@ Cận. Câu treo.
 
 ## CẢNH 04 · TUYẾN ĐÊM BỊ CẮT
 
-*Hồi 1 · Chuyến đêm · đêm 22, sau nửa đêm, bến xe · 13 shot · 70 giây · phút 03:11*
+*Hồi 1 · Chuyến đêm · đêm 22, sau nửa đêm, bến xe · 13 shot · 70 giây · phút 03:13*
 
 **Bối cảnh:** NỘI/NGOẠI · Chòi điều độ bến xe
 
@@ -248,7 +248,7 @@ Trung, góc thấp. Đông ngồi xổm bên thùng các-tông, nâng con chó c
 
 ## CẢNH 05 · HAI NĂM, MỘT CÂU
 
-*Hồi 1 · Chuyến đêm · sáng 23, nhà Đông · 13 shot · 63 giây · phút 04:21*
+*Hồi 1 · Chuyến đêm · sáng 23, nhà Đông · 13 shot · 63 giây · phút 04:23*
 
 **Bối cảnh:** NỘI · Nhà Đông
 
@@ -313,7 +313,7 @@ Trung. Bà đánh rơi chổi keo xuống hang đá. Câu treo, cắt cứng.
 
 ## CẢNH 06 · TÀU ĐIỆN NĂM MƯƠI NĂM TRƯỚC
 
-*Hồi 2 · Câu nói lúc ngủ · tối 23: ghế đá cổng viện, rồi trên xe; hồi tưởng tàu điện · 16 shot · 84 giây · phút 05:24*
+*Hồi 2 · Câu nói lúc ngủ · tối 23: ghế đá cổng viện, rồi trên xe; hồi tưởng tàu điện · 16 shot · 84 giây · phút 05:26*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Trạm xe & ghế đá cổng bệnh viện / NỘI · Tàu điện đêm, năm mươi năm trước
 
@@ -388,7 +388,7 @@ Trung. Ông đứng dậy, bỏ lửng câu chuyện.
 
 ## CẢNH 07 · EM THÍCH CHỊ
 
-*Hồi 2 · Câu nói lúc ngủ · đêm 23, tiếp liền · 13 shot · 66 giây · phút 06:48*
+*Hồi 2 · Câu nói lúc ngủ · đêm 23, tiếp liền · 13 shot · 66 giây · phút 06:50*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Trạm đầu ngõ nhà Hạ
 
@@ -450,7 +450,7 @@ Toàn. Hạ bịt miệng khóc; sau lưng, đèn khẩn cấp nhấp nháy rấ
 
 ## CẢNH 08 · ĐÊM ĐẦU TIÊN
 
-*Hồi 2 · Câu nói lúc ngủ · đêm 23, phòng trọ; hồi tưởng: hai năm trước · 11 shot · 56 giây · phút 07:54*
+*Hồi 2 · Câu nói lúc ngủ · đêm 23, phòng trọ; hồi tưởng: hai năm trước · 11 shot · 56 giây · phút 07:56*
 
 **Bối cảnh:** NỘI · Phòng trọ của Hạ / NỘI · Trong xe buýt đêm, hai năm trước
 
@@ -506,7 +506,7 @@ Cận. Linh lấy tay áo lau má bạn. Câu treo.
 
 ## CẢNH 09 · TÊN CÔ ẤY LÀ HẠ
 
-*Hồi 2 · Câu nói lúc ngủ · sáng 24, hành lang khoa · 13 shot · 66 giây · phút 08:50*
+*Hồi 2 · Câu nói lúc ngủ · sáng 24, hành lang khoa · 13 shot · 66 giây · phút 08:52*
 
 **Bối cảnh:** NỘI · Hành lang khoa
 
@@ -569,7 +569,7 @@ Cận. Linh đưa anh quả quýt. Câu treo.
 
 ## CẢNH 10 · CHÂN VẪN QUEN ĐƯỜNG
 
-*Hồi 2 · Câu nói lúc ngủ · chập tối 24, ghế đá cổng bệnh viện · 13 shot · 78 giây · phút 09:56*
+*Hồi 2 · Câu nói lúc ngủ · chập tối 24, ghế đá cổng bệnh viện · 13 shot · 78 giây · phút 09:58*
 
 **Bối cảnh:** NGOẠI · Ghế đá cổng bệnh viện, chập tối
 
@@ -633,7 +633,7 @@ Trung. Đông đứng dậy, gọi điện. Câu treo: anh quay lại.
 
 ## CẢNH 11 · CA TRỰC CUỐI
 
-*Hồi 2 · Câu nói lúc ngủ · tối 24, khoa bệnh viện · 9 shot · 44 giây · phút 11:14*
+*Hồi 2 · Câu nói lúc ngủ · tối 24, khoa bệnh viện · 9 shot · 44 giây · phút 11:16*
 
 **Bối cảnh:** NỘI · Hành lang khoa
 
@@ -680,7 +680,7 @@ Cận ở cửa sổ. Dưới kia, bóng người trên ghế đá từ từ đ�
 
 ## CẢNH 12 · GHẾ ĐÁ LẠNH
 
-*Hồi 3 · Chuyến cuối · đêm Noel, 22 giờ 40, cổng bệnh viện · 8 shot · 35 giây · phút 11:58*
+*Hồi 3 · Chuyến cuối · đêm Noel, 22 giờ 40, cổng bệnh viện · 8 shot · 35 giây · phút 12:00*
 
 **Bối cảnh:** NGOẠI · Trạm xe & ghế đá cổng bệnh viện
 
@@ -719,7 +719,7 @@ Chèn góc thấp. Chiếc phích nằm lại dưới ghế đá trống, hơi n
 
 ## CẢNH 13 · ĐỪNG ĐỂ ÔNG NGỦ
 
-*Hồi 3 · Chuyến cuối · đêm Noel, phòng cấp cứu · 11 shot · 55 giây · phút 12:33*
+*Hồi 3 · Chuyến cuối · đêm Noel, phòng cấp cứu · 11 shot · 55 giây · phút 12:35*
 
 **Bối cảnh:** NỘI · Phòng cấp cứu / NỘI/NGOẠI · Chòi điều độ bến xe
 
@@ -773,7 +773,7 @@ Trung ở cửa. Đông ngoái lại. Câu treo.
 
 ## CẢNH 14 · TÔI CHƯA NGỦ
 
-*Hồi 3 · Chuyến cuối · đêm Noel, gần nửa đêm, phòng bệnh; hồi tưởng năm ngoái và năm mươi năm trước · 17 shot · 89 giây · phút 13:28*
+*Hồi 3 · Chuyến cuối · đêm Noel, gần nửa đêm, phòng bệnh; hồi tưởng năm ngoái và năm mươi năm trước · 17 shot · 89 giây · phút 13:30*
 
 **Bối cảnh:** NỘI · Phòng bệnh của ông Khánh / NỘI · Phòng bệnh, đêm Noel năm ngoái / NỘI · Tàu điện đêm, năm mươi năm trước / NGOẠI · Trạm xe nhìn từ cửa sổ khoa (góc cao)
 
@@ -848,7 +848,7 @@ Góc cao từ cửa sổ. Chiếc xe một mình ở trạm, đèn vàng nhấp 
 
 ## CẢNH 15 · PHỐ NHÀ THỜ
 
-*Hồi 3 · Chuyến cuối · đêm Noel: trạm viện quá nửa đêm, rồi phố nhà thờ tan lễ · 16 shot · 78 giây · phút 14:57*
+*Hồi 3 · Chuyến cuối · đêm Noel: trạm viện quá nửa đêm, rồi phố nhà thờ tan lễ · 16 shot · 78 giây · phút 14:59*
 
 **Bối cảnh:** NGOẠI · Phố nhà thờ tan lễ / NỘI · Trong xe buýt đêm / NỘI/NGOẠI · Chòi điều độ bến xe
 
@@ -919,7 +919,7 @@ Cận. Hạ sững sờ nhìn anh khi xe bắt đầu nhích. Câu treo.
 
 ## CẢNH 16 · EM BIẾT CHỊ KHÔNG NGỦ
 
-*Hồi 3 · Chuyến cuối · đêm Noel, trạm đầu ngõ · 13 shot · 64 giây · phút 16:15*
+*Hồi 3 · Chuyến cuối · đêm Noel, trạm đầu ngõ · 13 shot · 64 giây · phút 16:17*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm
 
@@ -984,7 +984,7 @@ Cận. Hạ nghiêng đầu.
 
 ## CẢNH 17 · MAI RÉT, MẶC THÊM ÁO
 
-*Hồi 3 · Chuyến cuối · tiếp liền; hồi tưởng hai mươi năm trước · 15 shot · 85 giây · phút 17:19*
+*Hồi 3 · Chuyến cuối · tiếp liền; hồi tưởng hai mươi năm trước · 15 shot · 85 giây · phút 17:21*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NỘI · Xe buýt của bố Đông, hai mươi năm trước / NGOẠI · Chiếc xe đỗ sát lề lúc rạng sáng, hai mươi năm trước
 
@@ -1056,7 +1056,7 @@ Hai người. Đông đưa đôi găng; Hạ tỉnh bơ. Tiếng cười trong n
 
 ## CẢNH 18 · CHUYẾN NGOÀI LUỒNG
 
-*Hồi 3 · Chuyến cuối · rạng sáng 25: đầu ngõ lúc 2 giờ 30, rồi đường ra sân bay · 9 shot · 48 giây · phút 18:44*
+*Hồi 3 · Chuyến cuối · rạng sáng 25: đầu ngõ lúc 2 giờ 30, rồi đường ra sân bay · 9 shot · 48 giây · phút 18:46*
 
 **Bối cảnh:** NGOẠI · Trạm đầu ngõ nhà Hạ / NỘI/NGOẠI · Chòi điều độ bến xe / NỘI · Trong xe buýt đêm / NGOẠI · Cây cầu qua sông
 
@@ -1102,7 +1102,7 @@ Cận. Đông ngoái nhìn, mỉm cười, không nói gì, nhả ga.
 
 ## CẢNH 19 · ANH ĐÓN EM
 
-*Hồi 3 · Chuyến cuối · rạng sáng 25, sân bay · 13 shot · 61 giây · phút 19:32*
+*Hồi 3 · Chuyến cuối · rạng sáng 25, sân bay · 13 shot · 61 giây · phút 19:34*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NGOẠI · Làn xe trước sân bay
 
@@ -1164,7 +1164,7 @@ Cận. Đông nhìn đến khi cô khuất hẳn mới tắt đèn khẩn cấp.
 
 ## CẢNH 20 · EM CHƯA MUỐN XUỐNG
 
-*Hồi 3 · Chuyến cuối · năm năm sau, đêm Noel · 15 shot · 77 giây · phút 20:33*
+*Hồi 3 · Chuyến cuối · năm năm sau, đêm Noel · 15 shot · 77 giây · phút 20:35*
 
 **Bối cảnh:** NỘI · Trong xe buýt đêm / NỘI · Tàu điện ở xứ tuyết / NỘI · Nhà Đông / NGOẠI · Trạm xe & ghế đá cổng bệnh viện / NGOẠI · Đại lộ đêm
 

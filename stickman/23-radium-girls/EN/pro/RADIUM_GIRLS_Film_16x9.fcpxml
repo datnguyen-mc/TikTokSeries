@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1920" height="1080"/>
+<format id="r2" frameDuration="1/30s" width="1920" height="1080"/>
+<asset id="r3" name="RG_EN_teaser1" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_teaser1.mp4"/></asset>
+<asset id="r4" name="RG_EN_teaser2" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_teaser2.mp4"/></asset>
+<asset id="r5" name="RG_EN_teaser3" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_teaser3.mp4"/></asset>
+<asset id="r6" name="RG_EN_teaser4" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_teaser4.mp4"/></asset>
+<asset id="r7" name="RG_EN_teaser5" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_teaser5.mp4"/></asset>
+<asset id="r8" name="RG_EN_teaser6" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_teaser6.mp4"/></asset>
+<asset id="r9" name="RG_EN_hook" start="0s" duration="4s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_hook.mp4"/></asset>
+<asset id="r10" name="RG_EN_ch00" start="0s" duration="25s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch00.mp4"/></asset>
+<asset id="r11" name="RG_EN_ch01" start="0s" duration="187/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch01.mp4"/></asset>
+<asset id="r12" name="RG_EN_ch02" start="0s" duration="158/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch02.mp4"/></asset>
+<asset id="r13" name="RG_EN_ch03" start="0s" duration="333/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch03.mp4"/></asset>
+<asset id="r14" name="RG_EN_ch04" start="0s" duration="142/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch04.mp4"/></asset>
+<asset id="r15" name="RG_EN_ch05" start="0s" duration="281/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch05.mp4"/></asset>
+<asset id="r16" name="RG_EN_ch06" start="0s" duration="491/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch06.mp4"/></asset>
+<asset id="r17" name="RG_EN_ch07" start="0s" duration="524/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch07.mp4"/></asset>
+<asset id="r18" name="RG_EN_ch08" start="0s" duration="401/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch08.mp4"/></asset>
+<asset id="r19" name="RG_EN_ch09" start="0s" duration="156/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch09.mp4"/></asset>
+<asset id="r20" name="RG_EN_ch10" start="0s" duration="608/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch10.mp4"/></asset>
+<asset id="r21" name="RG_EN_ch11" start="0s" duration="183/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch11.mp4"/></asset>
+<asset id="r22" name="RG_EN_ch12" start="0s" duration="27s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch12.mp4"/></asset>
+<asset id="r23" name="RG_EN_ch13" start="0s" duration="35/2s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_ch13.mp4"/></asset>
+<asset id="r24" name="RG_EN_endcard" start="0s" duration="10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/23-radium-girls/EN/edit/RG_EN_endcard.mp4"/></asset>
+<effect id="r25" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r26" name="Audio Crossfade" uid="FFAudioTransition"/>
+</resources>
+<library><event name="MakeMyClip"><project name="RADIUM_GIRLS_Film_16x9"><sequence format="r1" duration="1336/3s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="r3" offset="0s" name="RG_EN_teaser1" start="0s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r4" offset="13/10s" name="RG_EN_teaser2" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="12/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r5" offset="5/2s" name="RG_EN_teaser3" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="18/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r6" offset="37/10s" name="RG_EN_teaser4" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="24/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r7" offset="49/10s" name="RG_EN_teaser5" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r8" offset="61/10s" name="RG_EN_teaser6" start="1/10s" duration="13/10s" format="r2"></asset-clip>
+<asset-clip ref="r9" offset="37/5s" name="RG_EN_hook" start="0s" duration="19/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="11s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r10" offset="56/5s" name="RG_EN_ch00" start="1/5s" duration="123/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="178/5s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r11" offset="179/5s" name="RG_EN_ch01" start="1/5s" duration="1109/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2177/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r12" offset="2183/30s" name="RG_EN_ch02" start="1/5s" duration="156/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3113/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r13" offset="3119/30s" name="RG_EN_ch03" start="1/5s" duration="493/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4099/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r14" offset="821/6s" name="RG_EN_ch04" start="1/5s" duration="28s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4939/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r15" offset="989/6s" name="RG_EN_ch05" start="1/5s" duration="827/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1921/10s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r16" offset="962/5s" name="RG_EN_ch06" start="3/10s" duration="161/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="673/3s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r17" offset="1123/5s" name="RG_EN_ch07" start="4/15s" duration="517/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3883/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r18" offset="3886/15s" name="RG_EN_ch08" start="1/5s" duration="263/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2851/10s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r19" offset="8561/30s" name="RG_EN_ch09" start="4/15s" duration="307/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4738/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r20" offset="4741/15s" name="RG_EN_ch10" start="1/5s" duration="401/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3559/10s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r21" offset="2137/6s" name="RG_EN_ch11" start="4/15s" duration="361/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="392s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r22" offset="5884/15s" name="RG_EN_ch12" start="4/15s" duration="132/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="12551/30s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r23" offset="1256/3s" name="RG_EN_ch13" start="3/10s" duration="254/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1306/3s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r24" offset="2178/5s" name="RG_EN_endcard" start="4/15s" duration="146/15s" format="r2"></asset-clip>
+</spine></sequence></project></event></library>
+</fcpxml>

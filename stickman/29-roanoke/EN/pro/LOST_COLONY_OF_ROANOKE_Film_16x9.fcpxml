@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+<resources>
+<format id="r1" frameDuration="1/30s" width="1920" height="1080"/>
+<format id="r2" frameDuration="1/30s" width="1920" height="1080"/>
+<asset id="r3" name="ROANOKE_EN_teaser1" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser1.mp4"/></asset>
+<asset id="r4" name="ROANOKE_EN_teaser2" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser2.mp4"/></asset>
+<asset id="r5" name="ROANOKE_EN_teaser3" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser3.mp4"/></asset>
+<asset id="r6" name="ROANOKE_EN_teaser4" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser4.mp4"/></asset>
+<asset id="r7" name="ROANOKE_EN_teaser5" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser5.mp4"/></asset>
+<asset id="r8" name="ROANOKE_EN_teaser6" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser6.mp4"/></asset>
+<asset id="r9" name="ROANOKE_EN_hook" start="0s" duration="4s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_hook.mp4"/></asset>
+<asset id="r10" name="ROANOKE_EN_ch00" start="0s" duration="148/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch00.mp4"/></asset>
+<asset id="r11" name="ROANOKE_EN_ch01" start="0s" duration="1819/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch01.mp4"/></asset>
+<asset id="r12" name="ROANOKE_EN_ch02" start="0s" duration="776/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch02.mp4"/></asset>
+<asset id="r13" name="ROANOKE_EN_ch03" start="0s" duration="226/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch03.mp4"/></asset>
+<asset id="r14" name="ROANOKE_EN_ch04" start="0s" duration="626/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch04.mp4"/></asset>
+<asset id="r15" name="ROANOKE_EN_ch05" start="0s" duration="251/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch05.mp4"/></asset>
+<asset id="r16" name="ROANOKE_EN_ch06" start="0s" duration="299/6s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch06.mp4"/></asset>
+<asset id="r17" name="ROANOKE_EN_ch07" start="0s" duration="439/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch07.mp4"/></asset>
+<asset id="r18" name="ROANOKE_EN_ch08" start="0s" duration="602/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch08.mp4"/></asset>
+<asset id="r19" name="ROANOKE_EN_ch09" start="0s" duration="517/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch09.mp4"/></asset>
+<asset id="r20" name="ROANOKE_EN_ch10" start="0s" duration="758/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch10.mp4"/></asset>
+<asset id="r21" name="ROANOKE_EN_ch11" start="0s" duration="51s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch11.mp4"/></asset>
+<asset id="r22" name="ROANOKE_EN_ch12" start="0s" duration="246/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch12.mp4"/></asset>
+<asset id="r23" name="ROANOKE_EN_ch13" start="0s" duration="161/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch13.mp4"/></asset>
+<asset id="r24" name="ROANOKE_EN_endcard" start="0s" duration="10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_endcard.mp4"/></asset>
+<effect id="r25" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+<effect id="r26" name="Audio Crossfade" uid="FFAudioTransition"/>
+</resources>
+<library><event name="MakeMyClip"><project name="LOST_COLONY_OF_ROANOKE_Film_16x9"><sequence format="r1" duration="3875/6s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="r3" offset="0s" name="ROANOKE_EN_teaser1" start="0s" duration="13/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r4" offset="13/10s" name="ROANOKE_EN_teaser2" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="12/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r5" offset="5/2s" name="ROANOKE_EN_teaser3" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="18/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r6" offset="37/10s" name="ROANOKE_EN_teaser4" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="24/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r7" offset="49/10s" name="ROANOKE_EN_teaser5" start="1/10s" duration="6/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="6s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r8" offset="61/10s" name="ROANOKE_EN_teaser6" start="1/10s" duration="13/10s" format="r2"></asset-clip>
+<asset-clip ref="r9" offset="37/5s" name="ROANOKE_EN_hook" start="0s" duration="19/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="11s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r10" offset="56/5s" name="ROANOKE_EN_ch00" start="1/5s" duration="146/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="201/5s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r11" offset="202/5s" name="ROANOKE_EN_ch01" start="1/5s" duration="1807/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3013/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r12" offset="3019/30s" name="ROANOKE_EN_ch02" start="1/5s" duration="154/3s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4553/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r13" offset="4559/30s" name="ROANOKE_EN_ch03" start="1/5s" duration="1343/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2948/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r14" offset="2951/15s" name="ROANOKE_EN_ch04" start="1/5s" duration="124/3s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3568/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r15" offset="3571/15s" name="ROANOKE_EN_ch05" start="1/5s" duration="497/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4312/15s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r16" offset="8633/30s" name="ROANOKE_EN_ch06" start="3/10s" duration="493/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1684/5s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r17" offset="5056/15s" name="ROANOKE_EN_ch07" start="4/15s" duration="217/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="5704/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r18" offset="5707/15s" name="ROANOKE_EN_ch08" start="1/5s" duration="397/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4199/10s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r19" offset="2521/6s" name="ROANOKE_EN_ch09" start="4/15s" duration="1537/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="2356/5s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r20" offset="2357/5s" name="ROANOKE_EN_ch10" start="1/5s" duration="501/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="15637/30s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r21" offset="1043/2s" name="ROANOKE_EN_ch11" start="4/15s" duration="757/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="5717/10s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r22" offset="17159/30s" name="ROANOKE_EN_ch12" start="4/15s" duration="243/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="9304/15s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r23" offset="18617/30s" name="ROANOKE_EN_ch13" start="3/10s" duration="233/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3815/6s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r24" offset="6361/10s" name="ROANOKE_EN_endcard" start="4/15s" duration="146/15s" format="r2"></asset-clip>
+</spine></sequence></project></event></library>
+</fcpxml>

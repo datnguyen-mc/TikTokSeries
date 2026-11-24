@@ -1,10 +1,10 @@
 # Chị Ơi, Đến Rồi — Kịch bản từng cảnh
 
-*Sinh bởi `_tools/build.py`.* **20 cảnh · 254 shot · ~21 phút 50 giây, chưa tính thẻ chữ.** Bản liền một file: `../KICH_BAN_CHI_TIET.md`.
+*Sinh bởi `_tools/build.py`.* **20 cảnh · 254 shot · ~21 phút 52 giây, chưa tính thẻ chữ.** Bản liền một file: `../KICH_BAN_CHI_TIET.md`.
 
 | Cảnh | Tên | Hồi | Thời điểm | Shot | Giây |
 |---|---|---|---|---|---|
-| [01](canh-01.md) | Chị ơi, đến rồi | Hồi 1 · Chuyến đêm | mở đầu: đêm 23 trên xe; rồi đêm 22, trạm bệnh viện | 11 | 53 |
+| [01](canh-01.md) | Chị ơi, đến rồi | Hồi 1 · Chuyến đêm | mở đầu: đêm 23 trên xe; rồi đêm 22, trạm bệnh viện | 11 | 55 |
 | [02](canh-02.md) | Bản tin đêm | Hồi 1 · Chuyến đêm | đêm 22, tiếp liền | 13 | 70 |
 | [03](canh-03.md) | Mở mắt thì anh ấy thôi nói | Hồi 1 · Chuyến đêm | đêm 22, phòng trọ của Hạ | 12 | 68 |
 | [04](canh-04.md) | Tuyến đêm bị cắt | Hồi 1 · Chuyến đêm | đêm 22, sau nửa đêm, bến xe | 13 | 70 |

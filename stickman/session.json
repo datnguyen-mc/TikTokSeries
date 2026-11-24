@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": 487,
+  "rev": 598,
   "entries": [
     {
       "id": "op_3a04de6a",
@@ -12626,7 +12626,6 @@
     },
     {
       "id": "op_ca27bdd9",
-      "timestamp": "2026-11-23T16:23:19.027Z",
       "tool": "ingest",
       "args": {
         "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_endcard.mp4"
@@ -12635,6 +12634,2888 @@
         "mediaId": "m_6f87ca25b5e9",
         "ref": {
           "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-23T16:23:19.027Z"
+    },
+    {
+      "id": "op_410e094d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_4ccc24caaf47",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser1.mp4",
+          "durationSec": 3.06,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:03.086Z"
+    },
+    {
+      "id": "op_4b1ac67c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_9a8f0d49e4e3",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser2.mp4",
+          "durationSec": 3.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:03.320Z"
+    },
+    {
+      "id": "op_62a349cd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_45a70b9f0c7a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser3.mp4",
+          "durationSec": 3.06,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:03.528Z"
+    },
+    {
+      "id": "op_4628e54d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_5728f43b9b37",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser4.mp4",
+          "durationSec": 3.06,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:03.745Z"
+    },
+    {
+      "id": "op_c39c5274",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_d0dd90028fa1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser5.mp4",
+          "durationSec": 3.06,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:03.923Z"
+    },
+    {
+      "id": "op_1db4959a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_c86f743b241b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_teaser6.mp4",
+          "durationSec": 3.06,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:04.170Z"
+    },
+    {
+      "id": "op_f1dfc002",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_50ac7f7d481b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:04.375Z"
+    },
+    {
+      "id": "op_83080877",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_6b4dc2824799",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch00.mp4",
+          "durationSec": 30.87,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:05.267Z"
+    },
+    {
+      "id": "op_e0bfaa0d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_a1c83153409b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch01.mp4",
+          "durationSec": 54.13,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:06.633Z"
+    },
+    {
+      "id": "op_d382742e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_58f90335fd48",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch02.mp4",
+          "durationSec": 52.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:08.036Z"
+    },
+    {
+      "id": "op_d2f99fa6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_6d6aee27ef43",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch03.mp4",
+          "durationSec": 50.1,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:09.154Z"
+    },
+    {
+      "id": "op_0aefc12f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_ed49a159bd9e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch04.mp4",
+          "durationSec": 54.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:10.684Z"
+    },
+    {
+      "id": "op_618ef260",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_b7a81d42c5fa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch05.mp4",
+          "durationSec": 50.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:11.950Z"
+    },
+    {
+      "id": "op_ec1c0be3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_700f13bd51e5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch06.mp4",
+          "durationSec": 49.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:13.316Z"
+    },
+    {
+      "id": "op_afb8eea0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_442199982114",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch07.mp4",
+          "durationSec": 48.23,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:14.598Z"
+    },
+    {
+      "id": "op_4c2b2653",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_4f240d8669fc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch08.mp4",
+          "durationSec": 50.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:16.200Z"
+    },
+    {
+      "id": "op_f3b67c41",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_ce01abd9131f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch09.mp4",
+          "durationSec": 60.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:17.364Z"
+    },
+    {
+      "id": "op_d2d23ab0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_2a526028d63d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch10.mp4",
+          "durationSec": 51.63,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:18.751Z"
+    },
+    {
+      "id": "op_9ed1d416",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_f0b071150c92",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch11.mp4",
+          "durationSec": 52.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:20.143Z"
+    },
+    {
+      "id": "op_094551e9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_cf58671b53c0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch12.mp4",
+          "durationSec": 54.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:21.511Z"
+    },
+    {
+      "id": "op_287090ba",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_347f65f20615",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_ch13.mp4",
+          "durationSec": 17.7,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:22.097Z"
+    },
+    {
+      "id": "op_ec3c2793",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_bd05b8ab0960",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:22.402Z"
+    },
+    {
+      "id": "op_dbb2b0ff",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_hookvo.wav"
+      },
+      "result": {
+        "mediaId": "m_cb9c3838e2b8",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/30-christmas-truce/EN/edit/TRUCE_EN_hookvo.wav",
+          "durationSec": 16.73,
+          "video": null,
+          "audio": {
+            "codec": "pcm_s16le",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:42:22.503Z"
+    },
+    {
+      "id": "op_5c5d60d6",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_9ed1c17c61ad",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser1.mp4",
+          "durationSec": 2.57,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:05.194Z"
+    },
+    {
+      "id": "op_95bd33ab",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_1d5dcb10bb25",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser2.mp4",
+          "durationSec": 2.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:05.345Z"
+    },
+    {
+      "id": "op_4c062f5a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_57af445b50a6",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser3.mp4",
+          "durationSec": 2.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:05.483Z"
+    },
+    {
+      "id": "op_ee25a3a5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_4bff78e5ec5d",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser4.mp4",
+          "durationSec": 2.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:05.583Z"
+    },
+    {
+      "id": "op_f32e99f0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_2a4694e56aaa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser5.mp4",
+          "durationSec": 2.57,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:05.688Z"
+    },
+    {
+      "id": "op_d9f7532c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_dc05a785f057",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser6.mp4",
+          "durationSec": 2.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:05.798Z"
+    },
+    {
+      "id": "op_aee0a9ae",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_1a4ce5422737",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:05.930Z"
+    },
+    {
+      "id": "op_72f5ef81",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_031cc704cd7a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch00.mp4",
+          "durationSec": 33.33,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:06.414Z"
+    },
+    {
+      "id": "op_792fd792",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_d7971e2f2f84",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch01.mp4",
+          "durationSec": 58.87,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:07.050Z"
+    },
+    {
+      "id": "op_cfd69a93",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_23f0980ade50",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch02.mp4",
+          "durationSec": 53.3,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:08.067Z"
+    },
+    {
+      "id": "op_14981bce",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_1af722f330eb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch03.mp4",
+          "durationSec": 49.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:09.104Z"
+    },
+    {
+      "id": "op_4dce3d9c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_00d117033e84",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch04.mp4",
+          "durationSec": 46.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:09.965Z"
+    },
+    {
+      "id": "op_48819c83",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_473fd88c33eb",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch05.mp4",
+          "durationSec": 47.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:10.788Z"
+    },
+    {
+      "id": "op_ea70c210",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_15354f40a4ec",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch06.mp4",
+          "durationSec": 54.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:11.283Z"
+    },
+    {
+      "id": "op_75caa265",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_b0c9b72aec6b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch07.mp4",
+          "durationSec": 51.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:12.134Z"
+    },
+    {
+      "id": "op_0a78b0e2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_b589e685dbf0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch08.mp4",
+          "durationSec": 60.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:12.987Z"
+    },
+    {
+      "id": "op_03309565",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_913f01f6ef2a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch09.mp4",
+          "durationSec": 57.73,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:14.034Z"
+    },
+    {
+      "id": "op_e9ad82fe",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_caa40da1ddc9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch10.mp4",
+          "durationSec": 52.67,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:15.050Z"
+    },
+    {
+      "id": "op_15eebe20",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_5e5195ae3c88",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch11.mp4",
+          "durationSec": 57.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:15.956Z"
+    },
+    {
+      "id": "op_4a179c39",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_6b43bc05e36b",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch12.mp4",
+          "durationSec": 47.7,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:16.665Z"
+    },
+    {
+      "id": "op_3c0f430e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_37d62106b820",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch13.mp4",
+          "durationSec": 18.73,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:17.054Z"
+    },
+    {
+      "id": "op_2ae0300b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_db8921a75a8a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T09:53:17.337Z"
+    },
+    {
+      "id": "op_c0ce221d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_43e247585347",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser1.mp4",
+          "durationSec": 2.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:41.222Z"
+    },
+    {
+      "id": "op_3ad2f984",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_134c776e3d97",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser2.mp4",
+          "durationSec": 2.22,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:41.424Z"
+    },
+    {
+      "id": "op_79fc7582",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_f2f4730e0b56",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser3.mp4",
+          "durationSec": 2.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:41.564Z"
+    },
+    {
+      "id": "op_c800cac9",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_d1ce0303483c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser4.mp4",
+          "durationSec": 2.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:41.740Z"
+    },
+    {
+      "id": "op_b304f18d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_239a2ec60dae",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser5.mp4",
+          "durationSec": 2.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:41.886Z"
+    },
+    {
+      "id": "op_f93e6817",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_621b39cd1570",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_teaser6.mp4",
+          "durationSec": 2.23,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:42.033Z"
+    },
+    {
+      "id": "op_5fb0f6d5",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_2570ce44392c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:42.186Z"
+    },
+    {
+      "id": "op_ce2b49fc",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_b7176ccf2cfa",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch00.mp4",
+          "durationSec": 42.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:43.200Z"
+    },
+    {
+      "id": "op_9818e6d3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_d078c3571cbd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch01.mp4",
+          "durationSec": 67.27,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:44.561Z"
+    },
+    {
+      "id": "op_9424dc90",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_fe9dc919bdcc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch02.mp4",
+          "durationSec": 59.33,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:45.591Z"
+    },
+    {
+      "id": "op_9b938a9e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_ab8b00912161",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch03.mp4",
+          "durationSec": 62.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:46.973Z"
+    },
+    {
+      "id": "op_9d77fa4d",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_d6ea530aad94",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch04.mp4",
+          "durationSec": 56.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:48.323Z"
+    },
+    {
+      "id": "op_b1198cd3",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_b9c1aa9cf653",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch05.mp4",
+          "durationSec": 50.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:49.332Z"
+    },
+    {
+      "id": "op_62277920",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_20842e3ee836",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch06.mp4",
+          "durationSec": 47.33,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:50.349Z"
+    },
+    {
+      "id": "op_0dc66117",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_051357315f11",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch07.mp4",
+          "durationSec": 55.57,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:51.841Z"
+    },
+    {
+      "id": "op_bc36872c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_6d53adc35aaf",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch08.mp4",
+          "durationSec": 47.33,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:52.775Z"
+    },
+    {
+      "id": "op_0d8fb12c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_bd8c751d32bd",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch09.mp4",
+          "durationSec": 51.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:53.934Z"
+    },
+    {
+      "id": "op_ec99b49c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_38b53c42dc78",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch10.mp4",
+          "durationSec": 54.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:54.850Z"
+    },
+    {
+      "id": "op_e36db201",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_6ba76c2f6383",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch11.mp4",
+          "durationSec": 56.77,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:55.838Z"
+    },
+    {
+      "id": "op_e9acb4e0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_738b4ec7aa56",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch12.mp4",
+          "durationSec": 50.43,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:56.985Z"
+    },
+    {
+      "id": "op_1c18b835",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_16b14fc4f2cf",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_ch13.mp4",
+          "durationSec": 19.37,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:57.434Z"
+    },
+    {
+      "id": "op_73b82079",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_65b1c5be74f0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/26-molasses-flood/EN/edit/MOL_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:51:57.754Z"
+    },
+    {
+      "id": "op_ca4cbf12",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_a756497a5b47",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser1.mp4",
+          "durationSec": 2.88,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:55.317Z"
+    },
+    {
+      "id": "op_fe654c54",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_509706118f36",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser2.mp4",
+          "durationSec": 2.87,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:55.497Z"
+    },
+    {
+      "id": "op_3a003833",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_aa5b00816dce",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser3.mp4",
+          "durationSec": 2.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:55.698Z"
+    },
+    {
+      "id": "op_f507c7bd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_183d7a010c39",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser4.mp4",
+          "durationSec": 2.88,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:55.904Z"
+    },
+    {
+      "id": "op_c392ecfc",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_2a997ee4a93c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser5.mp4",
+          "durationSec": 2.88,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:56.104Z"
+    },
+    {
+      "id": "op_73267ad2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_f45836a707ad",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_teaser6.mp4",
+          "durationSec": 2.83,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:56.280Z"
+    },
+    {
+      "id": "op_2ed96b53",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_a1dd269f1dd9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:56.450Z"
+    },
+    {
+      "id": "op_d4dc0519",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_908af6886f4e",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch00.mp4",
+          "durationSec": 35.5,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:57.436Z"
+    },
+    {
+      "id": "op_96fcd7d0",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_8029687eb57a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch01.mp4",
+          "durationSec": 65.7,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:55:58.825Z"
+    },
+    {
+      "id": "op_d3fe6487",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_b1896b79e319",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch02.mp4",
+          "durationSec": 60.97,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:00.250Z"
+    },
+    {
+      "id": "op_b05d8480",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_ebb5e7e25741",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch03.mp4",
+          "durationSec": 47.77,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:01.639Z"
+    },
+    {
+      "id": "op_a51c0879",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_232cecf5e425",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch04.mp4",
+          "durationSec": 46.87,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:02.830Z"
+    },
+    {
+      "id": "op_d40a83e2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_76c243d184e4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch05.mp4",
+          "durationSec": 51.73,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:04.216Z"
+    },
+    {
+      "id": "op_884d4b0b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_bb917b24e65f",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch06.mp4",
+          "durationSec": 53.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:05.695Z"
+    },
+    {
+      "id": "op_e6b86b7b",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_358735be51ca",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch07.mp4",
+          "durationSec": 46.03,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:06.838Z"
+    },
+    {
+      "id": "op_a9a34c27",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_d01ccf2eacb5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch08.mp4",
+          "durationSec": 47.9,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:07.788Z"
+    },
+    {
+      "id": "op_c2f9b62c",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_a46db94f7a6c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch09.mp4",
+          "durationSec": 55,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:09.144Z"
+    },
+    {
+      "id": "op_061db8dd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_e3b35fccd0ac",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch10.mp4",
+          "durationSec": 52.53,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:10.204Z"
+    },
+    {
+      "id": "op_4d2bc43e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_9590132479c5",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch11.mp4",
+          "durationSec": 58.27,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:11.509Z"
+    },
+    {
+      "id": "op_95412dd8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_8ec06558c639",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch12.mp4",
+          "durationSec": 53.9,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:12.922Z"
+    },
+    {
+      "id": "op_1c41660e",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_7ab194962cef",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_ch13.mp4",
+          "durationSec": 18.8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:13.462Z"
+    },
+    {
+      "id": "op_59104d87",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_6f87ca25b5e9",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/29-roanoke/EN/edit/ROANOKE_EN_endcard.mp4",
+          "durationSec": 10,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T10:56:13.775Z"
+    },
+    {
+      "id": "op_0327a135",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser1.mp4"
+      },
+      "result": {
+        "mediaId": "m_217f9ca899a0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser1.mp4",
+          "durationSec": 2.39,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:43.654Z"
+    },
+    {
+      "id": "op_3980d439",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser2.mp4"
+      },
+      "result": {
+        "mediaId": "m_cb56e8c038e4",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser2.mp4",
+          "durationSec": 2.3,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:43.799Z"
+    },
+    {
+      "id": "op_a3bf6f44",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser3.mp4"
+      },
+      "result": {
+        "mediaId": "m_15b6e09d1a90",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser3.mp4",
+          "durationSec": 2.39,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:43.963Z"
+    },
+    {
+      "id": "op_4d7cf5e8",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser4.mp4"
+      },
+      "result": {
+        "mediaId": "m_f36ec845a40c",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser4.mp4",
+          "durationSec": 2.3,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:44.185Z"
+    },
+    {
+      "id": "op_12416cbd",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser5.mp4"
+      },
+      "result": {
+        "mediaId": "m_cb85487edd4a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser5.mp4",
+          "durationSec": 2.3,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:44.391Z"
+    },
+    {
+      "id": "op_e5683f23",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser6.mp4"
+      },
+      "result": {
+        "mediaId": "m_0e84da157e94",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_teaser6.mp4",
+          "durationSec": 2.39,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:44.574Z"
+    },
+    {
+      "id": "op_af10fa58",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_hook.mp4"
+      },
+      "result": {
+        "mediaId": "m_f2dd8f207f0a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_hook.mp4",
+          "durationSec": 4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:44.726Z"
+    },
+    {
+      "id": "op_b6acd9ba",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch00.mp4"
+      },
+      "result": {
+        "mediaId": "m_e87b1697ecf0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch00.mp4",
+          "durationSec": 33.37,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:45.705Z"
+    },
+    {
+      "id": "op_fc3e26d1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch01.mp4"
+      },
+      "result": {
+        "mediaId": "m_8a1c9c5ae7a2",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch01.mp4",
+          "durationSec": 58.17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:47.169Z"
+    },
+    {
+      "id": "op_b1b08e1a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch02.mp4"
+      },
+      "result": {
+        "mediaId": "m_d0d5bc058806",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch02.mp4",
+          "durationSec": 50.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:48.236Z"
+    },
+    {
+      "id": "op_b3102ebf",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch03.mp4"
+      },
+      "result": {
+        "mediaId": "m_1949ab4ecef1",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch03.mp4",
+          "durationSec": 50,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:49.107Z"
+    },
+    {
+      "id": "op_4f8e10fc",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch04.mp4"
+      },
+      "result": {
+        "mediaId": "m_2f7ec859195a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch04.mp4",
+          "durationSec": 52.07,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:50.636Z"
+    },
+    {
+      "id": "op_87508ed4",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch05.mp4"
+      },
+      "result": {
+        "mediaId": "m_d0491beb9abc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch05.mp4",
+          "durationSec": 49.43,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:51.656Z"
+    },
+    {
+      "id": "op_b990242f",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch06.mp4"
+      },
+      "result": {
+        "mediaId": "m_dcdc64d8dc61",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch06.mp4",
+          "durationSec": 54.87,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:52.950Z"
+    },
+    {
+      "id": "op_60ea3503",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch07.mp4"
+      },
+      "result": {
+        "mediaId": "m_66da4897d612",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch07.mp4",
+          "durationSec": 51.2,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:54.268Z"
+    },
+    {
+      "id": "op_59aaf093",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch08.mp4"
+      },
+      "result": {
+        "mediaId": "m_b7da7ac62486",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch08.mp4",
+          "durationSec": 51.4,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:55.323Z"
+    },
+    {
+      "id": "op_e3e3a399",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch09.mp4"
+      },
+      "result": {
+        "mediaId": "m_e1ede237aee0",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch09.mp4",
+          "durationSec": 44.6,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:56.507Z"
+    },
+    {
+      "id": "op_988cade2",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch10.mp4"
+      },
+      "result": {
+        "mediaId": "m_7b6819681d6a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch10.mp4",
+          "durationSec": 48.8,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:57.762Z"
+    },
+    {
+      "id": "op_e25da771",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch11.mp4"
+      },
+      "result": {
+        "mediaId": "m_8033dae5bc4a",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch11.mp4",
+          "durationSec": 49.97,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:15:58.973Z"
+    },
+    {
+      "id": "op_74dbb2f1",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch12.mp4"
+      },
+      "result": {
+        "mediaId": "m_df07c7eeaa58",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch12.mp4",
+          "durationSec": 50.23,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:16:00.508Z"
+    },
+    {
+      "id": "op_0c6ea46a",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch13.mp4"
+      },
+      "result": {
+        "mediaId": "m_61756d1d7066",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_ch13.mp4",
+          "durationSec": 17,
+          "video": {
+            "codec": "h264",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30
+          },
+          "audio": {
+            "codec": "aac",
+            "sampleRate": 48000,
+            "channels": "stereo"
+          }
+        }
+      },
+      "timestamp": "2026-11-24T11:16:01.010Z"
+    },
+    {
+      "id": "op_4604c39f",
+      "timestamp": "2026-11-24T11:16:01.304Z",
+      "tool": "ingest",
+      "args": {
+        "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_endcard.mp4"
+      },
+      "result": {
+        "mediaId": "m_fa61bc18accc",
+        "ref": {
+          "path": "/Users/iseul-a/Documents/TikTokSeries/stickman/28-thai-cave-rescue/EN/edit/CAVE_EN_endcard.mp4",
           "durationSec": 10,
           "video": {
             "codec": "h264",

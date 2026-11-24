@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": 554,
+  "rev": 565,
   "width": 1920,
   "height": 1080,
   "fps": 30,
@@ -15,196 +15,196 @@
           "id": "t1",
           "startSec": 0,
           "effects": [],
-          "mediaId": "m_a756497a5b47",
+          "mediaId": "m_217f9ca899a0",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 2.39
         },
         {
           "kind": "media",
           "id": "t2",
-          "startSec": 1.4,
+          "startSec": 2.39,
           "effects": [],
-          "mediaId": "m_509706118f36",
+          "mediaId": "m_cb56e8c038e4",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 2.3
         },
         {
           "kind": "media",
           "id": "t3",
-          "startSec": 2.8,
+          "startSec": 4.6899999999999995,
           "effects": [],
-          "mediaId": "m_aa5b00816dce",
+          "mediaId": "m_15b6e09d1a90",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 2.39
         },
         {
           "kind": "media",
           "id": "t4",
-          "startSec": 4.199999999999999,
+          "startSec": 7.08,
           "effects": [],
-          "mediaId": "m_183d7a010c39",
+          "mediaId": "m_f36ec845a40c",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 2.3
         },
         {
           "kind": "media",
           "id": "t5",
-          "startSec": 5.6,
+          "startSec": 9.379999999999999,
           "effects": [],
-          "mediaId": "m_2a997ee4a93c",
+          "mediaId": "m_cb85487edd4a",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 2.3
         },
         {
           "kind": "media",
           "id": "t6",
-          "startSec": 7,
+          "startSec": 11.68,
           "effects": [],
-          "mediaId": "m_f45836a707ad",
+          "mediaId": "m_0e84da157e94",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 2.39
         },
         {
           "kind": "media",
           "id": "hook",
-          "startSec": 8.4,
+          "startSec": 14.07,
           "effects": [],
-          "mediaId": "m_a1dd269f1dd9",
+          "mediaId": "m_f2dd8f207f0a",
           "sourceInSec": 0,
           "sourceOutSec": 4
         },
         {
           "kind": "media",
           "id": "c00",
-          "startSec": 12.4,
+          "startSec": 18.07,
           "effects": [],
-          "mediaId": "m_908af6886f4e",
+          "mediaId": "m_e87b1697ecf0",
           "sourceInSec": 0,
-          "sourceOutSec": 29.6
+          "sourceOutSec": 33.37
         },
         {
           "kind": "media",
           "id": "c01",
-          "startSec": 42,
+          "startSec": 51.44,
           "effects": [],
-          "mediaId": "m_8029687eb57a",
+          "mediaId": "m_8a1c9c5ae7a2",
           "sourceInSec": 0,
-          "sourceOutSec": 60.63
+          "sourceOutSec": 58.17
         },
         {
           "kind": "media",
           "id": "c02",
-          "startSec": 102.63,
+          "startSec": 109.61,
           "effects": [],
-          "mediaId": "m_b1896b79e319",
-          "sourceInSec": 0,
-          "sourceOutSec": 51.73
-        },
-        {
-          "kind": "media",
-          "id": "c03",
-          "startSec": 154.35999999999999,
-          "effects": [],
-          "mediaId": "m_ebb5e7e25741",
-          "sourceInSec": 0,
-          "sourceOutSec": 45.17
-        },
-        {
-          "kind": "media",
-          "id": "c04",
-          "startSec": 199.52999999999997,
-          "effects": [],
-          "mediaId": "m_232cecf5e425",
-          "sourceInSec": 0,
-          "sourceOutSec": 41.73
-        },
-        {
-          "kind": "media",
-          "id": "c05",
-          "startSec": 241.25999999999996,
-          "effects": [],
-          "mediaId": "m_76c243d184e4",
+          "mediaId": "m_d0d5bc058806",
           "sourceInSec": 0,
           "sourceOutSec": 50.2
         },
         {
           "kind": "media",
-          "id": "c06",
-          "startSec": 291.46,
+          "id": "c03",
+          "startSec": 159.81,
           "effects": [],
-          "mediaId": "m_bb917b24e65f",
+          "mediaId": "m_1949ab4ecef1",
           "sourceInSec": 0,
-          "sourceOutSec": 49.83
+          "sourceOutSec": 50
+        },
+        {
+          "kind": "media",
+          "id": "c04",
+          "startSec": 209.81,
+          "effects": [],
+          "mediaId": "m_2f7ec859195a",
+          "sourceInSec": 0,
+          "sourceOutSec": 52.07
+        },
+        {
+          "kind": "media",
+          "id": "c05",
+          "startSec": 261.88,
+          "effects": [],
+          "mediaId": "m_d0491beb9abc",
+          "sourceInSec": 0,
+          "sourceOutSec": 49.43
+        },
+        {
+          "kind": "media",
+          "id": "c06",
+          "startSec": 311.31,
+          "effects": [],
+          "mediaId": "m_dcdc64d8dc61",
+          "sourceInSec": 0,
+          "sourceOutSec": 54.87
         },
         {
           "kind": "media",
           "id": "c07",
-          "startSec": 341.28999999999996,
+          "startSec": 366.18,
           "effects": [],
-          "mediaId": "m_358735be51ca",
+          "mediaId": "m_66da4897d612",
           "sourceInSec": 0,
-          "sourceOutSec": 43.87
+          "sourceOutSec": 51.2
         },
         {
           "kind": "media",
           "id": "c08",
-          "startSec": 385.15999999999997,
+          "startSec": 417.38,
           "effects": [],
-          "mediaId": "m_d01ccf2eacb5",
+          "mediaId": "m_b7da7ac62486",
           "sourceInSec": 0,
-          "sourceOutSec": 40.13
+          "sourceOutSec": 51.4
         },
         {
           "kind": "media",
           "id": "c09",
-          "startSec": 425.28999999999996,
+          "startSec": 468.78,
           "effects": [],
-          "mediaId": "m_a46db94f7a6c",
+          "mediaId": "m_e1ede237aee0",
           "sourceInSec": 0,
-          "sourceOutSec": 51.7
+          "sourceOutSec": 44.6
         },
         {
           "kind": "media",
           "id": "c10",
-          "startSec": 476.98999999999995,
+          "startSec": 513.38,
           "effects": [],
-          "mediaId": "m_e3b35fccd0ac",
+          "mediaId": "m_7b6819681d6a",
           "sourceInSec": 0,
-          "sourceOutSec": 50.53
+          "sourceOutSec": 48.8
         },
         {
           "kind": "media",
           "id": "c11",
-          "startSec": 527.52,
+          "startSec": 562.18,
           "effects": [],
-          "mediaId": "m_9590132479c5",
+          "mediaId": "m_8033dae5bc4a",
           "sourceInSec": 0,
-          "sourceOutSec": 50.97
+          "sourceOutSec": 49.97
         },
         {
           "kind": "media",
           "id": "c12",
-          "startSec": 578.49,
+          "startSec": 612.15,
           "effects": [],
-          "mediaId": "m_8ec06558c639",
+          "mediaId": "m_df07c7eeaa58",
           "sourceInSec": 0,
-          "sourceOutSec": 49.17
+          "sourceOutSec": 50.23
         },
         {
           "kind": "media",
           "id": "c13",
-          "startSec": 627.66,
+          "startSec": 662.38,
           "effects": [],
-          "mediaId": "m_7ab194962cef",
+          "mediaId": "m_61756d1d7066",
           "sourceInSec": 0,
-          "sourceOutSec": 16.07
+          "sourceOutSec": 17
         },
         {
           "kind": "media",
           "id": "end",
-          "startSec": 643.73,
+          "startSec": 679.38,
           "effects": [],
-          "mediaId": "m_6f87ca25b5e9",
+          "mediaId": "m_fa61bc18accc",
           "sourceInSec": 0,
           "sourceOutSec": 10
         }

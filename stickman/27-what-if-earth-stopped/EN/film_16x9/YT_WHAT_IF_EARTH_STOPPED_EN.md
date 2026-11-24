@@ -1,4 +1,4 @@
-# WHAT IF THE EARTH STOPPED SPINNING? (~10 min)
+# WHAT IF THE EARTH STOPPED SPINNING? (~12 min)
 
 ## Title ideas
 1. What If the Earth Stopped Spinning? (1,000 MPH Winds and a Day That Lasts a Year)
@@ -16,20 +16,20 @@ In this animated thought experiment: winds four times stronger than the fastest 
 
 ## Chapters
 0:00 Cold open
-0:11 The thought experiment
-0:38 How Fast Are We Spinning?
-1:27 The First Second
-2:09 The Great Wind
-2:54 The Oceans Attack
-3:34 A Day That Lasts a Year
-4:15 The Oceans Move
-5:04 No More Hurricanes
-5:51 The Invisible Shield
-6:40 Could Anyone Survive?
-7:28 What If It Slowed Down?
-8:14 It's Actually Happening
-9:05 Don't Worry
-9:48 Your turn
+0:18 The thought experiment
+0:51 How Fast Are We Spinning?
+1:50 The First Second
+2:43 The Great Wind
+3:32 The Oceans Attack
+4:18 A Day That Lasts a Year
+5:04 The Oceans Move
+5:58 No More Hurricanes
+6:50 The Invisible Shield
+7:49 Could Anyone Survive?
+8:47 What If It Slowed Down?
+9:39 It's Actually Happening
+10:36 Don't Worry
+11:23 Your turn
 
 ## Hashtags
 #whatif #space #earth #science #thoughtexperiment

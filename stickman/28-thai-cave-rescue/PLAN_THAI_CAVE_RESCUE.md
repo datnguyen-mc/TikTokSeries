@@ -1,9 +1,9 @@
 # KẾ HOẠCH – STICKMAN THE THAI CAVE RESCUE (2018) – EN
 
-**Định dạng:** Animated True Story – giải cứu có thật, bản dài ~10 phút (14 chương × ~45 giây). Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
-**Phong cách:** Stickman tối giản trên nền ảnh minh hoạ hang Tham Luang; bản đồ hang, thợ lặn, bình khí vẽ bằng code; không chi tiết thương tích.
-**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 20 nền (c01–c20): cửa hang, đường hầm ngập, bờ bùn, trại cứu hộ, bệnh viện, chùa.
-**Giọng đọc:** Piper en_US-ryan-high. **Nhạc:** Kevin MacLeod (CC BY 4.0).
+**Định dạng:** Animated True Story – giải cứu có thật, bản dài ~11 phút (14 chương), kể theo kiểu đặt câu hỏi rồi giải đáp, mở đầu bằng hook có giọng đọc ngay từ giây đầu. Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
+**Phong cách:** Stickman trên nền video Veo chuyển động (mưa rừng, nước lũ cuộn trong hang, đèn pin, máy bơm); bản đồ hang, thợ lặn, bình khí vẽ bằng code; giọng đọc nữ Kokoro (af_heart); ít nhãn chữ hơn; không chi tiết thương tích.
+**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 20 nền (c01–c20) đều đã được làm động bằng Veo 3.1 Lite: cửa hang, đường hầm ngập, bờ bùn, trại cứu hộ, bệnh viện, chùa.
+**Giọng đọc:** Kokoro af_heart (giọng nữ, Mỹ). **Nhạc:** Kevin MacLeod (CC BY 4.0).
 **Nhân vật thật:** Các cậu bé và huấn luyện viên KHÔNG nêu tên (người riêng tư); nêu tên thợ lặn Saman Kunan (anh hùng công chúng).
 
 ## Chương

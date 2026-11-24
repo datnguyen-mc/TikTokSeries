@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rev": 552,
+  "rev": 557,
   "width": 1920,
   "height": 1080,
   "fps": 30,
@@ -17,57 +17,57 @@
           "effects": [],
           "mediaId": "m_4ccc24caaf47",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 3.06
         },
         {
           "kind": "media",
           "id": "t2",
-          "startSec": 1.4,
+          "startSec": 3.06,
           "effects": [],
           "mediaId": "m_9a8f0d49e4e3",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 3.03
         },
         {
           "kind": "media",
           "id": "t3",
-          "startSec": 2.8,
+          "startSec": 6.09,
           "effects": [],
           "mediaId": "m_45a70b9f0c7a",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 3.06
         },
         {
           "kind": "media",
           "id": "t4",
-          "startSec": 4.199999999999999,
+          "startSec": 9.15,
           "effects": [],
           "mediaId": "m_5728f43b9b37",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 3.06
         },
         {
           "kind": "media",
           "id": "t5",
-          "startSec": 5.6,
+          "startSec": 12.21,
           "effects": [],
           "mediaId": "m_d0dd90028fa1",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 3.06
         },
         {
           "kind": "media",
           "id": "t6",
-          "startSec": 7,
+          "startSec": 15.270000000000001,
           "effects": [],
           "mediaId": "m_c86f743b241b",
           "sourceInSec": 0,
-          "sourceOutSec": 1.4
+          "sourceOutSec": 3.06
         },
         {
           "kind": "media",
           "id": "hook",
-          "startSec": 8.4,
+          "startSec": 18.330000000000002,
           "effects": [],
           "mediaId": "m_50ac7f7d481b",
           "sourceInSec": 0,
@@ -76,133 +76,133 @@
         {
           "kind": "media",
           "id": "c00",
-          "startSec": 12.4,
+          "startSec": 22.330000000000002,
           "effects": [],
           "mediaId": "m_6b4dc2824799",
           "sourceInSec": 0,
-          "sourceOutSec": 27.37
+          "sourceOutSec": 30.87
         },
         {
           "kind": "media",
           "id": "c01",
-          "startSec": 39.77,
+          "startSec": 53.2,
           "effects": [],
           "mediaId": "m_a1c83153409b",
           "sourceInSec": 0,
-          "sourceOutSec": 45.43
+          "sourceOutSec": 54.13
         },
         {
           "kind": "media",
           "id": "c02",
-          "startSec": 85.2,
+          "startSec": 107.33000000000001,
           "effects": [],
           "mediaId": "m_58f90335fd48",
           "sourceInSec": 0,
-          "sourceOutSec": 47.6
+          "sourceOutSec": 52.4
         },
         {
           "kind": "media",
           "id": "c03",
-          "startSec": 132.8,
+          "startSec": 159.73000000000002,
           "effects": [],
           "mediaId": "m_6d6aee27ef43",
           "sourceInSec": 0,
-          "sourceOutSec": 44.57
+          "sourceOutSec": 50.1
         },
         {
           "kind": "media",
           "id": "c04",
-          "startSec": 177.37,
+          "startSec": 209.83,
           "effects": [],
           "mediaId": "m_ed49a159bd9e",
           "sourceInSec": 0,
-          "sourceOutSec": 47.9
+          "sourceOutSec": 54.83
         },
         {
           "kind": "media",
           "id": "c05",
-          "startSec": 225.27,
+          "startSec": 264.66,
           "effects": [],
           "mediaId": "m_b7a81d42c5fa",
           "sourceInSec": 0,
-          "sourceOutSec": 43.47
+          "sourceOutSec": 50.53
         },
         {
           "kind": "media",
           "id": "c06",
-          "startSec": 268.74,
+          "startSec": 315.19000000000005,
           "effects": [],
           "mediaId": "m_700f13bd51e5",
           "sourceInSec": 0,
-          "sourceOutSec": 45.1
+          "sourceOutSec": 49.67
         },
         {
           "kind": "media",
           "id": "c07",
-          "startSec": 313.84000000000003,
+          "startSec": 364.86000000000007,
           "effects": [],
           "mediaId": "m_442199982114",
           "sourceInSec": 0,
-          "sourceOutSec": 46
+          "sourceOutSec": 48.23
         },
         {
           "kind": "media",
           "id": "c08",
-          "startSec": 359.84000000000003,
+          "startSec": 413.0900000000001,
           "effects": [],
           "mediaId": "m_4f240d8669fc",
           "sourceInSec": 0,
-          "sourceOutSec": 45.67
+          "sourceOutSec": 50.6
         },
         {
           "kind": "media",
           "id": "c09",
-          "startSec": 405.51000000000005,
+          "startSec": 463.6900000000001,
           "effects": [],
           "mediaId": "m_ce01abd9131f",
           "sourceInSec": 0,
-          "sourceOutSec": 54.93
+          "sourceOutSec": 60.83
         },
         {
           "kind": "media",
           "id": "c10",
-          "startSec": 460.44000000000005,
+          "startSec": 524.5200000000001,
           "effects": [],
           "mediaId": "m_2a526028d63d",
           "sourceInSec": 0,
-          "sourceOutSec": 45
+          "sourceOutSec": 51.63
         },
         {
           "kind": "media",
           "id": "c11",
-          "startSec": 505.44000000000005,
+          "startSec": 576.1500000000001,
           "effects": [],
           "mediaId": "m_f0b071150c92",
           "sourceInSec": 0,
-          "sourceOutSec": 49.1
+          "sourceOutSec": 52.2
         },
         {
           "kind": "media",
           "id": "c12",
-          "startSec": 554.5400000000001,
+          "startSec": 628.3500000000001,
           "effects": [],
           "mediaId": "m_cf58671b53c0",
           "sourceInSec": 0,
-          "sourceOutSec": 53.5
+          "sourceOutSec": 54.03
         },
         {
           "kind": "media",
           "id": "c13",
-          "startSec": 608.0400000000001,
+          "startSec": 682.3800000000001,
           "effects": [],
           "mediaId": "m_347f65f20615",
           "sourceInSec": 0,
-          "sourceOutSec": 14.67
+          "sourceOutSec": 17.7
         },
         {
           "kind": "media",
           "id": "end",
-          "startSec": 622.71,
+          "startSec": 700.0800000000002,
           "effects": [],
           "mediaId": "m_bd05b8ab0960",
           "sourceInSec": 0,
@@ -311,6 +311,13 @@
           "durationSec": 0.2
         }
       ],
+      "muted": false
+    },
+    {
+      "id": "a1",
+      "kind": "video",
+      "clips": [],
+      "transitions": [],
       "muted": false
     }
   ]

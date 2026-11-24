@@ -1,10 +1,10 @@
-# KẾ HOẠCH – STICKMAN THE CHRISTMAS TRUCE (1914) – EN
+# KẾ HOẠCH – STICKMAN THE CHRISTMAS TRUCE 1914 – EN
 
-**Định dạng:** Animated True Story – câu chuyện có thật Thế chiến I, bản dài ~10,5 phút (14 chương × ~45 giây). Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
-**Phong cách:** Stickman tối giản trên nền ảnh minh hoạ chiến hào mùa đông 1914; quân phục đơn giản, không phù hiệu, không cảnh giao tranh hay thương vong.
-**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 20 nền (x01–x20): chiến hào, vùng đất không người, đêm Giáng sinh, Bỉ, London, đài tưởng niệm.
-**Giọng đọc:** Piper en_US-ryan-high. **Nhạc:** Kevin MacLeod (CC BY 4.0).
-**Nhân vật thật:** Nhân vật lịch sử được nhắc: Princess Mary, Giáo hoàng Benedict XV, Vua và Hoàng hậu Anh; binh lính không nêu tên.
+**Định dạng:** Animated true story – bản dài ~11,7 phút (14 chương), kể chuyện kiểu đặt câu hỏi rồi giải đáp, mở đầu bằng đoạn hook có giọng đọc ngay từ giây đầu. Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
+**Phong cách:** Stickman trên nền video Veo chuyển động (tuyết rơi, nến lung linh, sương trôi), giọng đọc nữ Kokoro (af_heart), ít nhãn chữ hơn; lính luôn không cầm súng.
+**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 20 nền (x01–x20) đều đã được làm động bằng Veo 3.1 Lite: chiến hào Flanders, vùng đất không người, nhà thờ làng, nghĩa trang, sân bóng.
+**Giọng đọc:** Kokoro af_heart (giọng nữ, Mỹ). **Nhạc:** Kevin MacLeod (CC BY 4.0).
+**Nhân vật thật:** Không nêu tên riêng người lính; chỉ gọi Tommies/Fritz.
 
 ## Chương
 

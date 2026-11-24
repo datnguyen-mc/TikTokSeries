@@ -1,4 +1,4 @@
-# THE GREAT MOLASSES FLOOD – Boston, 1919 (~10 min)
+# THE GREAT MOLASSES FLOOD – Boston, 1919 (~12 min)
 
 ## Title ideas
 1. The Great Molasses Flood: The Day a 25-Foot Wave of Syrup Hit Boston
@@ -18,20 +18,20 @@ In this episode: a tank that was never properly tested, leaks painted brown, riv
 
 ## Chapters
 0:00 Cold open
-0:11 A wave of molasses
-0:45 A Sweet Business
-1:42 The Tank That Leaked
-2:28 The Last Delivery
-3:18 The Wave
-4:04 Trapped
-4:47 The Rescue
-5:31 A Sticky City
-6:15 Who Was to Blame?
-6:56 The Trial
-7:41 Why It Matters
-8:29 How Can Molasses Kill?
-9:15 The North End Today
-10:00 Your turn
+0:16 A wave of molasses
+0:58 A Sweet Business
+2:05 The Tank That Leaked
+3:04 The Last Delivery
+4:06 The Wave
+5:01 Trapped
+5:51 The Rescue
+6:38 A Sticky City
+7:33 Who Was to Blame?
+8:20 The Trial
+9:11 Why It Matters
+10:06 How Can Molasses Kill?
+11:02 The North End Today
+11:52 Your turn
 
 ## Hashtags
 #history #boston #molassesflood #truestory #disaster

@@ -1,4 +1,4 @@
-# TRAPPED IN A FLOODED CAVE – The Thai Cave Rescue, 2018 (~10 min)
+# TRAPPED IN A FLOODED CAVE – The Thai Cave Rescue, 2018 (~11 min)
 
 ## Title ideas
 1. Trapped in a Flooded Cave for 18 Days: The Thai Cave Rescue
@@ -16,20 +16,20 @@ This is the story of how they survived in the dark, how two British cave divers 
 
 ## Chapters
 0:00 Cold open
-0:11 Trapped in the dark
-0:39 The Wild Boars
-1:31 The Water Rises
-2:15 Surviving in the Dark
-2:59 The World Joins In
-3:48 Thirteen
-4:29 A New Problem
-5:15 A Hero's Sacrifice
-6:00 The Plan
-6:47 Day One
-7:26 All Thirteen
-8:12 After the Cave
-8:57 What We Learned
-9:42 Your turn
+0:17 Trapped in the dark
+0:50 The Wild Boars
+1:47 The Water Rises
+2:37 Surviving in the Dark
+3:27 The World Joins In
+4:19 Thirteen
+5:07 A New Problem
+6:02 A Hero's Sacrifice
+6:53 The Plan
+7:43 Day One
+8:28 All Thirteen
+9:16 After the Cave
+10:05 What We Learned
+10:55 Your turn
 
 ## Hashtags
 #thaicaverescue #survival #truestory #rescue #history

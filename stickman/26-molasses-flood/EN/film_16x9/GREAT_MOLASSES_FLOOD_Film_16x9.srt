@@ -1,1271 +1,1503 @@
 1
-00:00:11,250 --> 00:00:12,827
-January 15th,
+00:00:00,350 --> 00:00:01,470
+A wave of molasses,
 
 2
-00:00:12,827 --> 00:00:13,640
-1919
+00:00:01,470 --> 00:00:02,830
+twenty-five feet high,
 
 3
-00:00:13,640 --> 00:00:16,240
-A strangely warm winter day in Boston
+00:00:02,830 --> 00:00:05,070
+racing through a city at thirty-five miles
 
 4
-00:00:16,611 --> 00:00:17,721
-In the busy North End,
+00:00:05,070 --> 00:00:07,382
+an hour. It sounds like a joke.
 
 5
-00:00:17,721 --> 00:00:18,481
-children play,
+00:00:07,382 --> 00:00:09,424
+But it killed twenty-one people.
 
 6
-00:00:18,481 --> 00:00:19,481
-workers eat lunch,
+00:00:09,424 --> 00:00:10,824
+So how does a tank of sweet
 
 7
-00:00:19,481 --> 00:00:22,081
-and horses pull wagons along the waterfront
+00:00:10,824 --> 00:00:12,278
+syrup turn into a killer?
 
 8
-00:00:22,348 --> 00:00:22,858
-Suddenly,
+00:00:16,067 --> 00:00:17,147
+January 15th,
 
 9
-00:00:22,858 --> 00:00:24,258
-people hear a deep rumble,
+00:00:17,147 --> 00:00:18,529
+1919
 
 10
-00:00:24,258 --> 00:00:26,630
-and a sound like machine guns firing
+00:00:18,529 --> 00:00:21,129
+Boston is enjoying a strangely warm winter day
 
 11
-00:00:26,780 --> 00:00:28,170
-A giant tank bursts open,
+00:00:21,731 --> 00:00:21,731
+In the crowded North End,
 
 12
-00:00:28,170 --> 00:00:29,410
-and a wave of molasses,
+00:00:23,111 --> 00:00:24,711
+kids are playing in the street,
 
 13
-00:00:29,410 --> 00:00:30,490
-taller than a house,
+00:00:24,711 --> 00:00:26,151
+workers are eating lunch,
 
 14
-00:00:30,490 --> 00:00:32,096
-rushes through the streets
+00:00:26,151 --> 00:00:28,751
+and horses pull wagons along the waterfront
 
 15
-00:00:32,246 --> 00:00:33,076
-It sounds like a joke
+00:00:28,954 --> 00:00:29,004
+Then,
 
 16
-00:00:33,076 --> 00:00:35,236
-But it was one of the strangest and deadliest
+00:00:29,304 --> 00:00:29,884
+out of nowhere,
 
 17
-00:00:35,236 --> 00:00:37,316
-disasters in American history
+00:00:29,884 --> 00:00:31,179
+a deep rumble
 
 18
-00:00:37,573 --> 00:00:39,203
-And the company behind it tried to blame
+00:00:31,179 --> 00:00:33,593
+And a rattle like machine-gun fire
 
 19
-00:00:39,203 --> 00:00:40,596
-someone else
+00:00:33,593 --> 00:00:33,593
+A giant steel tank rips open...
 
 20
-00:00:40,746 --> 00:00:43,016
-This is the true story of the Great Molasses
+00:00:36,058 --> 00:00:37,498
+and a wave of molasses,
 
 21
-00:00:43,016 --> 00:00:44,136
-Flood
+00:00:37,498 --> 00:00:38,578
+taller than a house,
 
 22
-00:00:47,417 --> 00:00:48,767
-In 1915,
+00:00:38,578 --> 00:00:40,393
+comes roaring down the street
 
 23
-00:00:48,767 --> 00:00:51,673
-a company built a giant steel tank on Boston's
+00:00:40,393 --> 00:00:40,393
+Sounds like a joke,
 
 24
-00:00:51,673 --> 00:00:52,793
-waterfront
+00:00:41,533 --> 00:00:42,345
+right?
 
 25
-00:00:53,060 --> 00:00:55,130
-It belonged to a company called United States
+00:00:42,345 --> 00:00:43,480
+It wasn't
 
 26
-00:00:55,130 --> 00:00:56,410
-Industrial Alcohol,
+00:00:43,480 --> 00:00:45,120
+It became one of the deadliest,
 
 27
-00:00:56,410 --> 00:00:58,050
-and stood on Commercial Street,
+00:00:45,120 --> 00:00:46,040
+and strangest,
 
 28
-00:00:58,050 --> 00:00:59,621
-in the North End
+00:00:46,040 --> 00:00:48,120
+disasters in American history
 
 29
-00:00:59,771 --> 00:01:01,841
-It was about fifty feet tall and ninety feet
+00:00:48,222 --> 00:00:48,222
+And when it was over,
 
 30
-00:01:01,841 --> 00:01:02,161
-wide,
+00:00:49,282 --> 00:00:52,238
+the company behind it would point the finger...
 
 31
-00:01:02,161 --> 00:01:04,281
-and it could hold more than two million gallons
+00:00:52,238 --> 00:00:53,845
+at someone else
 
 32
-00:01:04,281 --> 00:01:05,705
-of molasses
+00:00:53,595 --> 00:00:53,845
+This is the true story of the Great Molasses
 
 33
-00:01:05,855 --> 00:01:08,085
-That is enough to fill more than three Olympic
+00:00:56,185 --> 00:00:57,305
+Flood
 
 34
-00:01:08,085 --> 00:01:09,525
-swimming pools
+00:01:00,800 --> 00:01:02,080
+To understand what happened,
 
 35
-00:01:09,729 --> 00:01:10,889
-Molasses is the thick,
+00:01:02,080 --> 00:01:04,120
+we have to go back to 1915,
 
 36
-00:01:10,889 --> 00:01:13,329
-dark syrup left over when sugar is made from
+00:01:04,120 --> 00:01:06,614
+when a giant steel tank went up on Boston's
 
 37
-00:01:13,329 --> 00:01:14,704
-sugar cane
+00:01:06,614 --> 00:01:07,734
+waterfront
 
 38
-00:01:14,854 --> 00:01:16,724
-Molasses was turned into alcohol,
+00:01:07,568 --> 00:01:07,838
+It belonged to a company called United States
 
 39
-00:01:16,724 --> 00:01:17,764
-used for drinks,
+00:01:10,617 --> 00:01:11,857
+Industrial Alcohol,
 
 40
-00:01:17,764 --> 00:01:19,924
-and for making explosives during the First
+00:01:11,857 --> 00:01:13,577
+and it stood on Commercial Street,
 
 41
-00:01:19,924 --> 00:01:21,241
-World War
+00:01:13,577 --> 00:01:15,436
+right in the North End
 
 42
-00:01:21,391 --> 00:01:22,141
-During the war,
+00:01:15,166 --> 00:01:15,436
+And it was enormous
 
 43
-00:01:22,141 --> 00:01:23,261
-business was booming,
+00:01:17,019 --> 00:01:17,899
+Fifty feet tall,
 
 44
-00:01:23,261 --> 00:01:25,861
-and the company wanted more and more of it
+00:01:17,899 --> 00:01:19,019
+ninety feet wide,
 
 45
-00:01:26,140 --> 00:01:28,170
-Ships from the Caribbean filled the tank again
+00:01:19,019 --> 00:01:21,139
+holding more than two million gallons of
 
 46
-00:01:28,170 --> 00:01:29,462
-and again
+00:01:21,139 --> 00:01:22,259
+molasses
 
 47
-00:01:29,612 --> 00:01:31,722
-And right next to it lived thousands of people,
+00:01:22,143 --> 00:01:22,413
+That's enough to fill more than three Olympic
 
 48
-00:01:31,722 --> 00:01:33,562
-in one of the busiest neighborhoods in the
+00:01:24,593 --> 00:01:26,014
+swimming pools
 
 49
-00:01:33,562 --> 00:01:34,663
-city
+00:01:25,744 --> 00:01:26,014
+But why would anyone need that much molasses?
 
 50
-00:01:34,843 --> 00:01:37,163
-Many of them were Italian immigrant families,
+00:01:28,892 --> 00:01:29,572
+It's the thick,
 
 51
-00:01:37,163 --> 00:01:39,363
-crowded into small apartments just a few
+00:01:29,572 --> 00:01:32,052
+dark syrup left over when sugar is made from
 
 52
-00:01:39,363 --> 00:01:40,803
-streets away
+00:01:32,052 --> 00:01:33,433
+sugar cane
 
 53
-00:01:44,450 --> 00:01:45,880
-The tank was built in a hurry,
+00:01:33,163 --> 00:01:33,433
+And it could be turned into alcohol
 
 54
-00:01:45,880 --> 00:01:48,200
-overseen by a company treasurer with no
+00:01:35,538 --> 00:01:37,376
+Alcohol for drinks...
 
 55
-00:01:48,200 --> 00:01:49,640
-engineering training
+00:01:37,376 --> 00:01:39,736
+and for making explosives in the First World
 
 56
-00:01:50,174 --> 00:01:52,604
-He never asked an engineer or an architect to
+00:01:39,736 --> 00:01:40,716
+War
 
 57
-00:01:52,604 --> 00:01:54,146
-check the plans
+00:01:40,446 --> 00:01:40,716
+With a war raging,
 
 58
-00:01:54,296 --> 00:01:55,646
-It was never properly tested
+00:01:41,656 --> 00:01:43,150
+business was booming
 
 59
-00:01:55,646 --> 00:01:57,766
-They filled it with only a few inches of
+00:01:43,150 --> 00:01:44,350
+The company wanted more,
 
 60
-00:01:57,766 --> 00:01:58,814
-water
+00:01:44,350 --> 00:01:44,910
+and more,
 
 61
-00:01:58,964 --> 00:02:00,914
-A proper test would have meant filling it with
+00:01:44,910 --> 00:01:46,313
+and more
 
 62
-00:02:00,914 --> 00:02:01,274
-water,
+00:01:46,043 --> 00:01:46,313
+Ship after ship sailed in from the Caribbean,
 
 63
-00:02:01,274 --> 00:02:03,017
-all the way to the top
+00:01:48,773 --> 00:01:51,103
+filling the tank again and again
 
 64
-00:02:03,167 --> 00:02:03,997
-Almost right away,
+00:01:50,833 --> 00:01:51,103
+And right next to it?
 
 65
-00:02:03,997 --> 00:02:05,337
-the tank began to leak
+00:01:52,820 --> 00:01:53,780
+Thousands of people,
 
 66
-00:02:05,337 --> 00:02:07,848
-Brown streaks ran down its sides
+00:01:53,780 --> 00:01:55,740
+in one of the busiest neighborhoods in the
 
 67
-00:02:07,998 --> 00:02:10,068
-Local children collected the dripping molasses
+00:01:55,740 --> 00:01:56,860
+city
 
 68
-00:02:10,068 --> 00:02:11,889
-as a free sweet treat
+00:01:56,442 --> 00:01:56,862
+Many were Italian immigrant families,
 
 69
-00:02:12,039 --> 00:02:13,949
-A worker who looked after the tank warned his
+00:01:59,162 --> 00:02:00,762
+packed into small apartments,
 
 70
-00:02:13,949 --> 00:02:15,069
-boss about the leaks,
+00:02:00,762 --> 00:02:02,762
+just a few streets from a giant tank of
 
 71
-00:02:15,069 --> 00:02:17,149
-and strange cracking sounds
-
-72
-00:02:17,531 --> 00:02:19,715
-He was told that nothing was wrong
-
-73
-00:02:19,865 --> 00:02:20,735
-The company's answer?
-
-74
-00:02:20,735 --> 00:02:21,975
-They painted the tank brown,
-
-75
-00:02:21,975 --> 00:02:24,474
-so the leaks would be harder to see
-
-76
-00:02:24,624 --> 00:02:25,334
-The leaks were hidden
-
-77
-00:02:25,334 --> 00:02:27,414
-The danger was not
-
-78
-00:02:30,850 --> 00:02:32,880
-In January 1919,
-
-79
-00:02:32,880 --> 00:02:35,480
-a ship arrived with a fresh load of molasses
-
-80
-00:02:36,156 --> 00:02:38,226
-Warm molasses from the ship was pumped in,
-
-81
-00:02:38,226 --> 00:02:40,826
-on top of the cold syrup already inside
-
-82
-00:02:41,358 --> 00:02:43,068
-The tank was filled almost to the top,
-
-83
-00:02:43,068 --> 00:02:45,468
-with about 2.3 million gallons
-
-84
-00:02:46,107 --> 00:02:47,777
-That much molasses weighed more than twelve
-
-85
-00:02:47,777 --> 00:02:49,217
-thousand tons
-
-86
-00:02:49,451 --> 00:02:50,201
-Days earlier,
-
-87
-00:02:50,201 --> 00:02:51,441
-it had been freezing cold
-
-88
-00:02:51,441 --> 00:02:53,795
-Then the weather suddenly warmed up
-
-89
-00:02:53,945 --> 00:02:55,175
-On January 14th,
-
-90
-00:02:55,175 --> 00:02:56,935
-it was around two degrees Fahrenheit
-
-91
-00:02:56,935 --> 00:02:57,615
-The next day,
-
-92
-00:02:57,615 --> 00:02:59,380
-it was over forty
-
-93
-00:02:59,530 --> 00:03:01,520
-Some historians think the molasses may have
-
-94
-00:03:01,520 --> 00:03:02,480
-started to ferment,
-
-95
-00:03:02,480 --> 00:03:05,080
-making gas that pushed on the walls
-
-96
-00:03:05,231 --> 00:03:06,701
-Inside the thin steel walls,
-
-97
-00:03:06,701 --> 00:03:08,657
-the pressure kept building
-
-98
-00:03:08,807 --> 00:03:10,877
-People nearby said the tank often groaned and
-
-99
-00:03:10,877 --> 00:03:12,871
-rumbled when it was full
-
-100
-00:03:13,021 --> 00:03:14,851
-And on the morning of January 15th,
-
-101
-00:03:14,851 --> 00:03:17,451
-nobody imagined what was about to happen
-
-102
-00:03:21,250 --> 00:03:22,000
-It was lunchtime
-
-103
-00:03:22,000 --> 00:03:23,280
-City workers were eating,
-
-104
-00:03:23,280 --> 00:03:25,040
-and children were on their way home from
-
-105
-00:03:25,040 --> 00:03:26,116
-school
-
-106
-00:03:26,266 --> 00:03:27,656
-At about half past twelve,
-
-107
-00:03:27,656 --> 00:03:29,526
-the tank split apart
-
-108
-00:03:29,676 --> 00:03:31,146
-Witnesses heard a sound like thunder,
-
-109
-00:03:31,146 --> 00:03:32,778
-and the ground shook
-
-110
-00:03:32,928 --> 00:03:34,798
-Its steel rivets shot out like bullets,
-
-111
-00:03:34,798 --> 00:03:37,152
-and a wall of molasses burst free
-
-112
-00:03:37,302 --> 00:03:39,332
-The wave was up to twenty-five feet high,
-
-113
-00:03:39,332 --> 00:03:41,932
-and moved at about thirty-five miles per hour
-
-114
-00:03:42,558 --> 00:03:43,068
-In seconds,
-
-115
-00:03:43,068 --> 00:03:45,228
-the streets were flooded with molasses two to
-
-116
-00:03:45,228 --> 00:03:46,751
-three feet deep
-
-117
-00:03:46,901 --> 00:03:47,811
-It crushed buildings,
-
-118
-00:03:47,811 --> 00:03:49,931
-bent the steel of the elevated railway,
-
-119
-00:03:49,931 --> 00:03:52,495
-and swept away wagons and horses
-
-120
-00:03:52,645 --> 00:03:55,075
-A fire station was knocked off its foundation,
-
-121
-00:03:55,075 --> 00:03:57,155
-with firefighters still inside
-
-122
-00:03:57,568 --> 00:03:58,758
-A house was torn apart,
-
-123
-00:03:58,758 --> 00:04:01,157
-and a city building was swept away
-
-124
-00:04:01,307 --> 00:04:03,907
-There was no time to run
-
-125
-00:04:06,817 --> 00:04:08,367
-Molasses is thick and heavy
-
-126
-00:04:08,367 --> 00:04:09,407
-Once it caught people,
-
-127
-00:04:09,407 --> 00:04:11,474
-it held them like glue
-
-128
-00:04:11,624 --> 00:04:13,534
-It is almost one and a half times as
-
-129
-00:04:13,534 --> 00:04:15,109
-heavy as water
-
-130
-00:04:15,259 --> 00:04:16,249
-The more they struggled,
-
-131
-00:04:16,249 --> 00:04:18,116
-the harder it was to move
-
-132
-00:04:18,266 --> 00:04:20,798
-Even strong horses could not pull free
-
-133
-00:04:20,948 --> 00:04:22,258
-And as the afternoon grew colder,
-
-134
-00:04:22,258 --> 00:04:24,584
-the molasses grew even thicker
-
-135
-00:04:24,734 --> 00:04:26,164
-Everything was covered in brown
-
-136
-00:04:26,164 --> 00:04:28,044
-It was hard to tell where the street ended
-
-137
-00:04:28,044 --> 00:04:29,785
-and the syrup began
-
-138
-00:04:29,935 --> 00:04:31,605
-Rescuers waded in up to their waists,
-
-139
-00:04:31,605 --> 00:04:33,559
-trying to pull people free
-
-140
-00:04:33,709 --> 00:04:35,299
-Some rescuers got stuck too,
-
-141
-00:04:35,299 --> 00:04:37,704
-and had to be pulled out themselves
-
-142
-00:04:37,854 --> 00:04:39,764
-Twenty-one people lost their lives,
-
-143
-00:04:39,764 --> 00:04:42,364
-and about one hundred and fifty were injured
-
-144
-00:04:42,873 --> 00:04:44,223
-Among the victims were children,
-
-145
-00:04:44,223 --> 00:04:46,623
-city workers and a firefighter
-
-146
-00:04:49,950 --> 00:04:52,100
-Sailors from a ship docked nearby were among
-
-147
-00:04:52,100 --> 00:04:53,748
-the first to arrive
-
-148
-00:04:53,898 --> 00:04:55,728
-They were young cadets from a training ship,
-
-149
-00:04:55,728 --> 00:04:57,448
-and more than a hundred of them ran to
-
-150
-00:04:57,448 --> 00:04:58,369
-help
-
-151
-00:04:58,519 --> 00:04:59,149
-Police,
-
-152
-00:04:59,149 --> 00:04:59,829
-firefighters,
-
-153
-00:04:59,829 --> 00:05:02,429
-doctors and nurses rushed in to help
-
-154
-00:05:02,746 --> 00:05:03,576
-Using ropes,
-
-155
-00:05:03,576 --> 00:05:05,176
-ladders and their bare hands,
-
-156
-00:05:05,176 --> 00:05:07,576
-rescuers searched through the wreckage
-
-157
-00:05:07,750 --> 00:05:10,060
-The injured were carried to a hospital nearby,
-
-158
-00:05:10,060 --> 00:05:12,232
-many of them covered from head to toe in
-
-159
-00:05:12,232 --> 00:05:13,174
+00:02:02,762 --> 00:02:03,882
 syrup
 
+72
+00:02:07,700 --> 00:02:09,753
+Here's where things start to go wrong
+
+73
+00:02:09,753 --> 00:02:11,273
+The tank was built in a hurry,
+
+74
+00:02:11,273 --> 00:02:13,873
+and the man in charge wasn't even an engineer
+
+75
+00:02:14,202 --> 00:02:14,472
+He never asked an engineer,
+
+76
+00:02:16,092 --> 00:02:17,012
+or an architect,
+
+77
+00:02:17,012 --> 00:02:18,372
+to check the plans
+
+78
+00:02:18,372 --> 00:02:19,812
+Not once
+
+79
+00:02:19,569 --> 00:02:19,839
+Was it tested?
+
+80
+00:02:21,453 --> 00:02:22,433
+Barely
+
+81
+00:02:22,433 --> 00:02:24,633
+They poured in just a few inches of water,
+
+82
+00:02:24,633 --> 00:02:26,367
+and called it done
+
+83
+00:02:26,097 --> 00:02:26,367
+A real test meant filling it with water all
+
+84
+00:02:28,707 --> 00:02:29,667
+the way to the top,
+
+85
+00:02:29,667 --> 00:02:32,010
+to see if it could take the weight
+
+86
+00:02:31,740 --> 00:02:32,010
+And almost right away,
+
+87
+00:02:33,230 --> 00:02:34,936
+the tank began to leak
+
+88
+00:02:34,936 --> 00:02:37,441
+Brown streaks ran down its sides
+
+89
+00:02:37,621 --> 00:02:40,261
+Local kids even collected the dripping molasses
+
+90
+00:02:40,261 --> 00:02:42,153
+as a free sweet treat
+
+91
+00:02:41,883 --> 00:02:42,153
+One worker who looked after the tank warned his
+
+92
+00:02:44,733 --> 00:02:46,410
+boss about the leaks...
+
+93
+00:02:46,410 --> 00:02:48,810
+and about strange cracking sounds
+
+94
+00:02:48,576 --> 00:02:48,846
+The answer he got?
+
+95
+00:02:50,642 --> 00:02:52,398
+Nothing was wrong
+
+96
+00:02:52,128 --> 00:02:52,398
+So what did the company do about the leaks?
+
+97
+00:02:55,261 --> 00:02:56,661
+It painted the tank brown,
+
+98
+00:02:56,661 --> 00:02:59,261
+so the leaks would be harder to see
+
+99
+00:02:58,852 --> 00:02:59,272
+The leaks were hidden
+
+100
+00:03:00,841 --> 00:03:02,921
+The danger was not
+
+101
+00:03:06,633 --> 00:03:08,570
+January 1919
+
+102
+00:03:08,570 --> 00:03:11,010
+A ship arrives in Boston with a fresh load
+
+103
+00:03:11,010 --> 00:03:12,109
+of molasses
+
+104
+00:03:12,109 --> 00:03:14,215
+It will be the last delivery
+
+105
+00:03:13,945 --> 00:03:14,215
+Warm molasses from the ship is pumped in,
+
+106
+00:03:16,595 --> 00:03:19,195
+right on top of the cold syrup already inside
+
+107
+00:03:19,649 --> 00:03:19,919
+The tank is filled almost to the brim
+
+108
+00:03:22,202 --> 00:03:24,282
+About 2.3 million gallons
+
+109
+00:03:24,530 --> 00:03:24,800
+How heavy is that?
+
+110
+00:03:26,505 --> 00:03:28,105
+More than twelve thousand tons,
+
+111
+00:03:28,105 --> 00:03:30,705
+all pushing outward on thin steel walls
+
+112
+00:03:30,855 --> 00:03:31,125
+For days,
+
+113
+00:03:31,745 --> 00:03:33,472
+it's been freezing cold
+
+114
+00:03:33,472 --> 00:03:35,681
+Then the weather does something strange
+
+115
+00:03:35,681 --> 00:03:37,620
+It suddenly warms up
+
+116
+00:03:37,350 --> 00:03:37,620
+On January 14th,
+
+117
+00:03:39,000 --> 00:03:41,149
+it's around two degrees Fahrenheit
+
+118
+00:03:41,149 --> 00:03:42,547
+The next day?
+
+119
+00:03:42,547 --> 00:03:43,987
+Over forty
+
+120
+00:03:43,815 --> 00:03:44,085
+Some historians think the molasses may have
+
+121
+00:03:46,505 --> 00:03:47,505
+started to ferment,
+
+122
+00:03:47,505 --> 00:03:50,105
+making gas that pushed against the walls
+
+123
+00:03:50,108 --> 00:03:50,378
+Inside the tank,
+
+124
+00:03:51,438 --> 00:03:53,435
+the pressure keeps building
+
+125
+00:03:53,165 --> 00:03:53,435
+Neighbors said that when it was full,
+
+126
+00:03:55,175 --> 00:03:56,975
+the tank groaned and rumbled,
+
+127
+00:03:56,975 --> 00:03:59,267
+almost as if it were alive
+
+128
+00:03:58,847 --> 00:03:59,267
+And on the morning of January 15th,
+
+129
+00:04:01,527 --> 00:04:04,127
+nobody imagined what was about to happen
+
+130
+00:04:08,433 --> 00:04:09,740
+It's lunchtime
+
+131
+00:04:09,740 --> 00:04:11,020
+City workers are eating,
+
+132
+00:04:11,020 --> 00:04:13,572
+and kids are walking home from school
+
+133
+00:04:13,302 --> 00:04:13,572
+At about half past twelve...
+
+134
+00:04:15,710 --> 00:04:17,755
+the tank splits apart
+
+135
+00:04:17,534 --> 00:04:17,755
+Witnesses hear a sound like thunder,
+
+136
+00:04:19,694 --> 00:04:22,294
+and the ground shakes beneath their feet
+
+137
+00:04:22,041 --> 00:04:22,311
+Steel rivets shoot out like bullets
+
+138
+00:04:24,547 --> 00:04:27,079
+And a wall of molasses bursts free
+
+139
+00:04:26,859 --> 00:04:27,079
+How big was the wave?
+
+140
+00:04:29,003 --> 00:04:30,523
+Up to twenty-five feet high,
+
+141
+00:04:30,523 --> 00:04:33,318
+moving at around thirty-five miles per hour
+
+142
+00:04:33,318 --> 00:04:35,633
+Faster than anyone could run
+
+143
+00:04:35,413 --> 00:04:35,633
+Within seconds,
+
+144
+00:04:36,393 --> 00:04:38,773
+the streets are buried under molasses two to
+
+145
+00:04:38,773 --> 00:04:40,301
+three feet deep
+
+146
+00:04:40,031 --> 00:04:40,301
+It crushes buildings,
+
+147
+00:04:41,481 --> 00:04:43,681
+bends the steel of the elevated railway,
+
+148
+00:04:43,681 --> 00:04:46,281
+and sweeps away wagons and horses
+
+149
+00:04:46,198 --> 00:04:46,418
+A fire station is knocked right off its
+
+150
+00:04:48,598 --> 00:04:49,745
+foundation...
+
+151
+00:04:49,745 --> 00:04:51,825
+with firefighters still inside
+
+152
+00:04:51,829 --> 00:04:52,099
+A house is torn apart
+
+153
+00:04:53,887 --> 00:04:56,131
+A city building is swept away
+
+154
+00:04:55,861 --> 00:04:56,131
+And for the people in its path...
+
+155
+00:04:58,310 --> 00:05:00,910
+there was no time to run
+
+156
+00:05:04,233 --> 00:05:05,157
+It's just syrup,
+
+157
+00:05:05,157 --> 00:05:05,939
+right?
+
+158
+00:05:05,939 --> 00:05:07,606
+How bad can it be?
+
+159
+00:05:07,606 --> 00:05:09,166
+But once molasses catches you,
+
 160
-00:05:13,324 --> 00:05:15,074
-Rescue work went on through the night,
+00:05:09,166 --> 00:05:11,015
+it doesn't let go
 
 161
-00:05:15,074 --> 00:05:17,040
-by the light of lamps
+00:05:10,745 --> 00:05:11,015
+It's almost one and a half times as heavy
 
 162
-00:05:17,190 --> 00:05:18,340
-At the fire station,
+00:05:13,275 --> 00:05:14,466
+as water
 
 163
-00:05:18,340 --> 00:05:20,260
-firefighters worked for hours to free their
+00:05:14,196 --> 00:05:14,466
+And the more you struggle,
 
 164
-00:05:20,260 --> 00:05:21,700
-trapped friends
+00:05:15,766 --> 00:05:17,687
+the tighter it grips
 
 165
-00:05:21,881 --> 00:05:24,332
-The search for the missing went on for days
+00:05:17,417 --> 00:05:17,687
+Even strong horses couldn't pull themselves
 
 166
-00:05:24,482 --> 00:05:27,082
-Some of the missing were not found for months
+00:05:19,947 --> 00:05:20,898
+free
 
 167
-00:05:27,292 --> 00:05:29,162
-It was one of the darkest days the neighborhood
+00:05:20,628 --> 00:05:20,898
+Then came the cold
 
 168
-00:05:29,162 --> 00:05:30,922
-had ever seen
+00:05:22,539 --> 00:05:23,739
+As the afternoon chilled,
 
 169
-00:05:34,250 --> 00:05:36,190
-The cleanup took weeks
+00:05:23,739 --> 00:05:26,139
+the molasses grew even thicker
 
 170
-00:05:36,340 --> 00:05:38,370
-Hundreds of workers came to help clean the
+00:05:25,905 --> 00:05:26,175
+Everything was brown
 
 171
-00:05:38,370 --> 00:05:39,490
-streets
+00:05:27,840 --> 00:05:29,600
+You couldn't tell where the street ended and
 
 172
-00:05:39,685 --> 00:05:41,795
-Workers sprayed salt water from the harbor to
+00:05:29,600 --> 00:05:31,291
+the syrup began
 
 173
-00:05:41,795 --> 00:05:43,715
-wash the molasses away
+00:05:31,061 --> 00:05:31,291
+Rescuers waded in up to their waists,
 
 174
-00:05:43,865 --> 00:05:45,335
-Fresh water did not work well
+00:05:33,471 --> 00:05:35,673
+trying to pull people out
 
 175
-00:05:45,335 --> 00:05:47,775
-Salt water cut through the sticky syrup much
+00:05:35,403 --> 00:05:35,673
+Some rescuers got stuck too,
 
 176
-00:05:47,775 --> 00:05:48,777
-better
+00:05:37,453 --> 00:05:39,903
+and had to be pulled out themselves
 
 177
-00:05:48,927 --> 00:05:50,517
-Sand was spread on the streets,
+00:05:39,633 --> 00:05:39,903
+In the end,
 
 178
-00:05:50,517 --> 00:05:53,117
-so people could walk without sticking
+00:05:40,523 --> 00:05:42,403
+twenty-one people lost their lives,
 
 179
-00:05:53,270 --> 00:05:54,740
-People tracked it all over Boston,
+00:05:42,403 --> 00:05:45,003
+and around one hundred and fifty were injured
 
 180
-00:05:54,740 --> 00:05:55,500
-on their shoes,
+00:05:45,400 --> 00:05:45,870
+Among them were children,
 
 181
-00:05:55,500 --> 00:05:57,580
-into streetcars and homes
+00:05:47,250 --> 00:05:48,210
+city workers,
 
 182
-00:05:57,949 --> 00:05:58,699
-Door handles,
+00:05:48,210 --> 00:05:49,970
+and a firefighter
 
 183
-00:05:58,699 --> 00:06:01,099
-benches and telephones across the city became
+00:05:53,667 --> 00:05:55,352
+So who came to help?
 
 184
-00:06:01,099 --> 00:06:02,165
-sticky
+00:05:55,352 --> 00:05:57,352
+Some of the very first were sailors from a
 
 185
-00:06:02,315 --> 00:06:04,025
-The water in the harbor turned brown for
+00:05:57,352 --> 00:05:59,093
+ship docked nearby
 
 186
-00:06:04,025 --> 00:06:05,080
-months
+00:05:58,823 --> 00:05:59,093
+They were young cadets from a training ship,
 
 187
-00:06:05,230 --> 00:06:05,760
-In total,
+00:06:01,033 --> 00:06:03,113
+and more than a hundred of them ran straight
 
 188
-00:06:05,760 --> 00:06:07,620
-the cleanup took more than eighty-seven
+00:06:03,113 --> 00:06:04,493
+into the mess
 
 189
-00:06:07,620 --> 00:06:09,434
-thousand hours of work
+00:06:04,223 --> 00:06:04,493
+Police,
 
 190
-00:06:09,584 --> 00:06:10,414
-And for decades,
+00:06:05,293 --> 00:06:05,993
+firefighters,
 
 191
-00:06:10,414 --> 00:06:12,294
-people said the neighborhood still smelled of
+00:06:05,993 --> 00:06:08,593
+doctors and nurses rushed in right behind them
 
 192
-00:06:12,294 --> 00:06:14,694
-molasses on hot summer days
+00:06:08,993 --> 00:06:09,263
+With ropes,
 
 193
-00:06:18,217 --> 00:06:20,087
-Victims and their families sued the company
+00:06:10,003 --> 00:06:11,563
+ladders and their bare hands,
 
 194
-00:06:20,087 --> 00:06:21,609
-that owned the tank
+00:06:11,563 --> 00:06:13,782
+they searched through the wreckage
 
 195
-00:06:21,759 --> 00:06:23,469
-More than a hundred lawsuits were filed,
+00:06:13,512 --> 00:06:13,782
+The injured were carried to a nearby hospital,
 
 196
-00:06:23,469 --> 00:06:25,509
-and the courts joined them together into one
+00:06:16,242 --> 00:06:18,842
+many covered head to toe in syrup
 
 197
-00:06:25,509 --> 00:06:26,915
-huge case
+00:06:18,573 --> 00:06:18,843
+The rescue went on through the night,
 
 198
-00:06:27,065 --> 00:06:29,504
-But the company had a surprising answer
+00:06:20,543 --> 00:06:22,454
+by the light of lamps
 
 199
-00:06:29,654 --> 00:06:31,724
-It claimed the tank had been blown up by
+00:06:22,184 --> 00:06:22,454
+At the fire station,
 
 200
-00:06:31,724 --> 00:06:32,124
-anarchists,
+00:06:23,814 --> 00:06:25,874
+firefighters worked for hours to free their
 
 201
-00:06:32,124 --> 00:06:33,383
-with a bomb
+00:06:25,874 --> 00:06:27,314
+trapped friends
 
 202
-00:06:33,533 --> 00:06:35,563
-Anarchists were radicals who wanted to bring
+00:06:27,121 --> 00:06:27,391
+The search for the missing went on for days
 
 203
-00:06:35,563 --> 00:06:37,963
-down governments and big companies
+00:06:29,965 --> 00:06:30,235
+And some of the missing weren't found for
 
 204
-00:06:38,154 --> 00:06:40,104
-There had been real bombings in America at the
+00:06:32,015 --> 00:06:33,053
+months
 
 205
-00:06:40,104 --> 00:06:40,464
-time,
+00:06:32,783 --> 00:06:33,053
+It was one of the darkest days the neighborhood
 
 206
-00:06:40,464 --> 00:06:42,544
-so some people believed it
+00:06:35,313 --> 00:06:37,073
+had ever seen
 
 207
-00:06:42,694 --> 00:06:43,484
-And if it was a bomb,
+00:06:40,500 --> 00:06:42,660
+And then came a problem no city had ever
 
 208
-00:06:43,484 --> 00:06:45,772
-the company would not have to pay
+00:06:42,660 --> 00:06:43,357
+faced
 
 209
-00:06:45,922 --> 00:06:48,478
-Its lawyers spent years trying to prove it
+00:06:43,357 --> 00:06:45,945
+How do you clean up a flood of molasses?
 
 210
-00:06:48,628 --> 00:06:51,228
-It was a clever way to avoid responsibility
+00:06:45,675 --> 00:06:45,945
+Hundreds of workers came to scrub the streets
 
 211
-00:06:51,859 --> 00:06:52,529
-But the families,
+00:06:48,816 --> 00:06:49,086
+They sprayed salt water from the harbor to wash
 
 212
-00:06:52,529 --> 00:06:53,329
-and their lawyers,
+00:06:51,466 --> 00:06:53,223
+the molasses away
 
 213
-00:06:53,329 --> 00:06:55,409
-refused to give up
+00:06:52,953 --> 00:06:53,223
+Why salt water?
 
 214
-00:06:58,683 --> 00:07:00,753
-The case became one of the biggest lawsuits in
+00:06:54,889 --> 00:06:56,706
+Fresh water barely worked
 
 215
-00:07:00,753 --> 00:07:02,193
-Massachusetts history
+00:06:56,706 --> 00:06:59,106
+Salt water cut through the sticky syrup much
 
 216
-00:07:02,817 --> 00:07:04,887
-The court chose a special auditor to hear all
+00:06:59,106 --> 00:07:00,042
+better
 
 217
-00:07:04,887 --> 00:07:06,290
-the evidence
+00:06:59,772 --> 00:07:00,042
+Sand was spread on the streets,
 
 218
-00:07:06,440 --> 00:07:07,190
-It lasted years,
+00:07:01,622 --> 00:07:04,207
+so people could walk without sticking
 
 219
-00:07:07,190 --> 00:07:09,630
-with hundreds of witnesses and experts on both
+00:07:03,937 --> 00:07:04,207
+Still,
 
 220
-00:07:09,630 --> 00:07:10,748
-sides
+00:07:04,707 --> 00:07:06,159
+it got everywhere
 
 221
-00:07:10,898 --> 00:07:12,408
-Witnesses described the leaks,
+00:07:06,159 --> 00:07:07,959
+People tracked it all over Boston,
 
 222
-00:07:12,408 --> 00:07:13,088
-the groaning,
+00:07:07,959 --> 00:07:08,879
+on their shoes,
 
 223
-00:07:13,088 --> 00:07:14,847
-and the brown paint
+00:07:08,879 --> 00:07:10,959
+into streetcars and homes
 
 224
-00:07:14,997 --> 00:07:17,387
-Engineers studied the broken steel and did the
+00:07:10,837 --> 00:07:11,107
+Door handles,
 
 225
-00:07:17,387 --> 00:07:18,400
-math
+00:07:12,127 --> 00:07:12,767
+benches,
 
 226
-00:07:18,550 --> 00:07:20,420
-They showed that the steel walls were too thin
+00:07:12,767 --> 00:07:15,367
+even telephones across the city turned sticky
 
 227
-00:07:20,420 --> 00:07:22,209
-to hold that much weight
+00:07:15,579 --> 00:07:15,849
+The water in the harbor stayed brown for
 
 228
-00:07:22,359 --> 00:07:24,549
-The company's experts still insisted it was a
+00:07:17,989 --> 00:07:19,000
+months
 
 229
-00:07:24,549 --> 00:07:25,553
-bomb
+00:07:18,730 --> 00:07:19,000
+In total,
 
 230
-00:07:25,703 --> 00:07:27,173
-In 1925,
+00:07:19,660 --> 00:07:21,580
+the cleanup took more than eighty-seven
 
 231
-00:07:27,173 --> 00:07:28,133
-the verdict came:
+00:07:21,580 --> 00:07:23,479
+thousand hours of work
 
 232
-00:07:28,133 --> 00:07:29,053
-there was no bomb
+00:07:23,209 --> 00:07:23,479
+And for decades,
 
 233
-00:07:29,053 --> 00:07:30,573
-The tank was simply too weak,
+00:07:24,499 --> 00:07:26,459
+people swore the neighborhood still smelled of
 
 234
-00:07:30,573 --> 00:07:32,578
-and had never been tested
+00:07:26,459 --> 00:07:28,671
+molasses on hot summer days
 
 235
-00:07:32,728 --> 00:07:34,678
-The company had to pay the victims about six
+00:07:28,671 --> 00:07:30,710
+But the strangest part of this story was still
 
 236
-00:07:34,678 --> 00:07:37,078
-hundred and twenty-eight thousand dollars
+00:07:30,710 --> 00:07:32,150
+to come
 
 237
-00:07:37,429 --> 00:07:40,029
-That is worth many millions of dollars today
+00:07:35,700 --> 00:07:37,730
+So who was responsible?
 
 238
-00:07:43,650 --> 00:07:45,840
-The disaster changed how big structures are
+00:07:37,730 --> 00:07:40,210
+The families of the victims took the company to
 
 239
-00:07:45,840 --> 00:07:46,856
-built
+00:07:40,210 --> 00:07:41,189
+court
 
 240
-00:07:47,006 --> 00:07:47,796
-Before the flood,
+00:07:40,919 --> 00:07:41,189
+More than a hundred lawsuits were filed,
 
 241
-00:07:47,796 --> 00:07:50,196
-a company could build a giant tank with almost
+00:07:43,249 --> 00:07:45,849
+and the courts joined them into one giant case
 
 242
-00:07:50,196 --> 00:07:52,452
-no expert checks at all
+00:07:46,085 --> 00:07:46,355
+But the company had a surprising answer
 
 243
-00:07:52,602 --> 00:07:53,032
-Afterward,
+00:07:48,901 --> 00:07:49,171
+It said the tank hadn't failed at all
 
 244
-00:07:53,032 --> 00:07:55,592
-Massachusetts and other states began requiring
+00:07:51,432 --> 00:07:53,272
+It had been blown up by anarchists,
 
 245
-00:07:55,592 --> 00:07:58,192
-engineers to check and sign the plans
+00:07:53,272 --> 00:07:54,730
+with a bomb
 
 246
-00:07:58,547 --> 00:07:59,937
-Calculations had to be shown,
+00:07:54,910 --> 00:07:56,990
+Anarchists were radicals who wanted to bring
 
 247
-00:07:59,937 --> 00:08:02,043
-and tanks had to be tested
+00:07:56,990 --> 00:07:59,390
+down governments and big companies
 
 248
-00:08:02,193 --> 00:08:02,903
-Over time,
+00:07:59,257 --> 00:07:59,527
+And there had been real bombings in America at
 
 249
-00:08:02,903 --> 00:08:05,423
-more and more states required engineers to hold
+00:08:01,987 --> 00:08:02,507
+the time,
 
 250
-00:08:05,423 --> 00:08:06,850
-a license
+00:08:02,507 --> 00:08:04,803
+so some people believed it
 
 251
-00:08:07,000 --> 00:08:07,510
-Much later,
+00:08:04,533 --> 00:08:04,803
+Here's the catch:
 
 252
-00:08:07,510 --> 00:08:09,750
-engineers studied the tank's design again,
+00:08:05,583 --> 00:08:06,543
+if it was a bomb,
 
 253
-00:08:09,750 --> 00:08:11,510
-with modern tools
+00:08:06,543 --> 00:08:09,143
+the company wouldn't have to pay a cent
 
 254
-00:08:11,668 --> 00:08:13,418
-They found its steel walls were too thin,
+00:08:08,886 --> 00:08:09,156
+Its lawyers spent years trying to prove it
 
 255
-00:08:13,418 --> 00:08:15,930
-and the metal became brittle in the cold
+00:08:11,604 --> 00:08:11,873
+It was a clever way to dodge the blame
 
 256
-00:08:16,080 --> 00:08:18,150
-The cracks probably started near a hole at the
+00:08:14,387 --> 00:08:14,857
+But the families,
 
 257
-00:08:18,150 --> 00:08:19,658
-bottom of the tank
+00:08:15,836 --> 00:08:16,836
+and their lawyers,
 
 258
-00:08:19,808 --> 00:08:21,038
-Rules that keep tanks,
+00:08:16,836 --> 00:08:18,916
+refused to give up
 
 259
-00:08:21,038 --> 00:08:23,198
-bridges and buildings safe today grew out of
+00:08:22,533 --> 00:08:24,413
+What followed became one of the biggest
 
 260
-00:08:23,198 --> 00:08:25,161
-disasters like this one
+00:08:24,413 --> 00:08:26,493
+lawsuits in Massachusetts history
 
 261
-00:08:25,311 --> 00:08:27,911
-A cheap shortcut had cost twenty-one lives
+00:08:26,783 --> 00:08:27,053
+The court chose a special auditor to hear all
 
 262
-00:08:32,117 --> 00:08:33,507
-In 2016,
+00:08:29,513 --> 00:08:30,837
+the evidence
 
 263
-00:08:33,507 --> 00:08:36,107
-scientists at Harvard studied the flood again
+00:08:30,567 --> 00:08:30,837
+It dragged on for years,
 
 264
-00:08:36,820 --> 00:08:37,850
-They used old maps,
+00:08:32,217 --> 00:08:34,977
+with hundreds of witnesses and experts on both
 
 265
-00:08:37,850 --> 00:08:40,250
-newspaper reports and weather records from that
+00:08:34,977 --> 00:08:35,993
+sides
 
 266
-00:08:40,250 --> 00:08:41,140
-day
+00:08:35,723 --> 00:08:35,993
+Witnesses talked about the leaks,
 
 267
-00:08:41,290 --> 00:08:43,680
-They even poured corn syrup in a cold room,
+00:08:38,013 --> 00:08:39,365
+the groaning...
 
 268
-00:08:43,680 --> 00:08:45,587
-to see how it moves
+00:08:39,365 --> 00:08:41,124
+and the brown paint
 
 269
-00:08:45,737 --> 00:08:47,807
-Heavy molasses moves surprisingly fast at
+00:08:40,854 --> 00:08:41,124
+Engineers studied the broken steel,
 
 270
-00:08:47,807 --> 00:08:48,087
-first,
+00:08:43,064 --> 00:08:44,745
+and did the math
 
 271
-00:08:48,087 --> 00:08:50,383
-pushed by its own enormous weight
+00:08:44,475 --> 00:08:44,745
+And the math was clear:
 
 272
-00:08:50,533 --> 00:08:52,123
-Think of cold honey from the fridge,
+00:08:45,925 --> 00:08:48,525
+the steel walls were simply too thin to hold
 
 273
-00:08:52,123 --> 00:08:53,947
-compared to warm honey
+00:08:48,525 --> 00:08:49,925
+that much weight
 
 274
-00:08:54,097 --> 00:08:55,727
-But as it spread out in the cold January
+00:08:49,655 --> 00:08:49,925
+The company's experts still insisted it was a
 
 275
-00:08:55,727 --> 00:08:56,007
-air,
+00:08:52,345 --> 00:08:53,321
+bomb
 
 276
-00:08:56,007 --> 00:08:58,302
-it cooled and became much thicker
+00:08:53,051 --> 00:08:53,291
+Then,
 
 277
-00:08:58,452 --> 00:08:59,082
-Within minutes,
+00:08:53,661 --> 00:08:55,301
+in 1925,
 
 278
-00:08:59,082 --> 00:09:01,082
-the flood began to slow down and set,
+00:08:55,301 --> 00:08:56,473
+the verdict
 
 279
-00:09:01,082 --> 00:09:02,923
-almost like thick glue
+00:08:56,473 --> 00:08:57,850
+There was no bomb
 
 280
-00:09:03,073 --> 00:09:04,663
-That is why people who were caught could not
+00:08:57,850 --> 00:08:59,090
+The tank was too weak,
 
 281
-00:09:04,663 --> 00:09:05,783
-escape
+00:08:59,090 --> 00:09:01,690
+and it had never been properly tested
 
 282
-00:09:05,964 --> 00:09:07,754
-And rescuers had to fight through syrup that
+00:09:01,516 --> 00:09:01,786
+The company had to pay the victims about six
 
 283
-00:09:07,754 --> 00:09:09,878
-was getting stiffer by the minute
+00:09:04,286 --> 00:09:06,686
+hundred and twenty-eight thousand dollars
 
 284
-00:09:10,028 --> 00:09:12,338
-Their work showed the old stories of a
+00:09:06,718 --> 00:09:07,138
+That's worth many millions of dollars today
 
 285
-00:09:12,338 --> 00:09:14,418
-thirty-five-mile-per-hour wave were believable
+00:09:13,967 --> 00:09:16,237
+But this story didn't end in a courtroom
 
 286
-00:09:18,317 --> 00:09:18,707
-Today,
+00:09:16,237 --> 00:09:18,837
+It changed the way big things get built
 
 287
-00:09:18,707 --> 00:09:20,787
-the spot where the tank stood is a park,
+00:09:18,634 --> 00:09:18,904
+Before the flood,
 
 288
-00:09:20,787 --> 00:09:22,545
-with a baseball field
+00:09:19,664 --> 00:09:22,164
+a company could build a giant tank with almost
 
 289
-00:09:22,695 --> 00:09:23,444
-Kids play ball,
+00:09:22,164 --> 00:09:24,313
+no expert checks at all
 
 290
-00:09:23,444 --> 00:09:25,842
-and families walk along the water
+00:09:24,043 --> 00:09:24,313
+Afterward,
 
 291
-00:09:25,992 --> 00:09:28,102
-There is only a small plaque to remember what
+00:09:24,973 --> 00:09:27,733
+Massachusetts and other states began requiring
 
 292
-00:09:28,102 --> 00:09:29,175
-happened
+00:09:27,733 --> 00:09:30,333
+engineers to check and sign the plans
 
 293
-00:09:29,325 --> 00:09:31,753
-Many people walk past without knowing
+00:09:30,803 --> 00:09:32,729
+Calculations had to be shown
 
 294
-00:09:31,903 --> 00:09:33,173
-In 2019,
+00:09:32,729 --> 00:09:34,712
+Tanks had to be tested
 
 295
-00:09:33,173 --> 00:09:34,413
-a hundred years later,
+00:09:34,442 --> 00:09:34,712
+Over time,
 
 296
-00:09:34,413 --> 00:09:36,293
-people gathered there to read out the names of
+00:09:35,412 --> 00:09:38,092
+more and more states required engineers to hold
 
 297
-00:09:36,293 --> 00:09:37,558
-the victims
+00:09:38,092 --> 00:09:39,364
+a license
 
 298
-00:09:37,708 --> 00:09:38,298
-Strangely,
+00:09:39,094 --> 00:09:39,364
+And decades later,
 
 299
-00:09:38,298 --> 00:09:40,818
-the flood happened just one day before America
+00:09:40,464 --> 00:09:42,544
+engineers took another look at the tank's
 
 300
-00:09:40,818 --> 00:09:43,418
-approved the law that banned alcohol
+00:09:42,544 --> 00:09:43,104
+design,
 
 301
-00:09:43,642 --> 00:09:45,512
-It is one of the strangest chapters in the
+00:09:43,104 --> 00:09:44,864
+using modern tools
 
 302
-00:09:45,512 --> 00:09:47,196
-history of Boston
+00:09:44,913 --> 00:09:45,183
+What did they find?
 
 303
-00:09:47,346 --> 00:09:49,456
-But Bostonians still tell the story of the day
+00:09:46,840 --> 00:09:48,360
+Its steel walls were too thin,
 
 304
-00:09:49,456 --> 00:09:51,376
-the streets ran brown
+00:09:48,360 --> 00:09:50,960
+and the metal turned brittle in the cold
 
 305
-00:09:51,526 --> 00:09:53,716
-It reminds us that safety rules are written for
+00:09:50,818 --> 00:09:51,088
+The cracks probably started near a hole at the
 
 306
-00:09:53,716 --> 00:09:54,894
-a reason
+00:09:53,508 --> 00:09:55,076
+bottom of the tank
 
 307
-00:09:55,044 --> 00:09:55,914
-A sweet syrup,
+00:09:54,806 --> 00:09:55,076
+Many of the rules that keep tanks,
 
 308
-00:09:55,914 --> 00:09:56,874
-a weak tank,
+00:09:56,936 --> 00:09:59,416
+bridges and buildings safe today grew out of
 
 309
-00:09:56,874 --> 00:09:59,474
-and a company that cut corners
+00:09:59,416 --> 00:10:01,402
+disasters like this one
 
 310
-00:10:00,250 --> 00:10:01,000
-A giant tank
+00:10:01,132 --> 00:10:01,402
+One cheap shortcut cost twenty-one lives
 
 311
-00:10:01,000 --> 00:10:02,260
-A wave of molasses
+00:10:08,300 --> 00:10:10,244
+There's still one question left
 
 312
-00:10:02,260 --> 00:10:04,020
-Twenty-one lives lost
+00:10:10,244 --> 00:10:11,084
+How can a slow,
 
 313
-00:10:04,384 --> 00:10:06,414
-All because a company decided that testing its
+00:10:11,084 --> 00:10:13,613
+sticky syrup move fast enough to kill?
 
 314
-00:10:06,414 --> 00:10:08,239
-tank was not worth the cost
+00:10:13,613 --> 00:10:14,613
+In 2016,
 
 315
-00:10:08,389 --> 00:10:10,179
-Had you heard of the Great Molasses Flood
+00:10:14,613 --> 00:10:16,653
+scientists at Harvard went looking for the
 
 316
-00:10:10,179 --> 00:10:10,968
-before?
+00:10:16,653 --> 00:10:17,709
+answer
 
 317
-00:10:11,118 --> 00:10:12,618
-Tell me in the comments
+00:10:17,439 --> 00:10:17,709
+They used old maps,
 
 318
-00:10:12,768 --> 00:10:15,368
-Subscribe so you don't miss the next episode
+00:10:19,009 --> 00:10:20,249
+newspaper reports,
+
+319
+00:10:20,249 --> 00:10:22,628
+and weather records from that day
+
+320
+00:10:22,358 --> 00:10:22,628
+They even poured corn syrup in a cold room,
+
+321
+00:10:25,008 --> 00:10:26,965
+to watch how it moves
+
+322
+00:10:26,695 --> 00:10:26,965
+Here's what they found
+
+323
+00:10:28,596 --> 00:10:31,036
+Heavy molasses moves surprisingly fast at
+
+324
+00:10:31,036 --> 00:10:31,356
+first,
+
+325
+00:10:31,356 --> 00:10:33,868
+pushed by its own enormous weight
+
+326
+00:10:33,598 --> 00:10:33,868
+Think of cold honey from the fridge,
+
+327
+00:10:35,848 --> 00:10:37,863
+compared to warm honey
+
+328
+00:10:37,593 --> 00:10:37,863
+But as it spread out in the freezing January
+
+329
+00:10:40,123 --> 00:10:40,483
+air,
+
+330
+00:10:40,483 --> 00:10:42,861
+it cooled and became much thicker
+
+331
+00:10:42,591 --> 00:10:42,861
+Within minutes,
+
+332
+00:10:43,681 --> 00:10:45,841
+the flood slowed down and began to set,
+
+333
+00:10:45,841 --> 00:10:47,601
+almost like glue
+
+334
+00:10:47,342 --> 00:10:47,612
+That's why people who were caught couldn't
+
+335
+00:10:49,352 --> 00:10:50,472
+escape
+
+336
+00:10:50,235 --> 00:10:50,505
+And rescuers had to fight through syrup that
+
+337
+00:10:52,685 --> 00:10:54,775
+was getting stiffer by the minute
+
+338
+00:10:54,505 --> 00:10:54,775
+So those old stories of a
+
+339
+00:10:56,155 --> 00:10:58,411
+thirty-five-mile-an-hour wave?
+
+340
+00:10:58,411 --> 00:11:01,011
+The science says they were believable
+
+341
+00:11:04,600 --> 00:11:06,290
+So what's there today?
+
+342
+00:11:06,290 --> 00:11:08,210
+The spot where the tank once stood is now
+
+343
+00:11:08,210 --> 00:11:08,770
+a park,
+
+344
+00:11:08,770 --> 00:11:10,722
+with a baseball field
+
+345
+00:11:10,452 --> 00:11:10,722
+Kids play ball,
+
+346
+00:11:11,622 --> 00:11:14,089
+and families stroll along the water
+
+347
+00:11:13,819 --> 00:11:14,089
+There's only a small plaque to remember what
+
+348
+00:11:16,509 --> 00:11:17,532
+happened
+
+349
+00:11:17,262 --> 00:11:17,532
+Most people walk right past it,
+
+350
+00:11:19,512 --> 00:11:21,253
+without ever knowing
+
+351
+00:11:20,983 --> 00:11:21,253
+In 2019,
+
+352
+00:11:22,093 --> 00:11:23,633
+a hundred years later,
+
+353
+00:11:23,633 --> 00:11:25,753
+people gathered there to read out the names of
+
+354
+00:11:25,753 --> 00:11:27,124
+the victims
+
+355
+00:11:26,854 --> 00:11:27,124
+And here's a strange twist:
+
+356
+00:11:28,664 --> 00:11:31,384
+the flood happened just one day before America
+
+357
+00:11:31,384 --> 00:11:33,941
+approved the law that banned alcohol
+
+358
+00:11:33,671 --> 00:11:33,941
+It's one of the strangest chapters in Boston's
+
+359
+00:11:36,361 --> 00:11:37,430
+history
+
+360
+00:11:37,160 --> 00:11:37,430
+But Bostonians still tell the story of the day
+
+361
+00:11:39,970 --> 00:11:41,898
+the streets ran brown
+
+362
+00:11:41,628 --> 00:11:41,898
+And it reminds us that safety rules are written
+
+363
+00:11:44,317 --> 00:11:45,651
+for a reason
+
+364
+00:11:45,381 --> 00:11:45,651
+A sweet syrup
+
+365
+00:11:47,024 --> 00:11:48,279
+A weak tank
+
+366
+00:11:48,279 --> 00:11:50,879
+And a company that cut corners
+
+367
+00:11:51,833 --> 00:11:53,095
+A giant tank
+
+368
+00:11:53,095 --> 00:11:54,745
+A wave of molasses
+
+369
+00:11:54,745 --> 00:11:56,505
+Twenty-one lives lost
+
+370
+00:11:56,586 --> 00:11:56,636
+All because a company decided that testing its
+
+371
+00:11:59,176 --> 00:12:01,116
+tank wasn't worth the cost
+
+372
+00:12:01,016 --> 00:12:01,116
+Had you ever heard of the Great Molasses Flood
+
+373
+00:12:03,616 --> 00:12:04,693
+before today?
+
+374
+00:12:04,643 --> 00:12:04,693
+Let me know in the comments
+
+375
+00:12:06,513 --> 00:12:06,563
+And subscribe,
+
+376
+00:12:07,463 --> 00:12:10,063
+so you don't miss the next story

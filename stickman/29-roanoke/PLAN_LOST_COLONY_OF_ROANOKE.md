@@ -1,9 +1,9 @@
 # KẾ HOẠCH – STICKMAN THE LOST COLONY OF ROANOKE – EN
 
-**Định dạng:** Mysteries – bí ẩn lịch sử chưa có lời giải, bản dài ~10,5 phút (14 chương × ~45 giây). Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
-**Phong cách:** Stickman tối giản trên nền ảnh minh hoạ thế kỷ 16; bản đồ Outer Banks, chữ khắc CROATOAN vẽ bằng code; các giả thuyết trình bày như giả thuyết.
-**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 21 nền (o01–o21): đảo Roanoke, làng thuộc địa, tàu buồm, London 1588, đảo Hatteras, bảo tàng, hiện trường khảo cổ.
-**Giọng đọc:** Piper en_US-ryan-high. **Nhạc:** Kevin MacLeod (CC BY 4.0).
+**Định dạng:** Mysteries – bí ẩn lịch sử chưa có lời giải, bản dài ~12 phút (14 chương), kể theo kiểu đặt câu hỏi rồi giải đáp, mở đầu bằng hook có giọng đọc ngay từ giây đầu. Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
+**Phong cách:** Stickman trên nền video Veo chuyển động (sóng biển, sương mù, nến, bão); bản đồ Outer Banks và chữ khắc CROATOAN vẽ bằng code; giọng đọc nữ Kokoro (af_heart); ít nhãn chữ hơn; các giả thuyết trình bày như giả thuyết.
+**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 21 nền (o01–o21) đều đã được làm động bằng Veo 3.1 Lite: đảo Roanoke, làng thuộc địa, tàu buồm, London 1588, đảo Hatteras, bảo tàng, hiện trường khảo cổ.
+**Giọng đọc:** Kokoro af_heart (giọng nữ, Mỹ). **Nhạc:** Kevin MacLeod (CC BY 4.0).
 **Nhân vật thật:** Nhân vật lịch sử được gọi tên: John White, Eleanor Dare, Ananias Dare, Virginia Dare, Walter Raleigh, Manteo, Wanchese; những người khác không nêu tên.
 
 ## Chương

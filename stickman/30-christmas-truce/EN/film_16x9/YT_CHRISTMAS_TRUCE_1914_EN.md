@@ -1,4 +1,4 @@
-# THE CHRISTMAS TRUCE OF 1914 (~10 min)
+# THE CHRISTMAS TRUCE OF 1914 (~12 min)
 
 ## Title ideas
 1. The Christmas Truce of 1914: When Enemies Stopped the War
@@ -16,20 +16,20 @@ The next morning, unarmed soldiers climbed out of their trenches, shook hands, s
 
 ## Chapters
 0:00 Cold open
-0:11 Silent night
-0:38 Home by Christmas
-1:23 Life in the Trenches
-2:10 Gifts From Home
-2:54 Lights in the Dark
-3:42 Singing Across the Lines
-4:25 Into No Man's Land
-5:09 Gifts for Enemies
-5:55 A Game of Football
-6:40 How Big Was It?
-7:35 The Generals Are Angry
-8:19 Never Again
-9:08 A Message of Peace
-10:01 Your turn
+0:21 Silent night
+0:51 Home by Christmas
+1:45 Life in the Trenches
+2:37 Gifts From Home
+3:27 Lights in the Dark
+4:21 Singing Across the Lines
+5:11 Into No Man's Land
+6:00 Gifts for Enemies
+6:48 A Game of Football
+7:38 How Big Was It?
+8:39 The Generals Are Angry
+9:30 Never Again
+10:21 A Message of Peace
+11:15 Your turn
 
 ## Hashtags
 #christmastruce #ww1 #history #truestory #christmas

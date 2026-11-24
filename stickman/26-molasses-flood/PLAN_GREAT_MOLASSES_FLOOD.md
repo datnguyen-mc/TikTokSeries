@@ -1,10 +1,10 @@
-# KẾ HOẠCH – STICKMAN GREAT MOLASSES FLOOD (1919) – EN
+# KẾ HOẠCH – STICKMAN THE GREAT MOLASSES FLOOD – EN
 
-**Định dạng:** Darkest Secrets – thảm họa có thật, bản dài ~10,5 phút (14 chương × ~45 giây). Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
-**Phong cách:** Stickman tối giản trên nền ảnh minh hoạ Boston 1919; sóng mật mía vẽ bằng code; không thi thể, không chi tiết thương tích.
-**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 20 nền (b01–b20): bến cảng Boston, bồn chứa, đường ray trên cao, phố North End, toà án, phòng thí nghiệm.
-**Giọng đọc:** Piper en_US-ryan-high. **Nhạc:** Kevin MacLeod (CC BY 4.0).
-**Nhân vật thật:** Chỉ thủ quỹ công ty (nhân vật lịch sử) được gọi tên; nạn nhân không nêu tên.
+**Định dạng:** Darkest Secrets – bản dài ~12,4 phút (14 chương), kể theo kiểu đặt câu hỏi rồi giải đáp, mở đầu bằng hook có giọng đọc ngay từ giây đầu. Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
+**Phong cách:** Stickman trên nền video Veo chuyển động (hơi nước, mật mía chảy, sóng cảng, đèn lồng), giọng đọc nữ Kokoro (af_heart), ít nhãn chữ hơn; không có thi thể, chi tiết y tế không ghê rợn.
+**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 20 nền (b01–b20) đều đã được làm động bằng Veo 3.1 Lite, thêm 2 cảnh Veo 3.1 Fast cho thẻ tựa đề và thẻ cuối.
+**Giọng đọc:** Kokoro af_heart (giọng nữ, Mỹ). **Nhạc:** Kevin MacLeod (CC BY 4.0).
+**Nhân vật thật:** Không nêu tên nạn nhân; công ty được gọi đúng tên United States Industrial Alcohol.
 
 ## Chương
 

@@ -4,73 +4,73 @@
 <resources>
 <format id="r1" frameDuration="1/30s" width="1920" height="1080"/>
 <format id="r2" frameDuration="1/30s" width="1920" height="1080"/>
-<asset id="r3" name="EARTH_EN_teaser1" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser1.mp4"/></asset>
-<asset id="r4" name="EARTH_EN_teaser2" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser2.mp4"/></asset>
-<asset id="r5" name="EARTH_EN_teaser3" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser3.mp4"/></asset>
-<asset id="r6" name="EARTH_EN_teaser4" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser4.mp4"/></asset>
-<asset id="r7" name="EARTH_EN_teaser5" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser5.mp4"/></asset>
-<asset id="r8" name="EARTH_EN_teaser6" start="0s" duration="7/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser6.mp4"/></asset>
+<asset id="r3" name="EARTH_EN_teaser1" start="0s" duration="13/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser1.mp4"/></asset>
+<asset id="r4" name="EARTH_EN_teaser2" start="0s" duration="13/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser2.mp4"/></asset>
+<asset id="r5" name="EARTH_EN_teaser3" start="0s" duration="27/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser3.mp4"/></asset>
+<asset id="r6" name="EARTH_EN_teaser4" start="0s" duration="27/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser4.mp4"/></asset>
+<asset id="r7" name="EARTH_EN_teaser5" start="0s" duration="13/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser5.mp4"/></asset>
+<asset id="r8" name="EARTH_EN_teaser6" start="0s" duration="27/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_teaser6.mp4"/></asset>
 <asset id="r9" name="EARTH_EN_hook" start="0s" duration="4s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_hook.mp4"/></asset>
-<asset id="r10" name="EARTH_EN_ch00" start="0s" duration="273/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch00.mp4"/></asset>
-<asset id="r11" name="EARTH_EN_ch01" start="0s" duration="743/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch01.mp4"/></asset>
-<asset id="r12" name="EARTH_EN_ch02" start="0s" duration="641/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch02.mp4"/></asset>
-<asset id="r13" name="EARTH_EN_ch03" start="0s" duration="447/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch03.mp4"/></asset>
-<asset id="r14" name="EARTH_EN_ch04" start="0s" duration="203/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch04.mp4"/></asset>
-<asset id="r15" name="EARTH_EN_ch05" start="0s" duration="1249/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch05.mp4"/></asset>
-<asset id="r16" name="EARTH_EN_ch06" start="0s" duration="501/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch06.mp4"/></asset>
-<asset id="r17" name="EARTH_EN_ch07" start="0s" duration="467/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch07.mp4"/></asset>
-<asset id="r18" name="EARTH_EN_ch08" start="0s" duration="497/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch08.mp4"/></asset>
-<asset id="r19" name="EARTH_EN_ch09" start="0s" duration="243/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch09.mp4"/></asset>
-<asset id="r20" name="EARTH_EN_ch10" start="0s" duration="234/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch10.mp4"/></asset>
-<asset id="r21" name="EARTH_EN_ch11" start="0s" duration="511/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch11.mp4"/></asset>
-<asset id="r22" name="EARTH_EN_ch12" start="0s" duration="44s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch12.mp4"/></asset>
-<asset id="r23" name="EARTH_EN_ch13" start="0s" duration="167/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch13.mp4"/></asset>
+<asset id="r10" name="EARTH_EN_ch00" start="0s" duration="100/3s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch00.mp4"/></asset>
+<asset id="r11" name="EARTH_EN_ch01" start="0s" duration="589/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch01.mp4"/></asset>
+<asset id="r12" name="EARTH_EN_ch02" start="0s" duration="533/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch02.mp4"/></asset>
+<asset id="r13" name="EARTH_EN_ch03" start="0s" duration="299/6s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch03.mp4"/></asset>
+<asset id="r14" name="EARTH_EN_ch04" start="0s" duration="231/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch04.mp4"/></asset>
+<asset id="r15" name="EARTH_EN_ch05" start="0s" duration="1411/30s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch05.mp4"/></asset>
+<asset id="r16" name="EARTH_EN_ch06" start="0s" duration="818/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch06.mp4"/></asset>
+<asset id="r17" name="EARTH_EN_ch07" start="0s" duration="257/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch07.mp4"/></asset>
+<asset id="r18" name="EARTH_EN_ch08" start="0s" duration="301/5s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch08.mp4"/></asset>
+<asset id="r19" name="EARTH_EN_ch09" start="0s" duration="866/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch09.mp4"/></asset>
+<asset id="r20" name="EARTH_EN_ch10" start="0s" duration="527/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch10.mp4"/></asset>
+<asset id="r21" name="EARTH_EN_ch11" start="0s" duration="863/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch11.mp4"/></asset>
+<asset id="r22" name="EARTH_EN_ch12" start="0s" duration="477/10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch12.mp4"/></asset>
+<asset id="r23" name="EARTH_EN_ch13" start="0s" duration="281/15s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_ch13.mp4"/></asset>
 <asset id="r24" name="EARTH_EN_endcard" start="0s" duration="10s" hasVideo="1" format="r2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///Users/iseul-a/Documents/TikTokSeries/stickman/27-what-if-earth-stopped/EN/edit/EARTH_EN_endcard.mp4"/></asset>
 <effect id="r25" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
 <effect id="r26" name="Audio Crossfade" uid="FFAudioTransition"/>
 </resources>
-<library><event name="MakeMyClip"><project name="WHAT_IF_EARTH_STOPPED_Film_16x9"><sequence format="r1" duration="9217/15s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
-<asset-clip ref="r3" offset="0s" name="EARTH_EN_teaser1" start="0s" duration="13/10s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="6/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r4" offset="13/10s" name="EARTH_EN_teaser2" start="1/10s" duration="6/5s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="12/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r5" offset="5/2s" name="EARTH_EN_teaser3" start="1/10s" duration="6/5s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="18/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r6" offset="37/10s" name="EARTH_EN_teaser4" start="1/10s" duration="6/5s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="24/5s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r7" offset="49/10s" name="EARTH_EN_teaser5" start="1/10s" duration="6/5s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="6s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r8" offset="61/10s" name="EARTH_EN_teaser6" start="1/10s" duration="13/10s" format="r2"></asset-clip>
-<asset-clip ref="r9" offset="37/5s" name="EARTH_EN_hook" start="0s" duration="19/5s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="11s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r10" offset="56/5s" name="EARTH_EN_ch00" start="1/5s" duration="269/10s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="379/10s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r11" offset="381/10s" name="EARTH_EN_ch01" start="1/5s" duration="737/15s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="2611/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r12" offset="2617/30s" name="EARTH_EN_ch02" start="1/5s" duration="127/3s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="3881/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r13" offset="3887/30s" name="EARTH_EN_ch03" start="1/5s" duration="664/15s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="5209/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r14" offset="1043/6s" name="EARTH_EN_ch04" start="1/5s" duration="201/5s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="1283/6s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r15" offset="6421/30s" name="EARTH_EN_ch05" start="1/5s" duration="617/15s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="3823/15s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r16" offset="1531/6s" name="EARTH_EN_ch06" start="3/10s" duration="743/15s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="9133/30s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r17" offset="3047/10s" name="EARTH_EN_ch07" start="4/15s" duration="1387/30s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="5261/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r18" offset="5264/15s" name="EARTH_EN_ch08" start="1/5s" duration="1477/30s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="3999/10s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r19" offset="2401/6s" name="EARTH_EN_ch09" start="4/15s" duration="722/15s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="4481/10s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r20" offset="4483/10s" name="EARTH_EN_ch10" start="1/5s" duration="139/3s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="14831/30s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r21" offset="14839/30s" name="EARTH_EN_ch11" start="4/15s" duration="1517/30s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="8174/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r22" offset="2726/5s" name="EARTH_EN_ch12" start="4/15s" duration="217/5s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="5883/10s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r23" offset="2943/5s" name="EARTH_EN_ch13" start="3/10s" duration="242/15s" format="r2"></asset-clip>
-<transition name="Cross Dissolve" offset="9067/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
-<asset-clip ref="r24" offset="9071/15s" name="EARTH_EN_endcard" start="4/15s" duration="146/15s" format="r2"></asset-clip>
+<library><event name="MakeMyClip"><project name="WHAT_IF_EARTH_STOPPED_Film_16x9"><sequence format="r1" duration="10663/15s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k"><spine>
+<asset-clip ref="r3" offset="0s" name="EARTH_EN_teaser1" start="0s" duration="37/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="71/30s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r4" offset="37/15s" name="EARTH_EN_teaser2" start="1/10s" duration="12/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="143/30s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r5" offset="73/15s" name="EARTH_EN_teaser3" start="1/10s" duration="37/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="217/30s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r6" offset="22/3s" name="EARTH_EN_teaser4" start="1/10s" duration="37/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="97/10s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r7" offset="49/5s" name="EARTH_EN_teaser5" start="1/10s" duration="71/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="181/15s" duration="1/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r8" offset="73/6s" name="EARTH_EN_teaser6" start="1/10s" duration="13/5s" format="r2"></asset-clip>
+<asset-clip ref="r9" offset="443/30s" name="EARTH_EN_hook" start="0s" duration="19/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="551/30s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r10" offset="557/30s" name="EARTH_EN_ch00" start="1/5s" duration="329/10s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="769/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r11" offset="772/15s" name="EARTH_EN_ch01" start="1/5s" duration="877/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1646/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r12" offset="1649/15s" name="EARTH_EN_ch02" start="1/5s" duration="794/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="488/3s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r13" offset="2443/15s" name="EARTH_EN_ch03" start="1/5s" duration="247/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3181/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r14" offset="3184/15s" name="EARTH_EN_ch04" start="1/5s" duration="229/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3868/15s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r15" offset="3871/15s" name="EARTH_EN_ch05" start="1/5s" duration="93/2s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4564/15s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r16" offset="9137/30s" name="EARTH_EN_ch06" start="3/10s" duration="54s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="3583/10s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r17" offset="10757/30s" name="EARTH_EN_ch07" start="4/15s" duration="764/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="4093/10s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r18" offset="819/2s" name="EARTH_EN_ch08" start="1/5s" duration="1793/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="469s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r19" offset="7039/15s" name="EARTH_EN_ch09" start="4/15s" duration="859/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1579/3s" duration="2/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r20" offset="7898/15s" name="EARTH_EN_ch10" start="1/5s" duration="1567/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="1157/2s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r21" offset="17363/30s" name="EARTH_EN_ch11" start="4/15s" duration="1711/30s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="9533/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r22" offset="3179/5s" name="EARTH_EN_ch12" start="4/15s" duration="707/15s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="20479/30s" duration="3/5s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r23" offset="10244/15s" name="EARTH_EN_ch13" start="3/10s" duration="91/5s" format="r2"></asset-clip>
+<transition name="Cross Dissolve" offset="10513/15s" duration="1/2s"><filter-video ref="r25" name="Cross Dissolve"/><filter-audio ref="r26" name="Audio Crossfade"/></transition>
+<asset-clip ref="r24" offset="10517/15s" name="EARTH_EN_endcard" start="4/15s" duration="146/15s" format="r2"></asset-clip>
 </spine></sequence></project></event></library>
 </fcpxml>

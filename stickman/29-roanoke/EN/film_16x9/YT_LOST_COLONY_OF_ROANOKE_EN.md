@@ -1,4 +1,4 @@
-# THE LOST COLONY OF ROANOKE (~11 min)
+# THE LOST COLONY OF ROANOKE (~12 min)
 
 ## Title ideas
 1. The Lost Colony of Roanoke: 115 People Vanished, One Word Left Behind
@@ -18,20 +18,20 @@ In this episode: the secret signal, the Spanish Armada that kept White away, the
 
 ## Chapters
 0:00 Cold open
-0:11 One carved word
-0:40 A New World
-1:40 The Second Colony
-2:32 Virginia Dare
-3:17 A Secret Signal
-3:58 Three Lost Years
-4:47 The Empty Village
-5:37 Croatoan
-6:20 So Close
-7:00 Theory One: Croatoan
-7:51 Theory Two: The Hidden Fort
-8:41 Darker Theories
-9:32 Still Lost
-10:20 Your turn
+0:20 One carved word
+0:55 A New World
+2:00 The Second Colony
+3:01 Virginia Dare
+3:48 A Secret Signal
+4:35 Three Lost Years
+5:26 The Empty Village
+6:19 Croatoan
+7:05 So Close
+7:52 Theory One: Croatoan
+8:47 Theory Two: The Hidden Fort
+9:39 Darker Theories
+10:36 Still Lost
+11:30 Your turn
 
 ## Hashtags
 #history #mystery #roanoke #lostcolony #unsolved

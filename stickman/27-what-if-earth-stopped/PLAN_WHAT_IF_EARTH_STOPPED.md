@@ -1,10 +1,10 @@
 # KẾ HOẠCH – STICKMAN WHAT IF THE EARTH STOPPED SPINNING? – EN
 
-**Định dạng:** What If – giả tưởng khoa học, bản dài ~10 phút (14 chương × ~45 giây). Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
-**Phong cách:** Stickman tối giản; quả địa cầu vẽ bằng code với đường bờ biển thật; gió, sóng, ngày-đêm minh hoạ bằng đồ hoạ.
-**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 21 nền (w01–w21): không gian, thành phố, bờ biển, sa mạc, vùng cực, hang ngầm.
-**Giọng đọc:** Piper en_US-ryan-high. **Nhạc:** Kevin MacLeod (CC BY 4.0).
-**Nhân vật thật:** Không có nhân vật thật.
+**Định dạng:** What-if khoa học – bản dài ~11,9 phút (14 chương), kể theo kiểu đặt câu hỏi rồi giải đáp từng giây, mở đầu bằng đoạn hook có giọng đọc ngay từ giây đầu. Chỉ bản tiếng Anh, hướng tới khán giả quốc tế.
+**Phong cách:** Stickman trên nền video Veo chuyển động (mây trôi, sóng, bão, cực quang), quả địa cầu vẽ bằng code; giọng đọc nữ Kokoro (af_heart); ít nhãn chữ hơn.
+**Hình nền:** Google Flow (Nano Banana 2.1, 16:9) – không người, không chữ. 21 nền (w01–w21); 20 nền đã được làm động bằng Veo 3.1 Lite (w13 giữ ảnh tĩnh), thêm 1 cảnh Veo 3.1 Fast cho thẻ cuối.
+**Giọng đọc:** Kokoro af_heart (giọng nữ, Mỹ). **Nhạc:** Kevin MacLeod (CC BY 4.0).
+**Nhân vật thật:** Không có nhân vật lịch sử; chỉ người que minh hoạ.
 
 ## Chương
 

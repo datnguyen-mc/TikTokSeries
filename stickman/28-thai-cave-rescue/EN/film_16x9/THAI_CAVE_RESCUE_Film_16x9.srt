@@ -1,1263 +1,1387 @@
 1
-00:00:11,250 --> 00:00:12,440
-June 2018
+00:00:00,350 --> 00:00:01,910
+Twelve boys and their coach,
 
 2
-00:00:12,440 --> 00:00:14,400
-Twelve boys from a youth football team go
+00:00:01,910 --> 00:00:05,253
+trapped four kilometers inside a flooded mountain.
 
 3
-00:00:14,400 --> 00:00:16,480
-exploring a cave in northern Thailand,
+00:00:05,253 --> 00:00:07,810
+No food. Barely any air.
 
 4
-00:00:16,480 --> 00:00:17,971
-with their young coach
+00:00:07,810 --> 00:00:09,907
+And some of them couldn't even swim.
 
 5
-00:00:18,121 --> 00:00:19,071
-While they are inside,
+00:00:09,907 --> 00:00:11,507
+So how do you get thirteen people
 
 6
-00:00:19,071 --> 00:00:21,022
-heavy rain begins to fall
+00:00:11,507 --> 00:00:12,787
+out of a cave that's full of
 
 7
-00:00:21,172 --> 00:00:23,772
-The water rises fast and blocks the way out
+00:00:12,787 --> 00:00:13,167
+water?
 
 8
-00:00:24,130 --> 00:00:24,600
-Outside,
+00:00:16,833 --> 00:00:18,411
+June 2018
 
 9
-00:00:24,600 --> 00:00:26,360
-their families wait at the cave entrance,
+00:00:18,411 --> 00:00:20,771
+Twelve boys from a youth football team head
 
 10
-00:00:26,360 --> 00:00:27,220
-praying
+00:00:20,771 --> 00:00:22,771
+into a cave in northern Thailand,
 
 11
-00:00:27,370 --> 00:00:27,840
-For days,
+00:00:22,771 --> 00:00:24,402
+with their young coach
 
 12
-00:00:27,840 --> 00:00:29,920
-nobody knows if they are still alive,
+00:00:24,402 --> 00:00:24,402
+While they're deep inside...
 
 13
-00:00:29,920 --> 00:00:32,047
-deep inside a flooded mountain
+00:00:26,441 --> 00:00:27,994
+it starts to rain
 
 14
-00:00:32,197 --> 00:00:33,627
-What followed was one of the most daring
+00:00:27,994 --> 00:00:27,994
+The water rises fast
 
 15
-00:00:33,627 --> 00:00:35,387
-rescues ever attempted
+00:00:29,901 --> 00:00:31,960
+And it cuts off the only way out
 
 16
-00:00:35,638 --> 00:00:37,548
-This is the true story of the Thai cave
+00:00:31,960 --> 00:00:31,960
+Outside,
 
 17
-00:00:37,548 --> 00:00:38,668
-rescue
+00:00:32,620 --> 00:00:34,780
+their families gather at the cave entrance,
 
 18
-00:00:42,150 --> 00:00:44,500
-The boys were between eleven and sixteen years
+00:00:34,780 --> 00:00:35,869
+praying
 
 19
-00:00:44,500 --> 00:00:44,860
-old,
+00:00:35,819 --> 00:00:35,869
+For days,
 
 20
-00:00:44,860 --> 00:00:47,460
-members of a team called the Wild Boars
+00:00:36,489 --> 00:00:38,489
+nobody knows if they're even alive,
 
 21
-00:00:47,909 --> 00:00:48,979
-They lived in Mae Sai,
+00:00:38,489 --> 00:00:41,089
+somewhere deep inside a flooded mountain
 
 22
-00:00:48,979 --> 00:00:50,739
-a small town in northern Thailand,
+00:00:41,216 --> 00:00:41,216
+What happened next became one of the most
 
 23
-00:00:50,739 --> 00:00:52,914
-close to the border with Myanmar
+00:00:43,236 --> 00:00:45,316
+daring rescues ever attempted
 
 24
-00:00:53,064 --> 00:00:54,374
-After football practice,
+00:00:45,462 --> 00:00:45,712
+This is the true story of the Thai cave
 
 25
-00:00:54,374 --> 00:00:56,614
-they rode their bikes to the Tham Luang cave
+00:00:47,692 --> 00:00:48,812
+rescue
 
 26
-00:00:56,614 --> 00:00:58,374
-with their twenty-five-year-old assistant
+00:00:52,433 --> 00:00:54,175
+So who were these boys?
 
 27
-00:00:58,374 --> 00:00:59,430
-coach
+00:00:54,175 --> 00:00:56,535
+They were between eleven and sixteen years old,
 
 28
-00:00:59,580 --> 00:01:01,050
-It was a trip they had made before,
+00:00:56,535 --> 00:00:59,135
+members of a team called the Wild Boars
 
 29
-00:01:01,050 --> 00:01:02,925
-as a fun adventure
+00:00:59,398 --> 00:00:59,668
+They lived in Mae Sai,
 
 30
-00:01:03,075 --> 00:01:04,945
-It was one of the longest caves in Thailand,
+00:01:00,968 --> 00:01:02,888
+a small town in northern Thailand,
 
 31
-00:01:04,945 --> 00:01:06,865
-with tunnels stretching for miles under a
+00:01:02,888 --> 00:01:05,210
+right by the border with Myanmar
 
 32
-00:01:06,865 --> 00:01:07,985
-mountain
+00:01:04,940 --> 00:01:05,210
+After football practice,
 
 33
-00:01:08,149 --> 00:01:10,259
-The cave is about ten kilometers long,
+00:01:06,590 --> 00:01:09,070
+they rode their bikes to the Tham Luang cave
 
 34
-00:01:10,259 --> 00:01:11,779
-full of narrow passages,
+00:01:09,070 --> 00:01:11,310
+with their twenty-five-year-old assistant
 
 35
-00:01:11,779 --> 00:01:13,539
-chambers and tunnels
+00:01:11,310 --> 00:01:12,430
+coach
 
 36
-00:01:14,013 --> 00:01:15,723
-They planned to stay for about an hour,
+00:01:12,221 --> 00:01:12,491
+They'd made the trip before
 
 37
-00:01:15,723 --> 00:01:17,822
-and brought almost no food
+00:01:14,333 --> 00:01:16,933
+It was supposed to be a fun little adventure
 
 38
-00:01:17,972 --> 00:01:19,962
-A sign at the entrance warned visitors not to
+00:01:16,983 --> 00:01:17,253
+But this wasn't just any cave
 
 39
-00:01:19,962 --> 00:01:21,402
-go in during the rainy season,
+00:01:19,323 --> 00:01:21,163
+It was one of the longest in Thailand,
 
 40
-00:01:21,402 --> 00:01:23,314
-from July to November
+00:01:21,163 --> 00:01:23,163
+with tunnels stretching for miles under a
 
 41
-00:01:23,464 --> 00:01:26,064
-But the rainy season was about to begin
+00:01:23,163 --> 00:01:24,230
+mountain
 
 42
-00:01:26,494 --> 00:01:28,364
-Nobody knew that this short trip would last
+00:01:23,960 --> 00:01:24,230
+About ten kilometers of narrow passages,
 
 43
-00:01:28,364 --> 00:01:29,804
-eighteen days
+00:01:26,730 --> 00:01:28,490
+chambers and tunnels
 
 44
-00:01:33,550 --> 00:01:35,020
-While they explored deep inside,
+00:01:28,354 --> 00:01:28,624
+The plan was to stay for about an hour
 
 45
-00:01:35,020 --> 00:01:37,620
-heavy monsoon rain began to fall
+00:01:31,053 --> 00:01:33,181
+They brought almost no food
 
 46
-00:01:37,846 --> 00:01:39,716
-Rainwater soaked through the mountain above,
+00:01:32,911 --> 00:01:33,181
+At the entrance,
 
 47
-00:01:39,716 --> 00:01:42,143
-and poured in from many directions
+00:01:33,861 --> 00:01:36,241
+a sign warned visitors not to go in during
 
 48
-00:01:42,293 --> 00:01:44,003
-Water poured into the cave and flooded the
+00:01:36,241 --> 00:01:37,241
+the rainy season,
 
 49
-00:01:44,003 --> 00:01:45,882
-narrow tunnels behind them
+00:01:37,241 --> 00:01:39,321
+from July to November
 
 50
-00:01:46,032 --> 00:01:48,062
-Parts of the tunnel filled with water all the
+00:01:39,079 --> 00:01:39,349
+But the rainy season was about to begin
 
 51
-00:01:48,062 --> 00:01:49,621
-way to the ceiling
+00:01:41,988 --> 00:01:42,408
+Nobody knew that this one-hour trip would last
 
 52
-00:01:49,771 --> 00:01:51,081
-They moved deeper and deeper,
+00:01:44,708 --> 00:01:46,148
+eighteen days
 
 53
-00:01:51,081 --> 00:01:52,896
-looking for higher ground
+00:01:50,233 --> 00:01:51,033
+Deep inside,
 
 54
-00:01:53,046 --> 00:01:55,613
-They had only a few flashlights with them
+00:01:51,033 --> 00:01:53,153
+the boys had no idea what was happening
 
 55
-00:01:55,763 --> 00:01:56,233
-Finally,
+00:01:53,153 --> 00:01:53,972
+outside
 
 56
-00:01:56,233 --> 00:01:58,073
-they climbed onto a muddy slope,
+00:01:53,972 --> 00:01:56,572
+Heavy monsoon rain had started to fall
 
 57
-00:01:58,073 --> 00:02:00,673
-about four kilometers from the entrance
+00:01:56,540 --> 00:01:56,810
+Rainwater soaked down through the mountain,
 
 58
-00:02:01,035 --> 00:02:02,585
-There was little space and little air,
+00:01:58,830 --> 00:02:01,430
+and poured into the cave from every direction
 
 59
-00:02:02,585 --> 00:02:04,545
-but at least the water could not reach them
+00:02:01,616 --> 00:02:01,886
+It flooded the narrow tunnels behind them
 
 60
-00:02:04,545 --> 00:02:05,471
-there
+00:02:04,890 --> 00:02:07,250
+Some passages filled with water all the way to
 
 61
-00:02:05,621 --> 00:02:06,171
-Outside,
+00:02:07,250 --> 00:02:08,465
+the ceiling
 
 62
-00:02:06,171 --> 00:02:07,971
-their bikes were found at the cave entrance
+00:02:08,195 --> 00:02:08,465
+With the water chasing them,
 
 63
-00:02:07,971 --> 00:02:09,975
-The search had begun
+00:02:09,926 --> 00:02:11,605
+they moved deeper and deeper,
 
 64
-00:02:10,125 --> 00:02:11,275
-Parents rushed to the cave,
+00:02:11,605 --> 00:02:13,614
+looking for higher ground
 
 65
-00:02:11,275 --> 00:02:12,395
-and stayed there,
+00:02:13,344 --> 00:02:13,614
+And all they had for light were a few
 
 66
-00:02:12,395 --> 00:02:14,155
-day and night
+00:02:15,314 --> 00:02:16,434
+flashlights
 
 67
-00:02:17,583 --> 00:02:18,013
-Inside,
+00:02:16,422 --> 00:02:16,692
+Finally,
 
 68
-00:02:18,013 --> 00:02:19,293
-it was completely dark,
+00:02:17,272 --> 00:02:19,272
+they scrambled onto a muddy slope,
 
 69
-00:02:19,293 --> 00:02:20,673
-and cold
+00:02:19,272 --> 00:02:21,872
+about four kilometers from the entrance
 
 70
-00:02:20,823 --> 00:02:22,533
-They huddled together on the muddy slope,
+00:02:21,642 --> 00:02:21,912
+There was little space,
 
 71
-00:02:22,533 --> 00:02:24,133
-to stay warm
+00:02:22,972 --> 00:02:24,251
+and little air
 
 72
-00:02:24,283 --> 00:02:25,153
-They had no food,
+00:02:24,251 --> 00:02:24,691
+But here,
 
 73
-00:02:25,153 --> 00:02:27,233
-so they drank clean water dripping from the
+00:02:24,691 --> 00:02:25,211
+at least,
 
 74
-00:02:27,233 --> 00:02:28,627
-cave walls
+00:02:25,211 --> 00:02:27,107
+the water couldn't reach them
 
 75
-00:02:28,777 --> 00:02:29,607
-To save the batteries,
-
-76
-00:02:29,607 --> 00:02:31,327
-they used their flashlights as little as
-
-77
-00:02:31,327 --> 00:02:32,447
-possible
-
-78
-00:02:32,690 --> 00:02:34,480
-Their coach had once trained as a monk,
-
-79
-00:02:34,480 --> 00:02:36,000
-and taught the boys to meditate,
-
-80
-00:02:36,000 --> 00:02:38,392
-to stay calm and save energy
-
-81
-00:02:38,542 --> 00:02:40,252
-Breathing slowly and sitting still,
-
-82
-00:02:40,252 --> 00:02:41,612
-they used less energy,
-
-83
-00:02:41,612 --> 00:02:43,048
-and less air
-
-84
-00:02:43,198 --> 00:02:44,668
-They took turns digging at the walls,
-
-85
-00:02:44,668 --> 00:02:46,961
-hoping to find another way out
-
-86
-00:02:47,111 --> 00:02:47,981
-They dug a few meters,
-
-87
-00:02:47,981 --> 00:02:49,922
-but the rock was too hard
-
-88
-00:02:50,072 --> 00:02:50,702
-Days passed,
-
-89
-00:02:50,702 --> 00:02:52,859
-with no sign of rescue
-
-90
-00:02:53,009 --> 00:02:53,999
-Inside the mountain,
-
-91
-00:02:53,999 --> 00:02:56,239
-they had no idea that thousands of people were
-
-92
-00:02:56,239 --> 00:02:58,319
-already looking for them
-
-93
-00:03:01,750 --> 00:03:02,060
+00:02:26,837 --> 00:02:27,107
 Outside,
 
+76
+00:02:27,807 --> 00:02:29,647
+someone spotted their bikes at the cave
+
+77
+00:02:29,647 --> 00:02:30,400
+entrance
+
+78
+00:02:30,400 --> 00:02:32,392
+The search had begun
+
+79
+00:02:31,972 --> 00:02:32,392
+Parents rushed to the cave,
+
+80
+00:02:33,852 --> 00:02:34,732
+and stayed there,
+
+81
+00:02:34,732 --> 00:02:36,492
+day and night
+
+82
+00:02:40,033 --> 00:02:41,840
+Now imagine being in there
+
+83
+00:02:41,840 --> 00:02:43,246
+Total darkness
+
+84
+00:02:43,246 --> 00:02:44,366
+Cold
+
+85
+00:02:44,266 --> 00:02:44,536
+The boys huddled together on the muddy slope to
+
+86
+00:02:47,036 --> 00:02:48,373
+stay warm
+
+87
+00:02:48,103 --> 00:02:48,373
+With no food,
+
+88
+00:02:49,233 --> 00:02:51,433
+they drank clean water dripping from the cave
+
+89
+00:02:51,433 --> 00:02:52,450
+walls
+
+90
+00:02:52,180 --> 00:02:52,450
+To save the batteries,
+
+91
+00:02:53,670 --> 00:02:55,669
+they used their flashlights as little as
+
+92
+00:02:55,669 --> 00:02:56,789
+possible
+
+93
+00:02:56,530 --> 00:02:56,800
+Their coach had once trained as a monk
+
 94
-00:03:02,060 --> 00:03:04,020
-Thai Navy divers tried to swim in,
+00:02:59,029 --> 00:03:00,789
+So he taught the boys to meditate,
 
 95
-00:03:04,020 --> 00:03:06,186
-but the current was too strong
+00:03:00,789 --> 00:03:03,285
+to stay calm and save energy
 
 96
-00:03:06,336 --> 00:03:08,046
-The Thai Navy set up a base inside the
+00:03:03,015 --> 00:03:03,285
+Breathing slowly and sitting still meant using
 
 97
-00:03:08,046 --> 00:03:08,366
-cave,
+00:03:05,705 --> 00:03:06,947
+less energy...
 
 98
-00:03:08,366 --> 00:03:09,406
-and kept trying,
+00:03:06,947 --> 00:03:08,498
+and less air
 
 99
-00:03:09,406 --> 00:03:10,959
-day after day
+00:03:08,228 --> 00:03:08,498
+They took turns digging at the walls,
 
 100
-00:03:11,109 --> 00:03:11,539
-Soon,
+00:03:10,358 --> 00:03:12,894
+hoping to find another way out
 
 101
-00:03:11,539 --> 00:03:13,939
-experts arrived from all over the world:
+00:03:12,624 --> 00:03:12,894
+They dug a few meters
 
 102
-00:03:13,939 --> 00:03:14,859
-cave divers,
+00:03:14,731 --> 00:03:16,741
+But the rock was too hard
 
 103
-00:03:14,859 --> 00:03:15,499
-soldiers,
+00:03:16,471 --> 00:03:16,741
+Days passed
 
 104
-00:03:15,499 --> 00:03:17,259
-engineers and doctors
+00:03:18,130 --> 00:03:20,174
+No sign of rescue
 
 105
-00:03:17,762 --> 00:03:18,912
-Teams came from Britain,
+00:03:19,754 --> 00:03:20,174
+What they didn't know was that outside the
 
 106
-00:03:18,912 --> 00:03:20,032
-the United States,
+00:03:22,193 --> 00:03:22,754
+mountain,
 
 107
-00:03:20,032 --> 00:03:20,912
-Australia,
+00:03:22,754 --> 00:03:24,993
+thousands of people were already looking for
 
 108
-00:03:20,912 --> 00:03:21,552
-China,
+00:03:24,993 --> 00:03:26,113
+them
 
 109
-00:03:21,552 --> 00:03:23,952
-Japan and many other countries
+00:03:29,633 --> 00:03:30,033
+Outside,
 
 110
-00:03:24,136 --> 00:03:26,326
-Huge pumps worked day and night to pull water
+00:03:30,033 --> 00:03:32,425
+Thai Navy divers tried to swim in
 
 111
-00:03:26,326 --> 00:03:27,655
-out of the cave
+00:03:32,425 --> 00:03:34,553
+But the current was too strong
 
 112
-00:03:27,805 --> 00:03:30,155
-Water from the pumps was sent into nearby rice
+00:03:34,283 --> 00:03:34,553
+The Navy set up a base inside the cave,
 
 113
-00:03:30,155 --> 00:03:30,675
-fields,
+00:03:36,853 --> 00:03:37,853
+and kept trying,
 
 114
-00:03:30,675 --> 00:03:32,435
-flooding farmers' crops
+00:03:37,853 --> 00:03:39,388
+day after day
 
 115
-00:03:32,949 --> 00:03:34,859
-Volunteers searched the jungle on the mountain
+00:03:39,118 --> 00:03:39,388
+Soon,
 
 116
-00:03:34,859 --> 00:03:36,852
-above for another way in
+00:03:39,968 --> 00:03:42,128
+experts arrived from all over the world:
 
 117
-00:03:37,002 --> 00:03:38,672
-They looked for holes and shafts that might
+00:03:42,128 --> 00:03:43,128
+cave divers,
 
 118
-00:03:38,672 --> 00:03:40,544
-lead down into the cave
+00:03:43,128 --> 00:03:43,768
+soldiers,
 
 119
-00:03:40,694 --> 00:03:42,684
-Thousands of people were now working to find
+00:03:43,768 --> 00:03:45,528
+engineers and doctors
 
 120
-00:03:42,684 --> 00:03:44,062
-the boys
+00:03:45,534 --> 00:03:45,804
+Teams came from Britain,
 
 121
-00:03:44,212 --> 00:03:46,242
-Volunteers cooked thousands of free meals for
+00:03:47,104 --> 00:03:48,144
+the United States,
 
 122
-00:03:46,242 --> 00:03:47,682
-the rescuers
+00:03:48,144 --> 00:03:48,984
+Australia,
 
 123
-00:03:51,350 --> 00:03:52,100
-On the tenth day,
+00:03:48,984 --> 00:03:49,464
+China,
 
 124
-00:03:52,100 --> 00:03:54,340
-two British cave divers pushed further than
+00:03:49,464 --> 00:03:51,763
+Japan and many other countries
 
 125
-00:03:54,340 --> 00:03:55,717
-anyone before
+00:03:51,493 --> 00:03:51,763
+Huge pumps worked day and night to pull water
 
 126
-00:03:55,867 --> 00:03:57,057
-They were laying guide ropes,
+00:03:54,383 --> 00:03:55,743
+out of the cave
 
 127
-00:03:57,057 --> 00:03:59,642
-pushing deeper into the flooded tunnels
+00:03:55,473 --> 00:03:55,743
+The pumped water was sent into nearby rice
 
 128
-00:03:59,792 --> 00:04:01,342
-They surfaced in a dark chamber,
+00:03:58,163 --> 00:03:58,683
+fields,
 
 129
-00:04:01,342 --> 00:04:03,942
-and saw lights moving on the rocks above
+00:03:58,683 --> 00:04:00,763
+flooding the farmers' crops
 
 130
-00:04:04,157 --> 00:04:04,787
-One by one,
+00:04:00,650 --> 00:04:00,880
+Volunteers searched the jungle on the mountain
 
 131
-00:04:04,787 --> 00:04:07,387
-the boys came down to the water's edge
+00:04:03,300 --> 00:04:03,780
+above,
 
 132
-00:04:07,931 --> 00:04:09,081
-All thirteen were alive,
+00:04:03,780 --> 00:04:05,846
+looking for another way in
 
 133
-00:04:09,081 --> 00:04:11,520
-sitting on a muddy ledge above the water
+00:04:05,576 --> 00:04:05,846
+Any hole,
 
 134
-00:04:11,670 --> 00:04:12,660
-They were thin and weak,
+00:04:06,506 --> 00:04:09,106
+any shaft that might lead down into the cave
 
 135
-00:04:12,660 --> 00:04:14,098
-but smiling
+00:04:09,022 --> 00:04:09,292
+Thousands of people were now working to find
 
 136
-00:04:14,248 --> 00:04:16,038
-'How many of you?' one diver asked
+00:04:11,432 --> 00:04:12,800
+the boys
 
 137
-00:04:16,038 --> 00:04:17,589
-'Thirteen,' came the answer
+00:04:12,380 --> 00:04:12,800
+And volunteers cooked thousands of free meals
 
 138
-00:04:17,589 --> 00:04:18,709
-'Brilliant.'
+00:04:15,260 --> 00:04:17,660
+to keep the rescuers going
 
 139
-00:04:18,939 --> 00:04:21,009
-The divers promised that many more people were
+00:04:21,333 --> 00:04:21,613
+Then,
 
 140
-00:04:21,009 --> 00:04:22,400
-coming to help
+00:04:21,613 --> 00:04:22,653
+on the tenth day,
 
 141
-00:04:22,550 --> 00:04:24,660
-The video of that moment was watched around the
+00:04:22,653 --> 00:04:24,993
+two British cave divers pushed further than
 
 142
-00:04:24,660 --> 00:04:25,780
-world
+00:04:24,993 --> 00:04:26,352
+anyone before
 
 143
-00:04:25,952 --> 00:04:26,462
-Back home,
+00:04:26,082 --> 00:04:26,352
+They were laying guide ropes,
 
 144
-00:04:26,462 --> 00:04:28,542
-families cried with joy
+00:04:27,892 --> 00:04:30,492
+inching deeper into the flooded tunnels
 
 145
-00:04:31,983 --> 00:04:34,237
-Finding them was only the beginning
+00:04:30,506 --> 00:04:30,776
+They surfaced in a dark chamber...
 
 146
-00:04:34,387 --> 00:04:35,070
-The next day,
+00:04:33,209 --> 00:04:35,809
+and saw lights moving on the rocks above
 
 147
-00:04:35,070 --> 00:04:36,777
-Thai Navy divers brought food,
+00:04:35,575 --> 00:04:35,845
+One by one,
 
 148
-00:04:36,777 --> 00:04:38,537
-medicine and blankets
+00:04:36,665 --> 00:04:39,265
+figures came down to the water's edge
 
 149
-00:04:39,043 --> 00:04:40,993
-Getting out meant diving through long flooded
+00:04:39,055 --> 00:04:39,325
+It was them
 
 150
-00:04:40,993 --> 00:04:41,433
-tunnels,
+00:04:40,555 --> 00:04:41,875
+All thirteen were alive,
 
 151
-00:04:41,433 --> 00:04:43,473
-some so narrow that divers had to squeeze
+00:04:41,875 --> 00:04:44,475
+sitting on a muddy ledge above the water
 
 152
-00:04:43,473 --> 00:04:44,524
-through
+00:04:44,267 --> 00:04:44,537
+They were thin and weak
 
 153
-00:04:44,674 --> 00:04:45,784
-Four Thai Navy divers,
+00:04:46,190 --> 00:04:47,978
+But they were smiling
 
 154
-00:04:45,784 --> 00:04:46,864
-including a doctor,
+00:04:47,708 --> 00:04:47,978
+'How many of you?' one diver asked
 
 155
-00:04:46,864 --> 00:04:48,664
-stayed with the boys in the dark until the
+00:04:51,065 --> 00:04:52,893
+'Thirteen,' came the answer
 
 156
-00:04:48,664 --> 00:04:49,912
-very end
+00:04:52,893 --> 00:04:54,013
+'Brilliant.'
 
 157
-00:04:50,062 --> 00:04:51,732
-The boys had never been cave diving
+00:04:54,010 --> 00:04:54,280
+The divers promised that many more people were
 
 158
-00:04:51,732 --> 00:04:53,941
-Some of them could not even swim
+00:04:56,780 --> 00:04:58,159
+coming to help
 
 159
-00:04:54,091 --> 00:04:55,961
-The boys wrote letters to their families,
+00:04:57,889 --> 00:04:58,159
+The video of that moment was watched around the
 
 160
-00:04:55,961 --> 00:04:57,796
-telling them not to worry
+00:05:00,539 --> 00:05:01,651
+world
 
 161
-00:04:57,946 --> 00:04:59,016
-More rain was coming,
+00:05:01,231 --> 00:05:01,651
+Back home,
 
 162
-00:04:59,016 --> 00:05:01,396
-which could flood the cave for months
+00:05:02,311 --> 00:05:03,995
+families cried with joy
 
 163
-00:05:01,546 --> 00:05:03,776
-Some experts suggested waiting months for the
+00:05:03,995 --> 00:05:06,595
+But the hardest part was still to come
 
 164
-00:05:03,776 --> 00:05:05,402
-water to go down
+00:05:10,167 --> 00:05:12,747
+Because finding them was only the beginning
 
 165
-00:05:05,552 --> 00:05:07,702
-And the oxygen in their chamber was starting to
+00:05:12,747 --> 00:05:14,427
+How do you get thirteen people out of a
 
 166
-00:05:07,702 --> 00:05:09,012
-run low
+00:05:14,427 --> 00:05:15,867
+flooded mountain?
 
 167
-00:05:09,162 --> 00:05:09,712
-In the chamber,
+00:05:15,708 --> 00:05:15,978
+The next day,
 
 168
-00:05:09,712 --> 00:05:12,112
-oxygen had fallen to about fifteen percent
+00:05:16,784 --> 00:05:18,478
+Thai Navy divers brought food,
 
 169
-00:05:12,112 --> 00:05:14,192
-Normal air has twenty-one
+00:05:18,478 --> 00:05:20,238
+medicine and blankets
 
 170
-00:05:17,717 --> 00:05:20,067
-Divers worked day and night to place air tanks
+00:05:20,357 --> 00:05:20,627
+But getting out meant diving through long
 
 171
-00:05:20,067 --> 00:05:21,468
-along the route
+00:05:22,567 --> 00:05:23,607
+flooded tunnels,
 
 172
-00:05:21,618 --> 00:05:23,088
-Hundreds of air tanks were needed,
+00:05:23,607 --> 00:05:25,887
+some so narrow that divers had to squeeze
 
 173
-00:05:23,088 --> 00:05:25,033
-carried in one by one
+00:05:25,887 --> 00:05:26,789
+through
 
 174
-00:05:25,183 --> 00:05:26,133
-On July 6th,
+00:05:26,519 --> 00:05:26,789
+Four Thai Navy divers,
 
 175
-00:05:26,133 --> 00:05:29,333
-a former Thai Navy diver named Saman Kunan was
+00:05:28,169 --> 00:05:29,449
+including a doctor,
 
 176
-00:05:29,333 --> 00:05:31,933
-delivering tanks deep inside the cave
+00:05:29,449 --> 00:05:31,489
+stayed with the boys in the dark until the
 
 177
-00:05:32,266 --> 00:05:33,536
-He was thirty-eight years old,
+00:05:31,489 --> 00:05:32,743
+very end
 
 178
-00:05:33,536 --> 00:05:36,064
-and had left the Navy years before
+00:05:32,473 --> 00:05:32,743
+And here's the problem:
 
 179
-00:05:36,214 --> 00:05:36,924
-On the way back,
+00:05:33,843 --> 00:05:36,157
+the boys had never been cave diving
 
 180
-00:05:36,924 --> 00:05:38,044
-he ran out of air,
+00:05:36,157 --> 00:05:38,413
+Some of them couldn't even swim
 
 181
-00:05:38,044 --> 00:05:39,814
-and lost his life
+00:05:38,143 --> 00:05:38,413
+The boys wrote letters to their families,
 
 182
-00:05:39,964 --> 00:05:41,554
-His dive partner tried to save him,
+00:05:40,593 --> 00:05:42,620
+telling them not to worry
 
 183
-00:05:41,554 --> 00:05:43,321
-but it was too late
+00:05:42,350 --> 00:05:42,620
+Meanwhile,
 
 184
-00:05:43,471 --> 00:05:44,741
-He had volunteered to help,
+00:05:43,360 --> 00:05:44,560
+more rain was coming,
 
 185
-00:05:44,741 --> 00:05:46,932
-and became a national hero
+00:05:44,560 --> 00:05:46,948
+enough to flood the cave for months
 
 186
-00:05:47,082 --> 00:05:48,072
-Across Thailand,
+00:05:46,678 --> 00:05:46,948
+Some experts suggested waiting months for the
 
 187
-00:05:48,072 --> 00:05:48,792
-people mourned,
+00:05:49,648 --> 00:05:51,257
+water to go down
 
 188
-00:05:48,792 --> 00:05:51,392
-and his story was told around the world
+00:05:50,987 --> 00:05:51,257
+But there was another danger
 
 189
-00:05:51,588 --> 00:05:53,738
-His loss showed just how dangerous the rescue
+00:05:53,059 --> 00:05:55,659
+The oxygen in their chamber was running low
 
 190
-00:05:53,738 --> 00:05:54,932
-would be
+00:05:55,606 --> 00:05:56,026
+It had fallen to about fifteen percent
 
 191
-00:05:55,082 --> 00:05:57,152
-If an expert diver could lose his life,
+00:05:58,520 --> 00:06:00,600
+Normal air has twenty-one
 
 192
-00:05:57,152 --> 00:05:59,752
-how could thirteen boys get out?
+00:06:04,567 --> 00:06:05,327
+To get them out,
 
 193
-00:06:03,217 --> 00:06:05,817
-The rescue plan sounded almost impossible
+00:06:05,327 --> 00:06:06,887
+divers worked day and night,
 
 194
-00:06:06,143 --> 00:06:08,293
-Dozens of the world's best cave divers had come
+00:06:06,887 --> 00:06:09,404
+placing air tanks along the route
 
 195
-00:06:08,293 --> 00:06:09,407
-together
+00:06:09,134 --> 00:06:09,404
+Hundreds of tanks were needed,
 
 196
-00:06:09,557 --> 00:06:11,507
-Each boy would wear a full-face mask,
+00:06:11,064 --> 00:06:13,105
+carried in one by one
 
 197
-00:06:11,507 --> 00:06:14,107
-and be carried out by expert divers
+00:06:12,835 --> 00:06:13,105
+On July 6th,
 
 198
-00:06:14,411 --> 00:06:16,681
-The divers practiced first in a swimming pool,
+00:06:14,085 --> 00:06:17,045
+a former Thai Navy diver named Saman Kunan was
 
 199
-00:06:16,681 --> 00:06:19,281
-with local children of the same size
+00:06:17,045 --> 00:06:19,645
+delivering tanks deep inside the cave
 
 200
-00:06:19,531 --> 00:06:20,761
-To keep them calm underwater,
+00:06:20,056 --> 00:06:20,326
+He was thirty-eight years old,
 
 201
-00:06:20,761 --> 00:06:23,481
-an Australian doctor who was also a cave diver
+00:06:21,907 --> 00:06:24,507
+and had left the Navy years before
 
 202
-00:06:23,481 --> 00:06:26,081
-gave each boy medicine to make him sleep
+00:06:24,246 --> 00:06:24,516
+On the way back,
 
 203
-00:06:26,254 --> 00:06:26,964
-It was risky,
+00:06:25,376 --> 00:06:26,764
+he ran out of air
 
 204
-00:06:26,964 --> 00:06:29,564
-but the doctors believed it was the only way
+00:06:26,764 --> 00:06:28,681
+And he lost his life
 
 205
-00:06:29,854 --> 00:06:31,323
-Then the divers would guide them,
+00:06:28,411 --> 00:06:28,681
+His dive partner tried to save him,
 
 206
-00:06:31,323 --> 00:06:32,123
-one by one,
+00:06:30,661 --> 00:06:32,507
+but it was too late
 
 207
-00:06:32,123 --> 00:06:33,243
-through hours of dark,
+00:06:32,237 --> 00:06:32,507
+He had volunteered to help
 
 208
-00:06:33,243 --> 00:06:34,683
-flooded passages
+00:06:34,341 --> 00:06:36,718
+And he became a national hero
 
 209
-00:06:35,183 --> 00:06:36,133
-In some dry parts,
+00:06:36,448 --> 00:06:36,718
+Across Thailand,
 
 210
-00:06:36,133 --> 00:06:38,173
-rescuers carried the boys on stretchers,
+00:06:37,778 --> 00:06:38,538
+people mourned,
 
 211
-00:06:38,173 --> 00:06:40,734
-and pulled them over rocks with ropes
+00:06:38,538 --> 00:06:41,138
+and his story was told around the world
 
 212
-00:06:40,884 --> 00:06:43,056
-Nobody knew if it would work
+00:06:40,956 --> 00:06:41,226
+His loss showed just how deadly this rescue
 
 213
-00:06:43,206 --> 00:06:45,236
-Every boy's life depended on the diver holding
+00:06:43,726 --> 00:06:44,866
+could be
 
 214
-00:06:45,236 --> 00:06:46,356
-him
+00:06:44,446 --> 00:06:44,866
+And it raised a terrifying question:
 
 215
-00:06:49,617 --> 00:06:50,407
-On July 8th,
+00:06:46,806 --> 00:06:49,006
+if an expert diver could die in there,
 
 216
-00:06:50,407 --> 00:06:52,161
-the rescue began
+00:06:49,006 --> 00:06:51,606
+how could thirteen boys get out?
 
 217
-00:06:52,311 --> 00:06:54,141
-Journalists were moved away from the cave,
+00:06:55,367 --> 00:06:57,447
+The plan they came up with sounded almost
 
 218
-00:06:54,141 --> 00:06:56,063
-and the area was cleared
+00:06:57,447 --> 00:06:58,567
+impossible
 
 219
-00:06:56,213 --> 00:06:58,683
-Thirteen foreign divers and five Thai Navy
+00:06:58,601 --> 00:06:58,831
+Dozens of the world's best cave divers had come
 
 220
-00:06:58,683 --> 00:07:00,185
-divers went in
+00:07:01,531 --> 00:07:02,614
+together
 
 221
-00:07:00,335 --> 00:07:01,925
-Each boy was paired with a diver,
+00:07:02,344 --> 00:07:02,614
+Each boy would wear a full-face mask,
 
 222
-00:07:01,925 --> 00:07:04,125
-who held him close and guided him along the
+00:07:04,554 --> 00:07:07,154
+and be carried out by an expert diver
 
 223
-00:07:04,125 --> 00:07:05,070
-rope
+00:07:07,086 --> 00:07:07,356
+They practiced first in a swimming pool,
 
 224
-00:07:05,220 --> 00:07:07,706
-The journey out took hours for each boy
+00:07:09,376 --> 00:07:11,976
+with local children of the same size
 
 225
-00:07:07,856 --> 00:07:09,766
-Rescuers were waiting at points along the route
+00:07:11,778 --> 00:07:12,048
+And to keep the boys calm underwater,
 
 226
-00:07:09,766 --> 00:07:11,271
-to help carry them
+00:07:13,988 --> 00:07:16,948
+an Australian doctor who was also a cave diver
 
 227
-00:07:11,421 --> 00:07:12,010
-That evening,
+00:07:16,948 --> 00:07:19,548
+gave each boy medicine to make him sleep
 
 228
-00:07:12,010 --> 00:07:14,610
-the first four boys came out alive
+00:07:19,466 --> 00:07:19,736
+It was risky
 
 229
-00:07:14,788 --> 00:07:15,698
-Waiting outside,
+00:07:21,126 --> 00:07:23,726
+But the doctors believed it was the only way
 
 230
-00:07:15,698 --> 00:07:18,018
-families did not yet know which boys had come
+00:07:23,815 --> 00:07:24,085
+Then the divers would guide them,
 
 231
-00:07:18,018 --> 00:07:18,946
-out
+00:07:25,945 --> 00:07:26,745
+one by one,
 
 232
-00:07:19,096 --> 00:07:21,126
-They were rushed to hospital by helicopter and
+00:07:26,745 --> 00:07:27,945
+through hours of dark,
 
 233
-00:07:21,126 --> 00:07:22,246
-ambulance
+00:07:27,945 --> 00:07:29,385
+flooded passages
 
 234
-00:07:22,741 --> 00:07:25,341
-Doctors said the boys were in good condition
+00:07:29,614 --> 00:07:29,884
+In the dry sections,
 
 235
-00:07:29,117 --> 00:07:29,947
-On July 9th,
+00:07:31,024 --> 00:07:33,224
+rescuers carried the boys on stretchers,
 
 236
-00:07:29,947 --> 00:07:32,230
-four more boys were carried out
+00:07:33,224 --> 00:07:35,812
+and hauled them over rocks with ropes
 
 237
-00:07:32,380 --> 00:07:33,890
-It went faster than the first day,
+00:07:35,542 --> 00:07:35,812
+Would it work?
 
 238
-00:07:33,890 --> 00:07:35,981
-as the team got better at it
+00:07:37,246 --> 00:07:38,686
+Nobody knew
 
 239
-00:07:36,131 --> 00:07:36,960
-On July 10th,
+00:07:38,561 --> 00:07:38,981
+Every boy's life depended on the diver holding
 
 240
-00:07:36,960 --> 00:07:39,560
-the last four boys and their coach followed
+00:07:41,681 --> 00:07:42,801
+him
 
 241
-00:07:40,160 --> 00:07:42,030
-The four Navy divers who had stayed with the
+00:07:46,267 --> 00:07:47,454
+July 8th
 
 242
-00:07:42,030 --> 00:07:44,236
-boys were the very last to leave
+00:07:47,454 --> 00:07:49,214
+The rescue begins
 
 243
-00:07:44,386 --> 00:07:46,256
-Soon after the last divers came out,
+00:07:49,115 --> 00:07:49,385
+Journalists were moved away from the cave,
 
 244
-00:07:46,256 --> 00:07:47,416
-a main pump failed,
+00:07:51,565 --> 00:07:53,628
+and the area was cleared
 
 245
-00:07:47,416 --> 00:07:49,879
-and the water began to rise again
+00:07:53,358 --> 00:07:53,628
+Thirteen foreign divers and five Thai Navy
 
 246
-00:07:50,029 --> 00:07:51,979
-Some rescuers were still deep inside,
+00:07:56,168 --> 00:07:57,622
+divers went in
 
 247
-00:07:51,979 --> 00:07:53,804
-and had to hurry out
+00:07:57,352 --> 00:07:57,622
+Each boy was paired with a diver,
 
 248
-00:07:53,954 --> 00:07:55,104
-After eighteen days,
+00:07:59,402 --> 00:08:02,002
+who held him close and followed the guide rope
 
 249
-00:07:55,104 --> 00:07:57,125
-all thirteen were safe
+00:08:02,215 --> 00:08:02,485
+The journey out took hours
 
 250
-00:07:57,275 --> 00:07:58,825
-The Thai Navy wrote online:
+00:08:04,338 --> 00:08:06,418
+For every single boy
 
 251
-00:07:58,825 --> 00:08:00,825
-We are not sure if this is a miracle,
+00:08:06,620 --> 00:08:08,780
+Rescuers waited at points along the route to
 
 252
-00:08:00,825 --> 00:08:01,545
-a science,
+00:08:08,780 --> 00:08:10,226
+help carry them
 
 253
-00:08:01,545 --> 00:08:02,814
-or what
+00:08:09,956 --> 00:08:10,226
+That evening,
 
 254
-00:08:02,964 --> 00:08:05,364
-People around the world celebrated
+00:08:10,966 --> 00:08:12,917
+the first four boys came out
 
 255
-00:08:05,599 --> 00:08:07,789
-Football teams and players around the world
+00:08:12,917 --> 00:08:14,037
+Alive
 
 256
-00:08:07,789 --> 00:08:08,669
-sent messages,
+00:08:14,511 --> 00:08:15,311
+Waiting outside,
 
 257
-00:08:08,669 --> 00:08:11,269
-and invited the boys to big matches
+00:08:15,311 --> 00:08:17,511
+families still didn't know which boys had made
 
 258
-00:08:15,050 --> 00:08:16,760
-The boys spent about a week in hospital,
+00:08:17,511 --> 00:08:18,296
+it
 
 259
-00:08:16,760 --> 00:08:18,395
-and recovered well
+00:08:18,026 --> 00:08:18,296
+The boys were rushed to hospital by helicopter
 
 260
-00:08:18,545 --> 00:08:18,975
-At first,
+00:08:20,956 --> 00:08:22,396
+and ambulance
 
 261
-00:08:18,975 --> 00:08:21,015
-families could only see them through a glass
+00:08:22,146 --> 00:08:22,566
+And the doctors' verdict?
 
 262
-00:08:21,015 --> 00:08:21,455
-window,
+00:08:24,580 --> 00:08:26,980
+They were in good condition
 
 263
-00:08:21,455 --> 00:08:23,249
-in case of infection
+00:08:30,467 --> 00:08:31,107
+The next day,
 
 264
-00:08:23,399 --> 00:08:24,109
-On average,
+00:08:31,107 --> 00:08:32,027
+July 9th,
 
 265
-00:08:24,109 --> 00:08:26,709
-each boy had lost about two kilograms
+00:08:32,027 --> 00:08:34,416
+four more boys were carried out
 
 266
-00:08:27,416 --> 00:08:27,766
-Later,
+00:08:34,146 --> 00:08:34,416
+It went faster this time
 
 267
-00:08:27,766 --> 00:08:29,926
-most of them spent time as novice monks,
+00:08:36,219 --> 00:08:38,530
+The team was getting better at it
 
 268
-00:08:29,926 --> 00:08:32,526
-to honor the diver who gave his life
+00:08:38,260 --> 00:08:38,530
+On July 10th,
 
 269
-00:08:32,676 --> 00:08:34,466
-They lived at a temple for several days,
+00:08:39,470 --> 00:08:42,070
+the last four boys and their coach followed
 
 270
-00:08:34,466 --> 00:08:36,226
-praying and meditating
+00:08:41,956 --> 00:08:42,226
+The four Navy divers who had stayed with the
 
 271
-00:08:36,520 --> 00:08:37,109
-Four of them,
+00:08:44,366 --> 00:08:46,859
+boys were the very last to leave
 
 272
-00:08:37,109 --> 00:08:38,470
-who had no nationality,
+00:08:46,589 --> 00:08:46,859
+And then,
 
 273
-00:08:38,470 --> 00:08:40,870
-were later granted Thai citizenship
+00:08:47,439 --> 00:08:49,479
+just after the last divers came out,
 
 274
-00:08:41,094 --> 00:08:41,524
-Later,
+00:08:49,479 --> 00:08:51,342
+a main pump failed...
 
 275
-00:08:41,524 --> 00:08:41,964
-books,
+00:08:51,342 --> 00:08:53,796
+and the water began to rise again
 
 276
-00:08:41,964 --> 00:08:44,564
-documentaries and films told their story
+00:08:53,526 --> 00:08:53,796
+Some rescuers were still deep inside,
 
 277
-00:08:45,112 --> 00:08:47,668
-The divers were celebrated as heroes
+00:08:55,896 --> 00:08:57,829
+and had to rush out
 
 278
-00:08:47,818 --> 00:08:49,768
-But many of them said the real heroes were
+00:08:57,559 --> 00:08:57,829
+But after eighteen days,
 
 279
-00:08:49,768 --> 00:08:50,328
-the boys,
+00:08:59,129 --> 00:09:00,999
+all thirteen were safe
 
 280
-00:08:50,328 --> 00:08:52,601
-who stayed calm in the dark
+00:09:00,729 --> 00:09:00,999
+The Thai Navy wrote online:
 
 281
-00:08:52,751 --> 00:08:53,061
-Today,
+00:09:02,619 --> 00:09:04,539
+We are not sure if this is a miracle,
 
 282
-00:08:53,061 --> 00:08:54,341
-the boys are grown up,
+00:09:04,539 --> 00:09:05,259
+a science,
 
 283
-00:08:54,341 --> 00:08:56,941
-and some of them still play football
+00:09:05,259 --> 00:09:06,442
+or what
 
 284
-00:09:00,250 --> 00:09:02,120
-Around ten thousand people took part in the
+00:09:06,172 --> 00:09:06,442
+And the whole world celebrated
 
 285
-00:09:02,120 --> 00:09:03,240
-rescue
+00:09:08,540 --> 00:09:08,960
+Football teams and stars around the world sent
 
 286
-00:09:03,432 --> 00:09:05,062
-That included about ninety divers,
+00:09:11,540 --> 00:09:12,140
+messages,
 
 287
-00:09:05,062 --> 00:09:07,415
-from Thailand and around the world
+00:09:12,140 --> 00:09:14,740
+and invited the boys to big matches
 
 288
-00:09:07,565 --> 00:09:08,595
-Divers and doctors,
+00:09:18,767 --> 00:09:21,406
+So what happened to the boys after the cave?
 
 289
-00:09:08,595 --> 00:09:10,435
-but also cooks who fed the rescuers,
+00:09:21,406 --> 00:09:23,246
+They spent about a week in hospital,
 
 290
-00:09:10,435 --> 00:09:12,535
-and farmers who let their fields flood with
+00:09:23,246 --> 00:09:25,006
+and recovered well
 
 291
-00:09:12,535 --> 00:09:13,755
-pumped water
+00:09:24,823 --> 00:09:25,093
+At first,
 
 292
-00:09:13,935 --> 00:09:15,295
-Many of them were volunteers,
+00:09:25,673 --> 00:09:27,793
+families could only see them through a glass
 
 293
-00:09:15,295 --> 00:09:17,413
-who simply showed up to help
+00:09:27,793 --> 00:09:28,233
+window,
 
 294
-00:09:17,563 --> 00:09:19,273
-It showed what people can do when the whole
+00:09:28,233 --> 00:09:30,171
+in case of infection
 
 295
-00:09:19,273 --> 00:09:20,977
-world works together
+00:09:29,901 --> 00:09:30,171
+On average,
 
 296
-00:09:21,127 --> 00:09:21,477
-Today,
+00:09:30,991 --> 00:09:33,591
+each boy had lost about two kilograms
 
 297
-00:09:21,477 --> 00:09:23,317
-visitors come to the cave to learn about the
+00:09:33,508 --> 00:09:33,778
+Later,
 
 298
-00:09:23,317 --> 00:09:24,437
-rescue
+00:09:34,318 --> 00:09:36,438
+most of them spent time as novice monks,
 
 299
-00:09:24,623 --> 00:09:25,013
-Today,
+00:09:36,438 --> 00:09:39,038
+to honor the diver who gave his life
 
 300
-00:09:25,013 --> 00:09:28,013
-a statue of Saman Kunan stands near the cave,
+00:09:38,924 --> 00:09:39,194
+They lived at a temple for several days,
 
 301
-00:09:28,013 --> 00:09:30,613
-to remember the hero who did not come back
+00:09:41,534 --> 00:09:43,294
+praying and meditating
 
 302
-00:09:31,055 --> 00:09:32,245
-During the rainy season,
+00:09:43,299 --> 00:09:43,569
+Four of them,
 
 303
-00:09:32,245 --> 00:09:33,325
-the cave is closed,
+00:09:44,269 --> 00:09:45,669
+who had no nationality,
 
 304
-00:09:33,325 --> 00:09:35,573
-just as the old sign warned
+00:09:45,669 --> 00:09:48,069
+were later granted Thai citizenship
 
 305
-00:09:35,723 --> 00:09:37,433
-It is a reminder to respect nature,
+00:09:48,116 --> 00:09:48,386
+Books,
 
 306
-00:09:37,433 --> 00:09:39,393
-and to never give up hope
+00:09:48,966 --> 00:09:51,566
+documentaries and films told their story
 
 307
-00:09:39,543 --> 00:09:41,943
-And thirteen lives were saved
+00:09:51,677 --> 00:09:51,947
+The divers were celebrated as heroes
 
 308
-00:09:42,650 --> 00:09:43,440
-Twelve boys
+00:09:54,522 --> 00:09:54,792
+But many of them said the real heroes were
 
 309
-00:09:43,440 --> 00:09:44,120
-One coach
+00:09:57,052 --> 00:09:57,692
+the boys,
 
 310
-00:09:44,120 --> 00:09:46,135
-Eighteen days in the dark
+00:09:57,692 --> 00:10:00,029
+who stayed calm in the dark
 
 311
-00:09:46,285 --> 00:09:47,435
-Thousands of helpers,
+00:09:59,609 --> 00:10:00,009
+Today,
 
 312
-00:09:47,435 --> 00:09:49,948
-and one hero who never came home
+00:10:00,529 --> 00:10:02,117
+the boys are grown up
 
 313
-00:09:50,098 --> 00:09:50,968
-What would you have done,
+00:10:02,117 --> 00:10:04,717
+And some of them still play football
 
 314
-00:09:50,968 --> 00:09:52,515
-trapped in that cave?
+00:10:08,267 --> 00:10:10,722
+How many people did it take to save them?
 
 315
-00:09:52,665 --> 00:09:54,083
-Tell me in the comments
+00:10:10,722 --> 00:10:12,482
+Around ten thousand
 
 316
-00:09:54,233 --> 00:09:56,833
-Subscribe so you don't miss the next episode
+00:10:12,453 --> 00:10:12,723
+That included about ninety divers,
+
+317
+00:10:14,823 --> 00:10:17,307
+from Thailand and around the world
+
+318
+00:10:17,037 --> 00:10:17,307
+Divers and doctors,
+
+319
+00:10:18,687 --> 00:10:20,727
+but also cooks who fed the rescuers,
+
+320
+00:10:20,727 --> 00:10:23,047
+and farmers who let their fields flood with
+
+321
+00:10:23,047 --> 00:10:24,434
+pumped water
+
+322
+00:10:24,164 --> 00:10:24,434
+Many of them were volunteers,
+
+323
+00:10:26,134 --> 00:10:28,383
+who simply showed up to help
+
+324
+00:10:28,113 --> 00:10:28,383
+It showed what people can do when the whole
+
+325
+00:10:30,523 --> 00:10:32,235
+world works together
+
+326
+00:10:31,965 --> 00:10:32,235
+Today,
+
+327
+00:10:32,815 --> 00:10:35,175
+visitors come to the cave to learn about the
+
+328
+00:10:35,175 --> 00:10:36,295
+rescue
+
+329
+00:10:36,053 --> 00:10:36,323
+A statue of Saman Kunan stands near the cave,
+
+330
+00:10:39,103 --> 00:10:41,703
+remembering the hero who didn't come back
+
+331
+00:10:41,804 --> 00:10:42,074
+And during the rainy season,
+
+332
+00:10:43,574 --> 00:10:44,734
+the cave is closed,
+
+333
+00:10:44,734 --> 00:10:46,927
+just as the old sign warned
+
+334
+00:10:46,657 --> 00:10:46,927
+It's a reminder to respect nature,
+
+335
+00:10:48,947 --> 00:10:51,188
+and to never give up hope
+
+336
+00:10:50,918 --> 00:10:51,188
+Because in the end,
+
+337
+00:10:52,088 --> 00:10:54,168
+thirteen lives were saved
+
+338
+00:10:55,300 --> 00:10:56,563
+Twelve boys
+
+339
+00:10:56,563 --> 00:10:57,718
+One coach
+
+340
+00:10:57,718 --> 00:10:59,613
+Eighteen days in the dark
+
+341
+00:10:59,563 --> 00:10:59,613
+Thousands of helpers,
+
+342
+00:11:00,753 --> 00:11:03,090
+and one hero who never came home
+
+343
+00:11:02,990 --> 00:11:03,090
+What would you have done,
+
+344
+00:11:04,350 --> 00:11:05,992
+trapped in that cave?
+
+345
+00:11:05,942 --> 00:11:05,992
+Tell me in the comments
+
+346
+00:11:07,628 --> 00:11:07,678
+And subscribe,
+
+347
+00:11:08,578 --> 00:11:11,178
+so you don't miss the next story
